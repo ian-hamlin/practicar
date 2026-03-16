@@ -13,6 +13,12 @@ npm run preview   # Preview production build
 
 There is no test runner configured by default.
 
+## MUI
+
+Uses `@mui/material` (free MIT tier) with `@emotion/react`/`@emotion/styled` as the styling engine, plus `@mui/icons-material`.
+
+**Only use free/MIT-licensed components** — no MUI X Pro or Premium components (DataGrid Pro, DateRangePicker, etc.). Free MUI X components (`@mui/x-data-grid`, `@mui/x-date-pickers` community editions) are fine if added.
+
 ## Architecture
 
 Vite + React 18 + TypeScript project scaffolded with `create-vite@5 --template react-ts`.
