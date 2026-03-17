@@ -55,6 +55,8 @@ Pretérito perfecto and Pluscuamperfecto are not stored directly in the source d
 
 Computed forms are stored in the same `VerbEntry` structure as simple tenses — no runtime computation.
 
+**haber** is included in the bundled verb list for compound-tense computation purposes only. It is **excluded from drills** — users never see haber as a question subject.
+
 ### VerbEntry Type
 
 ```ts
@@ -94,14 +96,25 @@ Example: "hablar → Pretérito indefinido / él/ella/usted" → answer: "habló
 **Recognition** — given a conjugated form, identify the tense and person.
 Example: "vivíamos" → answer: "Pretérito imperfecto · nosotros/nosotras"
 
-Sessions alternate between both types.
+Recognition answers are always multiple choice. Each option is a **tense + person pair** (e.g. "Pretérito imperfecto · nosotros/nosotras"). The 4 options always include the correct tense+person pair plus 3 distractors — chosen by varying either the tense or the person (never both at once), drawn from the active tense set.
+
+Within a session, the engine picks the next (verb, tense, person) triple by weighted random draw, then independently assigns the question type: **70% production, 30% recognition**. There are no alternating queues — type assignment is probabilistic per question.
 
 ### Multiple Choice → Typed Recall Progression
 
 Each `(verb, tense, person)` triple tracks a `seen` count in localStorage.
 
-- `seen < 3`: production questions are multiple choice (4 options: 1 correct + 3 plausible distractors from the same tense)
+- `seen < 3`: production questions are multiple choice (4 options: 1 correct + 3 distractors)
 - `seen >= 3`: production questions become typed free-text input
+
+`seen` is incremented on every answer submission, including skips. Skips do not affect `correct` or `incorrect` counts.
+
+### Distractor Generation
+
+| Question type | Correct answer | Distractors |
+|---|---|---|
+| Production MC | conjugated form for the given verb/tense/person | 3 conjugations of the **same tense + same person** from other verbs in the active list |
+| Recognition MC | tense + person pair | 3 tense+person pairs: vary either the tense **or** the person (not both), drawn from the active tense set |
 
 Recognition questions are always multiple choice.
 
@@ -113,14 +126,14 @@ Each triple has a computed weight:
 weight = max(1, 1 + (incorrect * 2) - correct)
 ```
 
-Questions are selected by weighted random draw across all active (verb, tense, person) triples filtered by the session's selected tenses. Unseen triples receive a slightly elevated starting weight to ensure gradual introduction of new material.
+Questions are selected by weighted random draw across all active (verb, tense, person) triples filtered by the session's selected tenses. Unseen triples (no history) receive a starting weight of **3** to ensure gradual introduction alongside familiar material.
 
 ### Session Flow
 
 1. User configures tenses and session size on the Dashboard (defaults: all tenses enabled, 20 questions)
 2. Drill loop: question rendered → user answers → instant feedback shown → next question
-3. Session ends after N questions or when user stops early
-4. Post-session summary: score, streak, list of hardest verb/tense combos
+3. Session ends after N questions, or when the user clicks the **"End Session"** button visible throughout the drill
+4. Post-session: `SessionSummary` renders inline on the Practice page (score, streak, hardest verb/tense combos) with a "Back to Dashboard" button — no automatic navigation
 
 ---
 
@@ -155,7 +168,10 @@ The existing `Layout` (AppBar + sidebar drawer) gains nav links for Practice and
 ### Verbs Page
 
 - List of custom verbs with delete action
-- Form to add a new verb (infinitive entry + manual conjugation input per tense/person)
+- Form to add a new verb: infinitive entry + conjugation inputs per tense/person
+  - All 8 tenses × 5 persons = 40 fields; **all are optional** — the user may fill in only the tenses they care about
+  - At drill time, if a custom verb has no data for a currently active tense, that (verb, tense) combination is **silently excluded** from the question pool — no error shown
+  - If fewer than 4 verbs have data for a given tense+person (needed for MC distractors), the app uses however many are available (minimum 2 options shown)
 
 ---
 
@@ -186,7 +202,9 @@ src/
 **`useProgress`**
 - Reads/writes `localStorage` key `practicar:progress`
 - Shape: `Record<"verb|tense|form", { correct: number, incorrect: number, seen: number }>`
-- Exposes: `getWeight(verb, tense, form)`, `recordAnswer(verb, tense, form, correct: boolean)`
+- Exposes: `getWeight(verb, tense, form)`, `recordAnswer(verb, tense, form, result: 'correct' | 'incorrect' | 'skip')`
+  - `'correct'` / `'incorrect'`: increments `seen` + the respective counter
+  - `'skip'`: increments `seen` only
 
 **`useDrill`**
 - Takes: active tense list, session size, all verbs (bundled + custom)
