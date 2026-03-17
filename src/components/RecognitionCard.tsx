@@ -16,7 +16,7 @@ export default function RecognitionCard({ question, onAnswer }: Props) {
   function handleSelect(index: number) {
     if (selectedIndex !== null) return
     setSelectedIndex(index)
-    setTimeout(() => onAnswer(question.options[index].label), 800)
+    setTimeout(() => onAnswer(String(index)), 800)
   }
 
   return (

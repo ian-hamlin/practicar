@@ -134,7 +134,7 @@ export function useDrill(
     return result
   }, [allVerbs, activeTenses])
 
-  const [questions, _setQuestions] = useState<Question[]>(() => {
+  const [questions] = useState<Question[]>(() => {
     if (triples.length === 0) return []
     return Array.from({ length: sessionSize }, () => {
       const triple = weightedPick(triples, getWeight)
@@ -190,7 +190,7 @@ export function useDrill(
       let result: 'correct' | 'incorrect'
       if (q.type === 'recognition') {
         const rq = q as RecognitionQuestion
-        const chosen = rq.options.findIndex(o => o.label === answer)
+        const chosen = parseInt(answer, 10)
         result = chosen === rq.correctOptionIndex ? 'correct' : 'incorrect'
       } else {
         const pq = q as ProductionQuestion
