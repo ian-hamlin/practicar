@@ -6,7 +6,7 @@ import {
 } from '@mui/material'
 import DeleteIcon from '@mui/icons-material/Delete'
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore'
-import type { VerbEntry, TenseKey } from '../types'
+import type { VerbEntry, TenseKey, PersonKey, TenseForms } from '../types'
 import { ALL_TENSES, TENSE_LABELS, ALL_PERSONS, PERSON_LABELS } from '../data/tenses'
 
 const STORAGE_KEY = 'practicar:customVerbs'
@@ -26,9 +26,9 @@ export default function Verbs() {
   const [verbs, setVerbs] = useState<VerbEntry[]>(loadCustomVerbs)
   const [showForm, setShowForm] = useState(false)
   const [infinitive, setInfinitive] = useState('')
-  const [forms, setForms] = useState<Partial<Record<TenseKey, Partial<Record<string, string>>>>>({})
+  const [forms, setForms] = useState<Partial<Record<TenseKey, Partial<Record<PersonKey, string>>>>>({})
 
-  function setForm(tense: TenseKey, person: string, value: string) {
+  function setForm(tense: TenseKey, person: PersonKey, value: string) {
     setForms(prev => ({
       ...prev,
       [tense]: { ...prev[tense], [person]: value },
@@ -41,12 +41,12 @@ export default function Verbs() {
     for (const tense of ALL_TENSES) {
       const tenseData = forms[tense]
       if (!tenseData) continue
-      const filled: Record<string, string> = {}
+      const filled: Partial<TenseForms> = {}
       for (const person of ALL_PERSONS) {
         if (tenseData[person]?.trim()) filled[person] = tenseData[person]!.trim()
       }
       if (Object.keys(filled).length > 0) {
-        tenses[tense] = filled as VerbEntry['tenses'][TenseKey]
+        tenses[tense] = filled as unknown as TenseForms
       }
     }
     const entry: VerbEntry = { infinitive: infinitive.trim(), tenses, isCustom: true }
