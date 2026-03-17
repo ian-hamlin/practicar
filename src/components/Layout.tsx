@@ -61,6 +61,7 @@ export default function Layout() {
           <IconButton
             color="inherit"
             edge="start"
+            aria-label="open navigation"
             onClick={() => setMobileOpen((prev) => !prev)}
             sx={{ mr: 2, display: { sm: 'none' } }}
           >
