@@ -19,6 +19,8 @@ const DRAWER_WIDTH = 240
 
 const navItems = [
   { label: 'Dashboard', to: '/' },
+  { label: 'Practice', to: '/practice' },
+  { label: 'Verbs', to: '/verbs' },
 ]
 
 export default function Layout() {
