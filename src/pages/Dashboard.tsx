@@ -35,7 +35,7 @@ function loadLastSession(): LastSession | null {
 export default function Dashboard() {
   const navigate = useNavigate()
   const [settings, setSettings] = useState<Settings>(loadSettings)
-  const lastSession = loadLastSession()
+  const [lastSession] = useState<LastSession | null>(loadLastSession)
 
   useEffect(() => { saveSettings(settings) }, [settings])
 

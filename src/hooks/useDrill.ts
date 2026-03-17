@@ -38,7 +38,7 @@ function buildProductionOptions(
 ): string[] {
   const pool = allVerbs
     .filter(v => v.tenses[tense]?.[person] && v.tenses[tense]![person] !== correct)
-    .map(v => v.tenses[tense]![person])
+    .map(v => v.tenses[tense]![person] as string)
   const distractors = pickDistractors(pool, correct, 3)
   const options = [correct, ...distractors].sort(() => Math.random() - 0.5)
   return options
@@ -87,7 +87,7 @@ function buildQuestion(
   personLabel: (p: PersonKey) => string
 ): Question {
   const { verb, tense, person } = triple
-  const correctAnswer = verb.tenses[tense]![person]
+  const correctAnswer = verb.tenses[tense]![person] as string
   const isProduction = Math.random() < 0.7
 
   if (isProduction) {
@@ -150,6 +150,11 @@ export function useDrill(
 
   const advance = useCallback(
     (result: 'correct' | 'incorrect' | 'skip', q: Question) => {
+      // Read entry before recording so we can compute the new incorrect count locally,
+      // avoiding a re-read of localStorage inside setStats (which would break if
+      // useProgress is ever refactored to hold React state).
+      const prevEntry = getEntry(q.verb.infinitive, q.tense, q.person)
+      const newIncorrect = result === 'incorrect' ? prevEntry.incorrect + 1 : prevEntry.incorrect
       recordAnswer(q.verb.infinitive, q.tense, q.person, result)
 
       setStats(prev => {
@@ -158,14 +163,13 @@ export function useDrill(
         if (result === 'incorrect') { next.incorrect += 1; next.streak = 0 }
         if (result === 'skip') { next.skipped += 1; next.streak = 0 }
         // Track hardest: top 5 by incorrect count
-        const entry = getEntry(q.verb.infinitive, q.tense, q.person)
         const existing = next.hardest.findIndex(
           h => h.verb === q.verb.infinitive && h.tense === q.tense && h.person === q.person
         )
         if (existing >= 0) {
-          next.hardest[existing].incorrect = entry.incorrect
+          next.hardest[existing].incorrect = newIncorrect
         } else {
-          next.hardest.push({ verb: q.verb.infinitive, tense: q.tense, person: q.person, incorrect: entry.incorrect })
+          next.hardest.push({ verb: q.verb.infinitive, tense: q.tense, person: q.person, incorrect: newIncorrect })
         }
         next.hardest = next.hardest
           .filter(h => h.incorrect > 0)

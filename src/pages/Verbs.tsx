@@ -46,7 +46,7 @@ export default function Verbs() {
         if (tenseData[person]?.trim()) filled[person] = tenseData[person]!.trim()
       }
       if (Object.keys(filled).length > 0) {
-        tenses[tense] = filled as unknown as TenseForms
+        tenses[tense] = filled
       }
     }
     const entry: VerbEntry = { infinitive: infinitive.trim(), tenses, isCustom: true }
@@ -117,7 +117,7 @@ export default function Verbs() {
         <Typography color="text.secondary">No custom verbs yet.</Typography>
       ) : (
         verbs.map((verb, i) => (
-          <Box key={verb.infinitive} sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+          <Box key={i} sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
             <Box>
               <Typography fontWeight={600}>{verb.infinitive}</Typography>
               <Typography variant="caption" color="text.secondary">

@@ -12,7 +12,7 @@ export type TenseKey =
 
 export type PersonKey = 's1' | 's2' | 's3' | 'p1' | 'p3'
 
-export type TenseForms = Record<PersonKey, string>
+export type TenseForms = Partial<Record<PersonKey, string>>
 
 export interface VerbEntry {
   infinitive: string
