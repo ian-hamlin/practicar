@@ -1,0 +1,300 @@
+{
+  "id": "f07d0d7b-c99e-5a88-b177-a2beb01b9dc1",
+  "infinitive": "Atropellar",
+  "englishMeaning": "to run over, to knock down",
+  "desc": "to run over, to knock down",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "atropellando",
+  "participio": "atropellado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "atropello"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atropellas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atropella"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atropellamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atropellan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "atropellé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atropellaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atropelló"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atropellamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atropellaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "atropellaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atropellabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atropellaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atropellábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atropellaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he atropellado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has atropellado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha atropellado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos atropellado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han atropellado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había atropellado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías atropellado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había atropellado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos atropellado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían atropellado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "atropellaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atropellarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atropellará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atropellaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atropellarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "atropellaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atropellarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atropellaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atropellaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atropellarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré atropellado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás atropellado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá atropellado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos atropellado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán atropellado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "atropelle"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atropelles"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atropelle"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atropellemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atropellen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "atropellara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atropellaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atropellara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atropelláramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atropellaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera atropellado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras atropellado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera atropellado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos atropellado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran atropellado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "atropella"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "atropelle"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atropellemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "atropellen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no atropelles"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no atropelle"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no atropellemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no atropellen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb",
+    "Means to run over with a vehicle, or figuratively to trample/bully someone",
+    "Past participle: atropellado"
+  ],
+  "sourceFile": "Verbs/a/Atropellar.md"
+}

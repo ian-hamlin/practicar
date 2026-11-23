@@ -1,0 +1,298 @@
+{
+  "id": "ac98f9cd-11ff-53d4-85e8-77a8776ff95f",
+  "infinitive": "Necesitar",
+  "englishMeaning": "to need",
+  "desc": "to need",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "n",
+  "categoryId": "8779dc62-9f31-5393-b27c-acaee5781ff5",
+  "gerundio": "necesitando",
+  "participio": "necesitado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "necesito"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "necesitas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "necesita"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "necesitamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "necesitan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "necesité"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "necesitaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "necesitó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "necesitamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "necesitaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "necesitaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "necesitabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "necesitaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "necesitábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "necesitaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he necesitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has necesitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha necesitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos necesitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han necesitado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había necesitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías necesitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había necesitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos necesitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían necesitado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "necesitaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "necesitarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "necesitará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "necesitaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "necesitarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "necesitaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "necesitarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "necesitaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "necesitaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "necesitarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré necesitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás necesitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá necesitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos necesitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán necesitado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "necesite"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "necesites"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "necesite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "necesitemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "necesiten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "necesitara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "necesitaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "necesitara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "necesitáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "necesitaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera necesitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras necesitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera necesitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos necesitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran necesitado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "necesita"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "necesite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "necesitemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "necesiten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no necesites"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no necesite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no necesitemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no necesiten"
+      }
+    ]
+  },
+  "notes": [
+    "**Necesitar** is a regular **-AR verb**"
+  ],
+  "sourceFile": "Verbs/n/Necesitar.md"
+}

@@ -1,0 +1,301 @@
+{
+  "id": "6767a5fe-c042-530f-a3a4-771ed2003c35",
+  "infinitive": "Reciclar",
+  "englishMeaning": "to recycle",
+  "desc": "to recycle",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "reciclando",
+  "participio": "reciclado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "reciclo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reciclas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recicla"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reciclamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reciclan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "reciclé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reciclaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recicló"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reciclamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reciclaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "reciclaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reciclabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reciclaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reciclábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reciclaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he reciclado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has reciclado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha reciclado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos reciclado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han reciclado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había reciclado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías reciclado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había reciclado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos reciclado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían reciclado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "reciclaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reciclarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reciclará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reciclaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reciclarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "reciclaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reciclarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reciclaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reciclaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reciclarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré reciclado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás reciclado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá reciclado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos reciclado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán reciclado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "recicle"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recicles"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recicle"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reciclemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reciclen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "reciclara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reciclaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reciclara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recicláramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reciclaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera reciclado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras reciclado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera reciclado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos reciclado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran reciclado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "recicla"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "recicle"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reciclemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "reciclen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no recicles"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no recicle"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no reciclemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no reciclen"
+      }
+    ]
+  },
+  "notes": [
+    "**Reciclar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Used for recycling materials, information, or repurposing items",
+    "Common usage: *reciclar plástico* (to recycle plastic), *reciclar botellas* (to recycle bottles)"
+  ],
+  "sourceFile": "Verbs/r/Reciclar.md"
+}

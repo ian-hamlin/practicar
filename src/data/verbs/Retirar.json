@@ -1,0 +1,302 @@
+{
+  "id": "f3e58db0-014d-5b92-a51e-01bfdfa4f61e",
+  "infinitive": "Retirar",
+  "englishMeaning": "to remove, to clear away, to withdraw",
+  "desc": "to remove, to clear away, to withdraw",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "retirando",
+  "participio": "retirado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "retiro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "retiras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "retira"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "retiramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "retiran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "retiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "retiraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "retiró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "retiramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "retiraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "retiraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "retirabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "retiraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "retirábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "retiraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he retirado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has retirado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha retirado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos retirado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han retirado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había retirado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías retirado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había retirado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos retirado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían retirado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "retiraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "retirarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "retirará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "retiraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "retirarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "retiraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "retirarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "retiraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "retiraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "retirarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré retirado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás retirado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá retirado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos retirado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán retirado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "retire"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "retires"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "retire"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "retiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "retiren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "retirara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "retiraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "retirara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "retiráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "retiraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera retirado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras retirado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera retirado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos retirado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran retirado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "retira"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "retire"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "retiremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "retiren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no retires"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no retire"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no retiremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no retiren"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; follows standard endings throughout",
+    "Past participle: retirado (regular)",
+    "*Retirar los platos* = to clear the plates; *retirar dinero* = to withdraw money",
+    "*Retirarse* (reflexive) = to retire (from work), to withdraw/step back: *Se retiró a los 65 años* = He retired at 65",
+    "Related: la retirada (retreat, withdrawal), retirado (retired, remote)"
+  ],
+  "sourceFile": "Verbs/r/Retirar.md"
+}

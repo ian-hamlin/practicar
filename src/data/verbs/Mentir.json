@@ -1,0 +1,304 @@
+{
+  "id": "b5b202fa-fead-5bd3-9165-c9332752e114",
+  "infinitive": "Mentir",
+  "englishMeaning": "to lie, to tell a lie",
+  "desc": "to lie, to tell a lie",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "m",
+  "categoryId": "c342e4a9-b5da-540a-927d-ccca901fb9ff",
+  "gerundio": "mintiendo",
+  "participio": "mentido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "miento"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mientes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "miente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mentimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mienten"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "mentí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mentiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mintió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mentimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mintieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "mentía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mentías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mentía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mentíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mentían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he mentido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has mentido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha mentido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos mentido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han mentido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había mentido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías mentido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había mentido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos mentido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían mentido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "mentiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mentirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mentirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mentiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mentirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "mentiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mentirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mentiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mentiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mentirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré mentido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás mentido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá mentido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos mentido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán mentido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "mienta"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mientas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mienta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mintamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mientan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "mintiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mintieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mintiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mintiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mintieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera mentido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras mentido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera mentido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos mentido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran mentido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "miente"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "mienta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mintamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "mientan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no mientas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no mienta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no mintamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no mientan"
+      }
+    ]
+  },
+  "notes": [
+    "-IR verb with e→ie stem change in presente (all forms except nosotros/nosotras)",
+    "In pretérito indefinido, the stem change shifts to e→i in 3rd person: *mintió*, *mintieron*",
+    "Regular in imperfecto, futuro, condicional, and compound tenses",
+    "Past participle: mentido (regular)",
+    "*No me mientas* = Don't lie to me",
+    "Related: la mentira (the lie), mentiroso/a (liar/adj), desmentir (to deny, to contradict)"
+  ],
+  "sourceFile": "Verbs/m/Mentir.md"
+}

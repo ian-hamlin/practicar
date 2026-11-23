@@ -1,0 +1,196 @@
+.eyebrow {
+  font-size: var(--mantine-font-size-xs);
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--app-muted);
+
+  &:hover {
+    color: var(--mantine-primary-color-filled);
+  }
+}
+
+.title {
+  font-size: clamp(40px, 6vw, 64px);
+  line-height: 1;
+  letter-spacing: -0.01em;
+}
+
+.meaning {
+  font-family: var(--mantine-font-family-headings);
+  font-size: 20px;
+  color: var(--app-muted);
+}
+
+.mood {
+  display: flex;
+  align-items: baseline;
+  gap: var(--mantine-spacing-sm);
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--app-border);
+}
+
+.card {
+  border: 1px solid var(--app-border);
+  border-radius: var(--mantine-radius-lg);
+  background: var(--app-surface);
+  overflow: hidden;
+}
+
+.cardHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--mantine-spacing-xs);
+  min-height: 42px;
+  padding: 6px 10px 6px 16px;
+  font-size: var(--mantine-font-size-sm);
+  font-weight: 600;
+  background: light-dark(#f6f1ea, var(--mantine-color-dark-6));
+  border-bottom: 1px solid var(--app-border);
+}
+
+.cardBody {
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  column-gap: var(--mantine-spacing-md);
+  padding: 8px 16px 12px;
+}
+
+.row {
+  display: grid;
+  grid-column: 1 / -1;
+  grid-template-columns: subgrid;
+  align-items: start;
+  padding: 4px 0;
+}
+
+.subject {
+  padding-top: 6px;
+  font-size: var(--mantine-font-size-sm);
+  color: var(--app-muted);
+  white-space: nowrap;
+}
+
+.answer {
+  padding-top: 5px;
+  font-weight: 600;
+}
+
+.inputWrap {
+  position: relative;
+  --status-color: var(--app-border);
+
+  &[data-status='correct'] {
+    --status-color: var(--mantine-color-teal-6);
+  }
+
+  &[data-status='accent'] {
+    --status-color: var(--mantine-color-yellow-6);
+  }
+
+  &[data-status='wrong'] {
+    --status-color: var(--mantine-color-red-6);
+  }
+}
+
+.input {
+  width: 100%;
+  height: 32px;
+  padding: 0 28px 0 10px;
+  border: 1px solid var(--status-color);
+  border-radius: var(--mantine-radius-sm);
+  background: light-dark(#fffdfa, var(--mantine-color-dark-6));
+  color: var(--mantine-color-text);
+  font: inherit;
+  font-size: var(--mantine-font-size-sm);
+  font-weight: 600;
+  outline: none;
+  transition: border-color 120ms ease, box-shadow 120ms ease;
+
+  &:focus {
+    border-color: var(--mantine-primary-color-filled);
+    box-shadow: 0 0 0 3px light-dark(var(--mantine-color-terracotta-1), rgba(221, 108, 60, 0.25));
+  }
+
+  [data-status='correct'] > & {
+    background: light-dark(var(--mantine-color-teal-0), rgba(18, 184, 134, 0.12));
+  }
+
+  [data-status='wrong'] > & {
+    background: light-dark(var(--mantine-color-red-0), rgba(250, 82, 82, 0.12));
+  }
+}
+
+.statusIcon {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  color: var(--status-color);
+}
+
+.hint {
+  margin-top: 2px;
+  font-size: var(--mantine-font-size-xs);
+  color: var(--mantine-color-yellow-8);
+}
+
+.reveal {
+  margin-top: 2px;
+  font-size: var(--mantine-font-size-xs);
+  color: var(--app-muted);
+
+  &::before {
+    content: '→ ';
+  }
+}
+
+.scoreBar {
+  position: sticky;
+  top: calc(var(--app-shell-header-height, 64px) + 8px);
+  z-index: 10;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--mantine-spacing-md);
+  padding: var(--mantine-spacing-sm) var(--mantine-spacing-md);
+  border: 1px solid var(--app-border);
+  border-radius: var(--mantine-radius-lg);
+  background: color-mix(in srgb, var(--app-surface) 92%, transparent);
+  backdrop-filter: blur(8px);
+  box-shadow: var(--mantine-shadow-xs);
+}
+
+.score {
+  flex: 1;
+  min-width: 180px;
+  max-width: 360px;
+}
+
+.notes {
+  padding: var(--mantine-spacing-md) var(--mantine-spacing-lg);
+  border-left: 3px solid var(--mantine-primary-color-filled);
+  border-radius: 0 var(--mantine-radius-md) var(--mantine-radius-md) 0;
+  background: var(--app-surface);
+}
+
+.pager {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: var(--mantine-spacing-sm) var(--mantine-spacing-md);
+  border: 1px solid var(--app-border);
+  border-radius: var(--mantine-radius-md);
+  background: var(--app-surface);
+  transition: border-color 120ms ease;
+
+  &:hover {
+    border-color: var(--mantine-primary-color-light-color);
+  }
+
+  &[data-next] {
+    align-items: flex-end;
+    margin-left: auto;
+  }
+}

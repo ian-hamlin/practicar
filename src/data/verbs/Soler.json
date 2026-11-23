@@ -1,0 +1,304 @@
+{
+  "id": "cf60856a-0965-59e1-ba2a-ccb3fbaf61c9",
+  "infinitive": "Soler",
+  "englishMeaning": "to usually do / to tend to / to be in the habit of",
+  "desc": "to usually do / to tend to / to be in the habit of",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "soliendo",
+  "participio": "solido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "suelo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sueles"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "suele"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "solemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "suelen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "—"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "—"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "—"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "—"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "solía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "solías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "solía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "solíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "solían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "—"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "—"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "—"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "—"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "—"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "—"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "—"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "—"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "—"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "—"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "—"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "—"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "—"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "—"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "—"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "—"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "—"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "—"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "—"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "—"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "suela"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "suelas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "suela"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "solamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "suelan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "—"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "—"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "—"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "—"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "—"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "—"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "—"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "—"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "suele"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "suela"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "solamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "suelan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no suelas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no suela"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no solamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no suelan"
+      }
+    ]
+  },
+  "notes": [
+    "**Defective verb** — only regularly used in **Presente** and **Pretérito Imperfecto**; other tenses are not used in modern Spanish",
+    "o→ue stem change in all present forms except *nosotros/nosotras* (solemos)",
+    "Always followed by **infinitive**: *soler + infinitive* = to usually do something",
+    "*Suelo levantarme a las 7* — I usually get up at 7",
+    "*Solíamos ir a la playa* — We used to go to the beach (imperfecto = past habit)",
+    "Past participle: *solido* (rarely used)"
+  ],
+  "sourceFile": "Verbs/s/Soler.md"
+}

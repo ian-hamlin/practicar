@@ -1,0 +1,308 @@
+{
+  "id": "25060d7e-6ddb-5178-a45f-5611dbb0d28e",
+  "infinitive": "Proponerse",
+  "englishMeaning": "to set out to, to intend to",
+  "desc": "to set out to, to intend to",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "proponiendo",
+  "participio": "propuesto",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me propongo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te propones"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se propone"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos proponemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se proponen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me propuse"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te propusiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se propuso"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos propusimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se propusieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me proponía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te proponías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se proponía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos proponíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se proponían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he propuesto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has propuesto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha propuesto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos propuesto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han propuesto"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había propuesto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías propuesto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había propuesto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos propuesto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían propuesto"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me propondré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te propondrás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se propondrá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos propondremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se propondrán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me propondría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te propondrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se propondría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos propondríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se propondrían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré propuesto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás propuesto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá propuesto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos propuesto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán propuesto"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me proponga"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te propongas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se proponga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos propongamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se propongan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me propusiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te propusieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se propusiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos propusiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se propusieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera propuesto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras propuesto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera propuesto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos propuesto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran propuesto"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "proponte"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "propóngase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "propongámonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "propónganse"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te propongas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se proponga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos propongamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se propongan"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive compound of *poner* — follows the same irregular patterns throughout.",
+    "Irregular yo present: *me propongo* (go-verb), same pattern as *poner→pongo*.",
+    "Irregular preterite stem: *propus-* (me propuse, te propusiste, se propuso...).",
+    "Irregular future/conditional stem: *propondr-* (me propondré, me propondría).",
+    "Subjuntivo built from the yo stem: *propong-* (me proponga, te propongas...).",
+    "Irregular past participle, inherited from *poner→puesto*: **propuesto**.",
+    "Imperativo tú affirmative is irregular, following *poner→pon*: *proponte* (not \"propónte\" — stress falls naturally on the default penultimate syllable, so no accent is needed). Usted/nosotros/ustedes affirmative forms attach the reflexive pronoun to the subjuntivo form with a written accent to preserve stress (propóngase, propongámonos, propónganse); negative forms place the pronoun separately in front (no te propongas...).",
+    "*Se propuso terminar el proyecto antes de fin de mes.* (\"She set out to finish the project before the end of the month.\")",
+    "*Nos propusimos aprender español este año.* (\"We set out to learn Spanish this year.\")",
+    "Related: *proponer* (non-reflexive, \"to propose/suggest\"), *la propuesta* (proposal, noun), *plantearse* (near-synonym, \"to consider doing\")."
+  ],
+  "sourceFile": "Verbs/p/Proponerse.md"
+}

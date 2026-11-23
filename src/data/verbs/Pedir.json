@@ -1,0 +1,308 @@
+{
+  "id": "ac53fc93-a883-52ff-9f78-64ef774b842a",
+  "infinitive": "Pedir",
+  "englishMeaning": "to ask for / to request / to order",
+  "desc": "to ask for / to request / to order",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_i"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "pidiendo",
+  "participio": "pedido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pides"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pide"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pedimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "piden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "pedí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pediste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pidió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pedimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pidieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "pedía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pedías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pedía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pedíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pedían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he pedido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has pedido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha pedido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos pedido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han pedido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había pedido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías pedido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había pedido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos pedido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían pedido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "pediré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pedirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pedirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pediremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pedirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "pediría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pedirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pediría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pediríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pedirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré pedido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás pedido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá pedido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos pedido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán pedido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pida"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pidas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pida"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pidamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pidan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "pidiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pidieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pidiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pidiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pidieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera pedido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras pedido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera pedido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos pedido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran pedido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "pide"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "pida"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pidamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "pidan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no pidas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no pida"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no pidamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no pidan"
+      }
+    ]
+  },
+  "notes": [
+    "**Pedir** is a stem-changing verb: e→i",
+    "Present: stem change e→i (except nosotros)",
+    "Preterite: stem change e→i in 3rd person forms (pidió, pidieron)",
+    "Imperfect: regular -IR pattern, NO stem change",
+    "Pretérito Perfecto: regular past participle **pedido**",
+    "Future: regular future endings attached to infinitive",
+    "Condicional: regular conditional endings attached to infinitive",
+    "Same conjugation pattern as **servir**, **conseguir**, **derretir**, and **repetir**",
+    "Common usage: *pedir ayuda* (to ask for help), *pedir comida* (to order food)",
+    "Don't confuse with **preguntar** (to ask a question)"
+  ],
+  "sourceFile": "Verbs/p/Pedir.md"
+}

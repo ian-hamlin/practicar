@@ -1,0 +1,305 @@
+{
+  "id": "a3170e24-a6cd-5322-931c-e640a30b5976",
+  "infinitive": "Abducir",
+  "englishMeaning": "to abduct / to kidnap / to take away",
+  "desc": "to abduct / to kidnap / to take away",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "abduciendo",
+  "participio": "abducido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "abduzco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abduces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abduce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abducimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abducen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "abduje"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abdujiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abdujo"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abdujimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abdujeron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "abducía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abducías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abducía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abducíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abducían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he abducido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has abducido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha abducido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos abducido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han abducido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había abducido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías abducido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había abducido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos abducido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían abducido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "abduciré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abducirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abducirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abduciremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abducirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "abduciría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abducirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abduciría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abduciríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abducirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré abducido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás abducido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá abducido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos abducido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán abducido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "abduzca"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abduzcas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abduzca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abduzcamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abduzcan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "abdujera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abdujeras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abdujera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abdujéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abdujeran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera abducido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras abducido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera abducido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos abducido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran abducido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "abduce"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "abduzca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abduzcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "abduzcan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no abduzcas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no abduzca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no abduzcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no abduzcan"
+      }
+    ]
+  },
+  "notes": [
+    "Follows the -DUCIR verb pattern (same as *conducir*, *producir*, *traducir*)",
+    "Irregular yo present: *abduzco* (c→zc before a/o)",
+    "Irregular preterite stem: *abduj-* (abduje, abdujiste, abdujo, abdujimos, abdujeron)",
+    "Subjuntivo from yo stem: *abduzc-* (abduzca, abduzcas…)",
+    "Past participle: *abducido*",
+    "Most commonly used in sci-fi/UFO contexts: *Los extraterrestres abducen a los humanos* — Aliens abduct humans",
+    "Also used in medical/anatomical contexts: to abduct a limb (move it away from the body's midline)",
+    "Related: *la abducción* = abduction; *el/la abducido/a* = abductee; *secuestrar* = to kidnap (more common for human kidnapping)"
+  ],
+  "sourceFile": "Verbs/a/Abducir.md"
+}

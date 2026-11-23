@@ -1,0 +1,307 @@
+{
+  "id": "d7afaa62-d256-5544-9e67-7693d0700f50",
+  "infinitive": "Tener",
+  "englishMeaning": "to have",
+  "desc": "to have",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "t",
+  "categoryId": "a163d0db-76b7-5624-8633-200bb9177aae",
+  "gerundio": "teniendo",
+  "participio": "tenido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "tengo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tienes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tiene"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tenemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tienen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "tuve"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tuviste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tuvo"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tuvimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tuvieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "tenía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tenías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tenía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "teníamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tenían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he tenido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has tenido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha tenido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos tenido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han tenido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había tenido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías tenido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había tenido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos tenido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían tenido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "tendré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tendrás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tendrá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tendremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tendrán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "tendría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tendrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tendría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tendríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tendrían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré tenido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás tenido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá tenido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos tenido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán tenido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "tenga"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tengas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tenga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tengamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tengan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "tuviera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tuvieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tuviera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tuviéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tuvieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera tenido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras tenido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera tenido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos tenido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran tenido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "ten"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "tenga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tengamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "tengan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no tengas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no tenga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no tengamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no tengan"
+      }
+    ]
+  },
+  "notes": [
+    "**Tener** is completely irregular",
+    "Present: stem change e→ie (except nosotros) plus irregular \"yo\" form (tengo)",
+    "Preterite: completely irregular stem \"tuv-\"",
+    "Imperfect: regular -ER pattern based on infinitive stem \"ten-\"",
+    "Pretérito Perfecto: regular past participle **tenido**",
+    "Future: irregular stem \"tendr-\" (not \"tener-\")",
+    "Condicional: irregular stem \"tendr-\" + conditional endings",
+    "Used in many idiomatic expressions: *tener hambre* (to be hungry), *tener que* (to have to)",
+    "Don't confuse with **haber** (to have - auxiliary)"
+  ],
+  "sourceFile": "Verbs/t/Tener.md"
+}

@@ -1,0 +1,303 @@
+{
+  "id": "b4800443-cadd-575e-8ce5-b862cceb5b77",
+  "infinitive": "Recurrir",
+  "englishMeaning": "to resort to, to turn to, to appeal",
+  "desc": "to resort to, to turn to, to appeal",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "recurriendo",
+  "participio": "recurrido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "recurro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recurres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recurre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recurrimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recurren"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "recurrí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recurriste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recurrió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recurrimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recurrieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "recurría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recurrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recurría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recurríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recurrían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he recurrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has recurrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha recurrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos recurrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han recurrido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había recurrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías recurrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había recurrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos recurrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían recurrido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "recurriré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recurrirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recurrirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recurriremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recurrirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "recurriría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recurrirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recurriría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recurriríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recurrirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré recurrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás recurrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá recurrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos recurrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán recurrido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "recurra"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recurras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recurra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recurramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recurran"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "recurriera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recurrieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recurriera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recurriéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recurrieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera recurrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras recurrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera recurrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos recurrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran recurrido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "recurre"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "recurra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recurramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "recurran"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no recurras"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no recurra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no recurramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no recurran"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -IR verb; follows standard endings throughout",
+    "Past participle: recurrido (regular)",
+    "Takes the preposition *a*: *recurrir a alguien/algo* = to turn to someone/something, to resort to something",
+    "*Recurrir a un abogado* = to turn to a lawyer; *recurrir a la violencia* = to resort to violence",
+    "Also used in legal contexts: *recurrir una sentencia* = to appeal a sentence",
+    "Related: el recurso (resource, appeal), los recursos naturales (natural resources)"
+  ],
+  "sourceFile": "Verbs/r/Recurrir.md"
+}

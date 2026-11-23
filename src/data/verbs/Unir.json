@@ -1,0 +1,302 @@
+{
+  "id": "fa89982b-6f53-5998-b32d-f1582a5618a0",
+  "infinitive": "Unir",
+  "englishMeaning": "to unite, to join",
+  "desc": "to unite, to join",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "u",
+  "categoryId": "770b5668-3401-5a60-ab5b-964aac2ea95b",
+  "gerundio": "uniendo",
+  "participio": "unido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "uno"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "unes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "une"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "unimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "unen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "uní"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "uniste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "unió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "unimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "unieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "unía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "unías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "unía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "uníamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "unían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he unido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has unido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha unido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos unido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han unido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había unido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías unido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había unido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos unido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían unido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "uniré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "unirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "unirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "uniremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "unirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "uniría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "unirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "uniría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "uniríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "unirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré unido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás unido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá unido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos unido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán unido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "una"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "unas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "una"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "unamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "unan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "uniera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "unieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "uniera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "uniéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "unieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera unido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras unido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera unido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos unido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran unido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "une"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "una"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "unamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "unan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no unas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no una"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no unamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no unan"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -IR verb — follows standard -IR endings with no exceptions",
+    "Past participle: *unido* (regular)",
+    "Means \"to unite,\" \"to join,\" or \"to combine\" — *unir fuerzas* (to join forces), *unir los dos cables* (to join the two wires)",
+    "Reflexive form *unirse* means \"to join\" (a group/activity): *me uní al equipo* (I joined the team)",
+    "Related: *unión* (union), *unido/a* (united, close-knit — *una familia unida*)"
+  ],
+  "sourceFile": "Verbs/u/Unir.md"
+}

@@ -1,0 +1,307 @@
+{
+  "id": "dcce4b02-f28b-5979-9049-e67030bb09e2",
+  "infinitive": "Soltarse",
+  "englishMeaning": "to let go, to come loose, to free oneself",
+  "desc": "to let go, to come loose, to free oneself",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive",
+    "stem_o_ue"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "soltando",
+  "participio": "soltado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me suelto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te sueltas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se suelta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos soltamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se sueltan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me solté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te soltaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se soltó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos soltamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se soltaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me soltaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te soltabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se soltaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos soltábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se soltaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he soltado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has soltado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha soltado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos soltado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han soltado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había soltado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías soltado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había soltado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos soltado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían soltado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me soltaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te soltarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se soltará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos soltaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se soltarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me soltaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te soltarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se soltaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos soltaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se soltarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré soltado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás soltado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá soltado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos soltado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán soltado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me suelte"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te sueltes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se suelte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos soltemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se suelten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me soltara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te soltaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se soltara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos soltáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se soltaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera soltado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras soltado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera soltado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos soltado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran soltado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "suéltate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "suéltese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "soltémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "suéltense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te sueltes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se suelte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos soltemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se suelten"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -AR verb with o→ue stem change. The stem vowel o changes to ue in all present tense forms except nosotros (me suelto, te sueltas, se suelta, se sueltan). Nosotros is regular (nos soltamos).",
+    "No stem change in preterite, imperfect, future, or conditional.",
+    "Regular past participle: *soltado*",
+    "Base verb: *soltar* (to release/let go of something — transitive). *Soltarse* = to let go, to come undone, to break free.",
+    "*¡No te sueltes!* (Don't let go!)",
+    "*Se soltó el pelo.* (She let her hair down / her hair came loose.)",
+    "*El perro se soltó de la correa.* (The dog got free from the lead.)",
+    "Related: *soltar* (to release, to let go of), *suelto/a* (loose, free), *la suelta* (release)"
+  ],
+  "sourceFile": "Verbs/s/Soltarse.md"
+}

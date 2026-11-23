@@ -1,0 +1,305 @@
+{
+  "id": "e6b5a75d-37d6-5835-a18d-318c3aa59f4a",
+  "infinitive": "Llevarse",
+  "englishMeaning": "to take away/to carry off",
+  "desc": "to take away/to carry off",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "l",
+  "categoryId": "fa5b6027-a511-5f12-980d-687e3e083fde",
+  "gerundio": "llevando",
+  "participio": "llevado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me llevo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te llevas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se lleva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos llevamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se llevan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me llevé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te llevaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se llevó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos llevamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se llevaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me llevaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te llevabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se llevaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos llevábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se llevaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he llevado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has llevado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha llevado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos llevado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han llevado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había llevado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías llevado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había llevado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos llevado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían llevado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me llevaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te llevarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se llevará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos llevaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se llevarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me llevaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te llevarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se llevaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos llevaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se llevarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré llevado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás llevado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá llevado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos llevado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán llevado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me lleve"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te lleves"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se lleve"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos llevemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se lleven"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me llevara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te llevaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se llevara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos lleváramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se llevaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera llevado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras llevado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera llevado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos llevado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran llevado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "llévate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "llévese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "llevémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "llévense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te lleves"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se lleve"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos llevemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se lleven"
+      }
+    ]
+  },
+  "notes": [
+    "**Llevarse** is a reflexive verb based on **llevar** (to carry/take)",
+    "Regular -AR verb pattern with reflexive pronouns",
+    "No stem changes in any tense",
+    "Past participle: llevado (taken away/carried off)",
+    "**Multiple meanings:**",
+    "Very common in Argentina for describing theft: *Los ladrones se llevaron todo* (The robbers took everything)",
+    "Can also mean to take someone/something with you: *Me llevo el paraguas* (I'm taking the umbrella with me)"
+  ],
+  "sourceFile": "Verbs/l/Llevarse.md"
+}

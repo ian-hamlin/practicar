@@ -1,0 +1,301 @@
+{
+  "id": "768f568d-d623-5cca-b5c2-286dbb84d640",
+  "infinitive": "Impresionar",
+  "englishMeaning": "to impress",
+  "desc": "to impress",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "i",
+  "categoryId": "50ce3e0b-61b3-530c-8b6a-399ede02b6b5",
+  "gerundio": "impresionando",
+  "participio": "impresionado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "impresiono"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "impresionas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "impresiona"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "impresionamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "impresionan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "impresioné"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "impresionaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "impresionó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "impresionamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "impresionaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "impresionaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "impresionabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "impresionaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "impresionábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "impresionaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he impresionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has impresionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha impresionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos impresionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han impresionado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había impresionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías impresionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había impresionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos impresionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían impresionado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "impresionaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "impresionarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "impresionará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "impresionaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "impresionarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "impresionaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "impresionarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "impresionaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "impresionaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "impresionarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré impresionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás impresionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá impresionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos impresionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán impresionado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "impresione"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "impresiones"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "impresione"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "impresionemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "impresionen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "impresionara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "impresionaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "impresionara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "impresionáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "impresionaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera impresionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras impresionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera impresionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos impresionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran impresionado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "impresiona"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "impresione"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "impresionemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "impresionen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no impresiones"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no impresione"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no impresionemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no impresionen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard endings in every tense, no exceptions.",
+    "*Su actuación impresionó a todo el público.* (\"Her performance impressed the whole audience.\")",
+    "*Quiero impresionarte con mi nuevo plato.* (\"I want to impress you with my new dish.\")",
+    "Related: *impresionante* (impressive, adjective), *la impresión* (impression, noun), *sorprender* (near-synonym, \"to surprise\")."
+  ],
+  "sourceFile": "Verbs/i/Impresionar.md"
+}

@@ -1,0 +1,305 @@
+{
+  "id": "e2f582c7-7f9d-56ef-928e-7e84b06a1ad2",
+  "infinitive": "Votar",
+  "englishMeaning": "to vote",
+  "desc": "to vote",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "v",
+  "categoryId": "7848c6f0-8db9-54f6-91a9-a1f1ebd97c61",
+  "gerundio": "votando",
+  "participio": "votado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "voto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "votas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vota"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "votamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "votan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "voté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "votaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "votó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "votamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "votaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "votaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "votabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "votaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "votábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "votaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he votado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has votado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha votado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos votado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han votado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había votado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías votado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había votado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos votado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían votado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "votaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "votarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "votará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "votaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "votarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "votaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "votarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "votaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "votaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "votarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré votado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás votado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá votado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos votado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán votado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "vote"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "votes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vote"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "votemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "voten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "votara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "votaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "votara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "votáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "votaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera votado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras votado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera votado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos votado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran votado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "vota"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "vote"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "votemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "voten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no votes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no vote"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no votemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no voten"
+      }
+    ]
+  },
+  "notes": [
+    "**Votar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **votado** (regular)",
+    "Often used with \"por\": *votar por un candidato* (to vote for a candidate)",
+    "Common usage: *votar en las elecciones* (to vote in the elections), *ir a votar* (to go vote)",
+    "Related noun: **el voto** (vote), **la votación** (voting)",
+    "Related adjective: **votante** (voter - used as noun: el/la votante)",
+    "Don't confuse with **botar** (to throw away, to bounce)"
+  ],
+  "sourceFile": "Verbs/v/Votar.md"
+}

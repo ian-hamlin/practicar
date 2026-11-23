@@ -1,0 +1,301 @@
+{
+  "id": "1a4fce85-0188-5ce8-b45d-c157724accb8",
+  "infinitive": "Ocurrir",
+  "englishMeaning": "to occur, to happen",
+  "desc": "to occur, to happen",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "o",
+  "categoryId": "17ab56ce-480a-5e1b-b55d-16eaabe765bf",
+  "gerundio": "ocurriendo",
+  "participio": "ocurrido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ocurro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ocurres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ocurre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ocurrimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ocurren"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "ocurrí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ocurriste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ocurrió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ocurrimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ocurrieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "ocurría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ocurrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ocurría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ocurríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ocurrían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he ocurrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has ocurrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha ocurrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos ocurrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han ocurrido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había ocurrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías ocurrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había ocurrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos ocurrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían ocurrido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "ocurriré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ocurrirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ocurrirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ocurriremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ocurrirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "ocurriría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ocurrirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ocurriría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ocurriríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ocurrirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré ocurrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás ocurrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá ocurrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos ocurrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán ocurrido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ocurra"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ocurras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ocurra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ocurramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ocurran"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "ocurriera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ocurrieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ocurriera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ocurriéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ocurrieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera ocurrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras ocurrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera ocurrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos ocurrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran ocurrido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "ocurre"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "ocurra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ocurramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "ocurran"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no ocurras"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no ocurra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no ocurramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no ocurran"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -IR verb, no spelling changes or stem changes",
+    "Almost always used in the 3rd person (like **pasar**), since its subject is usually an event: *¿qué ocurre?* (what's going on?), *ocurrió un accidente* (an accident happened)",
+    "Common reflexive/pronominal use **ocurrírsele algo a alguien** (for an idea to occur to someone): *se me ocurrió una idea* (an idea occurred to me / I had an idea)",
+    "Synonym: **pasar**, **suceder**"
+  ],
+  "sourceFile": "Verbs/o/Ocurrir.md"
+}

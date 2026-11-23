@@ -1,0 +1,303 @@
+{
+  "id": "8cfb6f3d-d925-51fe-8d28-b00b355c0f26",
+  "infinitive": "Añadir",
+  "englishMeaning": "to add / to add on / to include",
+  "desc": "to add / to add on / to include",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "añadiendo",
+  "participio": "añadido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "añado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "añades"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "añade"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "añadimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "añaden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "añadí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "añadiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "añadió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "añadimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "añadieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "añadía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "añadías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "añadía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "añadíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "añadían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he añadido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has añadido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha añadido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos añadido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han añadido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había añadido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías añadido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había añadido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos añadido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían añadido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "añadiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "añadirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "añadirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "añadiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "añadirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "añadiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "añadirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "añadiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "añadiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "añadirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré añadido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás añadido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá añadido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos añadido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán añadido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "añada"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "añadas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "añada"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "añadamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "añadan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "añadiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "añadieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "añadiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "añadiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "añadieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera añadido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras añadido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera añadido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos añadido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran añadido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "añade"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "añada"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "añadamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "añadan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no añadas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no añada"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no añadamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no añadan"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -IR verb; no spelling changes or stem changes",
+    "Past participle: *añadido*",
+    "*añadir algo* = to add something (*Añade sal al gusto* — Add salt to taste)",
+    "*añadir que* = to add that… (*Añadió que no podía venir* — She added that she couldn't come)",
+    "Synonym: *agregar* (slightly more formal in some regions)",
+    "Related: *el añadido* = addition; *además* = furthermore, in addition"
+  ],
+  "sourceFile": "Verbs/a/Añadir.md"
+}

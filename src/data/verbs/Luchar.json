@@ -1,0 +1,300 @@
+{
+  "id": "f7902852-31a1-5c9f-8865-075c265a7130",
+  "infinitive": "Luchar",
+  "englishMeaning": "to fight, to struggle",
+  "desc": "to fight, to struggle",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "l",
+  "categoryId": "fa5b6027-a511-5f12-980d-687e3e083fde",
+  "gerundio": "luchando",
+  "participio": "luchado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "lucho"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "luchas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lucha"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "luchamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "luchan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "luché"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "luchaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "luchó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "luchamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lucharon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "luchaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "luchabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "luchaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "luchábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "luchaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he luchado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has luchado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha luchado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos luchado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han luchado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había luchado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías luchado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había luchado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos luchado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían luchado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "lucharé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lucharás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "luchará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lucharemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lucharán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "lucharía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lucharías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lucharía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lucharíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lucharían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré luchado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás luchado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá luchado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos luchado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán luchado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "luche"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "luches"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "luche"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "luchemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "luchen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "luchara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lucharas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "luchara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lucháramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lucharan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera luchado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras luchado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera luchado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos luchado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran luchado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "lucha"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "luche"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "luchemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "luchen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no luches"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no luche"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no luchemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no luchen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, no spelling changes or stem changes",
+    "Often used with \"por\" (luchar por algo — to fight for something) or \"contra\" (luchar contra algo — to fight against something)",
+    "Related noun: **la lucha** (the fight/struggle)"
+  ],
+  "sourceFile": "Verbs/l/Luchar.md"
+}

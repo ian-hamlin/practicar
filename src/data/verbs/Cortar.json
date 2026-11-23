@@ -1,0 +1,304 @@
+{
+  "id": "77f6c252-98d7-5b24-97bc-5ea2526bc480",
+  "infinitive": "Cortar",
+  "englishMeaning": "to cut",
+  "desc": "to cut",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "cortando",
+  "participio": "cortado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "corto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cortas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "corta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cortamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cortan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "corté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cortaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cortó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cortamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cortaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "cortaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cortabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cortaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cortábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cortaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he cortado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has cortado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha cortado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos cortado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han cortado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había cortado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías cortado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había cortado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos cortado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían cortado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "cortaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cortarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cortará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cortaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cortarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "cortaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cortarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cortaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cortaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cortarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré cortado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás cortado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá cortado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos cortado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán cortado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "corte"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cortes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "corte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cortemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "corten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "cortara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cortaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cortara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cortáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cortaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera cortado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras cortado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera cortado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos cortado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran cortado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "corta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "corte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cortemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "corten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no cortes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no corte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no cortemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no corten"
+      }
+    ]
+  },
+  "notes": [
+    "**Cortar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **cortado** (regular)",
+    "Multiple meanings: to cut, to chop, to slice, to trim",
+    "Common usage: *cortar el pan* (to cut the bread), *cortar el pelo* (to cut hair), *cortar la conversación* (to cut off the conversation)",
+    "Related noun: **el corte** (cut)",
+    "Expression: *cortar por lo sano* (to nip it in the bud - literally \"to cut through the healthy part\")"
+  ],
+  "sourceFile": "Verbs/c/Cortar.md"
+}

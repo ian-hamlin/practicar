@@ -1,0 +1,305 @@
+{
+  "id": "4e2e07d9-4824-54d5-99f3-1e8e0e3a13a1",
+  "infinitive": "Mojarse",
+  "englishMeaning": "to get wet",
+  "desc": "to get wet",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "m",
+  "categoryId": "c342e4a9-b5da-540a-927d-ccca901fb9ff",
+  "gerundio": "mojando",
+  "participio": "mojado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me mojo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te mojas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se moja"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos mojamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se mojan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me mojé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te mojaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se mojó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos mojamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se mojaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me mojaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te mojabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se mojaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos mojábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se mojaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he mojado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has mojado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha mojado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos mojado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han mojado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había mojado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías mojado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había mojado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos mojado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían mojado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me mojaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te mojarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se mojará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos mojaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se mojarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me mojaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te mojarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se mojaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos mojaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se mojarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré mojado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás mojado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá mojado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos mojado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán mojado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me moje"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te mojes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se moje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos mojemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se mojen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me mojara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te mojaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se mojara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos mojáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se mojaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera mojado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras mojado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera mojado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos mojado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran mojado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "mójate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "mójese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mojémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "mójense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te mojes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se moje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos mojemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se mojen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular reflexive -AR verb — follows standard -AR endings with no exceptions",
+    "Affirmative imperative attaches the reflexive pronoun with a written accent to preserve stress: *mójate, mójese, mojémonos, mójense*; negative imperative keeps the pronoun separate: *no te mojes*...",
+    "Past participle: *mojado* (regular; also a common adjective meaning \"wet\")",
+    "Means \"to get wet\" — *me mojé los pies en el río* (I got my feet wet in the river), *no te mojes con la lluvia* (don't get wet in the rain)",
+    "Also used figuratively (especially in Spain) to mean \"to commit oneself\" or \"to take a stand\" on a controversial issue: *el político no quiso mojarse sobre el tema* (the politician didn't want to commit to a position on the issue)",
+    "Base verb *mojar* (non-reflexive, \"to wet/dampen\" something else) is the transitive counterpart: *mojar el pan en la salsa* (to dip the bread in the sauce)",
+    "Related: *mojado/a* (wet), *mojadura* (soaking, drenching)"
+  ],
+  "sourceFile": "Verbs/m/Mojarse.md"
+}

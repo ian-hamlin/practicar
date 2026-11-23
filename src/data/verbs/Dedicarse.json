@@ -1,0 +1,303 @@
+{
+  "id": "9766b5b4-8f12-523b-94a9-c73a6c78bc4a",
+  "infinitive": "Dedicarse",
+  "englishMeaning": "to dedicate oneself to / to work as / to be devoted to",
+  "desc": "to dedicate oneself to / to work as / to be devoted to",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "dedicando",
+  "participio": "dedicado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me dedico"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te dedicas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se dedica"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos dedicamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se dedican"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me dediqué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te dedicaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se dedicó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos dedicamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se dedicaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me dedicaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te dedicabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se dedicaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos dedicábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se dedicaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he dedicado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has dedicado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha dedicado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos dedicado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han dedicado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había dedicado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías dedicado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había dedicado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos dedicado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían dedicado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me dedicaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te dedicarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se dedicará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos dedicaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se dedicarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me dedicaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te dedicarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se dedicaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos dedicaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se dedicarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré dedicado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás dedicado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá dedicado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos dedicado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán dedicado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me dedique"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te dediques"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se dedique"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos dediquemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se dediquen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me dedicara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te dedicaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se dedicara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos dedicáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se dedicaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera dedicado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras dedicado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera dedicado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos dedicado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran dedicado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "dedícate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "dedíquese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dediquémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "dedíquense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te dediques"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se dedique"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos dediquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se dediquen"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -AR verb with orthographic spelling change: c→qu before *e* (dediqué, dedique, dediquemos, dediquen)",
+    "Past participle: *dedicado*",
+    "Followed by **a**: *dedicarse a algo* — to be devoted to / to work as something",
+    "*¿A qué te dedicas?* — What do you do for a living? (very common question)",
+    "Related: *la dedicación* = dedication; *dedicado/a* = dedicated"
+  ],
+  "sourceFile": "Verbs/d/Dedicarse.md"
+}

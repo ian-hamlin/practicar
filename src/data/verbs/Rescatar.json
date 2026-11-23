@@ -1,0 +1,300 @@
+{
+  "id": "08e37eeb-4226-5887-9977-27200a8e0c98",
+  "infinitive": "Rescatar",
+  "englishMeaning": "to rescue",
+  "desc": "to rescue",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "rescatando",
+  "participio": "rescatado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "rescato"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rescatas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rescata"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rescatamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rescatan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "rescaté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rescataste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rescató"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rescatamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rescataron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "rescataba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rescatabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rescataba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rescatábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rescataban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he rescatado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has rescatado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha rescatado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos rescatado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han rescatado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había rescatado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías rescatado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había rescatado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos rescatado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían rescatado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "rescataré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rescatarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rescatará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rescataremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rescatarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "rescataría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rescatarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rescataría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rescataríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rescatarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré rescatado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás rescatado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá rescatado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos rescatado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán rescatado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "rescate"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rescates"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rescate"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rescatemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rescaten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "rescatara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rescataras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rescatara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rescatáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rescataran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera rescatado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras rescatado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera rescatado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos rescatado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran rescatado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "rescata"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "rescate"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rescatemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "rescaten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no rescates"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no rescate"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no rescatemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no rescaten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, no spelling changes or stem changes",
+    "Common usage: *rescatar a alguien* (to rescue someone), *rescatar un animal* (to rescue an animal), *un rescate* (a rescue, as a noun)",
+    "Related noun: **el rescate** (the rescue, also \"ransom\" in a kidnapping context)"
+  ],
+  "sourceFile": "Verbs/r/Rescatar.md"
+}

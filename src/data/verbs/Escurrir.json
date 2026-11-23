@@ -1,0 +1,302 @@
+{
+  "id": "31b683ad-1900-573f-8a1f-76a921f48830",
+  "infinitive": "Escurrir",
+  "englishMeaning": "to drain, to wring out",
+  "desc": "to drain, to wring out",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "escurriendo",
+  "participio": "escurrido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "escurro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escurres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escurre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escurrimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escurren"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "escurrí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escurriste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escurrió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escurrimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escurrieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "escurría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escurrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escurría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escurríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escurrían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he escurrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has escurrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha escurrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos escurrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han escurrido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había escurrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías escurrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había escurrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos escurrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían escurrido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "escurriré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escurrirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escurrirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escurriremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escurrirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "escurriría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escurrirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escurriría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escurriríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escurrirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré escurrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás escurrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá escurrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos escurrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán escurrido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "escurra"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escurras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escurra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escurramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escurran"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "escurriera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escurrieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escurriera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escurriéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escurrieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera escurrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras escurrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera escurrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos escurrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran escurrido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "escurre"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "escurra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escurramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "escurran"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no escurras"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no escurra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no escurramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no escurran"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -IR verb — follows standard -IR endings with no exceptions",
+    "Past participle: *escurrido* (regular)",
+    "Means \"to drain\" (dishes, pasta) or \"to wring out\" (wet clothes) — *escurre los platos* (drain the dishes), *escurrir la ropa mojada* (to wring out the wet clothes)",
+    "Reflexive *escurrirse* means \"to slip\" or \"to slip away/sneak off\": *se escurrió entre la multitud* (he/she slipped away through the crowd)",
+    "Related: *escurridor* (colander, dish rack), *escurridizo/a* (slippery, elusive)"
+  ],
+  "sourceFile": "Verbs/e/Escurrir.md"
+}

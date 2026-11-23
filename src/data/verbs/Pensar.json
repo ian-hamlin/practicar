@@ -1,0 +1,308 @@
+{
+  "id": "0efb636d-2ae6-5c50-9877-65f95fef6aee",
+  "infinitive": "Pensar",
+  "englishMeaning": "to think",
+  "desc": "to think",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "pensando",
+  "participio": "pensado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pienso"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "piensas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "piensa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pensamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "piensan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "pensé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pensaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pensó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pensamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pensaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "pensaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pensabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pensaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pensábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pensaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he pensado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has pensado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha pensado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos pensado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han pensado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había pensado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías pensado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había pensado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos pensado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían pensado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "pensaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pensarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pensará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pensaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pensarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "pensaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pensarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pensaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pensaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pensarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré pensado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás pensado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá pensado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos pensado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán pensado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "piense"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pienses"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "piense"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pensemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "piensen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "pensara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pensaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pensara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pensáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pensaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera pensado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras pensado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera pensado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos pensado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran pensado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "piensa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "piense"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pensemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "piensen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no pienses"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no piense"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no pensemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no piensen"
+      }
+    ]
+  },
+  "notes": [
+    "**Pensar** is a stem-changing verb: e→ie",
+    "Present: stem change e→ie (except nosotros)",
+    "Preterite: regular -AR endings, NO stem change",
+    "Imperfect: regular -AR pattern, NO stem change",
+    "Pretérito Perfecto: regular past participle **pensado**",
+    "Future: regular future endings attached to infinitive",
+    "Condicional: regular conditional endings attached to infinitive",
+    "Often used with \"en\": *pensar en algo/alguien* (to think about something/someone)",
+    "Can also mean \"to plan/intend\" when followed by infinitive: *Pienso ir* (I plan to go)",
+    "Common usage: *¿Qué piensas?* (What do you think?),"
+  ],
+  "sourceFile": "Verbs/p/Pensar.md"
+}

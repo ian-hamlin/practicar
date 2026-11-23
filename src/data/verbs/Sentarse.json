@@ -1,0 +1,306 @@
+{
+  "id": "0f4b0ed1-a118-5361-ac79-df83ac31273c",
+  "infinitive": "Sentarse",
+  "englishMeaning": "to sit down",
+  "desc": "to sit down",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive",
+    "stem_e_ie"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "sentando",
+  "participio": "sentado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me siento"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te sientas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se sienta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos sentamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se sientan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me senté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te sentaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se sentó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos sentamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se sentaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me sentaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te sentabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se sentaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos sentábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se sentaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he sentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has sentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha sentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos sentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han sentado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había sentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías sentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había sentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos sentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían sentado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me sentaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te sentarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se sentará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos sentaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se sentarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me sentaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te sentarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se sentaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos sentaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se sentarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré sentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás sentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá sentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos sentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán sentado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me siente"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te sientes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se siente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos sentemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se sienten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me sentara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te sentaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se sentara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos sentáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se sentaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera sentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras sentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera sentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos sentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran sentado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "siéntate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "siéntese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sentémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "siéntense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te sientes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se siente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos sentemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se sienten"
+      }
+    ]
+  },
+  "notes": [
+    "**Sentarse** is the reflexive form of **sentar** (to sit/seat)",
+    "Stem-changing verb: e→ie in present tense, with reflexive pronouns",
+    "Present: stem change e→ie (except nosotros)",
+    "Preterite: regular -AR endings, NO stem change",
+    "Imperfect: regular -AR pattern, NO stem change",
+    "Non-reflexive **sentar**: covered earlier",
+    "Common usage: *Me senté en la silla* (I sat down on the chair), *Siéntate aquí* (Sit down here)"
+  ],
+  "sourceFile": "Verbs/s/Sentarse.md"
+}

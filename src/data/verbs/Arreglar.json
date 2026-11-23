@@ -1,0 +1,308 @@
+{
+  "id": "4e0e28ca-aeec-59a8-a1f1-8be9f0307077",
+  "infinitive": "Arreglar",
+  "englishMeaning": "to fix / to repair / to arrange",
+  "desc": "to fix / to repair / to arrange",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "arreglando",
+  "participio": "arreglado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "arreglo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arreglas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arregla"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arreglamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arreglan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "arreglé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arreglaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arregló"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arreglamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arreglaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "arreglaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arreglabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arreglaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arreglábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arreglaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he arreglado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has arreglado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha arreglado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos arreglado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han arreglado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había arreglado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías arreglado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había arreglado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos arreglado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían arreglado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "arreglaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arreglarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arreglará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arreglaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arreglarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "arreglaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arreglarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arreglaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arreglaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arreglarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré arreglado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás arreglado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá arreglado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos arreglado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán arreglado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "arregle"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arregles"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arregle"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arreglemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arreglen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "arreglara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arreglaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arreglara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arregláramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arreglaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera arreglado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras arreglado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera arreglado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos arreglado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran arreglado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "arregla"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "arregle"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arreglemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "arreglen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no arregles"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no arregle"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no arreglemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no arreglen"
+      }
+    ]
+  },
+  "notes": [
+    "**Arreglar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **arreglado** (regular)",
+    "Multiple meanings:",
+    "To fix, to repair: *arreglar el coche* (to fix the car)",
+    "To arrange: *arreglar una cita* (to arrange an appointment)",
+    "To tidy up: *arreglar la habitación* (to tidy up the room)",
+    "Often used reflexively: **arreglarse** (to get ready, to get dressed up)",
+    "Common usage: *arreglar un problema* (to fix a problem), *arreglarse el pelo* (to fix one's hair)",
+    "Related noun: **el arreglo** (repair, arrangement)",
+    "Expression: *No tiene arreglo* (There's no solution / It can't be fixed)"
+  ],
+  "sourceFile": "Verbs/a/Arreglar.md"
+}

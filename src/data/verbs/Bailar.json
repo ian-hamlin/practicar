@@ -1,0 +1,301 @@
+{
+  "id": "dce24be1-57b5-599a-a83d-ebe8f474b901",
+  "infinitive": "Bailar",
+  "englishMeaning": "to dance",
+  "desc": "to dance",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "b",
+  "categoryId": "0c6cef76-6cf7-5b31-b026-9ab8996fbcd1",
+  "gerundio": "bailando",
+  "participio": "bailado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "bailo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bailas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "baila"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bailamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bailan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "bailé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bailaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bailó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bailamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bailaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "bailaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bailabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bailaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bailábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bailaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he bailado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has bailado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha bailado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos bailado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han bailado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había bailado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías bailado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había bailado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos bailado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían bailado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "bailaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bailarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bailará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bailaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bailarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "bailaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bailarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bailaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bailaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bailarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré bailado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás bailado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá bailado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos bailado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán bailado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "baile"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bailes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "baile"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bailemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bailen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "bailara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bailaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bailara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bailáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bailaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera bailado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras bailado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera bailado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos bailado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran bailado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "baila"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "baile"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bailemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "bailen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no bailes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no baile"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no bailemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no bailen"
+      }
+    ]
+  },
+  "notes": [
+    "**Bailar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Common usage: *bailar salsa* (to dance salsa), *bailar con alguien* (to dance with someone)",
+    "Related noun: **el baile** (the dance)"
+  ],
+  "sourceFile": "Verbs/b/Bailar.md"
+}

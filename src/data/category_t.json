@@ -1,0 +1,193 @@
+{
+  "id": "a163d0db-76b7-5624-8633-200bb9177aae",
+  "letter": "t",
+  "count": 18,
+  "verbs": [
+    {
+      "id": "7976af12-c98e-5122-84ec-deb0c69929a6",
+      "infinitive": "Tapar",
+      "desc": "to cover, to put a lid on",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Tapar.json"
+    },
+    {
+      "id": "67baf37e-ed0f-5789-9d0d-2e8c14ebe9e5",
+      "infinitive": "Tardar",
+      "desc": "to take (time) / to be long / to delay",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Tardar.json"
+    },
+    {
+      "id": "985a6430-e74f-525f-8fc0-e08e19ee9b2a",
+      "infinitive": "Telefonear",
+      "desc": "to telephone / to call",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Telefonear.json"
+    },
+    {
+      "id": "bcbcc3fe-d0a5-59e5-b3ba-bc51d9aefc17",
+      "infinitive": "Temer",
+      "desc": "to fear, to be afraid of",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Temer.json"
+    },
+    {
+      "id": "d7afaa62-d256-5544-9e67-7693d0700f50",
+      "infinitive": "Tener",
+      "desc": "to have",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Tener.json"
+    },
+    {
+      "id": "b9a96de2-67bf-5695-8c57-c26213554ba0",
+      "infinitive": "Teñirse",
+      "desc": "to dye one's hair, to get dyed",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive",
+        "stem_e_i"
+      ],
+      "file": "verbs/Teñirse.json"
+    },
+    {
+      "id": "84955115-b491-5ce2-bf5a-89047b137dac",
+      "infinitive": "Terminar",
+      "desc": "to finish / to end",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Terminar.json"
+    },
+    {
+      "id": "88e92177-fa08-5995-b577-477d659526f2",
+      "infinitive": "Tirar",
+      "desc": "to throw / to throw away / to pull",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Tirar.json"
+    },
+    {
+      "id": "92b09ddf-34c4-54bc-aee3-fd1c2a483deb",
+      "infinitive": "Tocar",
+      "desc": "to touch, to play (an instrument)",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Tocar.json"
+    },
+    {
+      "id": "d3eedb1d-ee0b-55ad-91af-5498fff2a0e0",
+      "infinitive": "Tomar",
+      "desc": "to take / to drink / to have",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Tomar.json"
+    },
+    {
+      "id": "33715733-8a55-5656-bcc0-c61700e3eb61",
+      "infinitive": "Trabajar",
+      "desc": "to work",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Trabajar.json"
+    },
+    {
+      "id": "cde912ad-0073-54ec-9397-d15be7d8b3bb",
+      "infinitive": "Traducir",
+      "desc": "to translate",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Traducir.json"
+    },
+    {
+      "id": "2739f101-7105-50bc-a864-ed7c2a4d1e63",
+      "infinitive": "Traer",
+      "desc": "to bring",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Traer.json"
+    },
+    {
+      "id": "fa7651d6-190e-5031-aba3-3514a8644780",
+      "infinitive": "Tranquilizarse",
+      "desc": "to calm down, to relax",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive"
+      ],
+      "file": "verbs/Tranquilizarse.json"
+    },
+    {
+      "id": "17617771-2ea6-5c1f-874e-13b1c77b9b70",
+      "infinitive": "Transformar",
+      "desc": "to transform",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Transformar.json"
+    },
+    {
+      "id": "448772d4-5e40-528e-b71e-e20d31f235c6",
+      "infinitive": "Tratarse",
+      "desc": "to be about, to involve, to deal with",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Tratarse.json"
+    },
+    {
+      "id": "0ecc3ec2-970c-5cb4-bab2-8d2dff009a3a",
+      "infinitive": "Tumbarse",
+      "desc": "to lie down",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Tumbarse.json"
+    },
+    {
+      "id": "a48b316a-035d-5c56-9aa4-dc4f0ed721f4",
+      "infinitive": "Tutear",
+      "desc": "to address someone as \"tú\" / to use the informal \"you\" with someone",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Tutear.json"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "id": "bcbcc3fe-d0a5-59e5-b3ba-bc51d9aefc17",
+  "infinitive": "Temer",
+  "englishMeaning": "to fear, to be afraid of",
+  "desc": "to fear, to be afraid of",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "t",
+  "categoryId": "a163d0db-76b7-5624-8633-200bb9177aae",
+  "gerundio": "temiendo",
+  "participio": "temido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "temo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "temes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "teme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tememos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "temen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "temí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "temiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "temió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "temimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "temieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "temía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "temías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "temía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "temíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "temían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he temido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has temido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha temido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos temido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han temido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había temido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías temido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había temido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos temido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían temido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "temeré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "temerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "temerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "temeremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "temerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "temería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "temerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "temería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "temeríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "temerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré temido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás temido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá temido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos temido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán temido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "tema"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "temas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tema"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "temamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "teman"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "temiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "temieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "temiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "temiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "temieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera temido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras temido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera temido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos temido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran temido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "teme"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "tema"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "temamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "teman"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no temas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no tema"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no temamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no teman"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -ER verb — follows standard -ER endings with no exceptions",
+    "Past participle: *temido* (regular)",
+    "Means \"to fear\" or \"to be afraid of\" — *temo a las arañas* (I'm afraid of spiders), *temo que llegue tarde* (I'm afraid he'll arrive late)",
+    "Often followed by *que* + subjunctive when expressing fear about a situation: *temo que no venga*",
+    "Related: *temor* (fear, noun), *temible* (fearsome), *temeroso/a* (fearful)"
+  ],
+  "sourceFile": "Verbs/t/Temer.md"
+}

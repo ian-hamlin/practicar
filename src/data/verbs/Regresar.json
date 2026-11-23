@@ -1,0 +1,302 @@
+{
+  "id": "21d5011c-8db5-5558-a7b5-6b0300295310",
+  "infinitive": "Regresar",
+  "englishMeaning": "to return, to go back, to come back",
+  "desc": "to return, to go back, to come back",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "regresando",
+  "participio": "regresado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "regreso"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regresas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regresa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regresamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regresan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "regresé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regresaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regresó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regresamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regresaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "regresaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regresabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regresaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regresábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regresaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he regresado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has regresado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha regresado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos regresado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han regresado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había regresado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías regresado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había regresado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos regresado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían regresado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "regresaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regresarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regresará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regresaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regresarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "regresaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regresarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regresaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regresaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regresarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré regresado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás regresado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá regresado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos regresado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán regresado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "regrese"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regreses"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regrese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regresemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regresen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "regresara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regresaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regresara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regresáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regresaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera regresado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras regresado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera regresado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos regresado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran regresado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "regresa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "regrese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regresemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "regresen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no regreses"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no regrese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no regresemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no regresen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *regresado* (regular)",
+    "Means \"to return\" or \"to come/go back\" — *regresó a casa tarde* (he/she came home late), *regresaremos el lunes* (we'll be back on Monday)",
+    "Very common in Latin American Spanish as the everyday equivalent of *volver*; both are used, but *regresar* is often preferred outside Spain",
+    "Related: *regreso* (return, noun — *de regreso a casa* = on the way back home)"
+  ],
+  "sourceFile": "Verbs/r/Regresar.md"
+}

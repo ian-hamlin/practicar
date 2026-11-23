@@ -1,0 +1,304 @@
+{
+  "id": "0b2b6d45-a89f-57f9-b20a-b14bd977c131",
+  "infinitive": "Servir",
+  "englishMeaning": "to serve",
+  "desc": "to serve",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_i"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "sirviendo",
+  "participio": "servido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sirvo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sirves"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sirve"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "servimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sirven"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "serví"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "serviste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sirvió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "servimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sirvieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "servía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "servías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "servía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "servíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "servían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he servido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has servido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha servido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos servido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han servido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había servido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías servido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había servido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos servido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían servido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "serviré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "servirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "servirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "serviremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "servirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "serviría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "servirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "serviría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "serviríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "servirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré servido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás servido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá servido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos servido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán servido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sirva"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sirvas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sirva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sirvamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sirvan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "sirviera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sirvieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sirviera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sirviéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sirvieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera servido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras servido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera servido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos servido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran servido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "sirve"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "sirva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sirvamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "sirvan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no sirvas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no sirva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no sirvamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no sirvan"
+      }
+    ]
+  },
+  "notes": [
+    "**Servir** is a stem-changing verb: e→i",
+    "Present: stem change e→i (except nosotros)",
+    "Preterite: stem change e→i in 3rd person forms (sirvió, sirvieron)",
+    "Imperfect: regular -IR pattern, NO stem change",
+    "Same conjugation pattern as **pedir**, **conseguir**, and **derretir**",
+    "Common usage: *servir la comida* (to serve the food), *servir para* (to be useful for)"
+  ],
+  "sourceFile": "Verbs/s/Servir.md"
+}

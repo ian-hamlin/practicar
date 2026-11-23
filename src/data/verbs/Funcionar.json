@@ -1,0 +1,306 @@
+{
+  "id": "1e127a05-8319-5bde-980b-25cc3ec21fe5",
+  "infinitive": "Funcionar",
+  "englishMeaning": "to work / to function / to operate",
+  "desc": "to work / to function / to operate",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "f",
+  "categoryId": "6a4f18c0-f5d2-5016-9134-e92fb8c852a7",
+  "gerundio": "funcionando",
+  "participio": "funcionado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "funciono"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "funcionas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "funciona"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "funcionamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "funcionan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "funcioné"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "funcionaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "funcionó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "funcionamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "funcionaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "funcionaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "funcionabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "funcionaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "funcionábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "funcionaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he funcionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has funcionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha funcionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos funcionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han funcionado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había funcionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías funcionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había funcionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos funcionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían funcionado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "funcionaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "funcionarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "funcionará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "funcionaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "funcionarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "funcionaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "funcionarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "funcionaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "funcionaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "funcionarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré funcionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás funcionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá funcionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos funcionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán funcionado"
+      },
+      {
+        "subject": "",
+        "conjugation": ""
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "funcione"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "funciones"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "funcione"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "funcionemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "funcionen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "funcionara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "funcionaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "funcionara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "funcionáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "funcionaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera funcionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras funcionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera funcionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos funcionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran funcionado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "funciona"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "funcione"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "funcionemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "funcionen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no funciones"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no funcione"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no funcionemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no funcionen"
+      }
+    ]
+  },
+  "notes": [
+    "**Funcionar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Used for machines, systems, or things that work/operate (not for people working at jobs - use **trabajar**)",
+    "Common usage: *El teléfono no funciona* (The phone doesn't work), *¿Funciona el wifi?* (Does the wifi work?)",
+    "Often used in 3rd person for devices/systems"
+  ],
+  "sourceFile": "Verbs/f/Funcionar.md"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "a53b9fd0-d595-53e7-9a05-9f38960eb375",
+  "infinitive": "Valer",
+  "englishMeaning": "to be worth / to cost / to be valid",
+  "desc": "to be worth / to cost / to be valid",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "v",
+  "categoryId": "7848c6f0-8db9-54f6-91a9-a1f1ebd97c61",
+  "gerundio": "valiendo",
+  "participio": "valido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "valgo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vales"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vale"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "valemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "valen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "valí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "valiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "valió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "valimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "valieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "valía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "valías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "valía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "valíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "valían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he valido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has valido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha valido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos valido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han valido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había valido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías valido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había valido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos valido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían valido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "valdré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "valdrás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "valdrá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "valdremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "valdrán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "valdría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "valdrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "valdría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "valdríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "valdrían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré valido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás valido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá valido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos valido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán valido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "valga"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "valgas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "valga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "valgamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "valgan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "valiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "valieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "valiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "valiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "valieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera valido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras valido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera valido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos valido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran valido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "vale"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "valga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "valgamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "valgan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no valgas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no valga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no valgamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no valgan"
+      }
+    ]
+  },
+  "notes": [
+    "**Valer** is irregular",
+    "Present: irregular \"yo\" form (valgo)",
+    "Preterite: regular -ER endings",
+    "Imperfect: regular -ER pattern",
+    "Pretérito Perfecto: regular past participle **valido**",
+    "Future: irregular stem \"valdr-\" (not \"valer-\")",
+    "Condicional: irregular stem \"valdr-\" + conditional endings",
+    "Multiple meanings:",
+    "To be worth: *¿Cuánto vale?* (How much is it worth?)",
+    "To cost: *Vale diez dólares* (It costs ten dollars)",
+    "To be valid: *Este boleto vale hasta mañana* (This ticket is valid until tomorrow)",
+    "Common expressions: *Vale* (OK! / Alright! - Spain), *No vale la pena* (It's not worth it), *Más vale tarde que nunca* (Better late than never)",
+    "Related adjective: **válido/a** (valid)"
+  ],
+  "sourceFile": "Verbs/v/Valer.md"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "6a4f18c0-f5d2-5016-9134-e92fb8c852a7",
+  "letter": "f",
+  "count": 9,
+  "verbs": [
+    {
+      "id": "e4cfe445-0304-5a2d-9087-1a4a93431e55",
+      "infinitive": "Fabricarse",
+      "desc": "to make for oneself, to be manufactured",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive"
+      ],
+      "file": "verbs/Fabricarse.json"
+    },
+    {
+      "id": "5c65aa7c-2573-51d5-bae1-4f5320ed80a2",
+      "infinitive": "Falsificar",
+      "desc": "to forge/to falsify",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Falsificar.json"
+    },
+    {
+      "id": "0e0a8d73-3f4e-5b9f-b511-83ba083dcefd",
+      "infinitive": "Faltar",
+      "desc": "to be absent, to be missing, to lack",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Faltar.json"
+    },
+    {
+      "id": "7b638633-1850-5e7d-9c89-e5f3f249faa4",
+      "infinitive": "Fijar",
+      "desc": "to fix, to set, to fasten",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Fijar.json"
+    },
+    {
+      "id": "e81cd76b-db0d-5692-b76e-1640f0b15256",
+      "infinitive": "Firmar",
+      "desc": "to sign",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Firmar.json"
+    },
+    {
+      "id": "7e0559f2-eec3-54b2-b96a-9d98f384fcd3",
+      "infinitive": "Flotar",
+      "desc": "to float",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Flotar.json"
+    },
+    {
+      "id": "bc7273a5-48f7-597d-baf0-75b72f57726f",
+      "infinitive": "Fortalecerse",
+      "desc": "to strengthen oneself, to get stronger",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive"
+      ],
+      "file": "verbs/Fortalecerse.json"
+    },
+    {
+      "id": "3ca30729-e300-53bb-814b-07c085fe83d1",
+      "infinitive": "Fumar",
+      "desc": "to smoke",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Fumar.json"
+    },
+    {
+      "id": "1e127a05-8319-5bde-980b-25cc3ec21fe5",
+      "infinitive": "Funcionar",
+      "desc": "to work / to function / to operate",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Funcionar.json"
+    }
+  ]
+}

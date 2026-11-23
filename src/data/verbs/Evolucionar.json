@@ -1,0 +1,302 @@
+{
+  "id": "bd8c02a1-9924-5b18-b1fe-26a83bd855c1",
+  "infinitive": "Evolucionar",
+  "englishMeaning": "to evolve, to develop",
+  "desc": "to evolve, to develop",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "evolucionando",
+  "participio": "evolucionado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "evoluciono"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "evolucionas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "evoluciona"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "evolucionamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "evolucionan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "evolucioné"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "evolucionaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "evolucionó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "evolucionamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "evolucionaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "evolucionaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "evolucionabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "evolucionaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "evolucionábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "evolucionaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he evolucionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has evolucionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha evolucionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos evolucionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han evolucionado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había evolucionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías evolucionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había evolucionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos evolucionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían evolucionado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "evolucionaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "evolucionarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "evolucionará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "evolucionaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "evolucionarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "evolucionaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "evolucionarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "evolucionaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "evolucionaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "evolucionarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré evolucionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás evolucionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá evolucionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos evolucionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán evolucionado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "evolucione"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "evoluciones"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "evolucione"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "evolucionemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "evolucionen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "evolucionara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "evolucionaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "evolucionara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "evolucionáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "evolucionaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera evolucionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras evolucionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera evolucionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos evolucionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran evolucionado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "evoluciona"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "evolucione"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "evolucionemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "evolucionen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no evoluciones"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no evolucione"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no evolucionemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no evolucionen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *evolucionado* (regular)",
+    "Means \"to evolve\" or \"to develop/progress\" — *la especie evolucionó con el tiempo* (the species evolved over time), *el paciente evoluciona bien* (the patient is progressing well)",
+    "Common in both biological/scientific contexts and everyday use (progress, improvement)",
+    "Related: *evolución* (evolution), *evolutivo/a* (evolutionary)"
+  ],
+  "sourceFile": "Verbs/e/Evolucionar.md"
+}

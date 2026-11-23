@@ -1,0 +1,303 @@
+{
+  "id": "0ecc3ec2-970c-5cb4-bab2-8d2dff009a3a",
+  "infinitive": "Tumbarse",
+  "englishMeaning": "to lie down",
+  "desc": "to lie down",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "t",
+  "categoryId": "a163d0db-76b7-5624-8633-200bb9177aae",
+  "gerundio": "tumbando",
+  "participio": "tumbado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me tumbo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tumbas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se tumba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tumbamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tumban"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me tumbé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tumbaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se tumbó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tumbamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tumbaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me tumbaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tumbabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se tumbaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tumbábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tumbaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he tumbado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has tumbado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha tumbado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos tumbado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han tumbado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había tumbado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías tumbado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había tumbado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos tumbado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían tumbado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me tumbaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tumbarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se tumbará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tumbaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tumbarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me tumbaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tumbarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se tumbaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tumbaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tumbarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré tumbado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás tumbado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá tumbado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos tumbado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán tumbado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me tumbe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tumbes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se tumbe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tumbemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tumben"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me tumbara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tumbaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se tumbara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tumbáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tumbaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera tumbado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras tumbado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera tumbado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos tumbado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran tumbado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "túmbate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "túmbese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tumbémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "túmbense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te tumbes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se tumbe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos tumbemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se tumben"
+      }
+    ]
+  },
+  "notes": [
+    "Regular reflexive -AR verb, no exceptions",
+    "Past participle: *tumbado* (regular)",
+    "The non-reflexive *tumbar* means to knock down or topple; *tumbarse* specifically means to lie down or stretch out",
+    "Common usage: *tumbarse en el sofá* (to lie down on the sofa), *tumbarse al sol* (to lie in the sun), *tumbarse a dormir* (to lie down to sleep)",
+    "Related: *estar tumbado/a* (to be lying down — state), *tumbar* (to knock over/topple)"
+  ],
+  "sourceFile": "Verbs/t/Tumbarse.md"
+}

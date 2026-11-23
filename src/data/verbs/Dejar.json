@@ -1,0 +1,307 @@
+{
+  "id": "4ed738fc-0a59-5fe4-8e7e-eb42766c8f9a",
+  "infinitive": "Dejar",
+  "englishMeaning": "to leave / to let / to quit / to stop",
+  "desc": "to leave / to let / to quit / to stop",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "dejando",
+  "participio": "dejado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "dejo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dejas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "deja"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dejamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dejan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "dejé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dejaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dejó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dejamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dejaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "dejaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dejabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dejaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dejábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dejaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he dejado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has dejado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha dejado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos dejado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han dejado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había dejado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías dejado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había dejado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos dejado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían dejado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "dejaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dejarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dejará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dejaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dejarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "dejaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dejarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dejaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dejaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dejarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré dejado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás dejado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá dejado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos dejado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán dejado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "deje"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dejes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "deje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dejemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dejen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "dejara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dejaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dejara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dejáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dejaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera dejado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras dejado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera dejado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos dejado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran dejado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "deja"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "deje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dejemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "dejen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no dejes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no deje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no dejemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no dejen"
+      }
+    ]
+  },
+  "notes": [
+    "**Dejar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Multiple meanings depending on context:",
+    "**Dejar** = to leave (something/someone)",
+    "**Dejar de + infinitive** = to stop doing something, to quit",
+    "Common usage:",
+    "*Dejé el libro en la mesa* (I left the book on the table)",
+    "*Dejé de fumar* (I quit smoking / I stopped smoking)",
+    "*Dejar en paz* (to leave alone)",
+    "**Dejar de** is always followed by an infinitive when it means \"to stop\""
+  ],
+  "sourceFile": "Verbs/d/Dejar.md"
+}

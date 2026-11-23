@@ -1,0 +1,303 @@
+{
+  "id": "1f879a26-2943-5ef2-9f84-74cbe91bf4d7",
+  "infinitive": "Ordenar",
+  "englishMeaning": "to tidy, to order, to arrange",
+  "desc": "to tidy, to order, to arrange",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "o",
+  "categoryId": "17ab56ce-480a-5e1b-b55d-16eaabe765bf",
+  "gerundio": "ordenando",
+  "participio": "ordenado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ordeno"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ordenas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ordena"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ordenamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ordenan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "ordené"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ordenaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ordenó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ordenamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ordenaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "ordenaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ordenabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ordenaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ordenábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ordenaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he ordenado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has ordenado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha ordenado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos ordenado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han ordenado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había ordenado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías ordenado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había ordenado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos ordenado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían ordenado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "ordenaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ordenarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ordenará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ordenaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ordenarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "ordenaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ordenarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ordenaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ordenaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ordenarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré ordenado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás ordenado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá ordenado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos ordenado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán ordenado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ordene"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ordenes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ordene"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ordenemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ordenen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "ordenara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ordenaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ordenara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ordenáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ordenaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera ordenado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras ordenado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera ordenado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos ordenado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran ordenado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "ordena"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "ordene"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ordenemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "ordenen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no ordenes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no ordene"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no ordenemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no ordenen"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; follows standard endings throughout",
+    "Past participle: ordenado (regular)",
+    "*Ordenar la habitación* = to tidy the room",
+    "*Ordenar algo* = to order/arrange something: *Ordenó los libros por color* = He arranged the books by colour",
+    "*Ordenar a alguien que* + subjuntivo = to order someone to: *Le ordenó que se sentara* = He ordered him to sit down",
+    "Related: el orden (order), ordenado/a (tidy, orderly), el ordenador (computer — Spain)"
+  ],
+  "sourceFile": "Verbs/o/Ordenar.md"
+}

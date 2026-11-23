@@ -1,0 +1,308 @@
+{
+  "id": "16f203d6-d988-560e-a31c-4673d79b9ca4",
+  "infinitive": "Saber",
+  "englishMeaning": "to know / to know how to",
+  "desc": "to know / to know how to",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "sabiendo",
+  "participio": "sabido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sabes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sabe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sabemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "saben"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "supe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "supiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "supo"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "supimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "supieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "sabía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sabías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sabía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sabíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sabían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he sabido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has sabido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha sabido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos sabido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han sabido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había sabido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías sabido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había sabido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos sabido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían sabido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "sabré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sabrás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sabrá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sabremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sabrán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "sabría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sabrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sabría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sabríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sabrían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré sabido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás sabido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá sabido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos sabido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán sabido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sepa"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sepas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sepa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sepamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sepan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "supiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "supieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "supiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "supiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "supieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera sabido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras sabido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera sabido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos sabido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran sabido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "sabe"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "sepa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sepamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "sepan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no sepas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no sepa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no sepamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no sepan"
+      }
+    ]
+  },
+  "notes": [
+    "**Saber** is completely irregular",
+    "Present: irregular \"yo\" form with accent (sé), otherwise regular -ER endings",
+    "Preterite: completely irregular stem \"sup-\"",
+    "Imperfect: regular -ER pattern based on infinitive stem \"sab-\"",
+    "Pretérito Perfecto: regular past participle **sabido**",
+    "Future: irregular stem \"sabr-\" (not \"saber-\")",
+    "Condicional: irregular stem \"sabr-\" + conditional endings",
+    "Used for facts/information (*sé la respuesta*) and skills (*sé nadar* - I know how to swim)",
+    "Don't confuse with **conocer** (to know people/places)",
+    "Common usage: *No lo sé* (I don't know), *Supe la verdad* (I found out the truth)",
+    "In preterite, often means \"to find out\": *Supe ayer* (I found out yesterday)"
+  ],
+  "sourceFile": "Verbs/s/Saber.md"
+}

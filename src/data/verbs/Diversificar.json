@@ -1,0 +1,305 @@
+{
+  "id": "127c6a11-cba9-5ce9-9730-16eb9d853f97",
+  "infinitive": "Diversificar",
+  "englishMeaning": "to diversify",
+  "desc": "to diversify",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "diversificando",
+  "participio": "diversificado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "diversifico"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "diversificas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "diversifica"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "diversificamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "diversifican"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "diversifiqué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "diversificaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "diversificó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "diversificamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "diversificaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "diversificaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "diversificabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "diversificaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "diversificábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "diversificaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he diversificado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has diversificado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha diversificado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos diversificado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han diversificado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había diversificado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías diversificado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había diversificado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos diversificado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían diversificado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "diversificaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "diversificarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "diversificará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "diversificaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "diversificarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "diversificaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "diversificarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "diversificaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "diversificaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "diversificarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré diversificado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás diversificado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá diversificado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos diversificado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán diversificado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "diversifique"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "diversifiques"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "diversifique"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "diversifiquemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "diversifiquen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "diversificara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "diversificaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "diversificara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "diversificáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "diversificaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera diversificado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras diversificado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera diversificado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos diversificado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran diversificado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "diversifica"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "diversifique"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "diversifiquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "diversifiquen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no diversifiques"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no diversifique"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no diversifiquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no diversifiquen"
+      }
+    ]
+  },
+  "notes": [
+    "**Diversificar** is a regular **-AR verb** with a spelling change",
+    "Spelling change: c→qu before é (diversifiqué, not \"diversificé\") - same pattern as explicar, sacar",
+    "This spelling change only affects the \"yo\" form in preterite",
+    "Past participle: **diversificado** (regular)",
+    "Common in business/finance contexts",
+    "Common usage: *diversificar inversiones* (to diversify investments), *diversificar la cartera* (to diversify the portfolio)",
+    "Related noun: **la diversificación** (diversification)",
+    "Related adjective: **diversificado/a** (diversified)"
+  ],
+  "sourceFile": "Verbs/d/Diversificar.md"
+}

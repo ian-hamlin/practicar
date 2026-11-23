@@ -1,0 +1,302 @@
+{
+  "id": "2aae9578-d08a-50c2-8cfa-d60c644be55b",
+  "infinitive": "Enseñar",
+  "englishMeaning": "to teach / to show",
+  "desc": "to teach / to show",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "enseñendo",
+  "participio": "enseñado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "enseño"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enseñas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enseña"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enseñamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enseñan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "enseñé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enseñaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enseñó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enseñamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enseñaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "enseñaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enseñabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enseñaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enseñábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enseñaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he enseñado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has enseñado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha enseñado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos enseñado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han enseñado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había enseñado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías enseñado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había enseñado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos enseñado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían enseñado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "enseñaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enseñarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enseñará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enseñaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enseñarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "enseñaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enseñarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enseñaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enseñaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enseñarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré enseñado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás enseñado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá enseñado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos enseñado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán enseñado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "enseñe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enseñes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enseñe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enseñemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enseñen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "enseñara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enseñaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enseñara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enseñáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enseñaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera enseñado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras enseñado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera enseñado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos enseñado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran enseñado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "enseña"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "enseñe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enseñemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "enseñen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no enseñes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no enseñe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no enseñemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no enseñen"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; no spelling changes or stem changes",
+    "Past participle: *enseñado*",
+    "Two main meanings: (1) *enseñar algo a alguien* = to teach someone something; (2) *enseñar algo* = to show something",
+    "*enseñar a + infinitive* = to teach how to do something (*Me enseñó a conducir* — He taught me to drive)",
+    "Related: *el/la enseñante* / *el/la profesor/a* = teacher; *la enseñanza* = teaching, education"
+  ],
+  "sourceFile": "Verbs/e/Enseñar.md"
+}

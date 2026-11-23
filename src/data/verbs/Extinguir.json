@@ -1,0 +1,302 @@
+{
+  "id": "342b35a1-0a77-5ba9-9d77-113030f26d0e",
+  "infinitive": "Extinguir",
+  "englishMeaning": "to extinguish",
+  "desc": "to extinguish",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "extinguiendo",
+  "participio": "extinguido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "extingo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "extingues"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "extingue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "extinguimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "extinguen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "extinguí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "extinguiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "extinguió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "extinguimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "extinguieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "extinguía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "extinguías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "extinguía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "extinguíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "extinguían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he extinguido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has extinguido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha extinguido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos extinguido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han extinguido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había extinguido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías extinguido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había extinguido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos extinguido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían extinguido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "extinguiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "extinguirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "extinguirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "extinguiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "extinguirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "extinguiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "extinguirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "extinguiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "extinguiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "extinguirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré extinguido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás extinguido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá extinguido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos extinguido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán extinguido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "extinga"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "extingas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "extinga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "extingamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "extingan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "extinguiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "extinguieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "extinguiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "extinguiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "extinguieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera extinguido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras extinguido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera extinguido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos extinguido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran extinguido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "extingue"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "extinga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "extingamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "extingan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no extingas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no extinga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no extingamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no extingan"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -IR verb with a spelling change: **gu → g before a/o**, to preserve the hard \"g\" sound",
+    "Only affects the yo form of the presente (extingo, not \"extinguo\") and the entire subjuntivo presente (extinga, extingas...) — before e/i the u stays and is silent (extingues, extinguimos), so no change is needed there",
+    "Regular past participle: **extinguido**",
+    "Related reflexive verb: **extinguirse** (to go out / to die out, e.g. of a fire or a species)",
+    "Common usage: *extinguir un incendio* (to put out a fire), *una especie en peligro de extinción* (an endangered species — note the related noun **extinción**)"
+  ],
+  "sourceFile": "Verbs/e/Extinguir.md"
+}

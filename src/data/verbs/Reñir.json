@@ -1,0 +1,305 @@
+{
+  "id": "7edbc080-4be5-5198-bbda-2f7ff430e491",
+  "infinitive": "Reñir",
+  "englishMeaning": "to scold, to tell off, to quarrel",
+  "desc": "to scold, to tell off, to quarrel",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_i"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "riñendo",
+  "participio": "reñido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "riño"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "riñes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "riñe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reñimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "riñen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "reñí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reñiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "riñó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reñimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "riñeron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "reñía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reñías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reñía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reñíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reñían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he reñido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has reñido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha reñido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos reñido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han reñido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había reñido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías reñido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había reñido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos reñido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían reñido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "reñiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reñirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reñirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reñiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reñirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "reñiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reñirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reñiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reñiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reñirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré reñido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás reñido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá reñido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos reñido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán reñido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "riña"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "riñas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "riña"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "riñamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "riñan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "riñera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "riñeras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "riñera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "riñéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "riñeran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera reñido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras reñido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera reñido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos reñido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran reñido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "riñe"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "riña"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "riñamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "riñan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no riñas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no riña"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no riñamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no riñan"
+      }
+    ]
+  },
+  "notes": [
+    "Irregular -IR verb with e→i stem change throughout the present (except nosotros) and in 3rd person preterite",
+    "The i is dropped after ñ in 3rd person preterite: *riñó* (not ~~riñió~~), *riñeron* (not ~~riñieron~~)",
+    "-IR e→i verbs keep the stem change in subjuntivo nosotros: *riñamos*",
+    "Past participle: reñido (regular)",
+    "*Reñir a alguien* = to scold/tell off someone: *El profesor nos riñe cuando llegamos tarde* = The teacher tells us off when we arrive late",
+    "*Reñir con alguien* = to quarrel/fall out with someone: *Riñó con su hermano* = He fell out with his brother",
+    "Related: la riña (quarrel, fight), reñido/a (hard-fought, closely contested)"
+  ],
+  "sourceFile": "Verbs/r/Reñir.md"
+}

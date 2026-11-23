@@ -1,0 +1,303 @@
+{
+  "id": "35385680-2f5d-5919-a8e4-67a5fec0721f",
+  "infinitive": "Afeitarse",
+  "englishMeaning": "to shave",
+  "desc": "to shave",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "afeitando",
+  "participio": "afeitado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me afeito"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te afeitas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se afeita"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos afeitamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se afeitan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me afeité"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te afeitaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se afeitó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos afeitamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se afeitaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me afeitaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te afeitabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se afeitaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos afeitábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se afeitaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he afeitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has afeitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha afeitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos afeitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han afeitado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había afeitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías afeitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había afeitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos afeitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían afeitado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me afeitaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te afeitarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se afeitará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos afeitaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se afeitarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me afeitaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te afeitarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se afeitaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos afeitaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se afeitarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré afeitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás afeitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá afeitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos afeitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán afeitado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me afeite"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te afeites"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se afeite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos afeitemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se afeiten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me afeitara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te afeitaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se afeitara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos afeitáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se afeitaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera afeitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras afeitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera afeitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos afeitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran afeitado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "aféitate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "aféitese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "afeitémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "aféitense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te afeites"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se afeite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos afeitemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se afeiten"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -AR verb based on *afeitar*. Uses reflexive pronouns (me/te/se/nos/se) in all tenses.",
+    "All conjugations follow regular -AR endings.",
+    "*Me afeito todas las mañanas.* (I shave every morning.)",
+    "*Se afeitó antes de la reunión.* (He shaved before the meeting.)",
+    "Related: *afeitar* (to shave someone/something), *la afeitadora* (electric shaver), *la maquinilla de afeitar* (razor)"
+  ],
+  "sourceFile": "Verbs/a/Afeitarse.md"
+}

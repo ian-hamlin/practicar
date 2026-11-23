@@ -1,0 +1,301 @@
+{
+  "id": "ae029feb-5172-5867-ac3b-12a8e13e31b7",
+  "infinitive": "Naufragar",
+  "englishMeaning": "to be shipwrecked / to sink",
+  "desc": "to be shipwrecked / to sink",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "n",
+  "categoryId": "8779dc62-9f31-5393-b27c-acaee5781ff5",
+  "gerundio": "naufragando",
+  "participio": "naufragado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "naufrago"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "naufragas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "naufraga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "naufragamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "naufragan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "naufragué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "naufragaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "naufragó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "naufragamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "naufragaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "naufragaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "naufragabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "naufragaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "naufragábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "naufragaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he naufragado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has naufragado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha naufragado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos naufragado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han naufragado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había naufragado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías naufragado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había naufragado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos naufragado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían naufragado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "naufragaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "naufragarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "naufragará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "naufragaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "naufragarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "naufragaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "naufragarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "naufragaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "naufragaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "naufragarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré naufragado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás naufragado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá naufragado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos naufragado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán naufragado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "naufrague"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "naufragues"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "naufrague"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "naufraguemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "naufraguen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "naufragara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "naufragaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "naufragara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "naufragáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "naufragaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera naufragado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras naufragado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera naufragado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos naufragado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran naufragado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "naufraga"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "naufrague"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "naufraguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "naufraguen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no naufragues"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no naufrague"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no naufraguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no naufraguen"
+      }
+    ]
+  },
+  "notes": [
+    "**Naufragar** is a regular **-AR verb** with a spelling change",
+    "Spelling change: g→gu before é (naufragué, not \"naufragé\") - same pattern as apagar",
+    "This spelling change only affects the \"yo\" form in preterite",
+    "Literally means \"to shipwreck\" but also used figuratively for plans/projects that fail"
+  ],
+  "sourceFile": "Verbs/n/Naufragar.md"
+}

@@ -1,0 +1,302 @@
+{
+  "id": "8daea75e-cce5-5a48-88e0-ec0860c028df",
+  "infinitive": "Sufrir",
+  "englishMeaning": "to suffer, to undergo",
+  "desc": "to suffer, to undergo",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "sufriendo",
+  "participio": "sufrido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sufro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sufres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sufre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sufrimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sufren"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "sufrí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sufriste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sufrió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sufrimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sufrieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "sufría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sufrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sufría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sufríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sufrían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he sufrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has sufrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha sufrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos sufrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han sufrido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había sufrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías sufrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había sufrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos sufrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían sufrido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "sufriré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sufrirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sufrirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sufriremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sufrirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "sufriría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sufrirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sufriría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sufriríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sufrirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré sufrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás sufrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá sufrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos sufrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán sufrido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sufra"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sufras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sufra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "suframos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sufran"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "sufriera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sufrieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sufriera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sufriéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sufrieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera sufrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras sufrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera sufrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos sufrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran sufrido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "sufre"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "sufra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "suframos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "sufran"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no sufras"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no sufra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no suframos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no sufran"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -IR verb — follows standard -IR endings with no exceptions",
+    "Past participle: *sufrido* (regular)",
+    "Means \"to suffer\" or \"to undergo\" — *sufrir una enfermedad* (to suffer an illness), *sufrir un cambio* (to undergo a change)",
+    "*Sufrir de* + noun = to suffer from (a condition): *sufre de insomnio* (he/she suffers from insomnia)",
+    "Related: *sufrimiento* (suffering), *sufrido/a* (long-suffering, worn/faded — depending on context)"
+  ],
+  "sourceFile": "Verbs/s/Sufrir.md"
+}

@@ -1,0 +1,303 @@
+{
+  "id": "93cd0154-d907-51cd-b675-84a9ec05edd1",
+  "infinitive": "Avisar",
+  "englishMeaning": "to warn, to notify, to let know",
+  "desc": "to warn, to notify, to let know",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "avisando",
+  "participio": "avisado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "aviso"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "avisas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "avisa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "avisamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "avisan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "avisé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "avisaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "avisó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "avisamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "avisaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "avisaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "avisabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "avisaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "avisábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "avisaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he avisado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has avisado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha avisado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos avisado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han avisado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había avisado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías avisado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había avisado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos avisado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían avisado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "avisaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "avisarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "avisará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "avisaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "avisarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "avisaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "avisarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "avisaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "avisaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "avisarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré avisado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás avisado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá avisado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos avisado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán avisado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "avise"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "avises"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "avise"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "avisemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "avisen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "avisara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "avisaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "avisara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "avisáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "avisaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera avisado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras avisado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera avisado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos avisado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran avisado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "avisa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "avise"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "avisemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "avisen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no avises"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no avise"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no avisemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no avisen"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; follows standard endings throughout",
+    "Past participle: avisado (regular)",
+    "*Avisar a alguien* = to warn / notify someone: *Te aviso cuando llegue* = I'll let you know when I arrive",
+    "*Avísame* = let me know / tell me (imperative)",
+    "*Sin avisar* = without warning / without notice",
+    "Related: el aviso (warning, notice, advertisement), avisado/a (warned, savvy)"
+  ],
+  "sourceFile": "Verbs/a/Avisar.md"
+}

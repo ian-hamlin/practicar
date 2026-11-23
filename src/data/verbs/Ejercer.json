@@ -1,0 +1,302 @@
+{
+  "id": "39e3ee39-57cd-54bf-b9bb-31502adff46c",
+  "infinitive": "Ejercer",
+  "englishMeaning": "to practice (a profession), to exercise (a right)",
+  "desc": "to practice (a profession), to exercise (a right)",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "ejerciendo",
+  "participio": "ejercido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ejerzo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ejerces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ejerce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ejercemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ejercen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "ejercí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ejerciste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ejerció"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ejercimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ejercieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "ejercía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ejercías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ejercía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ejercíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ejercían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he ejercido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has ejercido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha ejercido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos ejercido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han ejercido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había ejercido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías ejercido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había ejercido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos ejercido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían ejercido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "ejerceré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ejercerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ejercerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ejerceremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ejercerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "ejercería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ejercerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ejercería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ejerceríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ejercerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré ejercido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás ejercido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá ejercido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos ejercido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán ejercido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ejerza"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ejerzas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ejerza"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ejerzamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ejerzan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "ejerciera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ejercieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ejerciera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ejerciéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ejercieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera ejercido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras ejercido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera ejercido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos ejercido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran ejercido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "ejerce"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "ejerza"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ejerzamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "ejerzan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no ejerzas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no ejerza"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no ejerzamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no ejerzan"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -ER verb with a spelling change: *c→z* before *a* and *o*, to preserve the soft /s/ (or /θ/ in Spain) sound — affects the yo form of Presente (*ejerzo*, not *ejerco*) and all of Subjuntivo Presente (*ejerza, ejerzas...*)",
+    "Same pattern as *vencer*, *convencer*, *torcer*",
+    "Past participle: *ejercido* (regular)",
+    "Means \"to practice\" (a profession) or \"to exercise\" (a right/influence) — *ejercer la medicina* (to practice medicine), *ejercer su derecho al voto* (to exercise one's right to vote), *ejercer presión* (to exert pressure)",
+    "Related: *ejercicio* (exercise), *el ejercicio de la abogacía* (the practice of law)"
+  ],
+  "sourceFile": "Verbs/e/Ejercer.md"
+}

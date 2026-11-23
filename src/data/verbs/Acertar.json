@@ -1,0 +1,303 @@
+{
+  "id": "4fc32fd1-fc25-5e72-bf68-12def393e946",
+  "infinitive": "Acertar",
+  "englishMeaning": "to guess right, to get it right",
+  "desc": "to guess right, to get it right",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "acertando",
+  "participio": "acertado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "acierto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aciertas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acierta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acertamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aciertan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "acerté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acertaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acertó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acertamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acertaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "acertaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acertabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acertaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acertábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acertaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he acertado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has acertado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha acertado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos acertado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han acertado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había acertado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías acertado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había acertado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos acertado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían acertado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "acertaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acertarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acertará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acertaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acertarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "acertaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acertarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acertaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acertaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acertarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré acertado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás acertado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá acertado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos acertado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán acertado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "acierte"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aciertes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acierte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acertemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acierten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "acertara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acertaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acertara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acertáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acertaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera acertado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras acertado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera acertado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos acertado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran acertado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "acierta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "acierte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acertemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "acierten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no aciertes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no acierte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no acertemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no acierten"
+      }
+    ]
+  },
+  "notes": [
+    "Irregular -AR verb with an *e→ie* stem change (same pattern as *pensar*, *cerrar*, *sentar*): the stressed *e* becomes *ie* everywhere except nosotros/nosotras and the Pretérito Indefinido/Imperfecto/Futuro/Condicional, which stay fully regular",
+    "Past participle: *acertado* (regular)",
+    "Means \"to guess right\" or \"to get something right\" — *acerté la respuesta* (I got the answer right), *acertó el número de la lotería* (he/she guessed the lottery number correctly)",
+    "Also used with *a* + infinitive meaning \"to happen to\" or \"to manage to\": *acertó a encontrar la salida* (he/she managed to find the exit)",
+    "Related: *acierto* (a correct guess, a good decision — noun), *desacertar* (to get it wrong — less common opposite), *acertado/a* (apt, well-chosen)"
+  ],
+  "sourceFile": "Verbs/a/Acertar.md"
+}

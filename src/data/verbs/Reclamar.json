@@ -1,0 +1,301 @@
+{
+  "id": "e57cc76e-4382-5849-8839-01c49cc148ab",
+  "infinitive": "Reclamar",
+  "englishMeaning": "to complain, to make a claim, to demand",
+  "desc": "to complain, to make a claim, to demand",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "reclamando",
+  "participio": "reclamado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "reclamo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reclamas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reclama"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reclamamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reclaman"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "reclamé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reclamaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reclamó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reclamamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reclamaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "reclamaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reclamabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reclamaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reclamábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reclamaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he reclamado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has reclamado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha reclamado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos reclamado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han reclamado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había reclamado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías reclamado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había reclamado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos reclamado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían reclamado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "reclamaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reclamarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reclamará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reclamaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reclamarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "reclamaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reclamarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reclamaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reclamaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reclamarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré reclamado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás reclamado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá reclamado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos reclamado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán reclamado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "reclame"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reclames"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reclame"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reclamemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reclamen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "reclamara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reclamaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reclamara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reclamáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reclamaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera reclamado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras reclamado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera reclamado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos reclamado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran reclamado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "reclama"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "reclame"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reclamemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "reclamen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no reclames"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no reclame"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no reclamemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no reclamen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb. All conjugations follow standard -AR endings.",
+    "*Reclamé al hotel por el ruido.* (I complained to the hotel about the noise.)",
+    "*Reclamó su equipaje en el aeropuerto.* (He claimed his luggage at the airport.)",
+    "Related: *la reclamación* (complaint, claim), *el libro de reclamaciones* (complaints book)"
+  ],
+  "sourceFile": "Verbs/r/Reclamar.md"
+}

@@ -1,0 +1,309 @@
+{
+  "id": "b21d24af-6955-585f-8cd2-a87fc87ca4bf",
+  "infinitive": "Detenerse",
+  "englishMeaning": "to stop oneself",
+  "desc": "to stop (oneself)",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive",
+    "stem_e_ie"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "deteniendo",
+  "participio": "detenido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me detengo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te detienes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se detiene"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos detenemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se detienen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me detuve"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te detuviste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se detuvo"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos detuvimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se detuvieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me detenía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te detenías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se detenía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos deteníamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se detenían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he detenido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has detenido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha detenido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos detenido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han detenido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había detenido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías detenido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había detenido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos detenido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían detenido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me detendré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te detendrás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se detendrá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos detendremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se detendrán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me detendría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te detendrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se detendría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos detendríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se detendrían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré detenido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás detenido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá detenido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos detenido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán detenido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me detenga"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te detengas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se detenga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos detengamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se detengan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me detuviera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te detuvieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se detuviera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos detuviéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se detuvieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera detenido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras detenido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera detenido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos detenido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran detenido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "detente"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "deténgase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "detengámonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "deténganse"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te detengas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se detenga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos detengamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se detengan"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive compound of *tener* — follows the same irregular patterns throughout, just like *mantenerse*, *contenerse*, *sostenerse*.",
+    "Irregular yo present: *me detengo* (go-verb), with e→ie stem change in tú/él/ellos forms (te detienes, se detiene, se detienen); nosotros keeps the unstressed stem (nos detenemos).",
+    "Irregular preterite stem: *detuv-* (me detuve, te detuviste, se detuvo...).",
+    "Irregular future/conditional stem: *detendr-* (me detendré, me detendría).",
+    "Subjuntivo built from the yo stem: *deteng-* (me detenga, te detengas...).",
+    "Past participle is regular: **detenido**.",
+    "Imperativo tú affirmative is irregular, following *tener→ten*: *detente* (not the expected \"detiénete\"). Usted/nosotros/ustedes affirmative forms attach the reflexive pronoun to the subjuntivo form with a written accent to preserve stress (deténgase, detengámonos, deténganse); negative forms place the pronoun separately in front (no te detengas...).",
+    "*¡Detente! No cruces la calle.* (\"Stop! Don't cross the street.\")",
+    "*El coche se detuvo en el semáforo.* (\"The car stopped at the traffic light.\")",
+    "Related: *detener* (non-reflexive, \"to stop/detain someone or something\"), *la detención* (detention/stop, noun), *pararse* (synonym, \"to stop oneself\")."
+  ],
+  "sourceFile": "Verbs/d/Detenerse.md"
+}

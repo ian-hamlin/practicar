@@ -1,0 +1,306 @@
+{
+  "id": "ce4a75a5-b17f-50ab-90d2-a8aab8475ba5",
+  "infinitive": "Soñar",
+  "englishMeaning": "to dream / to dream of",
+  "desc": "to dream / to dream of",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "soñendo",
+  "participio": "soñado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sueño"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sueñas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sueña"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "soñamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sueñan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "soñé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "soñaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "soñó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "soñamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "soñaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "soñaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "soñabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "soñaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "soñábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "soñaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he soñado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has soñado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha soñado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos soñado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han soñado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había soñado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías soñado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había soñado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos soñado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían soñado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "soñaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "soñarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "soñará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "soñaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "soñarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "soñaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "soñarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "soñaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "soñaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "soñarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré soñado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás soñado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá soñado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos soñado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán soñado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sueñe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sueñes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sueñe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "soñemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sueñen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "soñara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "soñaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "soñara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "soñáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "soñaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera soñado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras soñado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera soñado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos soñado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran soñado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "sueña"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "sueñe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "soñemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "sueñen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no sueñes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no sueñe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no soñemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no sueñen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with o→ue stem change in present and subjuntivo (except nosotros, which keeps the infinitive stem *soñ-*)",
+    "No stem change in preterite, imperfect, future, or conditional",
+    "Past participle: *soñado*",
+    "*soñar con algo/alguien* = to dream about something/someone (*Soñé con el mar* — I dreamed about the sea)",
+    "*soñar despierto* = to daydream (*Deja de soñar despierto* — Stop daydreaming)",
+    "*ni soñarlo* / *ni en sueños* = not a chance, not in your dreams",
+    "*soñar en grande* = to dream big",
+    "Related: *el sueño* = dream, sleep; *el/la soñador/a* = dreamer; *soñoliento/a* = sleepy, drowsy"
+  ],
+  "sourceFile": "Verbs/s/Soñar.md"
+}

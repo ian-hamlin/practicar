@@ -1,0 +1,302 @@
+{
+  "id": "2e06f581-d726-572e-b761-6e4a6cff5c49",
+  "infinitive": "Sobrepasar",
+  "englishMeaning": "to exceed / to surpass / to go over / to go beyond",
+  "desc": "to exceed / to surpass / to go over / to go beyond",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "sobrepasando",
+  "participio": "sobrepasado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sobrepaso"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sobrepasas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sobrepasa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sobrepasamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sobrepasan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "sobrepasé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sobrepasaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sobrepasó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sobrepasamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sobrepasaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "sobrepasaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sobrepasabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sobrepasaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sobrepasábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sobrepasaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he sobrepasado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has sobrepasado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha sobrepasado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos sobrepasado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han sobrepasado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había sobrepasado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías sobrepasado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había sobrepasado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos sobrepasado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían sobrepasado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "sobrepasaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sobrepasarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sobrepasará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sobrepasaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sobrepasarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "sobrepasaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sobrepasarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sobrepasaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sobrepasaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sobrepasarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré sobrepasado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás sobrepasado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá sobrepasado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos sobrepasado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán sobrepasado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sobrepase"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sobrepases"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sobrepase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sobrepasemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sobrepasen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "sobrepasara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sobrepasaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sobrepasara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sobrepasáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sobrepasaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera sobrepasado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras sobrepasado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera sobrepasado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos sobrepasado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran sobrepasado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "sobrepasa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "sobrepase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sobrepasemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "sobrepasen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no sobrepases"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no sobrepase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no sobrepasemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no sobrepasen"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; no spelling changes or stem changes",
+    "Past participle: *sobrepasado*",
+    "*sobrepasar el límite* = to exceed the limit (*No hay que sobrepasar los 25g de azúcar al día* — You shouldn't exceed 25g of sugar per day)",
+    "Also used figuratively: *sobrepasar las expectativas* = to exceed expectations",
+    "Synonym: *superar*, *exceder*"
+  ],
+  "sourceFile": "Verbs/s/Sobrepasar.md"
+}

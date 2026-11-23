@@ -1,0 +1,303 @@
+{
+  "id": "b0f48901-d5ed-5ddc-9970-dbc7a254043e",
+  "infinitive": "Rechazar",
+  "englishMeaning": "to reject",
+  "desc": "to reject",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "rechazando",
+  "participio": "rechazado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "rechazo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rechazas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rechaza"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rechazamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rechazan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "rechacé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rechazaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rechazó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rechazamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rechazaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "rechazaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rechazabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rechazaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rechazábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rechazaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he rechazado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has rechazado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha rechazado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos rechazado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han rechazado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había rechazado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías rechazado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había rechazado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos rechazado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían rechazado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "rechazaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rechazarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rechazará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rechazaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rechazarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "rechazaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rechazarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rechazaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rechazaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rechazarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré rechazado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás rechazado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá rechazado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos rechazado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán rechazado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "rechace"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rechaces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rechace"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rechacemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rechacen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "rechazara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rechazaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rechazara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rechazáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rechazaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera rechazado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras rechazado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera rechazado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos rechazado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran rechazado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "rechaza"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "rechace"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rechacemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "rechacen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no rechaces"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no rechace"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no rechacemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no rechacen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with a spelling change: **z→c before e** to preserve the /s/ (Latin America) or /θ/ (Spain) sound, since \"ze\" is not a standard Spanish spelling. This affects the yo form of the pretérito indefinido (rechacé, not *rechazé) and every form of the subjuntivo presente and the usted/nosotros/ustedes imperative forms (rechace, rechacemos, rechacen).",
+    "No stem change — this is purely an orthographic adjustment, not a stem-changing pattern.",
+    "Past participle is regular: **rechazado**.",
+    "*El comité rechazó la propuesta.* (\"The committee rejected the proposal.\")",
+    "*Espero que no rechacen mi solicitud.* (\"I hope they don't reject my application.\")",
+    "Related: *el rechazo* (rejection, noun), *aceptar* (antonym, \"to accept\"), other -zar verbs share this same spelling pattern (empezar, comenzar, alcanzar, cruzar)."
+  ],
+  "sourceFile": "Verbs/r/Rechazar.md"
+}

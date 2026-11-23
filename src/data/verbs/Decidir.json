@@ -1,0 +1,305 @@
+{
+  "id": "03fd189e-3650-5454-8d21-f07fd623cb46",
+  "infinitive": "Decidir",
+  "englishMeaning": "to decide",
+  "desc": "to decide",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "decidiendo",
+  "participio": "decidido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "decido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "decides"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "decide"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "decidimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "deciden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "decidí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "decidiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "decidió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "decidimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "decidieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "decidía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "decidías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "decidía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "decidíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "decidían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he decidido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has decidido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha decidido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos decidido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han decidido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había decidido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías decidido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había decidido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos decidido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían decidido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "decidiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "decidirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "decidirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "decidiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "decidirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "decidiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "decidirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "decidiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "decidiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "decidirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré decidido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás decidido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá decidido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos decidido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán decidido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "decida"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "decidas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "decida"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "decidamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "decidan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "decidiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "decidieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "decidiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "decidiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "decidieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera decidido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras decidido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera decidido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos decidido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran decidido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "decide"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "decida"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "decidamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "decidan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no decidas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no decida"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no decidamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no decidan"
+      }
+    ]
+  },
+  "notes": [
+    "**Decidir** is a regular **-IR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **decidido** (regular)",
+    "Often followed by infinitive: *decidir hacer algo* (to decide to do something)",
+    "Common usage: *Decidí quedarme* (I decided to stay), *No puedo decidir* (I can't decide)",
+    "Related noun: **la decisión** (decision)",
+    "Related adjective: **decidido/a** (determined, resolute)",
+    "Expression: *estar decidido/a a* (to be determined to)"
+  ],
+  "sourceFile": "Verbs/d/Decidir.md"
+}

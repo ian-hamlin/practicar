@@ -1,0 +1,302 @@
+{
+  "id": "0e0a8d73-3f4e-5b9f-b511-83ba083dcefd",
+  "infinitive": "Faltar",
+  "englishMeaning": "to be absent, to be missing, to lack",
+  "desc": "to be absent, to be missing, to lack",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "f",
+  "categoryId": "6a4f18c0-f5d2-5016-9134-e92fb8c852a7",
+  "gerundio": "faltando",
+  "participio": "faltado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "falto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "faltas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "falta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "faltamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "faltan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "falté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "faltaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "faltó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "faltamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "faltaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "faltaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "faltabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "faltaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "faltábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "faltaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he faltado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has faltado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha faltado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos faltado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han faltado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había faltado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías faltado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había faltado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos faltado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían faltado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "faltaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "faltarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "faltará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "faltaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "faltarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "faltaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "faltarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "faltaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "faltaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "faltarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré faltado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás faltado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá faltado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos faltado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán faltado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "falte"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "faltes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "falte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "faltemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "falten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "faltara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "faltaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "faltara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "faltáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "faltaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera faltado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras faltado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera faltado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos faltado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran faltado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "falta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "falte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "faltemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "falten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no faltes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no falte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no faltemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no falten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb; follows standard endings throughout",
+    "Often used like *gustar*: the subject is what is missing — *me falta dinero* (I'm lacking money / money is missing for me)",
+    "Common uses: absence (*faltó a clase* = he was absent from class), lacking (*falta tiempo* = there's not enough time), remaining (*faltan dos días* = two days to go)",
+    "*faltar a* = to miss/skip (faltar a clase, faltar a una cita)",
+    "Past participle: faltado"
+  ],
+  "sourceFile": "Verbs/f/Faltar.md"
+}

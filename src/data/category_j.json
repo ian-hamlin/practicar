@@ -1,0 +1,28 @@
+{
+  "id": "441f2d20-61ff-53bf-8f16-b42e94bf5874",
+  "letter": "j",
+  "count": 2,
+  "verbs": [
+    {
+      "id": "181cf970-b797-52f9-97d1-e538f8fa6045",
+      "infinitive": "Jugar",
+      "desc": "to play",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_u_ue"
+      ],
+      "file": "verbs/Jugar.json"
+    },
+    {
+      "id": "a0bc13ee-363e-54ef-9f98-cb01e597c097",
+      "infinitive": "Juntar",
+      "desc": "to join, to gather, to put together",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Juntar.json"
+    }
+  ]
+}

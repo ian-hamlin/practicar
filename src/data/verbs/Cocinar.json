@@ -1,0 +1,302 @@
+{
+  "id": "ed87fb41-5176-5982-acd4-0c9fe78a29ec",
+  "infinitive": "Cocinar",
+  "englishMeaning": "to cook",
+  "desc": "to cook",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "cocinando",
+  "participio": "cocinado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cocino"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cocinas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cocina"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cocinamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cocinan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "cociné"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cocinaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cocinó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cocinamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cocinaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "cocinaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cocinabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cocinaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cocinábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cocinaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he cocinado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has cocinado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha cocinado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos cocinado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han cocinado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había cocinado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías cocinado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había cocinado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos cocinado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían cocinado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "cocinaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cocinarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cocinará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cocinaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cocinarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "cocinaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cocinarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cocinaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cocinaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cocinarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré cocinado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás cocinado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá cocinado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos cocinado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán cocinado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cocine"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cocines"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cocine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cocinemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cocinen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "cocinara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cocinaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cocinara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cocináramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cocinaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera cocinado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras cocinado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera cocinado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos cocinado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran cocinado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "cocina"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "cocine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cocinemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "cocinen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no cocines"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no cocine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no cocinemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no cocinen"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; follows standard endings throughout",
+    "Past participle: cocinado (regular)",
+    "*Cocinar a fuego lento* = to cook on a low heat / to simmer",
+    "*Cocinar al horno* = to bake / to roast; *cocinar a la plancha* = to grill",
+    "Related: la cocina (kitchen; cuisine), el/la cocinero/a (cook, chef), cocinado/a (cooked)"
+  ],
+  "sourceFile": "Verbs/c/Cocinar.md"
+}

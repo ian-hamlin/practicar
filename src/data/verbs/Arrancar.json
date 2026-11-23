@@ -1,0 +1,302 @@
+{
+  "id": "3a361c8e-4565-5409-b9c4-3254961398c9",
+  "infinitive": "Arrancar",
+  "englishMeaning": "to start (an engine), to pull out, to tear off",
+  "desc": "to start (an engine), to pull out, to tear off",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "arrancando",
+  "participio": "arrancado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "arranco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arrancas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arranca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arrancamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arrancan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "arranqué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arrancaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arrancó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arrancamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arrancaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "arrancaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arrancabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arrancaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arrancábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arrancaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he arrancado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has arrancado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha arrancado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos arrancado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han arrancado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había arrancado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías arrancado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había arrancado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos arrancado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían arrancado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "arrancaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arrancarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arrancará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arrancaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arrancarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "arrancaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arrancarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arrancaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arrancaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arrancarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré arrancado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás arrancado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá arrancado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos arrancado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán arrancado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "arranque"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arranques"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arranque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arranquemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arranquen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "arrancara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arrancaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arrancara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arrancáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arrancaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera arrancado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras arrancado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera arrancado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos arrancado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran arrancado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "arranca"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "arranque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arranquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "arranquen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no arranques"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no arranque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no arranquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no arranquen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb with a spelling change: *c→qu* before *e*, to preserve the hard /k/ sound — affects the yo form of Pretérito Indefinido (*arranqué*, not *arrancé*) and all of Subjuntivo Presente (*arranque, arranques...*)",
+    "Same pattern as *buscar*, *tocar*, *secar*, *comunicar*",
+    "Past participle: *arrancado* (regular)",
+    "Three common senses: \"to start\" (an engine/motor) — *el coche no arranca* (the car won't start); \"to pull out/uproot\" — *arrancar las malas hierbas* (to pull out the weeds); \"to tear off/snatch\" — *le arrancó la hoja del cuaderno* (he tore the page out of the notebook)",
+    "Related: *arranque* (start/ignition, also a sudden burst of emotion — *un arranque de ira*), *arrancamotores* (starter motor)"
+  ],
+  "sourceFile": "Verbs/a/Arrancar.md"
+}

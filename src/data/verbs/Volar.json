@@ -1,0 +1,303 @@
+{
+  "id": "f883f45b-7daa-506b-89be-d52f5b03066a",
+  "infinitive": "Volar",
+  "englishMeaning": "to fly",
+  "desc": "to fly",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "v",
+  "categoryId": "7848c6f0-8db9-54f6-91a9-a1f1ebd97c61",
+  "gerundio": "volando",
+  "participio": "volado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "vuelo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vuelas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vuela"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "volamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vuelan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "volé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "volaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "voló"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "volamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "volaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "volaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "volabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "volaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "volábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "volaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he volado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has volado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha volado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos volado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han volado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había volado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías volado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había volado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos volado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían volado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "volaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "volarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "volará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "volaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "volarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "volaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "volarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "volaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "volaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "volarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré volado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás volado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá volado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos volado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán volado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "vuele"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vueles"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vuele"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "volemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vuelen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "volara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "volaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "volara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "voláramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "volaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera volado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras volado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera volado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos volado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran volado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "vuela"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "vuele"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "volemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "vuelen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no vueles"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no vuele"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no volemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no vuelen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with an o→ue stem change in the stressed syllables: presente (all but nosotros/nosotras), subjuntivo presente (all but nosotros/nosotras), and imperativo afirmativo tú/usted/ustedes forms. Nosotros/nosotras always reverts to the unstressed stem (volamos, volemos), as expected for -AR/-ER stem-changers.",
+    "Past participle is regular: **volado**.",
+    "*El avión vuela sobre las montañas.* (\"The plane flies over the mountains.\")",
+    "*Volamos a México el próximo mes.* (\"We're flying to Mexico next month.\")",
+    "Related: *el vuelo* (flight, noun), *el volante* (steering wheel — unrelated meaning), *volador/a* (flying, adjective)."
+  ],
+  "sourceFile": "Verbs/v/Volar.md"
+}

@@ -1,0 +1,304 @@
+{
+  "id": "86b53d40-746a-5832-829d-cb6db09c26d1",
+  "infinitive": "Armar",
+  "englishMeaning": "to assemble, to put together, to arm",
+  "desc": "to assemble, to put together, to arm",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "armando",
+  "participio": "armado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "armo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "armas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "armamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arman"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "armé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "armaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "armó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "armamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "armaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "armaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "armabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "armaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "armábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "armaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he armado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has armado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha armado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos armado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han armado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había armado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías armado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había armado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos armado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían armado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "armaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "armarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "armará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "armaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "armarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "armaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "armarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "armaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "armaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "armarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré armado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás armado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá armado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos armado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán armado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "arme"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "armes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "armemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "armen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "armara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "armaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "armara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "armáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "armaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera armado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras armado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera armado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos armado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran armado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "arma"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "arme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "armemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "armen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no armes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no arme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no armemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no armen"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; follows standard endings throughout",
+    "Past participle: armado (regular)",
+    "*Armar* = to assemble/put together: *armar los ñoquis con un tenedor* = to shape the gnocchi with a fork",
+    "*Armar* = to arm (with weapons): *armar al ejército* = to arm the army",
+    "*Armar un lío/escándalo* = to cause trouble/a scene",
+    "*Armarse de paciencia* = to arm oneself with patience",
+    "Related: el arma (weapon), armado (armed/assembled), el armario (wardrobe — things that are \"armed\"/fitted)"
+  ],
+  "sourceFile": "Verbs/a/Armar.md"
+}

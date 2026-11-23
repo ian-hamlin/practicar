@@ -1,0 +1,303 @@
+{
+  "id": "8583e828-9de7-540d-86c2-cd0c3f5da6ee",
+  "infinitive": "Guiar",
+  "englishMeaning": "to guide, to lead",
+  "desc": "to guide, to lead",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "g",
+  "categoryId": "ec8a91da-65cb-5d21-9c3a-4523865a71c5",
+  "gerundio": "guiando",
+  "participio": "guiado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "guío"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "guías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "guía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "guiamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "guían"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "guié"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "guiaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "guió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "guiamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "guiaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "guiaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "guiabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "guiaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "guiábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "guiaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he guiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has guiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha guiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos guiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han guiado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había guiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías guiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había guiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos guiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían guiado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "guiaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "guiarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "guiará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "guiaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "guiarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "guiaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "guiarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "guiaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "guiaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "guiarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré guiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás guiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá guiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos guiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán guiado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "guíe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "guíes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "guíe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "guíemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "guíen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "guiara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "guiaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "guiara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "guiáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "guiaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera guiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras guiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera guiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos guiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran guiado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "guía"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "guíe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "guíemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "guíen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no guíes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no guíe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no guíemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no guíen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with an **accent change in the presente**: the weak **i** takes an accent mark (í) in all singular forms and ellos/ellas/ustedes to break the diphthong and stress it separately",
+    "Nosotros/nosotras is the exception: *guiamos* (no accent — stress falls naturally)",
+    "All other tenses follow regular -AR patterns",
+    "Past participle: *guiado* (regular)",
+    "Common usage: *guiar un tour* (to lead a tour), *guiar a alguien* (to guide someone), *dejarse guiar* (to let oneself be guided)",
+    "Related: *el/la guía* (the guide — person or book), *la guía turística* (tourist guide)"
+  ],
+  "sourceFile": "Verbs/g/Guiar.md"
+}

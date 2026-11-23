@@ -1,0 +1,304 @@
+{
+  "id": "6b31fe05-6d90-5b68-9206-c92eeca1658f",
+  "infinitive": "Levantarse",
+  "englishMeaning": "to get up / to stand up / to wake up",
+  "desc": "to get up / to stand up / to wake up",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "l",
+  "categoryId": "fa5b6027-a511-5f12-980d-687e3e083fde",
+  "gerundio": "levantando",
+  "participio": "levantado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me levanto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te levantas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se levanta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos levantamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se levantan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me levanté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te levantaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se levantó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos levantamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se levantaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me levantaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te levantabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se levantaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos levantábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se levantaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he levantado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has levantado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha levantado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos levantado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han levantado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había levantado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías levantado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había levantado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos levantado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían levantado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me levantaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te levantarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se levantará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos levantaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se levantarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me levantaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te levantarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se levantaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos levantaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se levantarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré levantado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás levantado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá levantado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos levantado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán levantado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me levante"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te levantes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se levante"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos levantemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se levanten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me levantara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te levantaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se levantara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos levantáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se levantaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera levantado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras levantado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera levantado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos levantado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran levantado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "levántate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "levántese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "levantémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "levántense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te levantes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se levante"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos levantemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se levanten"
+      }
+    ]
+  },
+  "notes": [
+    "**Levantarse** is the reflexive form of **levantar** (to lift/raise)",
+    "Regular **-AR verb** with reflexive pronouns",
+    "No spelling changes or stem changes",
+    "Multiple meanings: to get up (from bed), to stand up, to rise",
+    "Non-reflexive **levantar**: to lift, to raise (something else)",
+    "Common usage: *Me levanto temprano* (I get up early), *Levántate* (Get up/Stand up)"
+  ],
+  "sourceFile": "Verbs/l/Levantarse.md"
+}

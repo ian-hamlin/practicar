@@ -1,0 +1,306 @@
+{
+  "id": "dac03a83-48f8-5495-be2f-13b606891d46",
+  "infinitive": "Quejarse",
+  "englishMeaning": "to complain",
+  "desc": "to complain",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "q",
+  "categoryId": "2dc93897-6e3f-576d-9505-469391d25e18",
+  "gerundio": "quejando",
+  "participio": "quejado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me quejo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te quejas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se queja"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos quejamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se quejan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me quejé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te quejaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se quejó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos quejamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se quejaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me quejaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te quejabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se quejaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos quejábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se quejaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he quejado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has quejado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha quejado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos quejado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han quejado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había quejado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías quejado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había quejado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos quejado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían quejado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me quejaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te quejarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se quejará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos quejaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se quejarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me quejaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te quejarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se quejaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos quejaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se quejarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré quejado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás quejado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá quejado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos quejado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán quejado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me queje"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te quejes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se queje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos quejemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se quejen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me quejara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te quejaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se quejara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos quejáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se quejaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera quejado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras quejado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera quejado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos quejado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran quejado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "quéjate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "quéjese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quejémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "quéjense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te quejes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se queje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos quejemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se quejen"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular reflexive -AR verb; follows standard endings throughout",
+    "Always used with reflexive pronouns (me/te/se/nos/se)",
+    "Takes *de* + noun/infinitive: *quejarse de algo* = to complain about something",
+    "Takes *de que* + subjuntivo: *me quejo de que hagan ruido* = I complain that they make noise",
+    "Past participle: quejado (regular)",
+    "*Me quejo de que mis vecinos hagan demasiado ruido* = I complain that my neighbours make too much noise",
+    "Non-reflexive *quejar* exists but is rare; *quejarse* is the standard form",
+    "Related: la queja (complaint), un quejica (a complainer/moaner), quejumbroso/a (whiny)"
+  ],
+  "sourceFile": "Verbs/q/Quejarse.md"
+}

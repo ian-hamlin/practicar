@@ -1,0 +1,307 @@
+{
+  "id": "01f4a2c3-7535-5303-87b2-5cf7998f091f",
+  "infinitive": "Poner",
+  "englishMeaning": "to put / to place",
+  "desc": "to put / to place",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "poniendo",
+  "participio": "puesto",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pongo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pones"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pone"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ponemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ponen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "puse"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pusiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "puso"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pusimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pusieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "ponía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ponías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ponía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "poníamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ponían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he puesto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has puesto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha puesto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos puesto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han puesto"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había puesto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías puesto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había puesto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos puesto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían puesto"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "pondré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pondrás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pondrá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pondremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pondrán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "pondría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pondrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pondría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pondríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pondrían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré puesto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás puesto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá puesto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos puesto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán puesto"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ponga"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pongas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ponga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pongamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pongan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "pusiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pusieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pusiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pusiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pusieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera puesto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras puesto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera puesto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos puesto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran puesto"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "pon"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "ponga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pongamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "pongan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no pongas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no ponga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no pongamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no pongan"
+      }
+    ]
+  },
+  "notes": [
+    "**Poner** is completely irregular",
+    "Present: irregular \"yo\" form (pongo), otherwise regular -ER endings",
+    "Preterite: completely irregular stem \"pus-\"",
+    "Imperfect: regular -ER pattern based on infinitive stem \"pon-\"",
+    "Pretérito Perfecto: irregular past participle **puesto**",
+    "Future: irregular stem \"pondr-\" (not \"poner-\")",
+    "Condicional: irregular stem \"pondr-\" + conditional endings",
+    "Often used reflexively: **ponerse** (to put on clothing, to become)",
+    "Common usage: *poner la mesa* (to set the table), *poner atención* (to pay attention)",
+    "Many idiomatic uses: *ponerse nervioso* (to get nervous), *poner un negocio* (to start a business)"
+  ],
+  "sourceFile": "Verbs/p/Poner.md"
+}

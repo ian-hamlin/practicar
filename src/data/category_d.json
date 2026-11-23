@@ -1,0 +1,450 @@
+{
+  "id": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "letter": "d",
+  "count": 42,
+  "verbs": [
+    {
+      "id": "4ce14faa-4235-56d7-bc2a-9dc2a80b4407",
+      "infinitive": "Dañar",
+      "desc": "to damage, to harm",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Dañar.json"
+    },
+    {
+      "id": "5b417a00-60cc-5580-a73e-791a24451058",
+      "infinitive": "Dar",
+      "desc": "to give (as a gift) / to gift",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Dar.json"
+    },
+    {
+      "id": "38667963-4fbd-54b1-aa0b-a978c07b24ee",
+      "infinitive": "Darse",
+      "desc": "to give oneself, to happen, to occur",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive"
+      ],
+      "file": "verbs/Darse.json"
+    },
+    {
+      "id": "d11db376-3902-525c-9f2a-f19b5b04602b",
+      "infinitive": "Deber",
+      "desc": "to owe/should/must",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Deber.json"
+    },
+    {
+      "id": "03fd189e-3650-5454-8d21-f07fd623cb46",
+      "infinitive": "Decidir",
+      "desc": "to decide",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Decidir.json"
+    },
+    {
+      "id": "f7d809ca-830b-5253-a208-8f737426252f",
+      "infinitive": "Decidirse",
+      "desc": "to make up one's mind / to decide on / to bring oneself to",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Decidirse.json"
+    },
+    {
+      "id": "f5cf54a4-6fb1-561f-9d85-af8a61a5678f",
+      "infinitive": "Decir",
+      "desc": "to say / to tell",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_i"
+      ],
+      "file": "verbs/Decir.json"
+    },
+    {
+      "id": "9766b5b4-8f12-523b-94a9-c73a6c78bc4a",
+      "infinitive": "Dedicarse",
+      "desc": "to dedicate oneself to / to work as / to be devoted to",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive"
+      ],
+      "file": "verbs/Dedicarse.json"
+    },
+    {
+      "id": "4ed738fc-0a59-5fe4-8e7e-eb42766c8f9a",
+      "infinitive": "Dejar",
+      "desc": "to leave / to let / to quit / to stop",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Dejar.json"
+    },
+    {
+      "id": "38337f4d-ff09-5e9e-92fa-70d350623cd6",
+      "infinitive": "Derramar",
+      "desc": "to spill / to shed",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Derramar.json"
+    },
+    {
+      "id": "06a17b85-fb9f-5542-9991-448b0ceea23d",
+      "infinitive": "Derretir",
+      "desc": "to melt",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_i"
+      ],
+      "file": "verbs/Derretir.json"
+    },
+    {
+      "id": "9502faed-8128-5a7a-aa35-cd5fee5a5900",
+      "infinitive": "Desaparecer",
+      "desc": "to disappear",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Desaparecer.json"
+    },
+    {
+      "id": "f50f52db-6eb5-5526-9e19-bf5ced47325a",
+      "infinitive": "Desarrollar",
+      "desc": "to develop",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Desarrollar.json"
+    },
+    {
+      "id": "dba2eeea-0f53-5424-a862-d6c564bbbc8d",
+      "infinitive": "Descansar",
+      "desc": "to rest / to take a break",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Descansar.json"
+    },
+    {
+      "id": "a023dfaf-751e-582b-b2f6-b91311d619a4",
+      "infinitive": "Descargar",
+      "desc": "to download, to unload",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Descargar.json"
+    },
+    {
+      "id": "913a875c-c357-5fe6-9ce5-8b70374a2294",
+      "infinitive": "Descubrir",
+      "desc": "to discover / to uncover",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Descubrir.json"
+    },
+    {
+      "id": "fc9e2fca-701d-5a93-9528-9283f7e81e5c",
+      "infinitive": "Desear",
+      "desc": "to wish / to desire / to want",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Desear.json"
+    },
+    {
+      "id": "646b4faf-3175-567d-8a5f-43fda715a38b",
+      "infinitive": "Desmontar",
+      "desc": "to dismantle / to take apart / to disassemble",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Desmontar.json"
+    },
+    {
+      "id": "7ca2e924-dac5-5a84-b422-a79d023d5417",
+      "infinitive": "Despedir",
+      "desc": "to say goodbye to, to fire/dismiss",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_i"
+      ],
+      "file": "verbs/Despedir.json"
+    },
+    {
+      "id": "5e35bcad-23c0-5dc8-8ef2-8635dfc18cd8",
+      "infinitive": "Despedirse",
+      "desc": "to say goodbye, to take one's leave",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive",
+        "stem_e_i"
+      ],
+      "file": "verbs/Despedirse.json"
+    },
+    {
+      "id": "5a3e1353-5135-5536-98d6-402aa3733c67",
+      "infinitive": "Despegar",
+      "desc": "to take off / to detach",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Despegar.json"
+    },
+    {
+      "id": "621dc88b-b97c-56f8-990a-b659785c840c",
+      "infinitive": "Despertarse",
+      "desc": "to wake up",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Despertarse.json"
+    },
+    {
+      "id": "32a10f38-8679-543c-a517-c0db08101c1f",
+      "infinitive": "Desvestir",
+      "desc": "to undress (someone/something)",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_i"
+      ],
+      "file": "verbs/Desvestir.json"
+    },
+    {
+      "id": "6dc73401-887a-562a-a39d-e13f9717722c",
+      "infinitive": "Desvestirse",
+      "desc": "to undress (oneself)",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive",
+        "stem_e_i"
+      ],
+      "file": "verbs/Desvestirse.json"
+    },
+    {
+      "id": "667c31a9-501c-5ee7-905a-582c17ad880c",
+      "infinitive": "Desviar",
+      "desc": "to divert, to deflect",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Desviar.json"
+    },
+    {
+      "id": "b21d24af-6955-585f-8cd2-a87fc87ca4bf",
+      "infinitive": "Detenerse",
+      "desc": "to stop (oneself)",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Detenerse.json"
+    },
+    {
+      "id": "f70e3db6-b49c-57dd-8f2c-61304e265457",
+      "infinitive": "Devolver",
+      "desc": "to return / to give back",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Devolver.json"
+    },
+    {
+      "id": "f5430d24-0627-542d-83d4-dc4b980c535a",
+      "infinitive": "Difundirse",
+      "desc": "to spread, to be broadcast",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Difundirse.json"
+    },
+    {
+      "id": "a36554cf-535f-501b-bab2-f4c41a61dd11",
+      "infinitive": "Dirigir",
+      "desc": "to direct, to manage, to lead",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Dirigir.json"
+    },
+    {
+      "id": "a9fe65df-23f2-56ca-a673-4260c35b9ecc",
+      "infinitive": "Dirigirse",
+      "desc": "to head towards, to address",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive"
+      ],
+      "file": "verbs/Dirigirse.json"
+    },
+    {
+      "id": "9c71e11e-d7ff-53f1-b0fe-8f6055ba24d4",
+      "infinitive": "Discutir",
+      "desc": "to discuss / to argue",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Discutir.json"
+    },
+    {
+      "id": "634874eb-26e9-5267-8e9a-31c2fb6a5c7f",
+      "infinitive": "Disfrutar",
+      "desc": "to enjoy",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Disfrutar.json"
+    },
+    {
+      "id": "099935c7-62b7-5d94-99fa-8912d0d2408d",
+      "infinitive": "Disponer",
+      "desc": "to have available, to arrange",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Disponer.json"
+    },
+    {
+      "id": "127c6a11-cba9-5ce9-9730-16eb9d853f97",
+      "infinitive": "Diversificar",
+      "desc": "to diversify",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Diversificar.json"
+    },
+    {
+      "id": "0c45d232-2f08-561d-a3e5-af45983ae345",
+      "infinitive": "Divertir",
+      "desc": "to amuse / to entertain",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Divertir.json"
+    },
+    {
+      "id": "82882848-ccbb-57fa-9232-53f18218f84e",
+      "infinitive": "Divorciarse",
+      "desc": "to get divorced",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Divorciarse.json"
+    },
+    {
+      "id": "e87f8ff2-3c50-5a5e-a9b0-ac506addd3c4",
+      "infinitive": "Doler",
+      "desc": "to hurt / to ache / to pain",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Doler.json"
+    },
+    {
+      "id": "1ec04a30-b37c-55af-8e6a-2a30e2fd3870",
+      "infinitive": "Donar",
+      "desc": "to donate",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Donar.json"
+    },
+    {
+      "id": "488d6123-97fe-5403-8ca9-0df0c91426b6",
+      "infinitive": "Dormir",
+      "desc": "to sleep",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Dormir.json"
+    },
+    {
+      "id": "fc5128b5-81a7-51b8-954f-26059705fbc2",
+      "infinitive": "Ducharse",
+      "desc": "to shower / to take a shower",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Ducharse.json"
+    },
+    {
+      "id": "d7a5dff9-5866-55a5-994a-3d6cb6c585b3",
+      "infinitive": "Dudar",
+      "desc": "to doubt",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Dudar.json"
+    },
+    {
+      "id": "8916b4fa-a07f-5ed4-9e6c-3aec7f6f895b",
+      "infinitive": "Durar",
+      "desc": "to last, to endure",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Durar.json"
+    }
+  ]
+}

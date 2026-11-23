@@ -1,0 +1,311 @@
+{
+  "id": "a2126761-846d-5f2e-bf0b-5c2b4aad2ee8",
+  "infinitive": "Estar",
+  "englishMeaning": "to be",
+  "desc": "to be",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "estando",
+  "participio": "estado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "estoy"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "está"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "están"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "estuve"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estuviste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "estuvo"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estuvimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "estuvieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "estaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "estaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "estaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he estado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has estado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha estado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos estado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han estado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había estado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías estado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había estado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos estado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían estado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "estaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "estará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "estarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "estaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "estaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "estarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré estado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás estado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá estado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos estado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán estado"
+      },
+      {
+        "subject": "",
+        "conjugation": ""
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "esté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estés"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esté"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "estén"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "estuviera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estuvieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "estuviera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estuviéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "estuvieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera estado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras estado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera estado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos estado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran estado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "está"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "esté"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "estén"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no estés"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no esté"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no estemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no estén"
+      }
+    ]
+  },
+  "notes": [
+    "**Estar** is completely irregular",
+    "Present: irregular forms with accents on tú/él/ellos forms (estás, está, están)",
+    "Preterite: irregular stem \"estuv-\"",
+    "Imperfect: regular -AR pattern based on infinitive stem \"est-\"",
+    "Pretérito Perfecto: regular past participle **estado**",
+    "Future: regular endings attached to stem \"estar-\"",
+    "Condicional: regular conditional endings attached to stem \"estar-\"",
+    "Used for temporary conditions, locations, emotions, progressive tenses",
+    "Contrasts with **ser** (permanent/essential characteristics)",
+    "Common usage: *Estoy cansado* (I'm tired), *Está en casa* (He/She is at home), *Estamos estudiando* (We are studying)"
+  ],
+  "sourceFile": "Verbs/e/Estar.md"
+}

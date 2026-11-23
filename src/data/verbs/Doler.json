@@ -1,0 +1,304 @@
+{
+  "id": "e87f8ff2-3c50-5a5e-a9b0-ac506addd3c4",
+  "infinitive": "Doler",
+  "englishMeaning": "to hurt / to ache / to pain",
+  "desc": "to hurt / to ache / to pain",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "doliendo",
+  "participio": "dolido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "duelo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dueles"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "duele"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dolemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "duelen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "dolí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "doliste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dolió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dolimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dolieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "dolía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dolías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dolía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dolíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dolían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he dolido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has dolido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha dolido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos dolido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han dolido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había dolido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías dolido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había dolido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos dolido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían dolido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "doleré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dolerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dolerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "doleremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dolerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "dolería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dolerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dolería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "doleríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dolerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré dolido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás dolido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá dolido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos dolido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán dolido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "duela"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "duelas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "duela"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dolamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "duelan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "doliera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dolieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "doliera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "doliéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dolieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera dolido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras dolido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera dolido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos dolido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran dolido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "duele"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "duela"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dolamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "duelan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no duelas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no duela"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no dolamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no duelan"
+      }
+    ]
+  },
+  "notes": [
+    "o→ue stem change in all present forms except *nosotros/nosotras* (dolemos)",
+    "Past participle: *dolido*",
+    "Like *gustar*, almost always used with **indirect object pronouns**: *me duele, te duele, le duele, nos duele, les duele*",
+    "Singular subject = *duele*; plural subject = *duelen*: *Me duele la cabeza* — My head hurts; *Me duelen las piernas* — My legs ache",
+    "*doler* can also be used figuratively: *Me duele que no hayas venido* — It hurts me that you didn't come",
+    "Related: *el dolor* = pain; *doloroso/a* = painful"
+  ],
+  "sourceFile": "Verbs/d/Doler.md"
+}

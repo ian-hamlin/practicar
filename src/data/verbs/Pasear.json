@@ -1,0 +1,303 @@
+{
+  "id": "2db0103e-9be4-5c78-900d-14c2a038700b",
+  "infinitive": "Pasear",
+  "englishMeaning": "to walk, to take a stroll",
+  "desc": "to walk, to take a stroll",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "paseando",
+  "participio": "paseado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "paseo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "paseas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pasea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paseamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pasean"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "paseé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "paseaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "paseó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paseamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pasearon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "paseaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "paseabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "paseaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paseábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "paseaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he paseado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has paseado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha paseado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos paseado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han paseado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había paseado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías paseado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había paseado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos paseado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían paseado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "pasearé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pasearás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "paseará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pasearemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pasearán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "pasearía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pasearías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pasearía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pasearíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pasearían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré paseado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás paseado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá paseado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos paseado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán paseado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pasee"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pasees"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pasee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paseemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "paseen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "paseara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pasearas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "paseara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paseáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pasearan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera paseado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras paseado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera paseado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos paseado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran paseado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "pasea"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "pasee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paseemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "paseen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no pasees"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no pasee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no paseemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no paseen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions (the two adjacent vowels *e-a* in the stem never trigger a spelling change)",
+    "Past participle: *paseado* (regular)",
+    "Means \"to walk\" or \"to take a stroll\" (for pleasure, not as a means of transport) — *pasear por el parque* (to stroll through the park)",
+    "Also used transitively meaning \"to walk\" (someone/something) — *pasear al perro* (to walk the dog)",
+    "Reflexive form *pasearse* is common too, with the same basic meaning: *me paseé por la playa* (I strolled along the beach)",
+    "Related: *paseo* (walk, stroll, also \"avenue/promenade\" as in *Paseo de la Reforma*), *paseante* (stroller, walker)"
+  ],
+  "sourceFile": "Verbs/p/Pasear.md"
+}

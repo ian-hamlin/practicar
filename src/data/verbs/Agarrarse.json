@@ -1,0 +1,305 @@
+{
+  "id": "3e2b66ee-3d9a-5c17-9e5e-ce6885fc17e1",
+  "infinitive": "Agarrarse",
+  "englishMeaning": "to grab, to hold on to, to cling to",
+  "desc": "to grab, to hold on to, to cling to",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "agarrando",
+  "participio": "agarrado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me agarro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te agarras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se agarra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos agarramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se agarran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me agarré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te agarraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se agarró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos agarramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se agarraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me agarraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te agarrabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se agarraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos agarrábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se agarraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he agarrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has agarrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha agarrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos agarrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han agarrado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había agarrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías agarrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había agarrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos agarrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían agarrado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me agarraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te agarrarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se agarrará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos agarraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se agarrarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me agarraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te agarrarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se agarraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos agarraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se agarrarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré agarrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás agarrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá agarrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos agarrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán agarrado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me agarre"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te agarres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se agarre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos agarremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se agarren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me agarrara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te agarraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se agarrara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos agarráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se agarraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera agarrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras agarrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera agarrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos agarrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran agarrado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "agárrate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "agárrese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "agarrémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "agárrense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te agarres"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se agarre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos agarremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se agarren"
+      }
+    ]
+  },
+  "notes": [
+    "Regular reflexive -AR verb. Uses reflexive pronouns (me/te/se/nos/se) in all tenses. No stem changes or spelling changes.",
+    "Regular past participle: *agarrado*",
+    "Base verb: *agarrar* (to grab/seize something — non-reflexive). *Agarrarse* = to hold on, to cling to something.",
+    "Often used with *a*: *agarrarse a la barandilla* (to hold on to the handrail).",
+    "*¡Agárrate bien!* (Hold on tight!)",
+    "*Se agarró al árbol para no caer.* (She held on to the tree to avoid falling.)",
+    "Related: *agarrar* (to grab), *el agarre* (grip, hold)"
+  ],
+  "sourceFile": "Verbs/a/Agarrarse.md"
+}

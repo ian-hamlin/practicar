@@ -1,0 +1,303 @@
+{
+  "id": "8916b4fa-a07f-5ed4-9e6c-3aec7f6f895b",
+  "infinitive": "Durar",
+  "englishMeaning": "to last, to endure",
+  "desc": "to last, to endure",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "durando",
+  "participio": "durado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "duro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "duras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dura"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "duramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "duran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "duré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "duraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "duró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "duramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "duraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "duraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "durabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "duraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "durábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "duraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he durado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has durado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha durado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos durado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han durado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había durado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías durado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había durado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos durado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían durado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "duraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "durarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "durará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "duraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "durarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "duraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "durarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "duraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "duraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "durarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré durado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás durado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá durado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos durado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán durado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "dure"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dures"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dure"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "duremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "duren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "durara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "duraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "durara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "duráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "duraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera durado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras durado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera durado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos durado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran durado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "dura"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "dure"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "duremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "duren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no dures"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no dure"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no duremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no duren"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; follows standard endings throughout",
+    "Past participle: durado (regular)",
+    "Most commonly used in 3rd person, describing how long something lasts: *La película dura dos horas* = The film lasts two hours",
+    "*¿Cuánto dura?* = How long does it last?",
+    "*No dura nada* = It doesn't last at all",
+    "Related: la duración (duration), duradero/a (long-lasting, durable), la durabilidad (durability)"
+  ],
+  "sourceFile": "Verbs/d/Durar.md"
+}

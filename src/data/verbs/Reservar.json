@@ -1,0 +1,306 @@
+{
+  "id": "82ca6843-c390-5fea-b526-128601cdae73",
+  "infinitive": "Reservar",
+  "englishMeaning": "to reserve / to book",
+  "desc": "to reserve / to book",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "reservando",
+  "participio": "reservado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "reservo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reservas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reserva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reservamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reservan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "reservé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reservaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reservó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reservamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reservaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "reservaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reservabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reservaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reservábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reservaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he reservado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has reservado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha reservado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos reservado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han reservado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había reservado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías reservado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había reservado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos reservado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían reservado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "reservaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reservarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reservará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reservaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reservarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "reservaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reservarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reservaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reservaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reservarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré reservado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás reservado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá reservado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos reservado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán reservado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "reserve"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reserves"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reserve"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reservemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reserven"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "reservara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reservaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reservara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reserváramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reservaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera reservado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras reservado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera reservado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos reservado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran reservado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "reserva"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "reserve"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reservemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "reserven"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no reserves"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no reserve"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no reservemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no reserven"
+      }
+    ]
+  },
+  "notes": [
+    "**Reservar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Multiple meanings:",
+    "To reserve, to book: *reservar una mesa* (to reserve a table)",
+    "To save, to set aside: *reservar dinero* (to save money)",
+    "To keep to oneself: *reservarse una opinión* (to keep an opinion to oneself)",
+    "Common usage: *reservar un hotel* (to book a hotel), *reservar asientos* (to reserve seats), *reservar el derecho* (to reserve the right)",
+    "Related noun: **la reserva** (reservation / reserve)",
+    "Related adjective: **reservado/a** (reserved - both meanings: booked or personality trait)"
+  ],
+  "sourceFile": "Verbs/r/Reservar.md"
+}

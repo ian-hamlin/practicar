@@ -1,0 +1,302 @@
+{
+  "id": "00c87e40-5710-5af2-b876-fe1d0f790d17",
+  "infinitive": "Emprender",
+  "englishMeaning": "to undertake, to embark on",
+  "desc": "to undertake, to embark on",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "emprendiendo",
+  "participio": "emprendido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "emprendo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "emprendes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "emprende"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "emprendemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "emprenden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "emprendí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "emprendiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "emprendió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "emprendimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "emprendieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "emprendía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "emprendías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "emprendía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "emprendíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "emprendían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he emprendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has emprendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha emprendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos emprendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han emprendido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había emprendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías emprendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había emprendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos emprendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían emprendido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "emprenderé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "emprenderás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "emprenderá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "emprenderemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "emprenderán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "emprendería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "emprenderías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "emprendería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "emprenderíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "emprenderían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré emprendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás emprendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá emprendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos emprendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán emprendido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "emprenda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "emprendas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "emprenda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "emprendamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "emprendan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "emprendiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "emprendieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "emprendiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "emprendiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "emprendieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera emprendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras emprendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera emprendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos emprendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran emprendido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "emprende"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "emprenda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "emprendamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "emprendan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no emprendas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no emprenda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no emprendamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no emprendan"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -ER verb — follows standard endings in every tense, no exceptions.",
+    "Often used with business/journey contexts: *emprender un negocio* (\"to start a business\"), *emprender un viaje* (\"to embark on a trip\").",
+    "*Ella decidió emprender su propio negocio.* (\"She decided to start her own business.\")",
+    "*Emprendimos el viaje al amanecer.* (\"We set off on the trip at dawn.\")",
+    "Related: *el emprendimiento* (entrepreneurship, noun), *el/la emprendedor(a)* (entrepreneur), *comenzar* (broader synonym, \"to begin\")."
+  ],
+  "sourceFile": "Verbs/e/Emprender.md"
+}

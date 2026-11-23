@@ -1,0 +1,302 @@
+{
+  "id": "a64da6a7-60eb-5f79-bbf1-12156b8cfb7b",
+  "infinitive": "Adorar",
+  "englishMeaning": "to adore, to love",
+  "desc": "to adore, to love",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "adorando",
+  "participio": "adorado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "adoro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adoras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adora"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adoramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adoran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "adoré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adoraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adoró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adoramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adoraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "adoraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adorabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adoraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adorábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adoraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he adorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has adorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha adorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos adorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han adorado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había adorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías adorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había adorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos adorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían adorado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "adoraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adorarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adorará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adoraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adorarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "adoraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adorarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adoraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adoraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adorarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré adorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás adorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá adorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos adorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán adorado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "adore"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adores"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adore"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adoremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adoren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "adorara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adoraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adorara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adoráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adoraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera adorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras adorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera adorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos adorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran adorado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "adora"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "adore"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adoremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "adoren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no adores"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no adore"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no adoremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no adoren"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; follows standard endings throughout",
+    "Past participle: adorado (regular)",
+    "Stronger than *gustar* or *encantar*: *Adoro el chocolate* = I adore chocolate",
+    "*Adorar + infinitivo*: *Adoraba verla bailar* = I loved watching her dance",
+    "Related: adorable (adorable), la adoración (adoration)"
+  ],
+  "sourceFile": "Verbs/a/Adorar.md"
+}

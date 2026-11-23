@@ -1,0 +1,302 @@
+{
+  "id": "01f364d7-42b1-5e06-b35a-1e9a55859c86",
+  "infinitive": "Acabar",
+  "englishMeaning": "to finish, to end",
+  "desc": "to finish, to end",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "acabando",
+  "participio": "acabado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "acabo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acabamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acaban"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "acabé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acabaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acabó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acabamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acabaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "acababa"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acababas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acababa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acabábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acababan"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he acabado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has acabado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha acabado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos acabado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han acabado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había acabado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías acabado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había acabado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos acabado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían acabado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "acabaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acabarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acabará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acabaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acabarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "acabaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acabarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acabaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acabaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acabarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré acabado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás acabado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá acabado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos acabado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán acabado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "acabe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acabes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acabe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acabemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acaben"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "acabara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acabaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acabara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acabáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acabaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera acabado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras acabado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera acabado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos acabado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran acabado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "acaba"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "acabe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acabemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "acaben"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no acabes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no acabe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no acabemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no acaben"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb; follows standard endings throughout",
+    "Past participle: acabado",
+    "Key perífrasis: **acabar de + infinitivo** = to have just done something (*acabo de llegar* = I have just arrived)",
+    "Also used standalone: *acabar* = to finish (*he acabado el libro* = I've finished the book)",
+    "*acabar con* = to put an end to (*acabar con la pobreza* = to end poverty)"
+  ],
+  "sourceFile": "Verbs/a/Acabar.md"
+}

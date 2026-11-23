@@ -1,0 +1,302 @@
+{
+  "id": "913a875c-c357-5fe6-9ce5-8b70374a2294",
+  "infinitive": "Descubrir",
+  "englishMeaning": "to discover / to uncover",
+  "desc": "to discover / to uncover",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "descubriendo",
+  "participio": "descubierto",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "descubro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descubres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descubre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descubrimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descubren"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "descubrí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descubriste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descubrió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descubrimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descubrieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "descubría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descubrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descubría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descubríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descubrían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he descubierto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has descubierto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha descubierto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos descubierto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han descubierto"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había descubierto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías descubierto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había descubierto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos descubierto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían descubierto"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "descubriré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descubrirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descubrirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descubriremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descubrirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "descubriría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descubrirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descubriría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descubriríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descubrirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré descubierto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás descubierto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá descubierto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos descubierto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán descubierto"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "descubra"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descubras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descubra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descubramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descubran"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "descubriera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descubrieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descubriera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descubriéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descubrieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera descubierto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras descubierto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera descubierto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos descubierto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran descubierto"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "descubre"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "descubra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descubramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "descubran"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no descubras"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no descubra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no descubramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no descubran"
+      }
+    ]
+  },
+  "notes": [
+    "**Descubrir** is a regular **-IR verb**",
+    "No spelling changes or stem changes",
+    "Irregular past participle: **descubierto** (discovered) - used in perfect tenses: *he descubierto* (I have discovered)",
+    "Common usage: *descubrir un secreto* (to discover a secret), *descubrir América* (to discover America)",
+    "Related noun: **el descubrimiento** (discovery)"
+  ],
+  "sourceFile": "Verbs/d/Descubrir.md"
+}

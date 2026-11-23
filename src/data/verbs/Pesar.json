@@ -1,0 +1,301 @@
+{
+  "id": "b38a4910-d8b8-5594-bff1-89b11b01fe9e",
+  "infinitive": "Pesar",
+  "englishMeaning": "to weigh",
+  "desc": "to weigh",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "pesando",
+  "participio": "pesado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "peso"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pesas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pesa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pesamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pesan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "pesé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pesaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pesó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pesamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pesaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "pesaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pesabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pesaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pesábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pesaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he pesado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has pesado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha pesado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos pesado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han pesado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había pesado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías pesado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había pesado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos pesado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían pesado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "pesaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pesarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pesará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pesaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pesarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "pesaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pesarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pesaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pesaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pesarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré pesado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás pesado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá pesado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos pesado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán pesado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pese"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "peses"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pesemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pesen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "pesara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pesaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pesara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pesáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pesaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera pesado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras pesado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera pesado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos pesado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran pesado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "pesa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "pese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pesemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "pesen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no peses"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no pese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no pesemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no pesen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, no spelling changes or stem changes",
+    "Not to be confused with **pensar** (to think), which does have an e→ie stem change — **pesar** does not",
+    "Related noun: **el peso** (weight); also the currency name in several Latin American countries",
+    "Common usage: *pesar una maleta* (to weigh a suitcase), *me pesa* (it weighs on me / I regret it — figurative use)"
+  ],
+  "sourceFile": "Verbs/p/Pesar.md"
+}

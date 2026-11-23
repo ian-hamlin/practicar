@@ -1,0 +1,303 @@
+{
+  "id": "f5a4f0f4-0bb7-5477-a49c-374e821591de",
+  "infinitive": "Relajarse",
+  "englishMeaning": "to relax / to unwind / to loosen up",
+  "desc": "to relax / to unwind / to loosen up",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "relajando",
+  "participio": "relajado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me relajo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te relajas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se relaja"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos relajamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se relajan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me relajé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te relajaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se relajó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos relajamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se relajaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me relajaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te relajabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se relajaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos relajábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se relajaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he relajado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has relajado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha relajado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos relajado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han relajado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había relajado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías relajado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había relajado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos relajado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían relajado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me relajaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te relajarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se relajará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos relajaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se relajarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me relajaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te relajarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se relajaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos relajaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se relajarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré relajado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás relajado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá relajado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos relajado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán relajado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me relaje"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te relajes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se relaje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos relajemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se relajen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me relajara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te relajaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se relajara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos relajáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se relajaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera relajado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras relajado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera relajado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos relajado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran relajado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "relájate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "relájese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "relajémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "relájense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te relajes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se relaje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos relajemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se relajen"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular reflexive -AR verb; no spelling changes or stem changes",
+    "Past participle: *relajado*",
+    "*relajarse* = to relax oneself, unwind (*Me relajo escuchando música* — I relax by listening to music)",
+    "Non-reflexive *relajar* = to relax something (*El masaje relaja los músculos* — Massage relaxes the muscles)",
+    "Related: *la relajación* = relaxation; *relajado/a* = relaxed; *relajante* = relaxing"
+  ],
+  "sourceFile": "Verbs/r/Relajarse.md"
+}

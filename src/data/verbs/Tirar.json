@@ -1,0 +1,302 @@
+{
+  "id": "88e92177-fa08-5995-b577-477d659526f2",
+  "infinitive": "Tirar",
+  "englishMeaning": "to throw / to throw away / to pull",
+  "desc": "to throw / to throw away / to pull",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "t",
+  "categoryId": "a163d0db-76b7-5624-8633-200bb9177aae",
+  "gerundio": "tirando",
+  "participio": "tirado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "tiro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tiras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tira"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tiramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tiran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "tiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tiraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tiró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tiramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tiraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "tiraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tirabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tiraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tirábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tiraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he tirado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has tirado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha tirado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos tirado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han tirado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había tirado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías tirado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había tirado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos tirado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían tirado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "tiraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tirarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tirará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tiraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tirarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "tiraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tirarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tiraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tiraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tirarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré tirado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás tirado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá tirado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos tirado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán tirado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "tire"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tires"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tire"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tiren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "tirara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tiraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tirara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tiráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tiraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera tirado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras tirado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera tirado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos tirado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran tirado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "tira"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "tire"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tiremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "tiren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no tires"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no tire"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no tiremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no tiren"
+      }
+    ]
+  },
+  "notes": [
+    "**Tirar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Multiple meanings: to throw, to throw away/out, to pull, to shoot",
+    "Common usage: *tirar la basura* (to throw away the trash), *tirar de* (to pull)",
+    "Reflexive form *tirarse*: to throw oneself, to dive"
+  ],
+  "sourceFile": "Verbs/t/Tirar.md"
+}

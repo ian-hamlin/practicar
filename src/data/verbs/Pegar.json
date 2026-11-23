@@ -1,0 +1,306 @@
+{
+  "id": "63aa2ced-005c-5712-8d5d-319edae31e25",
+  "infinitive": "Pegar",
+  "englishMeaning": "to hit / to stick / to glue / to paste / to give (a blow)",
+  "desc": "to hit / to stick / to glue / to paste / to give (a blow)",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "pegando",
+  "participio": "pegado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pego"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pegas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pega"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pegamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pegan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "pegué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pegaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pegó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pegamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pegaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "pegaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pegabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pegaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pegábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pegaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he pegado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has pegado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha pegado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos pegado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han pegado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había pegado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías pegado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había pegado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos pegado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían pegado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "pegaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pegarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pegará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pegaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pegarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "pegaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pegarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pegaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pegaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pegarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré pegado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás pegado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá pegado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos pegado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán pegado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pegue"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pegues"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pegue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "peguemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "peguen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "pegara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pegaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pegara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pegáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pegaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera pegado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras pegado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera pegado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos pegado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran pegado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "pega"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "pegue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "peguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "peguen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no pegues"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no pegue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no peguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no peguen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with orthographic spelling change: g→gu before *e* (pegué, pegue, peguemos, peguen) to preserve the hard [g] sound",
+    "Same pattern as *llegar*, *pagar*, *jugar*",
+    "Past participle: *pegado*",
+    "*pegar algo* = to stick/glue something (*Pega el sello en el sobre* — Stick the stamp on the envelope)",
+    "*pegar a alguien* = to hit someone (*No pegues a tu hermano* — Don't hit your brother)",
+    "*pegar un grito/salto/susto* = to let out a scream / to jump / to give a fright",
+    "*pegarse* (reflexive) = to stick to each other; to hit oneself; to be catchy (*Esta canción se pega mucho* — This song is very catchy)",
+    "*no pegar ojo* = to not sleep a wink",
+    "Related: *el pegamento* = glue; *pegajoso/a* = sticky, catchy"
+  ],
+  "sourceFile": "Verbs/p/Pegar.md"
+}

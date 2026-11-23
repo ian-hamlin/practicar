@@ -1,0 +1,305 @@
+{
+  "id": "dd4a4956-e37d-5f6d-9fbd-f16b5c5513ba",
+  "infinitive": "Escaparse",
+  "englishMeaning": "to escape, to run away",
+  "desc": "to escape, to run away",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "escapando",
+  "participio": "escapado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me escapo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te escapas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se escapa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos escapamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se escapan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me escapé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te escapaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se escapó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos escapamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se escaparon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me escapaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te escapabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se escapaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos escapábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se escapaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he escapado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has escapado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha escapado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos escapado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han escapado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había escapado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías escapado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había escapado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos escapado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían escapado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me escaparé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te escaparás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se escapará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos escaparemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se escaparán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me escaparía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te escaparías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se escaparía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos escaparíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se escaparían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré escapado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás escapado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá escapado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos escapado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán escapado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me escape"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te escapes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se escape"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos escapemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se escapen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me escapara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te escaparas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se escapara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos escapáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se escaparan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera escapado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras escapado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera escapado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos escapado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran escapado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "escápate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "escápese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escapémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "escápense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te escapes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se escape"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos escapemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se escapen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, reflexive — follows standard endings in every tense, no exceptions.",
+    "Often used with \"de\": *escaparse de casa/de la cárcel* (\"to run away from home/escape from jail\").",
+    "Past participle is regular: **escapado**.",
+    "Imperativo afirmativo reflexive pronouns attach to the end with a written accent to preserve stress (escápate, escápese, escapémonos, escápense); imperativo negativo places them separately in front (no te escapes...).",
+    "*Don Justo se escapó de casa para buscar a su perro.* (\"Don Justo ran away from home to look for his dog.\")",
+    "*El preso se escapó durante la noche.* (\"The prisoner escaped during the night.\")",
+    "Related: *escapar* (non-reflexive, \"to escape,\" used similarly but with slightly less personal emphasis), *la escapada* (escape/getaway, noun), *huir* (synonym, \"to flee\")."
+  ],
+  "sourceFile": "Verbs/e/Escaparse.md"
+}

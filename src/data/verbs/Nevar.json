@@ -1,0 +1,306 @@
+{
+  "id": "23692c60-814a-5469-8907-36793f468547",
+  "infinitive": "Nevar",
+  "englishMeaning": "to snow",
+  "desc": "to snow",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "n",
+  "categoryId": "8779dc62-9f31-5393-b27c-acaee5781ff5",
+  "gerundio": "nevando",
+  "participio": "nevado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "nieve"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "nievas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "nieva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nevamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "nievan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "nevé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "nevaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "nevó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nevamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "nevaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "nevaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "nevabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "nevaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nevábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "nevaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he nevado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has nevado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha nevado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos nevado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han nevado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había nevado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías nevado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había nevado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos nevado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían nevado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "nevaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "nevarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "nevará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nevaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "nevarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "nevaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "nevarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "nevaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nevaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "nevarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré nevado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás nevado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá nevado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos nevado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán nevado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "nieve"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "nieves"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "nieve"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nevemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "neven"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "nevara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "nevaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "nevara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "neváramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "nevaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera nevado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras nevado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera nevado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos nevado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran nevado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "nieva"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "nieve"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nevemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "nieven"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no nieves"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no nieve"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nevemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no nieven"
+      }
+    ]
+  },
+  "notes": [
+    "Impersonal/defective -AR verb with e→ie stem change; in natural usage only the 3rd person singular is used (*nieva* = it is snowing)",
+    "Stem change applies in presente (all forms except nosotros/nosotras): *nieve, nievas, nieva, nievan*",
+    "No stem change in pretérito indefinido (-AR verbs never change in preterite)",
+    "Subjuntivo nosotros reverts to infinitive stem: *nevemos* (not *\\*nievemos*)",
+    "Past participle: nevado (regular)",
+    "*Está nevando* = It is snowing (progressive, more common than *nieva* for ongoing action)",
+    "*Nevó mucho este invierno* = It snowed a lot this winter",
+    "Related: la nieve (snow), el copo de nieve (snowflake), neviscar (to sleet/drizzle snow), llover (to rain)"
+  ],
+  "sourceFile": "Verbs/n/Nevar.md"
+}

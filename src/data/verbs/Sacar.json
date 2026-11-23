@@ -1,0 +1,303 @@
+{
+  "id": "d5a73012-d2c4-51c9-b223-e4b938021a02",
+  "infinitive": "Sacar",
+  "englishMeaning": "to take out / to get / to remove",
+  "desc": "to take out / to get / to remove",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "sacando",
+  "participio": "sacado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "saco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sacas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "saca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sacamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sacan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "saqué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sacaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sacó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sacamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sacaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "sacaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sacabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sacaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sacábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sacaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he sacado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has sacado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha sacado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos sacado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han sacado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había sacado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías sacado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había sacado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos sacado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían sacado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "sacaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sacarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sacará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sacaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sacarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "sacaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sacarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sacaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sacaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sacarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré sacado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás sacado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá sacado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos sacado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán sacado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "saque"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "saques"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "saque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "saquemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "saquen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "sacara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sacaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sacara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sacáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sacaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera sacado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras sacado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera sacado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos sacado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran sacado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "saca"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "saque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "saquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "saquen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no saques"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no saque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no saquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no saquen"
+      }
+    ]
+  },
+  "notes": [
+    "**Sacar** is a regular **-AR verb** with a spelling change",
+    "Spelling change: c→qu before é (saqué, not \"sacé\") - same pattern as explicar",
+    "This spelling change only affects the \"yo\" form in preterite",
+    "Multiple meanings: to take out, to get, to remove, to obtain, to get (grades)",
+    "Common usage: *sacar la basura* (to take out the trash), *sacar fotos* (to take photos), *sacar buenas notas* (to get good grades), *sacar dinero* (to withdraw money)",
+    "Many idiomatic expressions: *sacar a bailar* (to ask to dance), *sacar de quicio* (to drive crazy)"
+  ],
+  "sourceFile": "Verbs/s/Sacar.md"
+}

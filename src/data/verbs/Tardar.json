@@ -1,0 +1,304 @@
+{
+  "id": "67baf37e-ed0f-5789-9d0d-2e8c14ebe9e5",
+  "infinitive": "Tardar",
+  "englishMeaning": "to take (time) / to be long / to delay",
+  "desc": "to take (time) / to be long / to delay",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "t",
+  "categoryId": "a163d0db-76b7-5624-8633-200bb9177aae",
+  "gerundio": "tardando",
+  "participio": "tardado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "tardo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tardas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tarda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tardamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tardan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "tardé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tardaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tardó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tardamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tardaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "tardaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tardabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tardaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tardábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tardaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he tardado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has tardado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha tardado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos tardado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han tardado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había tardado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías tardado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había tardado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos tardado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían tardado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "tardaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tardarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tardará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tardaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tardarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "tardaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tardarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tardaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tardaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tardarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré tardado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás tardado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá tardado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos tardado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán tardado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "tarde"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tardes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tarde"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tardemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tarden"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "tardara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tardaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tardara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tardáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tardaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera tardado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras tardado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera tardado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos tardado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran tardado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "tarda"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "tarde"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tardemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "tarden"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no tardes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no tarde"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no tardemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no tarden"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; no spelling changes or stem changes",
+    "Past participle: *tardado*",
+    "*tardar + time expression*: to take (a duration) — *Tardé dos horas en llegar* — It took me two hours to get there",
+    "*tardar en + infinitive*: to take long to do something — *No tardes en llamarme* — Don't take long to call me",
+    "*¡No tardes!* = Don't be long! / Hurry up!",
+    "*tarde o temprano* = sooner or later (set phrase, not from this verb)",
+    "Distinction: *tardar* (to take time) vs *llegar tarde* (to arrive late)"
+  ],
+  "sourceFile": "Verbs/t/Tardar.md"
+}

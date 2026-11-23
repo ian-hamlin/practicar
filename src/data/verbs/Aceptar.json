@@ -1,0 +1,305 @@
+{
+  "id": "e44ec100-91ad-5bf0-9f22-3f2f566cc964",
+  "infinitive": "Aceptar",
+  "englishMeaning": "to accept",
+  "desc": "to accept",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "aceptando",
+  "participio": "aceptado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "acepto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aceptas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acepta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aceptamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aceptan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "acepté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aceptaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aceptó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aceptamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aceptaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "aceptaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aceptabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aceptaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aceptábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aceptaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he aceptado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has aceptado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha aceptado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos aceptado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han aceptado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había aceptado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías aceptado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había aceptado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos aceptado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían aceptado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "aceptaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aceptarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aceptará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aceptaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aceptarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "aceptaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aceptarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aceptaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aceptaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aceptarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré aceptado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás aceptado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá aceptado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos aceptado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán aceptado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "acepte"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aceptes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acepte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aceptemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acepten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "aceptara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aceptaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aceptara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aceptáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aceptaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera aceptado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras aceptado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera aceptado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos aceptado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran aceptado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "acepta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "acepte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aceptemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "acepten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no aceptes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no acepte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no aceptemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no acepten"
+      }
+    ]
+  },
+  "notes": [
+    "**Aceptar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **aceptado** (regular)",
+    "Common usage: *aceptar una invitación* (to accept an invitation), *aceptar la verdad* (to accept the truth)",
+    "Opposite: **rechazar** (to reject)",
+    "Related noun: **la aceptación** (acceptance)",
+    "Related adjective: **aceptable** (acceptable)",
+    "Expression: *aceptar las consecuencias* (to accept the consequences)"
+  ],
+  "sourceFile": "Verbs/a/Aceptar.md"
+}

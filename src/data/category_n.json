@@ -1,0 +1,78 @@
+{
+  "id": "8779dc62-9f31-5393-b27c-acaee5781ff5",
+  "letter": "n",
+  "count": 7,
+  "verbs": [
+    {
+      "id": "272b487e-c403-5b3d-9710-9f309d5ced87",
+      "infinitive": "Nacer",
+      "desc": "to be born",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Nacer.json"
+    },
+    {
+      "id": "77e5106c-0919-5aa0-a80b-bde8ca75aa17",
+      "infinitive": "Nadar",
+      "desc": "to swim",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Nadar.json"
+    },
+    {
+      "id": "ae029feb-5172-5867-ac3b-12a8e13e31b7",
+      "infinitive": "Naufragar",
+      "desc": "to be shipwrecked / to sink",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Naufragar.json"
+    },
+    {
+      "id": "f835092c-cf3d-5588-a8c7-f14b4e91e04e",
+      "infinitive": "Navegar",
+      "desc": "to navigate, to sail",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Navegar.json"
+    },
+    {
+      "id": "ac98f9cd-11ff-53d4-85e8-77a8776ff95f",
+      "infinitive": "Necesitar",
+      "desc": "to need",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Necesitar.json"
+    },
+    {
+      "id": "5e06afd4-4bbd-556a-890c-da9077b3394f",
+      "infinitive": "Negociar",
+      "desc": "to negotiate",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Negociar.json"
+    },
+    {
+      "id": "23692c60-814a-5469-8907-36793f468547",
+      "infinitive": "Nevar",
+      "desc": "to snow",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Nevar.json"
+    }
+  ]
+}

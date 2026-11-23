@@ -1,0 +1,302 @@
+{
+  "id": "634874eb-26e9-5267-8e9a-31c2fb6a5c7f",
+  "infinitive": "Disfrutar",
+  "englishMeaning": "to enjoy",
+  "desc": "to enjoy",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "disfrutando",
+  "participio": "disfrutado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "disfruto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "disfrutas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "disfruta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "disfrutamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "disfrutan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "disfruté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "disfrutaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "disfrutó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "disfrutamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "disfrutaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "disfrutaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "disfrutabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "disfrutaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "disfrutábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "disfrutaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he disfrutado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has disfrutado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha disfrutado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos disfrutado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han disfrutado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había disfrutado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías disfrutado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había disfrutado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos disfrutado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían disfrutado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "disfrutaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "disfrutarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "disfrutará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "disfrutaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "disfrutarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "disfrutaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "disfrutarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "disfrutaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "disfrutaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "disfrutarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré disfrutado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás disfrutado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá disfrutado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos disfrutado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán disfrutado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "disfrute"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "disfrutes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "disfrute"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "disfrutemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "disfruten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "disfrutara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "disfrutaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "disfrutara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "disfrutáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "disfrutaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera disfrutado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras disfrutado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera disfrutado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos disfrutado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran disfrutado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "disfruta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "disfrute"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "disfrutemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "disfruten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no disfrutes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no disfrute"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no disfrutemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no disfruten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard endings in every tense, no exceptions.",
+    "Often used with \"de\" + noun: *disfrutar de las vacaciones* (\"to enjoy the vacation\"), though it's also common without \"de\" before a direct object: *disfrutar la comida*.",
+    "*Espero que disfrutes tu viaje.* (\"I hope you enjoy your trip.\")",
+    "*Disfrutamos mucho de la fiesta anoche.* (\"We really enjoyed the party last night.\")",
+    "Related: *el disfrute* (enjoyment, noun), *disfrutable* (enjoyable, adjective, less common), *pasarlo bien* (synonym phrase, \"to have a good time\")."
+  ],
+  "sourceFile": "Verbs/d/Disfrutar.md"
+}

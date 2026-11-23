@@ -1,0 +1,309 @@
+{
+  "id": "6703366a-c287-59a6-aeb2-1bda57d2bf13",
+  "infinitive": "Irse",
+  "englishMeaning": "to go away, to leave, to go off",
+  "desc": "to go away, to leave, to go off",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive"
+  ],
+  "letter": "i",
+  "categoryId": "50ce3e0b-61b3-530c-8b6a-399ede02b6b5",
+  "gerundio": "yendo",
+  "participio": "ido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me voy"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te vas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se va"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos vamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se van"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me fui"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te fuiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se fue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos fuimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se fueron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me iba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te ibas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se iba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos íbamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se iban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he ido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has ido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha ido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos ido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han ido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había ido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías ido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había ido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos ido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían ido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me iré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te irás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se irá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos iremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se irán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me iría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te irías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se iría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos iríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se irían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré ido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás ido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá ido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos ido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán ido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me vaya"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te vayas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se vaya"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos vayamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se vayan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me fuera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te fueras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se fuera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos fuéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se fueran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera ido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras ido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera ido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos ido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran ido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "vete"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "váyase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vámonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "váyanse"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te vayas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se vaya"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos vayamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se vayan"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive form of *ir* (to go). Completely irregular — one of the most irregular verbs in Spanish.",
+    "Presente: entirely suppletive (*voy, vas, va, vamos, van*) — shares forms with *ir*.",
+    "Pretérito Indefinido: also suppletive, same forms as *ser* (*fui, fuiste, fue, fuimos, fueron*).",
+    "Pretérito Imperfecto: *iba, ibas, iba, íbamos, iban* — accent on nosotros form only.",
+    "Past participle: ***ido***.",
+    "Reflexive pronouns (me/te/se/nos/se) always precede the conjugated verb.",
+    "*¡Me voy!* (I'm leaving!)",
+    "*Se fue sin decir adiós.* (He left without saying goodbye.)",
+    "*¿A qué hora te vas mañana?* (What time are you leaving tomorrow?)",
+    "*Se nos fue la luz.* (The power went out on us.)",
+    "Related: *ir* (to go — non-reflexive), *la ida* (outward journey), *de ida y vuelta* (return/round trip)"
+  ],
+  "sourceFile": "Verbs/i/Irse.md"
+}

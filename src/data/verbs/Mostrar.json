@@ -1,0 +1,304 @@
+{
+  "id": "92e73547-02b7-5012-a482-db5c895185bb",
+  "infinitive": "Mostrar",
+  "englishMeaning": "to show",
+  "desc": "to show",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "m",
+  "categoryId": "c342e4a9-b5da-540a-927d-ccca901fb9ff",
+  "gerundio": "mostrando",
+  "participio": "mostrado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "muestro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "muestras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "muestra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mostramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "muestran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "mostré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mostraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mostró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mostramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mostraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "mostraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mostrabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mostraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mostrábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mostraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he mostrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has mostrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha mostrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos mostrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han mostrado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había mostrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías mostrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había mostrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos mostrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían mostrado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "mostraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mostrarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mostrará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mostraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mostrarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "mostraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mostrarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mostraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mostraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mostrarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré mostrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás mostrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá mostrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos mostrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán mostrado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "muestre"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "muestres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "muestre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mostremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "muestren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "mostrara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mostraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mostrara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mostráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mostraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera mostrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras mostrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera mostrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos mostrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran mostrado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "muestra"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "muestre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mostremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "muestren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no muestres"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no muestre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no mostremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no muestren"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with o→ue stem change in Presente",
+    "Stem changes in yo, tú, él/ella/usted, ellos/ellas/ustedes — NOT nosotros/nosotras (mostramos)",
+    "No stem change in Pretérito Indefinido, Imperfecto, Futuro, or Condicional",
+    "Past participle: mostrado (regular)",
+    "Often used with indirect object pronouns: mostrarle algo a alguien = to show something to someone",
+    "Similar to \"enseñar\" but mostrar is more about displaying/demonstrating"
+  ],
+  "sourceFile": "Verbs/m/Mostrar.md"
+}

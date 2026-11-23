@@ -1,0 +1,303 @@
+{
+  "id": "cde912ad-0073-54ec-9397-d15be7d8b3bb",
+  "infinitive": "Traducir",
+  "englishMeaning": "to translate",
+  "desc": "to translate",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "t",
+  "categoryId": "a163d0db-76b7-5624-8633-200bb9177aae",
+  "gerundio": "traduciendo",
+  "participio": "traducido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "traduzco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "traduces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "traduce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "traducimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "traducen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "traduje"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tradujiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tradujo"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tradujimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tradujeron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "traducía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "traducías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "traducía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "traducíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "traducían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he traducido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has traducido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha traducido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos traducido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han traducido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había traducido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías traducido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había traducido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos traducido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían traducido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "traduciré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "traducirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "traducirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "traduciremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "traducirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "traduciría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "traducirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "traduciría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "traduciríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "traducirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré traducido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás traducido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá traducido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos traducido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán traducido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "traduzca"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "traduzcas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "traduzca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "traduzcamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "traduzcan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "tradujera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tradujeras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tradujera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tradujéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tradujeran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera traducido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras traducido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera traducido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos traducido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran traducido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "traduce"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "traduzca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "traduzcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "traduzcan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no traduzcas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no traduzca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no traduzcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no traduzcan"
+      }
+    ]
+  },
+  "notes": [
+    "Irregular -IR verb, part of the **-ducir** family (conducir, producir, reducir, traducir...)",
+    "Presente yo form takes **-zco** (traduzco, not \"traduco\"); this irregular stem \"traduzc-\" carries through the entire subjuntivo presente (traduzca, traduzcas...)",
+    "Pretérito indefinido uses the strong stem **traduj-** with the special ending set (-e, -iste, -o, -imos, -eron — note no \"i\" before \"eron\", unlike regular -ir verbs)",
+    "Regular past participle: **traducido**",
+    "Related noun: **la traducción** (translation), **el traductor/la traductora** (translator)",
+    "Common usage: *traducir del inglés al español* (to translate from English to Spanish)"
+  ],
+  "sourceFile": "Verbs/t/Traducir.md"
+}

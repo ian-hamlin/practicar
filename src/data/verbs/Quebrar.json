@@ -1,0 +1,305 @@
+{
+  "id": "072081e9-93c2-54e1-a1de-82de057740ca",
+  "infinitive": "Quebrar",
+  "englishMeaning": "to break",
+  "desc": "to break",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "q",
+  "categoryId": "2dc93897-6e3f-576d-9505-469391d25e18",
+  "gerundio": "quebrando",
+  "participio": "quebrado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "quiebro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quiebras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quiebra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quebramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quiebran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "quebré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quebraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quebró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quebramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quebraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "quebraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quebrabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quebraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quebrábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quebraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he quebrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has quebrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha quebrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos quebrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han quebrado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había quebrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías quebrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había quebrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos quebrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían quebrado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "quebraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quebrarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quebrará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quebraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quebrarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "quebraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quebrarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quebraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quebraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quebrarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré quebrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás quebrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá quebrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos quebrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán quebrado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "quiebre"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quiebres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quiebre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quebremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quiebren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "quebrara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quebraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quebrara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quebráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quebraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera quebrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras quebrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera quebrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos quebrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran quebrado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "quiebra"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "quiebre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quebremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "quiebren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no quiebres"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no quiebre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no quebremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no quiebren"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with e→ie stem change; classified as irregular due to the stem change",
+    "The stem change **e→ie** applies in the present tense for all subjects *except* nosotros/nosotras: *quiebro, quiebras, quiebra, quiebran*",
+    "No stem change in the preterite, imperfect, future, or conditional",
+    "Regular past participle: *quebrado*",
+    "Common usage: *quebrar un hueso* (to break a bone), *quebrar un vaso* (to break a glass)",
+    "Also used in business/financial contexts: *la empresa quebró* (the company went bankrupt/broke)",
+    "Related: *quebrarse* (reflexive — to break, to fracture); *quebrantado* (broken/worn down)"
+  ],
+  "sourceFile": "Verbs/q/Quebrar.md"
+}

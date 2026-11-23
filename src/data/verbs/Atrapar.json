@@ -1,0 +1,302 @@
+{
+  "id": "ad3a0e6c-f6a7-5472-9a2c-e09ae8d100ea",
+  "infinitive": "Atrapar",
+  "englishMeaning": "to catch, to trap",
+  "desc": "to catch, to trap",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "atrapando",
+  "participio": "atrapado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "atrapo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atrapas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atrapa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atrapamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atrapan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "atrapé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atrapaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atrapó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atrapamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atraparon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "atrapaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atrapabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atrapaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atrapábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atrapaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he atrapado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has atrapado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha atrapado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos atrapado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han atrapado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había atrapado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías atrapado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había atrapado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos atrapado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían atrapado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "atraparé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atraparás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atrapará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atraparemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atraparán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "atraparía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atraparías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atraparía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atraparíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atraparían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré atrapado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás atrapado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá atrapado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos atrapado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán atrapado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "atrape"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atrapes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atrape"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atrapemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atrapen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "atrapara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atraparas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atrapara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atrapáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atraparan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera atrapado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras atrapado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera atrapado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos atrapado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran atrapado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "atrapa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "atrape"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atrapemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "atrapen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no atrapes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no atrape"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no atrapemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no atrapen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *atrapado* (regular)",
+    "Means \"to catch\" or \"to trap\" — *atrapar una pelota* (to catch a ball), *el ratón quedó atrapado* (the mouse got trapped)",
+    "Also used figuratively for being captivated: *esa canción me atrapó desde el principio* (that song captivated me from the start)",
+    "Related: *trampa* (trap, noun — same root), *atrapado/a* (trapped, caught)"
+  ],
+  "sourceFile": "Verbs/a/Atrapar.md"
+}

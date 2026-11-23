@@ -1,0 +1,304 @@
+{
+  "id": "57e67076-8be3-58a9-9a71-5147903243f7",
+  "infinitive": "Crecer",
+  "englishMeaning": "to grow / to grow up",
+  "desc": "to grow / to grow up",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "creciendo",
+  "participio": "crecido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "crezco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "creces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "crece"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "crecemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "crecen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "crecí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "creciste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "creció"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "crecimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "crecieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "crecía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "crecías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "crecía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "crecíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "crecían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he crecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has crecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha crecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos crecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han crecido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había crecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías crecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había crecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos crecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían crecido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "creceré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "crecerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "crecerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "creceremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "crecerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "crecería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "crecerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "crecería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "creceríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "crecerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré crecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás crecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá crecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos crecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán crecido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "crezca"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "crezcas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "crezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "crezcamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "crezcan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "creciera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "crecieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "creciera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "creciéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "crecieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera crecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras crecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera crecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos crecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran crecido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "crece"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "crezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "crezcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "crezcan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no crezcas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no crezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no crezcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no crezcan"
+      }
+    ]
+  },
+  "notes": [
+    "**Crecer** is an -ER verb with irregular \"yo\" form in present",
+    "Present: irregular \"yo\" form (crezco) with spelling change c→zc before o",
+    "Preterite: regular -ER endings",
+    "Imperfect: regular -ER pattern",
+    "Used for physical growth (people, plants, things) and figurative growth (economy, population)",
+    "Common usage: *Los niños crecen rápido* (Children grow fast), *Crecí en Argentina* (I grew up in Argentina)",
+    "Same conjugation pattern as **parecer** and **conocer**"
+  ],
+  "sourceFile": "Verbs/c/Crecer.md"
+}

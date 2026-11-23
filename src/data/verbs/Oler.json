@@ -1,0 +1,305 @@
+{
+  "id": "8501c9a9-2bbc-5fe7-86c8-406277f99fc8",
+  "infinitive": "Oler",
+  "englishMeaning": "to smell",
+  "desc": "to smell",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "o",
+  "categoryId": "17ab56ce-480a-5e1b-b55d-16eaabe765bf",
+  "gerundio": "oliendo",
+  "participio": "olido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "huelo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hueles"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "huele"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "olemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "huelen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "olí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "oliste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "olió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "olimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "olieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "olía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "olías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "olía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "olíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "olían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he olido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has olido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha olido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos olido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han olido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había olido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías olido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había olido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos olido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían olido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "oleré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "olerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "olerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "oleremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "olerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "olería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "olerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "olería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "oleríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "olerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré olido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás olido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá olido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos olido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán olido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "huela"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "huelas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "huela"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "olamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "huelan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "oliera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "olieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "oliera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "oliéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "olieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera olido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras olido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera olido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos olido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran olido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "huele"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "huela"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "olamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "huelan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no huelas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no huela"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no olamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no huelan"
+      }
+    ]
+  },
+  "notes": [
+    "Irregular -ER verb: o→hue stem change in stressed syllables (unique: adds h before ue)",
+    "Stem changes in: Presente (yo/tú/él/ellos) and Subjuntivo Presente (yo/tú/él/ellos); nosotros/nosotras keeps base stem *ol-*",
+    "Past participle: olido (regular)",
+    "*Oler a* = to smell of/like: *Huele a pan recién hecho* = It smells of freshly baked bread",
+    "*Oler bien/mal* = to smell good/bad",
+    "*Me huele que...* = I have a feeling that... (figurative)",
+    "Related: el olor (smell), oloroso (fragrant), el olfato (sense of smell)"
+  ],
+  "sourceFile": "Verbs/o/Oler.md"
+}

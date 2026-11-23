@@ -1,0 +1,305 @@
+{
+  "id": "d474c020-415c-58cb-bc19-40e8735b4457",
+  "infinitive": "Atender",
+  "englishMeaning": "to attend to, to serve, to look after",
+  "desc": "to attend to, to serve, to look after",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "atendiendo",
+  "participio": "atendido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "atiendo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atiendes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atiende"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atendemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atienden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "atendí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atendiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atendió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atendimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atendieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "atendía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atendías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atendía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atendíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atendían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he atendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has atendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha atendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos atendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han atendido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había atendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías atendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había atendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos atendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían atendido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "atenderé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atenderás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atenderá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atenderemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atenderán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "atendería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atenderías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atendería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atenderíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atenderían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré atendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás atendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá atendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos atendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán atendido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "atienda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atiendas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atienda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atendamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atiendan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "atendiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atendieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atendiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atendiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atendieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera atendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras atendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera atendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos atendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran atendido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "atiende"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "atienda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atendamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "atiendan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no atiendas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no atienda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no atendamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no atiendan"
+      }
+    ]
+  },
+  "notes": [
+    "Irregular -ER verb: e→ie stem change in stressed syllables",
+    "Stem changes in: Presente (yo/tú/él/ellos) and Subjuntivo Presente (yo/tú/él/ellos); nosotros/nosotras keeps base stem *atend-*",
+    "Past participle: atendido (regular)",
+    "*Atender a alguien* = to serve/look after someone: *No soporto que me atiendan mal* = I can't stand being served badly",
+    "*Atender el teléfono* = to answer the phone",
+    "*Atender a una reunión* = to attend a meeting (more formal than *asistir*)",
+    "Related: la atención (attention), atento (attentive), el/la dependiente (shop assistant)"
+  ],
+  "sourceFile": "Verbs/a/Atender.md"
+}

@@ -1,0 +1,304 @@
+{
+  "id": "d1ffd319-494b-5904-bd4b-83ab9ee78c82",
+  "infinitive": "Encender",
+  "englishMeaning": "to turn on / to light",
+  "desc": "to turn on / to light",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "encendiendo",
+  "participio": "encendido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "enciendo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enciendes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enciende"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "encendemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "encienden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "encendí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "encendiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "encendió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "encendimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "encendieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "encendía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "encendías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "encendía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "encendíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "encendían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he encendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has encendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha encendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos encendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han encendido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había encendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías encendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había encendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos encendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían encendido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "encenderé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "encenderás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "encenderá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "encenderemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "encenderán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "encendería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "encenderías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "encendería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "encenderíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "encenderían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré encendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás encendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá encendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos encendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán encendido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "encienda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enciendas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "encienda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "encendamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enciendan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "encendiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "encendieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "encendiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "encendiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "encendieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera encendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras encendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera encendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos encendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran encendido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "enciende"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "encienda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "encendamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "enciendan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no enciendas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no encienda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no encendamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no enciendan"
+      }
+    ]
+  },
+  "notes": [
+    "**Encender** is a stem-changing verb: e→ie",
+    "Present: stem change e→ie (except nosotros)",
+    "Preterite: regular -ER endings, NO stem change",
+    "Imperfect: regular -ER pattern, NO stem change",
+    "Opposite of **apagar** (to turn off)",
+    "Same pattern as **cerrar, despertar**"
+  ],
+  "sourceFile": "Verbs/e/Encender.md"
+}

@@ -1,0 +1,303 @@
+{
+  "id": "61c382ef-3490-5f05-aa24-af404abf6a1a",
+  "infinitive": "Encomendar",
+  "englishMeaning": "to entrust, to assign",
+  "desc": "to entrust, to assign",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "encomendando",
+  "participio": "encomendado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "encomiendo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "encomiendas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "encomienda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "encomendamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "encomiendan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "encomendé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "encomendaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "encomendó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "encomendamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "encomendaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "encomendaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "encomendabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "encomendaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "encomendábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "encomendaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he encomendado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has encomendado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha encomendado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos encomendado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han encomendado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había encomendado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías encomendado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había encomendado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos encomendado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían encomendado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "encomendaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "encomendarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "encomendará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "encomendaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "encomendarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "encomendaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "encomendarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "encomendaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "encomendaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "encomendarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré encomendado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás encomendado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá encomendado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos encomendado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán encomendado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "encomiende"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "encomiendes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "encomiende"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "encomendemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "encomienden"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "encomendara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "encomendaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "encomendara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "encomendáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "encomendaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera encomendado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras encomendado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera encomendado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos encomendado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran encomendado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "encomienda"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "encomiende"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "encomendemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "encomienden"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no encomiendes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no encomiende"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no encomendemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no encomienden"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with an e→ie stem change in the stressed syllables: presente (all but nosotros/nosotras), subjuntivo presente (all but nosotros/nosotras), and imperativo afirmativo tú/usted/ustedes forms. Nosotros/nosotras always reverts to the unstressed stem (encomendamos, encomendemos).",
+    "Past participle is regular: **encomendado**.",
+    "*Al Juzgado se le encomienda la investigación.* (\"The Court is entrusted with the investigation.\")",
+    "*Le encomendaron la tarea más difícil.* (\"They assigned him/her the hardest task.\")",
+    "Related: *la encomienda* (assignment/parcel, noun), *encargar* (near-synonym, \"to entrust/order\"), *confiar* (broader synonym, \"to trust\")."
+  ],
+  "sourceFile": "Verbs/e/Encomendar.md"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "0c6cef76-6cf7-5b31-b026-9ab8996fbcd1",
+  "letter": "b",
+  "count": 8,
+  "verbs": [
+    {
+      "id": "dce24be1-57b5-599a-a83d-ebe8f474b901",
+      "infinitive": "Bailar",
+      "desc": "to dance",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Bailar.json"
+    },
+    {
+      "id": "8d75da09-c418-5be1-917e-ec3d62eaebef",
+      "infinitive": "Bajar",
+      "desc": "to lower / to go down / to download",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Bajar.json"
+    },
+    {
+      "id": "ac7f00fc-e3f1-5c24-abef-51740422ddfe",
+      "infinitive": "Bañar",
+      "desc": "to bathe (someone/something)",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Bañar.json"
+    },
+    {
+      "id": "2e525ebc-ee24-5bae-951b-e0c9f29ba0c5",
+      "infinitive": "Barrer",
+      "desc": "to sweep",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Barrer.json"
+    },
+    {
+      "id": "a49f3cee-5598-5038-9714-15332e5f7d44",
+      "infinitive": "Basarse",
+      "desc": "to be based (on)",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Basarse.json"
+    },
+    {
+      "id": "adc50cf6-1b2a-508e-add0-5936d829f8d5",
+      "infinitive": "Batir",
+      "desc": "to beat / to whisk / to whip / to defeat",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Batir.json"
+    },
+    {
+      "id": "a272fa40-c147-5f9e-ac3a-9a239438d6cd",
+      "infinitive": "Beber",
+      "desc": "to drink",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Beber.json"
+    },
+    {
+      "id": "48d76037-8431-551a-be80-aa9af6fa9f75",
+      "infinitive": "Buscar",
+      "desc": "to search/to look for",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Buscar.json"
+    }
+  ]
+}

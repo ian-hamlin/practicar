@@ -1,0 +1,301 @@
+{
+  "id": "b0a18ff4-5a28-5bcc-83ff-57b9fbb9f386",
+  "infinitive": "Llegar",
+  "englishMeaning": "to arrive / to reach",
+  "desc": "to arrive / to reach",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "l",
+  "categoryId": "fa5b6027-a511-5f12-980d-687e3e083fde",
+  "gerundio": "llegando",
+  "participio": "llegado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "llego"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "llegas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llega"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "llegamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "llegan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "llegué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "llegaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llegó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "llegamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "llegaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "llegaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "llegabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llegaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "llegábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "llegaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he llegado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has llegado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha llegado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos llegado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han llegado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había llegado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías llegado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había llegado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos llegado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían llegado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "llegaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "llegarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llegará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "llegaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "llegarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "llegaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "llegarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llegaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "llegaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "llegarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré llegado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás llegado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá llegado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos llegado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán llegado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "llegue"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "llegues"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llegue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lleguemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lleguen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "llegara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "llegaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llegara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "llegáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "llegaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera llegado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras llegado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera llegado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos llegado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran llegado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "llega"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "llegue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lleguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "lleguen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no llegues"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no llegue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no lleguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no lleguen"
+      }
+    ]
+  },
+  "notes": [
+    "**Llegar** is a regular **-AR verb** with a spelling change",
+    "Spelling change: g→gu before é (llegué, not \"llegé\") - same pattern as apagar, naufragar",
+    "This spelling change only affects the \"yo\" form in preterite",
+    "Often used with \"a\": *llegar a casa* (to arrive home), *llegar a ser* (to become)"
+  ],
+  "sourceFile": "Verbs/l/Llegar.md"
+}

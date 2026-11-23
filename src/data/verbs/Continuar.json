@@ -1,0 +1,303 @@
+{
+  "id": "4916e292-d1dc-5eaf-92f9-133185edff0d",
+  "infinitive": "Continuar",
+  "englishMeaning": "to continue",
+  "desc": "to continue",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "continuando",
+  "participio": "continuado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "continúo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "continúas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "continúa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "continuamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "continúan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "continué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "continuaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "continuó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "continuamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "continuaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "continuaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "continuabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "continuaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "continuábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "continuaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he continuado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has continuado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha continuado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos continuado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han continuado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había continuado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías continuado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había continuado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos continuado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían continuado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "continuaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "continuarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "continuará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "continuaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "continuarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "continuaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "continuarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "continuaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "continuaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "continuarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré continuado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás continuado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá continuado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos continuado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán continuado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "continúe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "continúes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "continúe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "continúemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "continúen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "continuara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "continuaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "continuara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "continuáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "continuaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera continuado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras continuado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera continuado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos continuado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran continuado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "continúa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "continúe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "continúemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "continúen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no continúes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no continúe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no continúemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no continúen"
+      }
+    ]
+  },
+  "notes": [
+    "**Continuar** is a regular -AR verb with accent marks",
+    "**Important**: Accent on ú in present tense (except nosotros): continúo, continúas, continúa, continúan",
+    "No accent in nosotros form: continuamos",
+    "Past participle: continuado (continued)",
+    "Common usage: *continuar trabajando* (to continue working), *continuar con algo* (to continue with something)",
+    "Similar pattern to other -uar verbs like actuar, graduar"
+  ],
+  "sourceFile": "Verbs/c/Continuar.md"
+}

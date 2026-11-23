@@ -1,0 +1,302 @@
+{
+  "id": "f18ab38c-8885-5d88-9c38-2a11c89d22c6",
+  "infinitive": "Ascender",
+  "englishMeaning": "to ascend, to climb, to promote",
+  "desc": "to ascend, to climb, to promote",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "ascendiendo",
+  "participio": "ascendido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "asciendo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asciendes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asciende"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ascendemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ascienden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "ascendí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ascendiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ascendió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ascendimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ascendieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "ascendía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ascendías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ascendía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ascendíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ascendían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he ascendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has ascendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha ascendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos ascendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han ascendido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había ascendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías ascendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había ascendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos ascendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían ascendido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "ascenderé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ascenderás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ascenderá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ascenderemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ascenderán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "ascendería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ascenderías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ascendería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ascenderíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ascenderían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré ascendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás ascendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá ascendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos ascendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán ascendido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ascienda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asciendas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ascienda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ascendamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asciendan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "ascendiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ascendieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ascendiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ascendiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ascendieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera ascendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras ascendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera ascendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos ascendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran ascendido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "asciende"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "ascienda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ascendamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "asciendan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no asciendas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no ascienda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no ascendamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no asciendan"
+      }
+    ]
+  },
+  "notes": [
+    "Irregular -ER verb with an *e→ie* stem change (same pattern as *entender*, *encender*): the stressed *e* becomes *ie* everywhere except nosotros/nosotras and the Pretérito Indefinido/Imperfecto/Futuro/Condicional, which stay fully regular",
+    "Past participle: *ascendido* (regular)",
+    "Two common senses: literal \"to ascend/climb\" — *el humo asciende* (the smoke rises), *ascender la montaña* (to climb the mountain) — and figurative \"to be promoted\" — *lo ascendieron a director* (he was promoted to director)",
+    "Related: *ascenso* (promotion, ascent), *ascensor* (elevator), *descender* (to descend — opposite, same stem-change pattern)"
+  ],
+  "sourceFile": "Verbs/a/Ascender.md"
+}

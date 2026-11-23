@@ -1,0 +1,57 @@
+{
+  "id": "fae8d62e-db69-5528-b693-9f8b68737a41",
+  "letter": "h",
+  "count": 5,
+  "verbs": [
+    {
+      "id": "dcb120ea-586b-52b6-a3a6-699be046bb14",
+      "infinitive": "Haber",
+      "desc": "to have - auxiliary / there is/are",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Haber.json"
+    },
+    {
+      "id": "ba629ce2-37b0-5652-a545-b62f54b40ab2",
+      "infinitive": "Hablar",
+      "desc": "to speak, to talk",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Hablar.json"
+    },
+    {
+      "id": "0b0485cd-c457-527e-a1c8-a5b5f457f8ca",
+      "infinitive": "Hacer",
+      "desc": "to do / to make",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Hacer.json"
+    },
+    {
+      "id": "b3fd0929-ce04-5210-88c4-151fcb7e5338",
+      "infinitive": "Hallar",
+      "desc": "to find",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Hallar.json"
+    },
+    {
+      "id": "8578a104-a82f-5f1e-bc73-6d36db6e7b39",
+      "infinitive": "Huir",
+      "desc": "to flee / to escape / to run away",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Huir.json"
+    }
+  ]
+}

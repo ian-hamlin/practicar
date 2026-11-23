@@ -1,0 +1,301 @@
+{
+  "id": "2e525ebc-ee24-5bae-951b-e0c9f29ba0c5",
+  "infinitive": "Barrer",
+  "englishMeaning": "to sweep",
+  "desc": "to sweep",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "b",
+  "categoryId": "0c6cef76-6cf7-5b31-b026-9ab8996fbcd1",
+  "gerundio": "barriendo",
+  "participio": "barrido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "barro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "barres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "barre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "barremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "barren"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "barrí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "barriste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "barrió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "barrimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "barrieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "barría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "barrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "barría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "barríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "barrían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he barrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has barrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha barrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos barrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han barrido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había barrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías barrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había barrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos barrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían barrido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "barreré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "barrerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "barrerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "barreremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "barrerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "barrería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "barrerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "barrería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "barreríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "barrerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré barrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás barrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá barrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos barrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán barrido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "barra"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "barras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "barra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "barramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "barran"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "barriera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "barrieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "barriera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "barriéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "barrieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera barrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras barrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera barrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos barrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran barrido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "barre"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "barra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "barramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "barran"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no barras"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no barra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no barramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no barran"
+      }
+    ]
+  },
+  "notes": [
+    "**Barrer** is a regular **-ER verb**",
+    "No spelling changes or stem changes",
+    "Common usage: *barrer el piso* (to sweep the floor), *barrer el suelo* (to sweep the ground)",
+    "Related noun: **la escoba** (the broom)"
+  ],
+  "sourceFile": "Verbs/b/Barrer.md"
+}

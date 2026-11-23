@@ -1,0 +1,307 @@
+{
+  "id": "7edc061a-abd1-5771-9f42-9f1ff8f6b9c5",
+  "infinitive": "Ir",
+  "englishMeaning": "to go",
+  "desc": "to go",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "i",
+  "categoryId": "50ce3e0b-61b3-530c-8b6a-399ede02b6b5",
+  "gerundio": "yendo",
+  "participio": "ido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "voy"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "va"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "van"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "fui"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "fuiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "fue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fuimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "fueron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "iba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ibas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "iba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "íbamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "iban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he ido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has ido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha ido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos ido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han ido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había ido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías ido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había ido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos ido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían ido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "iré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "irás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "irá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "iremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "irán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "iría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "irías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "iría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "iríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "irían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré ido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás ido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá ido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos ido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán ido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "vaya"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vayas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vaya"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vayamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vayan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "fuera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "fueras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "fuera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fuéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "fueran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera ido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras ido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera ido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos ido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran ido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "ve"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "vaya"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "vayan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no vayas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no vaya"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no vayamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no vayan"
+      }
+    ]
+  },
+  "notes": [
+    "**Ir** is completely irregular in all tenses",
+    "Preterite forms are identical to **ser** (fui, fuiste, fue, fuimos, fueron)",
+    "Context determines meaning: *Fui al parque* (I went) vs *Fui estudiante* (I was)",
+    "Imperfect has a unique pattern with the stem \"ib-\"",
+    "Past participle: **ido** (gone)",
+    "Future: regular endings attached to stem \"ir-\"",
+    "Condicional: regular conditional endings attached to stem \"ir-\"",
+    "Often used with \"a\" + infinitive to express near future: *Voy a estudiar* (I'm going to study)",
+    "Common usage: *ir de compras* (to go shopping), *ir a pie* (to go on foot)",
+    "Opposite: **venir** (to come)"
+  ],
+  "sourceFile": "Verbs/i/Ir.md"
+}

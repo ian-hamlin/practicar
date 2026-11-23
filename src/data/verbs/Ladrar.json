@@ -1,0 +1,302 @@
+{
+  "id": "36422094-178e-5cf9-bf27-8f0192538a44",
+  "infinitive": "Ladrar",
+  "englishMeaning": "to bark",
+  "desc": "to bark",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "l",
+  "categoryId": "fa5b6027-a511-5f12-980d-687e3e083fde",
+  "gerundio": "ladrando",
+  "participio": "ladrado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ladro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ladras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ladra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ladramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ladran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "ladré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ladraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ladró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ladramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ladraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "ladraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ladrabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ladraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ladrábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ladraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he ladrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has ladrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha ladrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos ladrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han ladrado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había ladrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías ladrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había ladrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos ladrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían ladrado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "ladraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ladrarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ladrará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ladraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ladrarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "ladraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ladrarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ladraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ladraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ladrarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré ladrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás ladrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá ladrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos ladrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán ladrado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ladre"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ladres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ladre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ladremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ladren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "ladrara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ladraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ladrara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ladráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ladraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera ladrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras ladrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera ladrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos ladrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran ladrado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "ladra"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "ladre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ladremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "ladren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no ladres"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no ladre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no ladremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no ladren"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; follows standard endings throughout",
+    "Past participle: ladrado (regular)",
+    "*El perro ladra cuando oye ruidos* = The dog barks when it hears noises",
+    "*Perro que ladra no muerde* = His bark is worse than his bite (lit. a barking dog doesn't bite)",
+    "Related: el ladrido (bark/barking), el perro (dog)"
+  ],
+  "sourceFile": "Verbs/l/Ladrar.md"
+}

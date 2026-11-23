@@ -1,0 +1,305 @@
+{
+  "id": "e86e7c1e-a8e1-5ede-b7cb-4227c43bd191",
+  "infinitive": "Contestar",
+  "englishMeaning": "to answer / to reply / to respond",
+  "desc": "to answer / to reply / to respond",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "contestando",
+  "participio": "contestado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "contesto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "contestas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "contesta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contestamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "contestan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "contesté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "contestaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "contestó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contestamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "contestaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "contestaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "contestabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "contestaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contestábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "contestaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he contestado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has contestado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha contestado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos contestado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han contestado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había contestado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías contestado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había contestado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos contestado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían contestado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "contestaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "contestarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "contestará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contestaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "contestarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "contestaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "contestarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "contestaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contestaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "contestarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré contestado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás contestado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá contestado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos contestado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán contestado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "conteste"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "contestes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conteste"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contestemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "contesten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "contestara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "contestaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "contestara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contestáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "contestaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera contestado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras contestado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera contestado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos contestado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran contestado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "contesta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "conteste"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contestemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "contesten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no contestes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no conteste"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no contestemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no contesten"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; no spelling changes or stem changes",
+    "Past participle: *contestado*",
+    "*contestar (a) algo* = to answer something (*Contesta la pregunta* — Answer the question)",
+    "*contestar al teléfono* = to answer the phone",
+    "*contestar un mensaje/correo* = to reply to a message/email",
+    "*contestar a alguien* = to talk back to someone (*No me contestes así* — Don't talk back to me like that)",
+    "Synonym: *responder* (slightly more formal)",
+    "Related: *la contestación* = answer, reply; *el contestador (automático)* = answering machine"
+  ],
+  "sourceFile": "Verbs/c/Contestar.md"
+}

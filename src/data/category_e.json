@@ -1,0 +1,505 @@
+{
+  "id": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "letter": "e",
+  "count": 48,
+  "verbs": [
+    {
+      "id": "f6606ce4-0778-5056-8154-8594e93d99b6",
+      "infinitive": "Echar",
+      "desc": "to throw, to put, to pour, to kick out",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Echar.json"
+    },
+    {
+      "id": "39e3ee39-57cd-54bf-b9bb-31502adff46c",
+      "infinitive": "Ejercer",
+      "desc": "to practice (a profession), to exercise (a right)",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Ejercer.json"
+    },
+    {
+      "id": "3766c93f-0c40-51fc-9c51-6ab0e198671b",
+      "infinitive": "Elegir",
+      "desc": "to choose / to elect",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_i"
+      ],
+      "file": "verbs/Elegir.json"
+    },
+    {
+      "id": "53ae72e9-a1c6-526a-878b-7ff7a6f5cec0",
+      "infinitive": "Embarcar",
+      "desc": "to board, to embark",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Embarcar.json"
+    },
+    {
+      "id": "ef3994ee-0cfa-5c8c-b8cd-1133f6308fbf",
+      "infinitive": "Emborrachar",
+      "desc": "to get someone drunk, to intoxicate",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Emborrachar.json"
+    },
+    {
+      "id": "ad7e77d6-2b01-5bfa-ac3a-009ee9b9e4de",
+      "infinitive": "Empeorar",
+      "desc": "to worsen / to get worse",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Empeorar.json"
+    },
+    {
+      "id": "3385bbea-aa47-5afb-82cb-4933f138ab95",
+      "infinitive": "Empezar",
+      "desc": "to begin / to start",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Empezar.json"
+    },
+    {
+      "id": "00c87e40-5710-5af2-b876-fe1d0f790d17",
+      "infinitive": "Emprender",
+      "desc": "to undertake, to embark on",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Emprender.json"
+    },
+    {
+      "id": "8825ca47-8721-553b-bfb0-74093ce306be",
+      "infinitive": "Empujar",
+      "desc": "to push",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Empujar.json"
+    },
+    {
+      "id": "813e9da4-6e29-5cd0-94ad-72ad0b5bb6b7",
+      "infinitive": "Enamorar",
+      "desc": "to win someone's heart, to make fall in love",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Enamorar.json"
+    },
+    {
+      "id": "d1ffd319-494b-5904-bd4b-83ab9ee78c82",
+      "infinitive": "Encender",
+      "desc": "to turn on / to light",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Encender.json"
+    },
+    {
+      "id": "61c382ef-3490-5f05-aa24-af404abf6a1a",
+      "infinitive": "Encomendar",
+      "desc": "to entrust, to assign",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Encomendar.json"
+    },
+    {
+      "id": "97ea2b9d-90dd-5e2e-b190-9e88b9d2ab7a",
+      "infinitive": "Encontrar",
+      "desc": "to find / to meet",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Encontrar.json"
+    },
+    {
+      "id": "a43a8663-899f-5490-a3dc-b1e493880b6a",
+      "infinitive": "Encontrarse",
+      "desc": "to find oneself, to be located, to meet",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Encontrarse.json"
+    },
+    {
+      "id": "2eb05d4c-de1a-5f1c-8c96-5e45b7837212",
+      "infinitive": "Encorvarse",
+      "desc": "to hunch over / to stoop / to become hunched / to bend over",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Encorvarse.json"
+    },
+    {
+      "id": "b0536b7d-8cdb-52d4-b78b-51e24d1d99c0",
+      "infinitive": "Enfadarse",
+      "desc": "to get angry / to get mad",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Enfadarse.json"
+    },
+    {
+      "id": "89f50bc1-cf70-5904-9e14-2f5fdd847a24",
+      "infinitive": "Enfermarse",
+      "desc": "to get ill, to fall sick",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Enfermarse.json"
+    },
+    {
+      "id": "14e24c97-5693-5763-8071-458b017e7bc9",
+      "infinitive": "Enfriar",
+      "desc": "to cool, to chill, to cool down",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Enfriar.json"
+    },
+    {
+      "id": "fd980492-b417-5599-90d9-beb7b8ee634a",
+      "infinitive": "Enojarse",
+      "desc": "to get angry / to get mad",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Enojarse.json"
+    },
+    {
+      "id": "2aae9578-d08a-50c2-8cfa-d60c644be55b",
+      "infinitive": "Enseñar",
+      "desc": "to teach / to show",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Enseñar.json"
+    },
+    {
+      "id": "3e157109-14a5-53f6-939b-2e413c289efb",
+      "infinitive": "Entender",
+      "desc": "to understand",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Entender.json"
+    },
+    {
+      "id": "a6ad984f-b2b3-546b-88ae-96fec27024fd",
+      "infinitive": "Entrar",
+      "desc": "to enter / to go in / to come in",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Entrar.json"
+    },
+    {
+      "id": "f3ce36da-529f-5f6b-acaf-294f1e4dc12a",
+      "infinitive": "Entrecruzarse",
+      "desc": "to cross, to intersect, to become intertwined",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive"
+      ],
+      "file": "verbs/Entrecruzarse.json"
+    },
+    {
+      "id": "a1966d98-3b2d-5585-81de-c41dc36002cf",
+      "infinitive": "Envejecer",
+      "desc": "to age / to grow old / to get older",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Envejecer.json"
+    },
+    {
+      "id": "4218e0df-6319-59e4-8637-d56546f69fbb",
+      "infinitive": "Enviar",
+      "desc": "to send",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Enviar.json"
+    },
+    {
+      "id": "9e123c86-0789-52da-bed2-199a968b87ac",
+      "infinitive": "Envolver",
+      "desc": "to wrap",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Envolver.json"
+    },
+    {
+      "id": "7ec03662-9342-57ec-9891-c0a4ec6121ac",
+      "infinitive": "Esbozar",
+      "desc": "to outline, to sketch",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Esbozar.json"
+    },
+    {
+      "id": "c7fcc383-7dc9-5d86-a3c8-a6791c25db47",
+      "infinitive": "Escalar",
+      "desc": "to climb, to scale",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Escalar.json"
+    },
+    {
+      "id": "48df2016-61b6-5071-a373-2bb7fb557b80",
+      "infinitive": "Escapar",
+      "desc": "to escape / to get away",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Escapar.json"
+    },
+    {
+      "id": "dd4a4956-e37d-5f6d-9fbd-f16b5c5513ba",
+      "infinitive": "Escaparse",
+      "desc": "to escape, to run away",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Escaparse.json"
+    },
+    {
+      "id": "5d926db7-4343-54fb-975e-53326f25d254",
+      "infinitive": "Esconder",
+      "desc": "to hide, to conceal",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Esconder.json"
+    },
+    {
+      "id": "0b949592-2a04-56f3-93c1-f88368ce6035",
+      "infinitive": "Esconderse",
+      "desc": "to hide / to hide oneself",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Esconderse.json"
+    },
+    {
+      "id": "6aa76dd1-5ae3-5974-a830-a7617074e9b1",
+      "infinitive": "Escribir",
+      "desc": "to write",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Escribir.json"
+    },
+    {
+      "id": "83195442-74b8-5f18-a0e2-4ba87da4876f",
+      "infinitive": "Escuchar",
+      "desc": "to listen (to)",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Escuchar.json"
+    },
+    {
+      "id": "31b683ad-1900-573f-8a1f-76a921f48830",
+      "infinitive": "Escurrir",
+      "desc": "to drain, to wring out",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Escurrir.json"
+    },
+    {
+      "id": "6bedaaf0-c991-5123-ae5d-533e7909b465",
+      "infinitive": "Esforzar",
+      "desc": "to strain, to exert",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Esforzar.json"
+    },
+    {
+      "id": "c1673482-134c-5c16-a295-48c66bb6d2da",
+      "infinitive": "Esperar",
+      "desc": "to wait / to hope / to expect",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Esperar.json"
+    },
+    {
+      "id": "5643c945-05c7-5ccf-917b-2a9108ca2a44",
+      "infinitive": "Estacionar",
+      "desc": "to park",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Estacionar.json"
+    },
+    {
+      "id": "a2126761-846d-5f2e-bf0b-5c2b4aad2ee8",
+      "infinitive": "Estar",
+      "desc": "to be",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Estar.json"
+    },
+    {
+      "id": "c100d447-4d53-55fa-b349-e49dac4e0055",
+      "infinitive": "Estirar",
+      "desc": "to stretch / to stretch out / to pull / to extend",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Estirar.json"
+    },
+    {
+      "id": "5069c7b6-4b93-5d64-8b21-79f9736eb477",
+      "infinitive": "Estirarse",
+      "desc": "to stretch, to stretch out",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Estirarse.json"
+    },
+    {
+      "id": "a9e290cf-4952-5f78-9bf7-947dafc647ca",
+      "infinitive": "Estudiar",
+      "desc": "to study",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Estudiar.json"
+    },
+    {
+      "id": "6e706d96-fa08-586d-bb77-bbd21df34381",
+      "infinitive": "Evitar",
+      "desc": "to avoid / to prevent / to evade",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Evitar.json"
+    },
+    {
+      "id": "bd8c02a1-9924-5b18-b1fe-26a83bd855c1",
+      "infinitive": "Evolucionar",
+      "desc": "to evolve, to develop",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Evolucionar.json"
+    },
+    {
+      "id": "332e2709-2fcc-5c76-8150-5533a4dc11a9",
+      "infinitive": "Exigir",
+      "desc": "to demand / to require / to insist on",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Exigir.json"
+    },
+    {
+      "id": "3578d737-d5d5-528e-afee-ce9083f9f8c8",
+      "infinitive": "Explicar",
+      "desc": "to explain",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Explicar.json"
+    },
+    {
+      "id": "f09d7db0-eb52-5ed4-a995-77e87a6f1c9f",
+      "infinitive": "Explotar",
+      "desc": "to explode, to exploit",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Explotar.json"
+    },
+    {
+      "id": "342b35a1-0a77-5ba9-9d77-113030f26d0e",
+      "infinitive": "Extinguir",
+      "desc": "to extinguish",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Extinguir.json"
+    }
+  ]
+}

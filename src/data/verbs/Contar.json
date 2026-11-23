@@ -1,0 +1,311 @@
+{
+  "id": "d4217099-2ebd-52f9-86eb-3ff3d65a46ae",
+  "infinitive": "Contar",
+  "englishMeaning": "to count / to tell",
+  "desc": "to count / to tell",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "contando",
+  "participio": "contado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cuento"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cuentas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cuenta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cuentan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "conté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "contaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "contó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "contaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "contaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "contabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "contaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "contaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he contado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has contado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha contado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos contado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han contado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había contado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías contado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había contado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos contado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían contado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "contaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "contarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "contará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "contarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "contaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "contarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "contaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "contarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré contado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás contado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá contado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos contado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán contado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cuente"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cuentes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cuente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cuenten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "contara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "contaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "contara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "contaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera contado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras contado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera contado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos contado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran contado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "cuenta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "cuente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "cuenten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no cuentes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no cuente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no contemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no cuenten"
+      }
+    ]
+  },
+  "notes": [
+    "**Contar** is a stem-changing verb: o→ue",
+    "Present: stem change o→ue (except nosotros)",
+    "Preterite: regular -AR endings, NO stem change",
+    "Imperfect: regular -AR pattern, NO stem change",
+    "Pretérito Perfecto: regular past participle **contado**",
+    "Future: regular future endings attached to infinitive",
+    "Condicional: regular conditional endings attached to infinitive",
+    "Multiple meanings:",
+    "To count: *contar dinero* (to count money)",
+    "To tell (a story): *contar un cuento* (to tell a story)",
+    "Often used with \"con\": *contar con alguien* (to count on someone)",
+    "Related nouns: **el cuento** (story, tale), **la cuenta** (bill, account)",
+    "Expression: *contar con* (to count on, to rely on)"
+  ],
+  "sourceFile": "Verbs/c/Contar.md"
+}

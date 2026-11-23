@@ -1,0 +1,304 @@
+{
+  "id": "5a3e1353-5135-5536-98d6-402aa3733c67",
+  "infinitive": "Despegar",
+  "englishMeaning": "to take off / to detach",
+  "desc": "to take off / to detach",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "despegando",
+  "participio": "despegado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "despego"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "despegas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "despega"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "despegamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "despegan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "despegué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "despegaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "despegó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "despegamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "despegaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "despegaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "despegabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "despegaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "despegábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "despegaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he despegado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has despegado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha despegado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos despegado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han despegado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había despegado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías despegado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había despegado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos despegado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían despegado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "despegaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "despegarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "despegará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "despegaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "despegarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "despegaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "despegarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "despegaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "despegaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "despegarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré despegado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás despegado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá despegado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos despegado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán despegado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "despegue"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "despegues"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "despegue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "despeguemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "despeguen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "despegara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "despegaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "despegara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "despegáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "despegaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera despegado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras despegado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera despegado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos despegado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran despegado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "despega"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "despegue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "despeguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "despeguen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no despegues"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no despegue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no despeguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no despeguen"
+      }
+    ]
+  },
+  "notes": [
+    "**Despegar** is a regular **-AR verb** with a spelling change",
+    "Spelling change: g→gu before é (despegué, not \"despegé\") - same pattern as llegar, apagar",
+    "This spelling change only affects the \"yo\" form in preterite",
+    "Primary meaning: to take off (airplane)",
+    "Also means: to detach, to unstick",
+    "Common usage: *El avión despegó a las 3* (The plane took off at 3), *despegar un sello* (to unstick a stamp)",
+    "Opposite: **aterrizar** (to land)"
+  ],
+  "sourceFile": "Verbs/d/Despegar.md"
+}

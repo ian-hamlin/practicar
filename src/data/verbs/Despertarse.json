@@ -1,0 +1,307 @@
+{
+  "id": "621dc88b-b97c-56f8-990a-b659785c840c",
+  "infinitive": "Despertarse",
+  "englishMeaning": "to wake up",
+  "desc": "to wake up",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive",
+    "stem_e_ie"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "despertando",
+  "participio": "despertado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me despierto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te despiertas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se despierta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos despertamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se despiertan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me desperté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te despertaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se despertó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos despertamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se despertaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me despertaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te despertabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se despertaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos despertábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se despertaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he despertado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has despertado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha despertado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos despertado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han despertado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había despertado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías despertado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había despertado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos despertado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían despertado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me despertaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te despertarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se despertará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos despertaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se despertarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me despertaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te despertarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se despertaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos despertaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se despertarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré despertado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás despertado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá despertado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos despertado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán despertado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me despierte"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te despiertes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se despierte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos despertemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se despierten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me despertara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te despertaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se despertara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos despertáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se despertaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera despertado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras despertado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera despertado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos despertado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran despertado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "despiértate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "despiértese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "despertémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "despiértense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te despiertes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se despierte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos despertemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se despierten"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -AR verb with e→ie stem change",
+    "Stem change applies in presente (all forms except nosotros/nosotras): *despierto, despiertas, despierta, despiertan*",
+    "No stem change in pretérito indefinido (unlike -IR stem-change verbs)",
+    "Subjuntivo nosotros reverts to infinitive stem: *nos despertemos* (not *despertemos*)",
+    "Past participle: despertado (regular)",
+    "Non-reflexive: *despertar* = to wake (someone else); *La alarma me despertó* = The alarm woke me up",
+    "*Me despierto a las siete* = I wake up at seven",
+    "Related: el despertador (alarm clock), despertar (to awaken, to arouse)"
+  ],
+  "sourceFile": "Verbs/d/Despertarse.md"
+}

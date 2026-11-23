@@ -1,0 +1,302 @@
+{
+  "id": "9200e324-6d07-51e9-ba65-00fa2f356790",
+  "infinitive": "Agotar",
+  "englishMeaning": "to exhaust, to use up, to run out of",
+  "desc": "to exhaust, to use up, to run out of",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "agotando",
+  "participio": "agotado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "agoto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "agotas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "agota"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "agotamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "agotan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "agoté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "agotaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "agotó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "agotamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "agotaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "agotaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "agotabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "agotaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "agotábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "agotaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he agotado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has agotado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha agotado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos agotado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han agotado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había agotado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías agotado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había agotado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos agotado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían agotado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "agotaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "agotarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "agotará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "agotaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "agotarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "agotaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "agotarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "agotaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "agotaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "agotarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré agotado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás agotado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá agotado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos agotado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán agotado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "agote"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "agotes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "agote"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "agotemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "agoten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "agotara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "agotaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "agotara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "agotáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "agotaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera agotado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras agotado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera agotado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos agotado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran agotado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "agota"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "agote"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "agotemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "agoten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no agotes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no agote"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no agotemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no agoten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *agotado* (regular; also a very common adjective meaning \"exhausted/tired\" or \"sold out,\" depending on context)",
+    "Means \"to exhaust/use up\" (resources, patience) or \"to run out of\" — *agotar las existencias* (to use up the stock), *agotar la paciencia* (to exhaust someone's patience)",
+    "Reflexive *agotarse* is extremely common for \"to get tired out\" or \"to sell out\" — *me agoté después del entrenamiento* (I wore myself out after training), *las entradas se agotaron en minutos* (the tickets sold out in minutes)",
+    "Related: *agotado/a* (exhausted; sold out), *agotamiento* (exhaustion), *agotador/a* (exhausting, tiring)"
+  ],
+  "sourceFile": "Verbs/a/Agotar.md"
+}

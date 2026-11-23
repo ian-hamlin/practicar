@@ -1,0 +1,303 @@
+{
+  "id": "57b2123a-cdd4-5812-8028-6fda45aaa996",
+  "infinitive": "Limpiar",
+  "englishMeaning": "to clean",
+  "desc": "to clean",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "l",
+  "categoryId": "fa5b6027-a511-5f12-980d-687e3e083fde",
+  "gerundio": "limpiando",
+  "participio": "limpiado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "limpio"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "limpias"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "limpia"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "limpiamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "limpian"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "limpié"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "limpiaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "limpió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "limpiamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "limpiaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "limpiaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "limpiabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "limpiaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "limpiábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "limpiaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he limpiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has limpiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha limpiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos limpiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han limpiado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había limpiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías limpiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había limpiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos limpiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían limpiado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "limpiaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "limpiarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "limpiará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "limpiaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "limpiarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "limpiaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "limpiarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "limpiaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "limpiaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "limpiarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré limpiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás limpiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá limpiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos limpiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán limpiado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "limpie"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "limpies"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "limpie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "limpiemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "limpien"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "limpiara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "limpiaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "limpiara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "limpiáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "limpiaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera limpiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras limpiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera limpiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos limpiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran limpiado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "limpia"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "limpie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "limpiemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "limpien"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no limpies"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no limpie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no limpiemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no limpien"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; follows standard endings throughout",
+    "Past participle: limpiado (regular)",
+    "*Limpiar la casa* = to clean the house; *limpiar el polvo* = to dust",
+    "*Limpiar en seco* = dry cleaning",
+    "Also used figuratively: *limpiar la imagen* = to clean up one's image",
+    "Related: la limpieza (cleaning, cleanliness), limpio/a (clean), el/la limpiador/a (cleaner)"
+  ],
+  "sourceFile": "Verbs/l/Limpiar.md"
+}

@@ -1,0 +1,304 @@
+{
+  "id": "a6c6affe-9233-533a-bb46-dcaeb93cfe00",
+  "infinitive": "Aterrizar",
+  "englishMeaning": "to land",
+  "desc": "to land",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "aterrizando",
+  "participio": "aterrizado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "aterrizo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aterrizas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aterriza"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aterrizamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aterrizan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "aterricé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aterrizaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aterrizó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aterrizamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aterrizaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "aterrizaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aterrizabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aterrizaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aterrizábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aterrizaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he aterrizado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has aterrizado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha aterrizado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos aterrizado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han aterrizado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había aterrizado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías aterrizado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había aterrizado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos aterrizado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían aterrizado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "aterrizaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aterrizarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aterrizará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aterrizaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aterrizarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "aterrizaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aterrizarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aterrizaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aterrizaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aterrizarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré aterrizado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás aterrizado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá aterrizado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos aterrizado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán aterrizado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "aterrice"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aterrices"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aterrice"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aterricemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aterricen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "aterrizara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aterrizaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aterrizara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aterrizáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aterrizaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera aterrizado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras aterrizado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera aterrizado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos aterrizado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran aterrizado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "aterriza"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "aterrice"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aterricemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "aterricen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no aterrices"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no aterrice"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no aterricemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no aterricen"
+      }
+    ]
+  },
+  "notes": [
+    "**Aterrizar** is a regular **-AR verb** with a spelling change",
+    "Spelling change: z→c before é (aterricé, not \"aterrizé\") - same pattern as empezar",
+    "This spelling change only affects the \"yo\" form in preterite",
+    "Used for airplanes/helicopters landing",
+    "Opposite: **despegar** (to take off)",
+    "Common usage: *El avión aterrizó a tiempo* (The plane landed on time)",
+    "Related noun: **el aterrizaje** (landing)"
+  ],
+  "sourceFile": "Verbs/a/Aterrizar.md"
+}

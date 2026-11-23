@@ -1,0 +1,304 @@
+{
+  "id": "448772d4-5e40-528e-b71e-e20d31f235c6",
+  "infinitive": "Tratarse",
+  "englishMeaning": "to be about, to involve, to deal with",
+  "desc": "to be about, to involve, to deal with",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "t",
+  "categoryId": "a163d0db-76b7-5624-8633-200bb9177aae",
+  "gerundio": "tratando",
+  "participio": "tratado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me trato"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tratas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se trata"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tratamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tratan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me traté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te trataste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se trató"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tratamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se trataron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me trataba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tratabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se trataba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tratábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se trataban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he tratado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has tratado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha tratado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos tratado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han tratado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había tratado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías tratado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había tratado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos tratado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían tratado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me trataré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tratarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se tratará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos trataremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tratarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me trataría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tratarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se trataría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos trataríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tratarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré tratado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás tratado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá tratado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos tratado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán tratado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me trate"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te trates"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se trate"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tratemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se traten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me tratara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te trataras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se tratara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tratáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se trataran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera tratado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras tratado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera tratado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos tratado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran tratado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "trátate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "trátese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tratémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "trátense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te trates"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se trate"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos tratemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se traten"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -AR verb based on *tratar*. Uses reflexive pronouns (me/te/se/nos/se) in all tenses.",
+    "All conjugations follow regular -AR endings.",
+    "In the phrase *tratarse de*, almost always used in 3rd person: *se trata de* (it's about / it involves).",
+    "*¿De qué se trata la película?* (What is the film about?)",
+    "*Se trataba de un malentendido.* (It was a misunderstanding.)",
+    "Related: *tratar* (to treat, to deal with), *el trato* (treatment, deal), *tratar de + inf.* (to try to)"
+  ],
+  "sourceFile": "Verbs/t/Tratarse.md"
+}

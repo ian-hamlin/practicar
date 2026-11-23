@@ -1,0 +1,304 @@
+{
+  "id": "e6ebc1f6-3552-5443-ba70-baf2cd5064c1",
+  "infinitive": "Replantearse",
+  "englishMeaning": "to reconsider, to rethink",
+  "desc": "to reconsider, to rethink",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "replanteando",
+  "participio": "replanteado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me replanteo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te replanteas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se replantea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos replanteamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se replantean"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me replanteé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te replanteaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se replanteó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos replanteamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se replantearon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me replanteaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te replanteabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se replanteaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos replanteábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se replanteaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he replanteado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has replanteado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha replanteado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos replanteado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han replanteado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había replanteado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías replanteado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había replanteado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos replanteado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían replanteado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me replantearé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te replantearás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se replanteará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos replantearemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se replantearán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me replantearía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te replantearías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se replantearía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos replantearíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se replantearían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré replanteado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás replanteado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá replanteado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos replanteado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán replanteado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me replantee"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te replantees"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se replantee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos replanteemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se replanteen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me replanteara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te replantearas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se replanteara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos replanteáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se replantearan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera replanteado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras replanteado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera replanteado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos replanteado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran replanteado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "replantéate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "replantéese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "replanteémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "replantéense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te replantees"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se replantee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos replanteemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se replanteen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, reflexive — the -ear ending keeps its \"e\" throughout and does not stem-change (like *pasear*, *desear*), even though it looks similar to e→ie verbs like *pensar*.",
+    "Past participle is regular: **replanteado**.",
+    "Imperativo afirmativo reflexive pronouns attach to the end with a written accent to preserve stress (replantéate, replantéese, replanteémonos, replantéense); imperativo negativo places them separately in front (no te replantees...).",
+    "*Me replanteé mi carrera después del viaje.* (\"I reconsidered my career after the trip.\")",
+    "*Deberías replantearte esa decisión.* (\"You should rethink that decision.\")",
+    "Related: *plantear* (non-reflexive, \"to pose/raise\" a question or issue), *el planteamiento* (approach/premise, noun), *reconsiderar* (synonym, \"to reconsider\")."
+  ],
+  "sourceFile": "Verbs/r/Replantearse.md"
+}

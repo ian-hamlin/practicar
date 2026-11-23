@@ -1,0 +1,303 @@
+{
+  "id": "667c31a9-501c-5ee7-905a-582c17ad880c",
+  "infinitive": "Desviar",
+  "englishMeaning": "to divert, to deflect",
+  "desc": "to divert, to deflect",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "desviando",
+  "participio": "desviado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "desvío"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desvías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desvía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desviamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desvían"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "desvié"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desviaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desvió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desviamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desviaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "desviaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desviabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desviaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desviábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desviaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he desviado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has desviado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha desviado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos desviado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han desviado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había desviado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías desviado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había desviado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos desviado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían desviado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "desviaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desviarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desviará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desviaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desviarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "desviaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desviarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desviaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desviaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desviarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré desviado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás desviado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá desviado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos desviado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán desviado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "desvíe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desvíes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desvíe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desviemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desvíen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "desviara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desviaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desviara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desviáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desviaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera desviado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras desviado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera desviado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos desviado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran desviado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "desvía"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "desvíe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desviemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "desvíen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no desvíes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no desvíe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no desviemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no desvíen"
+      }
+    ]
+  },
+  "notes": [
+    "Irregular -AR verb with an accent shift: the *i* in the stem takes a written accent (*í*) and carries the stress in every form except nosotros/nosotras — same pattern as *enviar*, *confiar*, *vaciar*, *guiar*",
+    "Not a stem-vowel change in the e→ie/o→ue/e→i/u→ue sense, so no stem-change tag applies — just an orthographic stress shift",
+    "Past participle: *desviado* (regular)",
+    "Means \"to divert\" or \"to deflect\" — *desviar el tráfico* (to divert traffic), *desviar la atención* (to deflect attention)",
+    "Reflexive *desviarse* means \"to go off course\" or \"to get sidetracked\": *nos desviamos del camino* (we strayed from the path)",
+    "Related: *desvío* (detour, diversion), *desviación* (deviation, detour)"
+  ],
+  "sourceFile": "Verbs/d/Desviar.md"
+}

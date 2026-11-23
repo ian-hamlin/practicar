@@ -1,0 +1,303 @@
+{
+  "id": "f86f6cdc-5f5f-5160-b154-d879c85b963e",
+  "infinitive": "Alegrar",
+  "englishMeaning": "to make happy / to cheer up / to brighten",
+  "desc": "to make happy / to cheer up / to brighten",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "alegrando",
+  "participio": "alegrado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "alegro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alegras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alegra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alegramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alegran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "alegré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alegraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alegró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alegramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alegraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "alegraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alegrabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alegraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alegrábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alegraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he alegrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has alegrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha alegrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos alegrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han alegrado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había alegrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías alegrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había alegrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos alegrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían alegrado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "alegraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alegrarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alegrará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alegraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alegrarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "alegraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alegrarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alegraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alegraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alegrarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré alegrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás alegrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá alegrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos alegrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán alegrado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "alegre"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alegres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alegre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alegremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alegren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "alegrara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alegraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alegrara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alegráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alegraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera alegrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras alegrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera alegrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos alegrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran alegrado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "alegra"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "alegre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alegremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "alegren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no alegres"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no alegre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no alegremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no alegren"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; no spelling changes or stem changes",
+    "Past participle: *alegrado*",
+    "*alegrar a alguien* = to make someone happy (*Me alegra verte* — It makes me happy to see you)",
+    "*alegrarse (de)* = reflexive form, to be glad/pleased about (*Me alegro de que hayas venido* — I'm glad you came)",
+    "*¡Me alegro!* = I'm glad! — very common expression",
+    "*alegre* (adjective) = happy, cheerful; *la alegría* = joy, happiness"
+  ],
+  "sourceFile": "Verbs/a/Alegrar.md"
+}

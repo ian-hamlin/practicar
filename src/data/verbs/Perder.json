@@ -1,0 +1,304 @@
+{
+  "id": "0c60c65a-365a-542b-b50d-028cfb425c93",
+  "infinitive": "Perder",
+  "englishMeaning": "to lose / to miss",
+  "desc": "to lose / to miss",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "perdiendo",
+  "participio": "perdido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pierdo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pierdes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pierde"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "perdemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pierden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "perdí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "perdiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "perdió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "perdimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "perdieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "perdía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "perdías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "perdía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "perdíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "perdían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he perdido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has perdido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha perdido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos perdido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han perdido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había perdido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías perdido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había perdido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos perdido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían perdido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "perderé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "perderás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "perderá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "perderemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "perderán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "perdería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "perderías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "perdería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "perderíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "perderían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré perdido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás perdido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá perdido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos perdido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán perdido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pierda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pierdas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pierda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "perdamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pierdan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "perdiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "perdieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "perdiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "perdiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "perdieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera perdido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras perdido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera perdido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos perdido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran perdido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "pierde"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "pierda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "perdamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "pierdan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no pierdas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no pierda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no perdamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no pierdan"
+      }
+    ]
+  },
+  "notes": [
+    "**Perder** is a stem-changing verb: e→ie",
+    "Present: stem change e→ie (except nosotros)",
+    "Preterite: regular -ER endings, NO stem change",
+    "Imperfect: regular -ER pattern, NO stem change",
+    "Multiple meanings: to lose (game/object), to miss (bus/train/opportunity)",
+    "Common usage: *perder el tren* (to miss the train), *perder peso* (to lose weight)"
+  ],
+  "sourceFile": "Verbs/p/Perder.md"
+}

@@ -1,0 +1,302 @@
+{
+  "id": "458a8df9-2855-5946-9906-b951bec9907a",
+  "infinitive": "Alquilar",
+  "englishMeaning": "to rent / to hire",
+  "desc": "to rent / to hire",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "alquilando",
+  "participio": "alquilado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "alquilo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alquilas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alquila"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alquilamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alquilan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "alquilé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alquilaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alquiló"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alquilamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alquilaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "alquilaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alquilabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alquilaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alquilábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alquilaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he alquilado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has alquilado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha alquilado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos alquilado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han alquilado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había alquilado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías alquilado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había alquilado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos alquilado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían alquilado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "alquilaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alquilarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alquilará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alquilaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alquilarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "alquilaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alquilarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alquilaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alquilaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alquilarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré alquilado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás alquilado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá alquilado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos alquilado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán alquilado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "alquile"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alquiles"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alquile"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alquilemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alquilen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "alquilara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alquilaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alquilara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alquiláramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alquilaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera alquilado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras alquilado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera alquilado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos alquilado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran alquilado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "alquila"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "alquile"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alquilemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "alquilen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no alquiles"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no alquile"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no alquilemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no alquilen"
+      }
+    ]
+  },
+  "notes": [
+    "**Alquilar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Can mean to rent (as tenant or landlord): *alquilar un apartamento* (to rent an apartment)",
+    "Also means to hire: *alquilar un coche* (to rent a car)",
+    "In Latin America, **rentar** is also commonly used for \"to rent"
+  ],
+  "sourceFile": "Verbs/a/Alquilar.md"
+}

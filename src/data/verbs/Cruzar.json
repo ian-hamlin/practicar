@@ -1,0 +1,303 @@
+{
+  "id": "206ec2d2-957a-5924-a9f0-3d48d31d1624",
+  "infinitive": "Cruzar",
+  "englishMeaning": "to cross",
+  "desc": "to cross",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "cruzando",
+  "participio": "cruzado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cruzo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cruzas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cruza"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cruzamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cruzan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "crucé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cruzaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cruzó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cruzamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cruzaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "cruzaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cruzabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cruzaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cruzábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cruzaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he cruzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has cruzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha cruzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos cruzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han cruzado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había cruzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías cruzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había cruzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos cruzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían cruzado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "cruzaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cruzarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cruzará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cruzaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cruzarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "cruzaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cruzarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cruzaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cruzaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cruzarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré cruzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás cruzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá cruzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos cruzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán cruzado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cruce"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cruces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cruce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "crucemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "crucen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "cruzara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cruzaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cruzara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cruzáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cruzaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera cruzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras cruzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera cruzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos cruzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran cruzado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "cruza"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "cruce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "crucemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "crucen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no cruces"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no cruce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no crucemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no crucen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with a spelling change: **z→c before e** to preserve the /s/ (Latin America) or /θ/ (Spain) sound. This affects the yo form of the pretérito indefinido (crucé, not *cruzé) and every form of the subjuntivo presente and the usted/nosotros/ustedes imperative forms (cruce, crucemos, crucen).",
+    "No stem change — purely an orthographic adjustment.",
+    "Past participle is regular: **cruzado**.",
+    "*Los personajes cruzan la línea que divide la civilización de la barbarie.* (\"The characters cross the line that divides civilization from barbarism.\")",
+    "*Cruzamos la calle con cuidado.* (\"We crossed the street carefully.\")",
+    "Related: *el cruce* (crossing/intersection, noun), *cruzarse* (reflexive, \"to cross paths\"), *entrecruzarse* (compound, \"to become intertwined\")."
+  ],
+  "sourceFile": "Verbs/c/Cruzar.md"
+}

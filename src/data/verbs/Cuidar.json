@@ -1,0 +1,307 @@
+{
+  "id": "785de96c-6193-55d5-82fd-2fc23117118e",
+  "infinitive": "Cuidar",
+  "englishMeaning": "to take care of / to look after",
+  "desc": "to take care of / to look after",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "cuidando",
+  "participio": "cuidado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cuido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cuidas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cuida"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cuidamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cuidan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "cuidé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cuidaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cuidó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cuidamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cuidaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "cuidaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cuidabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cuidaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cuidábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cuidaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he cuidado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has cuidado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha cuidado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos cuidado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han cuidado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había cuidado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías cuidado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había cuidado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos cuidado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían cuidado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "cuidaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cuidarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cuidará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cuidaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cuidarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "cuidaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cuidarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cuidaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cuidaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cuidarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré cuidado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás cuidado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá cuidado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos cuidado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán cuidado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cuide"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cuides"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cuide"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cuidemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cuiden"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "cuidara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cuidaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cuidara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cuidáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cuidaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera cuidado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras cuidado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera cuidado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos cuidado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran cuidado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "cuida"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "cuide"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cuidemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "cuiden"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no cuides"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no cuide"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no cuidemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no cuiden"
+      }
+    ]
+  },
+  "notes": [
+    "**Cuidar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Often used with \"de\" or \"a\": *cuidar de los niños* or *cuidar a los niños* (to take care of the children)",
+    "Often used reflexively: **cuidarse** (to take care of oneself)",
+    "Common usage:",
+    "*Cuido a mi hermano* (I look after my brother)",
+    "*Cuidar las plantas* (to take care of the plants)",
+    "*¡Cuídate!* (Take care! - common goodbye phrase)",
+    "Related noun: **el cuidado** (care)",
+    "Expression: *tener cuidado* (to be careful)"
+  ],
+  "sourceFile": "Verbs/c/Cuidar.md"
+}

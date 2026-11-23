@@ -1,0 +1,301 @@
+{
+  "id": "c585da79-058b-5d29-8835-c66ae35d1db1",
+  "infinitive": "Reparar",
+  "englishMeaning": "to repair / to fix / to mend",
+  "desc": "to repair / to fix / to mend",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "reparando",
+  "participio": "reparado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "reparo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reparas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "repara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reparamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reparan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "reparé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reparaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reparó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reparamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "repararon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "reparaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reparabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reparaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reparábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reparaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he reparado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has reparado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha reparado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos reparado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han reparado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había reparado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías reparado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había reparado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos reparado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían reparado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "repararé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "repararás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reparará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "repararemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "repararán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "repararía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "repararías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "repararía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "repararíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "repararían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré reparado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás reparado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá reparado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos reparado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán reparado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "repare"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "repares"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "repare"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reparemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reparen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "reparara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "repararas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reparara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reparáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "repararan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera reparado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras reparado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera reparado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos reparado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran reparado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "repara"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "repare"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reparemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "reparen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no repares"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no repare"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no reparemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no reparen"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; no spelling changes or stem changes",
+    "Past participle: *reparado*",
+    "Also used figuratively: *reparar en algo* = to notice something, to pay attention to something (*No reparé en el error* — I didn't notice the mistake)",
+    "Similar to *arreglar* (to fix/arrange) but *reparar* is more formal and technical"
+  ],
+  "sourceFile": "Verbs/r/Reparar.md"
+}

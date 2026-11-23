@@ -1,0 +1,301 @@
+{
+  "id": "6cc57db3-3f4f-5b94-be76-d4b71b9dea4a",
+  "infinitive": "Prometer",
+  "englishMeaning": "to promise",
+  "desc": "to promise",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "prometiendo",
+  "participio": "prometido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "prometo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prometes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "promete"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prometemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prometen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "prometí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prometiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "prometió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prometimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prometieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "prometía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prometías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "prometía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prometíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prometían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he prometido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has prometido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha prometido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos prometido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han prometido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había prometido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías prometido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había prometido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos prometido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían prometido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "prometeré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prometerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "prometerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prometeremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prometerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "prometería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prometerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "prometería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prometeríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prometerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré prometido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás prometido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá prometido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos prometido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán prometido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "prometa"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prometas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "prometa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prometamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prometan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "prometiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prometieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "prometiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prometiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prometieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera prometido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras prometido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera prometido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos prometido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran prometido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "promete"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "prometa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prometamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "prometan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no prometas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no prometa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no prometamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no prometan"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -ER verb. All conjugations follow standard -ER endings.",
+    "*Te prometo que vuelvo pronto.* (I promise you I'll be back soon.)",
+    "*Prometió llegar a tiempo.* (He promised to arrive on time.)",
+    "Related: *la promesa* (promise), *prometido/a* (promised; fiancé/fiancée)"
+  ],
+  "sourceFile": "Verbs/p/Prometer.md"
+}

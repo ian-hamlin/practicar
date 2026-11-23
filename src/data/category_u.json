@@ -1,0 +1,47 @@
+{
+  "id": "770b5668-3401-5a60-ab5b-964aac2ea95b",
+  "letter": "u",
+  "count": 4,
+  "verbs": [
+    {
+      "id": "51af51f0-1f47-5537-9927-fa6f0385c841",
+      "infinitive": "Ulular",
+      "desc": "to hoot / to howl",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Ulular.json"
+    },
+    {
+      "id": "fa89982b-6f53-5998-b32d-f1582a5618a0",
+      "infinitive": "Unir",
+      "desc": "to unite, to join",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Unir.json"
+    },
+    {
+      "id": "2697a178-96ca-5d88-baf2-88257be59934",
+      "infinitive": "Usar",
+      "desc": "to use / to wear",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Usar.json"
+    },
+    {
+      "id": "8b6012e5-317f-5b85-957b-380626f5b8d6",
+      "infinitive": "Utilizar",
+      "desc": "to use, to utilize",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Utilizar.json"
+    }
+  ]
+}

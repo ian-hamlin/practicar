@@ -1,0 +1,302 @@
+{
+  "id": "822b3330-0a07-59ba-9de9-09d5818ee543",
+  "infinitive": "Observar",
+  "englishMeaning": "to observe, to watch",
+  "desc": "to observe, to watch",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "o",
+  "categoryId": "17ab56ce-480a-5e1b-b55d-16eaabe765bf",
+  "gerundio": "observando",
+  "participio": "observado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "observo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "observas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "observa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "observamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "observan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "observé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "observaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "observó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "observamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "observaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "observaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "observabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "observaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "observábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "observaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he observado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has observado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha observado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos observado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han observado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había observado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías observado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había observado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos observado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían observado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "observaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "observarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "observará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "observaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "observarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "observaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "observarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "observaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "observaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "observarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré observado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás observado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá observado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos observado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán observado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "observe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "observes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "observe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "observemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "observen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "observara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "observaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "observara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "observáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "observaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera observado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras observado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera observado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos observado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran observado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "observa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "observe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "observemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "observen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no observes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no observe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no observemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no observen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *observado* (regular)",
+    "Means \"to observe\" or \"to watch\" — *observar las estrellas* (to observe the stars), *observó que algo no estaba bien* (he/she noticed that something wasn't right)",
+    "Also used to mean \"to comply with/follow\" (rules) in formal contexts — *observar las normas* (to follow the rules)",
+    "Related: *observación* (observation), *observador/a* (observer, observant), *observatorio* (observatory)"
+  ],
+  "sourceFile": "Verbs/o/Observar.md"
+}

@@ -1,0 +1,303 @@
+{
+  "id": "5f201c23-4e57-5a0f-88a4-c1169e8604d9",
+  "infinitive": "Recoger",
+  "englishMeaning": "to pick up, to collect",
+  "desc": "to pick up, to collect",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "recogiendo",
+  "participio": "recogido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "recojo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recoges"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recoge"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recogemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recogen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "recogí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recogiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recogió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recogimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recogieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "recogía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recogías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recogía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recogíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recogían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he recogido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has recogido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha recogido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos recogido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han recogido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había recogido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías recogido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había recogido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos recogido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían recogido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "recogeré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recogerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recogerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recogeremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recogerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "recogería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recogerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recogería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recogeríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recogerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré recogido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás recogido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá recogido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos recogido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán recogido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "recoja"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recojas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recoja"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recojamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recojan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "recogiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recogieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recogiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recogiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recogieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera recogido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras recogido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera recogido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos recogido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran recogido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "recoge"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "recoja"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recojamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "recojan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no recojas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no recoja"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no recojamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no recojan"
+      }
+    ]
+  },
+  "notes": [
+    "-ER verb with spelling change: g→j before a/o (to preserve the soft /x/ sound)",
+    "Only the **yo Presente** is affected in indicative: **recojo**",
+    "All other indicative forms keep the g (recoges, recoge, recogemos, etc.)",
+    "The g→j change also applies throughout the present subjunctive (recoja, recojas, etc.)",
+    "Past participle: recogido",
+    "Common meanings: to pick up (recoger a alguien = to pick someone up), to collect (recoger datos = to gather data), to tidy up (recoger la mesa = to clear the table)"
+  ],
+  "sourceFile": "Verbs/r/Recoger.md"
+}

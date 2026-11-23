@@ -1,0 +1,303 @@
+{
+  "id": "89f50bc1-cf70-5904-9e14-2f5fdd847a24",
+  "infinitive": "Enfermarse",
+  "englishMeaning": "to get ill, to fall sick",
+  "desc": "to get ill, to fall sick",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "enfermando",
+  "participio": "enfermado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me enfermo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enfermas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enferma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enfermamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enferman"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me enfermé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enfermaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enfermó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enfermamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enfermaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me enfermaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enfermabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enfermaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enfermábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enfermaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he enfermado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has enfermado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha enfermado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos enfermado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han enfermado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había enfermado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías enfermado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había enfermado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos enfermado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían enfermado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me enfermaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enfermarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enfermará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enfermaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enfermarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me enfermaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enfermarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enfermaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enfermaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enfermarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré enfermado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás enfermado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá enfermado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos enfermado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán enfermado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me enferme"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enfermes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enferme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enfermemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enfermen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me enfermara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enfermaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enfermara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enfermáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enfermaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera enfermado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras enfermado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera enfermado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos enfermado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran enfermado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "enférmate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "enférmese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enfermémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "enférmense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te enfermes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se enferme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos enfermemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se enfermen"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -AR verb based on *enfermar*. Uses reflexive pronouns (me/te/se/nos/se) in all tenses.",
+    "All conjugations follow regular -AR endings.",
+    "*Me enfermé durante las vacaciones.* (I got ill during the holiday.)",
+    "*Se enferma cada invierno.* (He gets ill every winter.)",
+    "Related: *enfermar* (to make ill), *la enfermedad* (illness), *enfermo/a* (ill, sick), *el/la enfermero/a* (nurse)"
+  ],
+  "sourceFile": "Verbs/e/Enfermarse.md"
+}

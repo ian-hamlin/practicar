@@ -1,0 +1,302 @@
+{
+  "id": "f09d7db0-eb52-5ed4-a995-77e87a6f1c9f",
+  "infinitive": "Explotar",
+  "englishMeaning": "to explode, to exploit",
+  "desc": "to explode, to exploit",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "explotando",
+  "participio": "explotado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "exploto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "explotas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "explota"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "explotamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "explotan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "exploté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "explotaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "explotó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "explotamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "explotaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "explotaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "explotabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "explotaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "explotábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "explotaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he explotado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has explotado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha explotado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos explotado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han explotado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había explotado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías explotado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había explotado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos explotado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían explotado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "explotaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "explotarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "explotará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "explotaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "explotarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "explotaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "explotarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "explotaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "explotaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "explotarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré explotado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás explotado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá explotado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos explotado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán explotado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "explote"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "explotes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "explote"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "explotemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "exploten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "explotara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "explotaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "explotara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "explotáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "explotaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera explotado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras explotado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera explotado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos explotado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran explotado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "explota"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "explote"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "explotemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "exploten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no explotes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no explote"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no explotemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no exploten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard endings in every tense, no exceptions.",
+    "Two common senses: literal/figurative \"to explode/snap\" (*algunas personas explotan*, \"some people snap/explode\") and \"to exploit\" (*explotar a los trabajadores*, \"to exploit the workers\").",
+    "*Algunas de ellas explotan.* (\"Some of them explode/snap.\")",
+    "*La fábrica explotaba a sus empleados.* (\"The factory used to exploit its employees.\")",
+    "Related: *la explosión* (explosion, noun), *la explotación* (exploitation, noun), *estallar* (near-synonym, \"to burst/explode\")."
+  ],
+  "sourceFile": "Verbs/e/Explotar.md"
+}

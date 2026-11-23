@@ -1,0 +1,306 @@
+{
+  "id": "bd13f51f-d224-5d51-ac5f-ffef896faedc",
+  "infinitive": "Llamar",
+  "englishMeaning": "to call / to name",
+  "desc": "to call / to name",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "l",
+  "categoryId": "fa5b6027-a511-5f12-980d-687e3e083fde",
+  "gerundio": "llamando",
+  "participio": "llamado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "llamo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "llamas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llama"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "llamamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "llaman"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "llamé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "llamaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llamó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "llamamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "llamaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "llamaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "llamabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llamaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "llamábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "llamaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he llamado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has llamado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha llamado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos llamado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han llamado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había llamado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías llamado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había llamado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos llamado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían llamado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "llamaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "llamarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llamará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "llamaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "llamarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "llamaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "llamarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llamaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "llamaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "llamarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré llamado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás llamado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá llamado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos llamado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán llamado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "llame"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "llames"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llame"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "llamemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "llamen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "llamara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "llamaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llamara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "llamáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "llamaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera llamado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras llamado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera llamado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos llamado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran llamado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "llama"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "llame"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "llamemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "llamen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no llames"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no llame"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no llamemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no llamen"
+      }
+    ]
+  },
+  "notes": [
+    "**Llamar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Multiple meanings:",
+    "To call (on the phone): *llamar por teléfono*",
+    "To call/summon: *llamar a alguien*",
+    "To knock (on door): *llamar a la puerta*",
+    "Often used reflexively: **llamarse** (to be named/called)",
+    "*Me llamo Juan* (My name is Juan / I'm called Juan)",
+    "Common usage: *llamar a la policía* (to call the police), *¿Cómo te llamas?* (What's your name?)"
+  ],
+  "sourceFile": "Verbs/l/Llamar.md"
+}

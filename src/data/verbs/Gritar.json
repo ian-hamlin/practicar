@@ -1,0 +1,302 @@
+{
+  "id": "83b5235f-3c4d-50a3-8bc6-d073c1db8314",
+  "infinitive": "Gritar",
+  "englishMeaning": "to shout / to yell / to scream",
+  "desc": "to shout / to yell / to scream",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "g",
+  "categoryId": "ec8a91da-65cb-5d21-9c3a-4523865a71c5",
+  "gerundio": "gritando",
+  "participio": "gritado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "grito"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "gritas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "grita"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "gritamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "gritan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "grité"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "gritaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "gritó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "gritamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "gritaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "gritaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "gritabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "gritaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "gritábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "gritaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he gritado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has gritado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha gritado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos gritado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han gritado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había gritado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías gritado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había gritado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos gritado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían gritado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "gritaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "gritarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "gritará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "gritaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "gritarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "gritaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "gritarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "gritaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "gritaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "gritarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré gritado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás gritado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá gritado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos gritado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán gritado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "grite"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "grites"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "grite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "gritemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "griten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "gritara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "gritaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "gritara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "gritáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "gritaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera gritado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras gritado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera gritado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos gritado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran gritado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "grita"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "grite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "gritemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "griten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no grites"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no grite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no gritemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no griten"
+      }
+    ]
+  },
+  "notes": [
+    "**Gritar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Often used reflexively: **gritarse** (to yell at each other)",
+    "Common usage: *gritar de miedo* (to scream in fear), *gritar a alguien* (to yell at someone)",
+    "Related noun: **el grito** (the shout/scream)"
+  ],
+  "sourceFile": "Verbs/g/Gritar.md"
+}

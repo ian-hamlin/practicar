@@ -1,0 +1,531 @@
+{
+  "id": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "letter": "c",
+  "count": 51,
+  "verbs": [
+    {
+      "id": "b333e18e-5b92-5356-b0b5-806f3f8f3f44",
+      "infinitive": "Caber",
+      "desc": "to fit / to have enough room",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Caber.json"
+    },
+    {
+      "id": "90fe4f9c-d235-59a0-b51b-1cc837991122",
+      "infinitive": "Caer",
+      "desc": "to fall",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Caer.json"
+    },
+    {
+      "id": "165b25e6-1670-5fbf-b10f-b243fdfb5ac7",
+      "infinitive": "Caerse",
+      "desc": "to fall, to fall down, to fall over",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive"
+      ],
+      "file": "verbs/Caerse.json"
+    },
+    {
+      "id": "f71988f1-c2e5-55e2-b975-46ceae6190e6",
+      "infinitive": "Callar",
+      "desc": "to quiet, to silence",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Callar.json"
+    },
+    {
+      "id": "41881edd-a5d3-5194-b671-e876beb745fb",
+      "infinitive": "Cambiar",
+      "desc": "to change",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Cambiar.json"
+    },
+    {
+      "id": "a7e3c6dc-6ee0-5c1f-b1fc-cefb7e42ca89",
+      "infinitive": "Caminar",
+      "desc": "to walk",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Caminar.json"
+    },
+    {
+      "id": "f0c8749f-0a50-540d-87d9-1d85b5be726b",
+      "infinitive": "Casarse",
+      "desc": "to get married / to marry",
+      "tags": [
+        "verb",
+        "reflexive",
+        "regular"
+      ],
+      "file": "verbs/Casarse.json"
+    },
+    {
+      "id": "9ec7d1c5-555b-5902-a0ae-c441d2597e04",
+      "infinitive": "Causar",
+      "desc": "to cause",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Causar.json"
+    },
+    {
+      "id": "d9e354ca-0170-5efb-b329-e0a162ba6b90",
+      "infinitive": "Ceder",
+      "desc": "to give in, to yield",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Ceder.json"
+    },
+    {
+      "id": "b504b698-3316-5de7-a039-f4d16f75442c",
+      "infinitive": "Cenar",
+      "desc": "to have dinner",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Cenar.json"
+    },
+    {
+      "id": "443a90c1-dad6-5b1f-be28-59a438c9ab5c",
+      "infinitive": "Cepillar",
+      "desc": "to brush",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Cepillar.json"
+    },
+    {
+      "id": "176988b0-0516-5acf-a47d-bd381d21f6f4",
+      "infinitive": "Cerrar",
+      "desc": "to close",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Cerrar.json"
+    },
+    {
+      "id": "0cf28b21-6679-5710-8a8f-3c924d49cd7e",
+      "infinitive": "Chocar",
+      "desc": "to crash, to collide, to shock, to clash",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Chocar.json"
+    },
+    {
+      "id": "cb1ae5f3-73a6-5362-a8ee-c1af5176c7f5",
+      "infinitive": "Chutar",
+      "desc": "to shoot, to kick (a ball)",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Chutar.json"
+    },
+    {
+      "id": "ed87fb41-5176-5982-acd4-0c9fe78a29ec",
+      "infinitive": "Cocinar",
+      "desc": "to cook",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Cocinar.json"
+    },
+    {
+      "id": "d620ee2a-d9d8-5a91-a4a7-39416a632ae6",
+      "infinitive": "Coger",
+      "desc": "to grab, to take, to catch",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Coger.json"
+    },
+    {
+      "id": "9f21d0af-8169-5577-81eb-54ba2559e713",
+      "infinitive": "Colgar",
+      "desc": "to hang / to hang up",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Colgar.json"
+    },
+    {
+      "id": "fbea5788-2efa-5813-a297-9d963274e9ce",
+      "infinitive": "Comenzar",
+      "desc": "to begin / to start",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Comenzar.json"
+    },
+    {
+      "id": "70223d84-f22b-5a00-a298-94770df7b89c",
+      "infinitive": "Comer",
+      "desc": "to eat",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Comer.json"
+    },
+    {
+      "id": "f349093f-ec1e-5b32-a64f-8b72fc334613",
+      "infinitive": "Comerse",
+      "desc": "to eat up, to finish eating",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Comerse.json"
+    },
+    {
+      "id": "75b4e8e4-7638-563c-9a2d-d79e04ff9223",
+      "infinitive": "Cometer",
+      "desc": "to commit",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Cometer.json"
+    },
+    {
+      "id": "d7f38c56-5e61-5186-b49f-e12e7f6f0194",
+      "infinitive": "Compactar",
+      "desc": "to compact / to compress / to pack down",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Compactar.json"
+    },
+    {
+      "id": "7634f765-36e1-5621-b9dd-d43d33a72263",
+      "infinitive": "Completar",
+      "desc": "to complete / to finish",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Completar.json"
+    },
+    {
+      "id": "84aa1893-813a-51c7-9fdd-4cd5b8df6991",
+      "infinitive": "Comprar",
+      "desc": "to buy",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Comprar.json"
+    },
+    {
+      "id": "6c88ffd7-5d26-511a-b09e-5207d769dd07",
+      "infinitive": "Comunicar",
+      "desc": "to communicate, to convey",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Comunicar.json"
+    },
+    {
+      "id": "535703da-9367-563b-9241-4fc1304bdd74",
+      "infinitive": "Conducir",
+      "desc": "to drive / to lead",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Conducir.json"
+    },
+    {
+      "id": "399827be-acdc-5553-9dd6-29eca3b2cd86",
+      "infinitive": "Confiar",
+      "desc": "to trust / to confide in / to have confidence in",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Confiar.json"
+    },
+    {
+      "id": "5bd85e19-50a8-5e58-96c6-8df9bb1301bd",
+      "infinitive": "Conformarse",
+      "desc": "to make do with / to settle for / to be satisfied with",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Conformarse.json"
+    },
+    {
+      "id": "b012475a-7e30-5c3b-b537-86c44e923758",
+      "infinitive": "Confundir",
+      "desc": "to confuse, to mix up",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Confundir.json"
+    },
+    {
+      "id": "a256c725-1824-5269-8767-470400de149b",
+      "infinitive": "Conocer",
+      "desc": "to know / to meet / to be familiar with",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Conocer.json"
+    },
+    {
+      "id": "5ade584e-c668-5ac6-933f-659ee2cc3b5e",
+      "infinitive": "Conseguir",
+      "desc": "to get / to obtain / to achieve",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_i"
+      ],
+      "file": "verbs/Conseguir.json"
+    },
+    {
+      "id": "fa0411bd-978a-5f7e-8f1e-d1aa788773b5",
+      "infinitive": "Considerar",
+      "desc": "to consider",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Considerar.json"
+    },
+    {
+      "id": "fc45cb39-a0d4-5722-aa08-aaee31fdd18c",
+      "infinitive": "Consumir",
+      "desc": "to consume / to use up / to eat / to take in",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Consumir.json"
+    },
+    {
+      "id": "d4217099-2ebd-52f9-86eb-3ff3d65a46ae",
+      "infinitive": "Contar",
+      "desc": "to count / to tell",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Contar.json"
+    },
+    {
+      "id": "e86e7c1e-a8e1-5ede-b7cb-4227c43bd191",
+      "infinitive": "Contestar",
+      "desc": "to answer / to reply / to respond",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Contestar.json"
+    },
+    {
+      "id": "4916e292-d1dc-5eaf-92f9-133185edff0d",
+      "infinitive": "Continuar",
+      "desc": "to continue",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Continuar.json"
+    },
+    {
+      "id": "381a9434-a89f-5157-9f16-4ecc48a71ba3",
+      "infinitive": "Contratar",
+      "desc": "to hire, to book, to contract",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Contratar.json"
+    },
+    {
+      "id": "e1e28630-5035-50db-80b9-719c9dd242f1",
+      "infinitive": "Conversar",
+      "desc": "to converse, to chat",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Conversar.json"
+    },
+    {
+      "id": "bad86cda-79d8-54a8-aa9c-0d18f6015f08",
+      "infinitive": "Convertir",
+      "desc": "to convert, to transform",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Convertir.json"
+    },
+    {
+      "id": "7108e86d-082e-53bc-b989-4dfb3597dfd3",
+      "infinitive": "Convertirse",
+      "desc": "to become, to turn into",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Convertirse.json"
+    },
+    {
+      "id": "42cdb558-2619-594d-88a0-3e3786d000e9",
+      "infinitive": "Corregir",
+      "desc": "to correct, to mark",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_i"
+      ],
+      "file": "verbs/Corregir.json"
+    },
+    {
+      "id": "4f9ea76d-9f06-5d97-b028-252471222ffe",
+      "infinitive": "Correr",
+      "desc": "to run",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Correr.json"
+    },
+    {
+      "id": "77f6c252-98d7-5b24-97bc-5ea2526bc480",
+      "infinitive": "Cortar",
+      "desc": "to cut",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Cortar.json"
+    },
+    {
+      "id": "e09095aa-03a2-5828-ae59-9c354ca4e824",
+      "infinitive": "Cortarse",
+      "desc": "to cut oneself, to go off, to cut out",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Cortarse.json"
+    },
+    {
+      "id": "12259c8b-5f9c-5363-8987-f5e2aad166cc",
+      "infinitive": "Crear",
+      "desc": "to create",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Crear.json"
+    },
+    {
+      "id": "57e67076-8be3-58a9-9a71-5147903243f7",
+      "infinitive": "Crecer",
+      "desc": "to grow / to grow up",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Crecer.json"
+    },
+    {
+      "id": "9683eb00-a019-5545-8c55-1c3adc5e5e64",
+      "infinitive": "Creer",
+      "desc": "to believe / to think",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Creer.json"
+    },
+    {
+      "id": "206ec2d2-957a-5924-a9f0-3d48d31d1624",
+      "infinitive": "Cruzar",
+      "desc": "to cross",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Cruzar.json"
+    },
+    {
+      "id": "f65f4380-ab10-5bd8-81a6-de1b4cec2481",
+      "infinitive": "Cubrir",
+      "desc": "to cover / to cover up",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Cubrir.json"
+    },
+    {
+      "id": "785de96c-6193-55d5-82fd-2fc23117118e",
+      "infinitive": "Cuidar",
+      "desc": "to take care of / to look after",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Cuidar.json"
+    },
+    {
+      "id": "da9bc329-be30-59fe-8ee8-aa8a7ea2f083",
+      "infinitive": "Cumplir",
+      "desc": "to turn (an age), to fulfil, to complete",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Cumplir.json"
+    }
+  ]
+}

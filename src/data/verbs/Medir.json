@@ -1,0 +1,303 @@
+{
+  "id": "26fab6ea-305c-55b2-b1e2-3a7471aedb35",
+  "infinitive": "Medir",
+  "englishMeaning": "to measure",
+  "desc": "to measure",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_i"
+  ],
+  "letter": "m",
+  "categoryId": "c342e4a9-b5da-540a-927d-ccca901fb9ff",
+  "gerundio": "midiendo",
+  "participio": "medido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "mido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mides"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mide"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "medimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "miden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "medí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mediste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "midió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "medimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "midieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "medía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "medías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "medía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "medíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "medían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he medido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has medido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha medido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos medido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han medido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había medido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías medido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había medido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos medido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían medido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "mediré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "medirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "medirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mediremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "medirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "mediría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "medirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mediría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mediríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "medirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré medido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás medido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá medido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos medido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán medido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "mida"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "midas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mida"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "midamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "midan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "midiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "midieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "midiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "midiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "midieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera medido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras medido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera medido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos medido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran medido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "mide"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "mida"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "midamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "midan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no midas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no mida"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no midamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no midan"
+      }
+    ]
+  },
+  "notes": [
+    "Irregular -IR verb with an *e→i* stem change (same pattern as *pedir*, *servir*, *repetir*): the stressed *e* becomes *i* everywhere except Pretérito Imperfecto, Futuro Simple, and Condicional, which stay fully regular",
+    "Unlike *e→ie* and *o→ue* verbs, this stem change also appears in the Pretérito Indefinido 3rd-person forms (*midió, midieron* — not \"medió, medieron\") and carries through to nosotros in Subjuntivo Presente (*midamos*, not \"medamos\") and Imperfecto de Subjuntivo (*midiéramos*)",
+    "Past participle: *medido* (regular)",
+    "Means \"to measure\" — *mide la habitación antes de comprar los muebles* (measure the room before buying the furniture); also used reflexively/figuratively for height: *mide 1.80 metros* (he/she is 1.80 meters tall)",
+    "Related: *medida* (measurement, measure — *tomar medidas* = to take measures/measurements), *medidor* (meter, gauge)"
+  ],
+  "sourceFile": "Verbs/m/Medir.md"
+}

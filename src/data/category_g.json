@@ -1,0 +1,88 @@
+{
+  "id": "ec8a91da-65cb-5d21-9c3a-4523865a71c5",
+  "letter": "g",
+  "count": 8,
+  "verbs": [
+    {
+      "id": "7e189aa2-7761-5929-97e2-b5fdc49ce4ad",
+      "infinitive": "Ganar",
+      "desc": "to win, to earn",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Ganar.json"
+    },
+    {
+      "id": "fe42f7b4-b0cf-5841-bc81-6fe6f6ddcb1a",
+      "infinitive": "Generar",
+      "desc": "to generate, to produce",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Generar.json"
+    },
+    {
+      "id": "553ad082-6d09-5deb-92ef-e04ce4376431",
+      "infinitive": "Girar",
+      "desc": "to turn, to rotate",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Girar.json"
+    },
+    {
+      "id": "e5a77b1c-4c32-5730-b7c2-37b50667e6d5",
+      "infinitive": "Graduarse",
+      "desc": "to graduate",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive"
+      ],
+      "file": "verbs/Graduarse.json"
+    },
+    {
+      "id": "83b5235f-3c4d-50a3-8bc6-d073c1db8314",
+      "infinitive": "Gritar",
+      "desc": "to shout / to yell / to scream",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Gritar.json"
+    },
+    {
+      "id": "48a3bb18-5608-5042-a690-53c2253801af",
+      "infinitive": "Guardar",
+      "desc": "to keep / to save / to store",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Guardar.json"
+    },
+    {
+      "id": "8583e828-9de7-540d-86c2-cd0c3f5da6ee",
+      "infinitive": "Guiar",
+      "desc": "to guide, to lead",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Guiar.json"
+    },
+    {
+      "id": "e21b935e-9e34-5cae-a732-aea021646129",
+      "infinitive": "Gustar",
+      "desc": "to like / to please",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Gustar.json"
+    }
+  ]
+}

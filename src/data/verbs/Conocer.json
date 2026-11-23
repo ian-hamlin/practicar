@@ -1,0 +1,309 @@
+{
+  "id": "a256c725-1824-5269-8767-470400de149b",
+  "infinitive": "Conocer",
+  "englishMeaning": "to know / to meet / to be familiar with",
+  "desc": "to know / to meet / to be familiar with",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "conociendo",
+  "participio": "conocido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "conozco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conoces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conoce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conocemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conocen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "conocí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conociste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conoció"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conocimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conocieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "conocía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conocías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conocía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conocíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conocían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he conocido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has conocido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha conocido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos conocido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han conocido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había conocido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías conocido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había conocido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos conocido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían conocido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "conoceré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conocerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conocerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conoceremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conocerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "conocería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conocerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conocería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conoceríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conocerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré conocido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás conocido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá conocido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos conocido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán conocido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "conozca"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conozcas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conozca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conozcamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conozcan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "conociera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conocieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conociera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conociéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conocieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera conocido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras conocido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera conocido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos conocido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran conocido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "conoce"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "conozca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conozcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "conozcan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no conozcas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no conozca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no conozcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no conozcan"
+      }
+    ]
+  },
+  "notes": [
+    "**Conocer** is an -ER verb with irregular \"yo\" form in present",
+    "Present: irregular \"yo\" form (conozco) with spelling change c→zc before o",
+    "Preterite: regular -ER endings",
+    "Imperfect: regular -ER pattern",
+    "Pretérito Perfecto: regular past participle **conocido**",
+    "Future: regular future endings attached to infinitive",
+    "Condicional: regular conditional endings attached to infinitive",
+    "Used for knowing people/places (familiarity), not facts",
+    "In preterite, often means \"to meet (for the first time)\": *La conocí ayer* (I met her yesterday)",
+    "Don't confuse with **saber** (to know facts/information)",
+    "Common usage: *Conozco a María* (I know María), *Conocí París* (I visited/got to know Paris)",
+    "Same conjugation pattern as **parecer**, **crecer**, **ofrecer**, and **desaparecer**"
+  ],
+  "sourceFile": "Verbs/c/Conocer.md"
+}

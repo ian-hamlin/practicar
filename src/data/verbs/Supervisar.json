@@ -1,0 +1,302 @@
+{
+  "id": "67979005-de85-546e-8c5e-5b89975518ed",
+  "infinitive": "Supervisar",
+  "englishMeaning": "to supervise, to oversee",
+  "desc": "to supervise, to oversee",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "supervisando",
+  "participio": "supervisado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "superviso"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "supervisas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "supervisa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "supervisamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "supervisan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "supervisé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "supervisaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "supervisó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "supervisamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "supervisaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "supervisaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "supervisabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "supervisaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "supervisábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "supervisaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he supervisado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has supervisado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha supervisado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos supervisado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han supervisado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había supervisado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías supervisado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había supervisado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos supervisado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían supervisado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "supervisaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "supervisarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "supervisará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "supervisaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "supervisarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "supervisaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "supervisarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "supervisaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "supervisaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "supervisarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré supervisado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás supervisado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá supervisado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos supervisado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán supervisado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "supervise"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "supervises"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "supervise"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "supervisemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "supervisen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "supervisara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "supervisaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "supervisara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "supervisáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "supervisaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera supervisado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras supervisado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera supervisado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos supervisado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran supervisado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "supervisa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "supervise"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "supervisemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "supervisen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no supervises"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no supervise"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no supervisemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no supervisen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb. Follows standard -AR endings throughout all tenses with no exceptions.",
+    "Regular past participle: *supervisado*",
+    "*El jefe supervisa el trabajo del equipo.* (The boss supervises the team's work.)",
+    "*¿Quién supervisó el proyecto?* (Who supervised the project?)",
+    "Related: la supervisión (supervision), el/la supervisor/a (supervisor)"
+  ],
+  "sourceFile": "Verbs/s/Supervisar.md"
+}

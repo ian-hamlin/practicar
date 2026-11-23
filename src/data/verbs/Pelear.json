@@ -1,0 +1,300 @@
+{
+  "id": "362bfc8b-9d35-577d-9bd2-a275f1354027",
+  "infinitive": "Pelear",
+  "englishMeaning": "to fight, to argue",
+  "desc": "to fight, to argue",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "peleando",
+  "participio": "peleado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "peleo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "peleas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pelea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "peleamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pelean"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "peleé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "peleaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "peleó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "peleamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pelearon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "peleaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "peleabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "peleaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "peleábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "peleaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he peleado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has peleado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha peleado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos peleado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han peleado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había peleado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías peleado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había peleado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos peleado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían peleado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "pelearé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pelearás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "peleará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pelearemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pelearán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "pelearía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pelearías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pelearía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pelearíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pelearían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré peleado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás peleado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá peleado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos peleado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán peleado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pelee"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pelees"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pelee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "peleemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "peleen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "peleara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pelearas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "peleara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "peleáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pelearan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera peleado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras peleado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera peleado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos peleado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran peleado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "pelea"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "pelee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "peleemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "peleen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no pelees"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no pelee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no peleemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no peleen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb",
+    "Pelear takes an accent in the indefinido yo form (peleé) and él/ella form (peleó) to distinguish from the stem",
+    "Common with \"con\" (pelear con alguien — to fight with someone) or \"por\" (pelear por algo — to fight for something)"
+  ],
+  "sourceFile": "Verbs/p/Pelear.md"
+}

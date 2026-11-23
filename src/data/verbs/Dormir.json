@@ -1,0 +1,304 @@
+{
+  "id": "488d6123-97fe-5403-8ca9-0df0c91426b6",
+  "infinitive": "Dormir",
+  "englishMeaning": "to sleep",
+  "desc": "to sleep",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "durmiendo",
+  "participio": "dormido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "duermo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "duermes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "duerme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dormimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "duermen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "dormí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dormiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "durmió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dormimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "durmieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "dormía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dormías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dormía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dormíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dormían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he dormido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has dormido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha dormido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos dormido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han dormido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había dormido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías dormido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había dormido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos dormido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían dormido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "dormiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dormirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dormirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dormiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dormirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "dormiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dormirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dormiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dormiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dormirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré dormido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás dormido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá dormido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos dormido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán dormido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "duerma"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "duermas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "duerma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "durmamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "duerman"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "durmiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "durmieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "durmiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "durmiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "durmieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera dormido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras dormido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera dormido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos dormido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran dormido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "duerme"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "duerma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "durmamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "duerman"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no duermas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no duerma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no durmamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no duerman"
+      }
+    ]
+  },
+  "notes": [
+    "**Dormir** is a stem-changing verb: o→ue in present, o→u in preterite",
+    "Present: stem change o→ue (except nosotros)",
+    "Preterite: stem change o→u in 3rd person forms (durmió, durmieron)",
+    "Imperfect: regular -IR pattern, NO stem change",
+    "Special pattern: has TWO different stem changes (o→ue and o→u)",
+    "Often used reflexively: *dormirse* (to fall asleep)"
+  ],
+  "sourceFile": "Verbs/d/Dormir.md"
+}

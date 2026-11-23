@@ -1,0 +1,302 @@
+{
+  "id": "7976af12-c98e-5122-84ec-deb0c69929a6",
+  "infinitive": "Tapar",
+  "englishMeaning": "to cover, to put a lid on",
+  "desc": "to cover, to put a lid on",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "t",
+  "categoryId": "a163d0db-76b7-5624-8633-200bb9177aae",
+  "gerundio": "tapando",
+  "participio": "tapado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "tapo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tapas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tapa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tapamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tapan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "tapé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tapaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tapó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tapamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "taparon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "tapaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tapabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tapaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tapábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tapaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he tapado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has tapado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha tapado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos tapado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han tapado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había tapado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías tapado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había tapado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos tapado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían tapado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "taparé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "taparás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tapará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "taparemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "taparán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "taparía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "taparías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "taparía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "taparíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "taparían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré tapado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás tapado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá tapado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos tapado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán tapado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "tape"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tapes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tape"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tapemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tapen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "tapara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "taparas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tapara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tapáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "taparan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera tapado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras tapado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera tapado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos tapado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran tapado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "tapa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "tape"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tapemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "tapen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no tapes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no tape"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no tapemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no tapen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *tapado* (regular)",
+    "Means \"to cover\" or \"to put a lid/cap on\" — *tapa la olla* (put the lid on the pot), *tápate con la manta* (cover yourself with the blanket)",
+    "Also used figuratively to mean \"to hide/conceal\" — *tapar un error* (to cover up a mistake)",
+    "Related: *tapa* (lid, cover; also the Spanish appetizer!), *tapón* (stopper, plug, traffic jam), *destapar* (to uncover, opposite)"
+  ],
+  "sourceFile": "Verbs/t/Tapar.md"
+}

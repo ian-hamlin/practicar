@@ -1,0 +1,302 @@
+{
+  "id": "d9e354ca-0170-5efb-b329-e0a162ba6b90",
+  "infinitive": "Ceder",
+  "englishMeaning": "to give in, to yield",
+  "desc": "to give in, to yield",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "cediendo",
+  "participio": "cedido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cedo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cedes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cede"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cedemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ceden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "cedí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cediste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cedió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cedimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cedieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "cedía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cedías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cedía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cedíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cedían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he cedido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has cedido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha cedido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos cedido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han cedido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había cedido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías cedido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había cedido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos cedido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían cedido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "cederé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cederás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cederá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cederemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cederán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "cedería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cederías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cedería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cederíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cederían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré cedido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás cedido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá cedido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos cedido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán cedido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ceda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cedas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ceda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cedamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cedan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "cediera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cedieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cediera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cediéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cedieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera cedido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras cedido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera cedido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos cedido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran cedido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "cede"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "ceda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cedamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "cedan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no cedas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no ceda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no cedamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no cedan"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -ER verb — follows standard endings in every tense, no exceptions.",
+    "Often used with \"a\": *ceder a algo* (\"to give in to something\").",
+    "*Los personajes ceden al innegable placer de perder el control.* (\"The characters give in to the undeniable pleasure of losing control.\")",
+    "*No debes ceder ante la presión.* (\"You shouldn't give in to the pressure.\")",
+    "Related: *la cesión* (transfer/yielding, noun), *rendirse* (near-synonym, \"to surrender\"), *resistir* (antonym, \"to resist\")."
+  ],
+  "sourceFile": "Verbs/c/Ceder.md"
+}

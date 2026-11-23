@@ -1,0 +1,300 @@
+{
+  "id": "83195442-74b8-5f18-a0e2-4ba87da4876f",
+  "infinitive": "Escuchar",
+  "englishMeaning": "to listen (to)",
+  "desc": "to listen (to)",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "escuchando",
+  "participio": "escuchado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "escucho"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escuchas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escucha"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escuchamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escuchan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "escuché"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escuchaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escuchó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escuchamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escucharon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "escuchaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escuchabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escuchaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escuchábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escuchaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he escuchado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has escuchado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha escuchado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos escuchado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han escuchado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había escuchado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías escuchado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había escuchado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos escuchado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían escuchado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "escucharé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escucharás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escuchará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escucharemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escucharán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "escucharía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escucharías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escucharía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escucharíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escucharían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré escuchado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás escuchado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá escuchado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos escuchado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán escuchado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "escuche"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escuches"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escuche"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escuchemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escuchen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "escuchara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escucharas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escuchara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escucháramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escucharan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera escuchado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras escuchado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera escuchado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos escuchado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran escuchado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "escucha"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "escuche"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escuchemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "escuchen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no escuches"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no escuche"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no escuchemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no escuchen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, no spelling changes or stem changes",
+    "Difference from **oír**: **escuchar** = to listen (deliberately, paying attention), **oír** = to hear (perceive sound, not necessarily on purpose)",
+    "Common usage: *escuchar música* (to listen to music), *escuchar la radio* (to listen to the radio), *escúchame* (listen to me)"
+  ],
+  "sourceFile": "Verbs/e/Escuchar.md"
+}

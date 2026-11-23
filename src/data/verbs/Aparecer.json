@@ -1,0 +1,302 @@
+{
+  "id": "7655a198-088b-5346-b052-b6103891c4bc",
+  "infinitive": "Aparecer",
+  "englishMeaning": "to appear, to show up",
+  "desc": "to appear, to show up",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "apareciendo",
+  "participio": "aparecido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "aparezco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "apareces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aparece"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aparecemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aparecen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "aparecí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "apareciste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "apareció"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aparecimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aparecieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "aparecía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aparecías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aparecía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aparecíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aparecían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he aparecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has aparecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha aparecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos aparecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han aparecido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había aparecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías aparecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había aparecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos aparecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían aparecido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "apareceré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aparecerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aparecerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "apareceremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aparecerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "aparecería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aparecerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aparecería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "apareceríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aparecerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré aparecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás aparecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá aparecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos aparecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán aparecido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "aparezca"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aparezcas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aparezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aparezcamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aparezcan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "apareciera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aparecieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "apareciera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "apareciéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aparecieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera aparecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras aparecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera aparecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos aparecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran aparecido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "aparece"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "aparezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aparezcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "aparezcan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no aparezcas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no aparezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no aparezcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no aparezcan"
+      }
+    ]
+  },
+  "notes": [
+    "Irregular -ER verb — the *c* changes to *zc* before *o* and *a*: irregular only in the yo form of Presente (*aparezco*, not *apareco*) and throughout Subjuntivo Presente (*aparezca, aparezcas...*). All other tenses are fully regular.",
+    "Same pattern as *nacer*, *conocer*, and its own opposite *desaparecer*",
+    "Past participle: *aparecido* (regular)",
+    "Means \"to appear\" or \"to show up\" — *apareció de repente* (he/she suddenly appeared), *el documento apareció en el cajón* (the document turned up in the drawer)",
+    "Related: *aparición* (appearance, apparition), *apariencia* (appearance, looks), *desaparecer* (to disappear — opposite)"
+  ],
+  "sourceFile": "Verbs/a/Aparecer.md"
+}

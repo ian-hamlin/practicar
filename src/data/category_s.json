@@ -1,0 +1,362 @@
+{
+  "id": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "letter": "s",
+  "count": 34,
+  "verbs": [
+    {
+      "id": "16f203d6-d988-560e-a31c-4673d79b9ca4",
+      "infinitive": "Saber",
+      "desc": "to know / to know how to",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Saber.json"
+    },
+    {
+      "id": "c4f5e506-1a02-5918-8db6-d273455a18fc",
+      "infinitive": "Sabotear",
+      "desc": "to sabotage",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Sabotear.json"
+    },
+    {
+      "id": "d5a73012-d2c4-51c9-b223-e4b938021a02",
+      "infinitive": "Sacar",
+      "desc": "to take out / to get / to remove",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Sacar.json"
+    },
+    {
+      "id": "f486119e-96fa-55d6-b61d-ad205f3f36ca",
+      "infinitive": "Salir",
+      "desc": "to leave / to go out / to exit",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Salir.json"
+    },
+    {
+      "id": "fd4e8d9b-9d52-53ba-8a83-7a5dfeedb665",
+      "infinitive": "Saltar",
+      "desc": "to jump",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Saltar.json"
+    },
+    {
+      "id": "f6509ee3-1f8c-557a-9d7e-82bf2bc012f8",
+      "infinitive": "Saludarse",
+      "desc": "to greet each other, to say hello",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Saludarse.json"
+    },
+    {
+      "id": "80f5d122-1630-5625-9bdc-86857c407da4",
+      "infinitive": "Secar",
+      "desc": "to dry",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Secar.json"
+    },
+    {
+      "id": "66614de4-6227-5c3e-a867-07fb2114992c",
+      "infinitive": "Secarse",
+      "desc": "to dry (oneself), to dry up, to wither",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive"
+      ],
+      "file": "verbs/Secarse.json"
+    },
+    {
+      "id": "d27fa869-c413-57db-b3c3-30ec601b7516",
+      "infinitive": "Secuestrar",
+      "desc": "to kidnap / to hijack / to sequester",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Secuestrar.json"
+    },
+    {
+      "id": "e3289b68-5bb4-5a9a-a7b4-8b037b65c53a",
+      "infinitive": "Seducir",
+      "desc": "to seduce, to charm",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Seducir.json"
+    },
+    {
+      "id": "bc002427-6d2c-5440-821a-72a748870283",
+      "infinitive": "Seguir",
+      "desc": "to follow, to continue, to keep on",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_i"
+      ],
+      "file": "verbs/Seguir.json"
+    },
+    {
+      "id": "88a36235-714d-5919-99b3-28cfadb112d4",
+      "infinitive": "Sentar",
+      "desc": "to sit / to seat",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Sentar.json"
+    },
+    {
+      "id": "0f4b0ed1-a118-5361-ac79-df83ac31273c",
+      "infinitive": "Sentarse",
+      "desc": "to sit down",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Sentarse.json"
+    },
+    {
+      "id": "c5d8ca00-d90c-544c-a637-b8e873454aa2",
+      "infinitive": "Sentir",
+      "desc": "to feel / to be sorry / to regret",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Sentir.json"
+    },
+    {
+      "id": "949a2481-6250-51a0-ad6f-1821999a9729",
+      "infinitive": "Separar",
+      "desc": "to separate, to divide, to split",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Separar.json"
+    },
+    {
+      "id": "eecc796c-ad19-5ed3-98e9-16b483e9cfa3",
+      "infinitive": "Ser",
+      "desc": "to be",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Ser.json"
+    },
+    {
+      "id": "0b2b6d45-a89f-57f9-b20a-b14bd977c131",
+      "infinitive": "Servir",
+      "desc": "to serve",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_i"
+      ],
+      "file": "verbs/Servir.json"
+    },
+    {
+      "id": "2e06f581-d726-572e-b761-6e4a6cff5c49",
+      "infinitive": "Sobrepasar",
+      "desc": "to exceed / to surpass / to go over / to go beyond",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Sobrepasar.json"
+    },
+    {
+      "id": "731bced1-86ee-5aba-b5c0-8df6690cebab",
+      "infinitive": "Sobrevender",
+      "desc": "to oversell, to overbook",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Sobrevender.json"
+    },
+    {
+      "id": "cf60856a-0965-59e1-ba2a-ccb3fbaf61c9",
+      "infinitive": "Soler",
+      "desc": "to usually do / to tend to / to be in the habit of",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Soler.json"
+    },
+    {
+      "id": "db238907-9b71-5ce3-87b4-7c11f22a87da",
+      "infinitive": "Solicitar",
+      "desc": "to apply for, to request",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Solicitar.json"
+    },
+    {
+      "id": "dcce4b02-f28b-5979-9049-e67030bb09e2",
+      "infinitive": "Soltarse",
+      "desc": "to let go, to come loose, to free oneself",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Soltarse.json"
+    },
+    {
+      "id": "a3982616-e421-5b07-bfc8-28e03560ec9c",
+      "infinitive": "Solucionar",
+      "desc": "to solve / to resolve / to sort out",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Solucionar.json"
+    },
+    {
+      "id": "bbe360fe-6685-5371-a3d6-02d0ebf155ef",
+      "infinitive": "Sonar",
+      "desc": "to sound / to ring / to play",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Sonar.json"
+    },
+    {
+      "id": "ce4a75a5-b17f-50ab-90d2-a8aab8475ba5",
+      "infinitive": "Soñar",
+      "desc": "to dream / to dream of",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Soñar.json"
+    },
+    {
+      "id": "ef69483c-7767-5195-94b1-e8dfc33823d6",
+      "infinitive": "Soportar",
+      "desc": "to tolerate / to put up with / to bear / to support",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Soportar.json"
+    },
+    {
+      "id": "9f421e28-eaea-5999-ac96-e25ba1b52c76",
+      "infinitive": "Sostener",
+      "desc": "to hold, to support, to sustain",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Sostener.json"
+    },
+    {
+      "id": "2f17aa1a-3029-50ae-8129-18a9bd9f15be",
+      "infinitive": "Subir",
+      "desc": "to go up / to climb / to raise / to upload",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Subir.json"
+    },
+    {
+      "id": "5badb57c-33b6-56cd-a425-47d2ba57cd99",
+      "infinitive": "Subirse",
+      "desc": "to get on / to climb / to go up",
+      "tags": [
+        "verb",
+        "reflexive",
+        "regular"
+      ],
+      "file": "verbs/Subirse.json"
+    },
+    {
+      "id": "63e9c863-edf0-5b73-8b1d-995e679df66c",
+      "infinitive": "Suceder",
+      "desc": "to happen, to occur",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Suceder.json"
+    },
+    {
+      "id": "8daea75e-cce5-5a48-88e0-ec0860c028df",
+      "infinitive": "Sufrir",
+      "desc": "to suffer, to undergo",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Sufrir.json"
+    },
+    {
+      "id": "6664c896-2692-5df6-9512-9db9c7203ea8",
+      "infinitive": "Sujetar",
+      "desc": "to hold, to grip, to fasten",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Sujetar.json"
+    },
+    {
+      "id": "67979005-de85-546e-8c5e-5b89975518ed",
+      "infinitive": "Supervisar",
+      "desc": "to supervise, to oversee",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Supervisar.json"
+    },
+    {
+      "id": "5d3d446e-0f32-537b-8c73-5161de8b1610",
+      "infinitive": "Suspender",
+      "desc": "to fail (an exam) / to suspend / to hang / to call off",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Suspender.json"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "id": "a023dfaf-751e-582b-b2f6-b91311d619a4",
+  "infinitive": "Descargar",
+  "englishMeaning": "to download, to unload",
+  "desc": "to download, to unload",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "descargando",
+  "participio": "descargado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "descargo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descargas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descarga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descargamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descargan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "descargué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descargaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descargó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descargamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descargaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "descargaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descargabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descargaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descargábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descargaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he descargado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has descargado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha descargado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos descargado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han descargado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había descargado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías descargado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había descargado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos descargado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían descargado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "descargaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descargarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descargará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descargaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descargarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "descargaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descargarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descargaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descargaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descargarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré descargado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás descargado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá descargado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos descargado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán descargado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "descargue"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descargues"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descargue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descarguemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descarguen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "descargara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descargaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descargara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descargáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descargaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera descargado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras descargado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera descargado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos descargado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran descargado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "descarga"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "descargue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descarguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "descarguen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no descargues"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no descargue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no descarguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no descarguen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb with a spelling change: **g → gu before e**, to preserve the hard \"g\" sound",
+    "Only affects the yo form of the pretérito indefinido (descargué, not \"descargé\") and the entire subjuntivo presente/imperativo (descargue, descargues...)",
+    "No stem changes; regular past participle: **descargado**",
+    "Two common meanings: \"to download\" (files/apps) and \"to unload\" (cargo, a truck, or figuratively \"to vent\"): *descargar la ira* (to vent one's anger)",
+    "Related noun: **la descarga** (the download / the unloading)"
+  ],
+  "sourceFile": "Verbs/d/Descargar.md"
+}

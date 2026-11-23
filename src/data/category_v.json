@@ -1,0 +1,141 @@
+{
+  "id": "7848c6f0-8db9-54f6-91a9-a1f1ebd97c61",
+  "letter": "v",
+  "count": 13,
+  "verbs": [
+    {
+      "id": "8eaf8a13-b72a-54b9-ae2f-cc3007d4658d",
+      "infinitive": "Vaciar",
+      "desc": "to empty, to drain, to clear out",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Vaciar.json"
+    },
+    {
+      "id": "a53b9fd0-d595-53e7-9a05-9f38960eb375",
+      "infinitive": "Valer",
+      "desc": "to be worth / to cost / to be valid",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Valer.json"
+    },
+    {
+      "id": "2c1ca102-787c-590e-b882-e17af30dfffc",
+      "infinitive": "Vender",
+      "desc": "to sell",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Vender.json"
+    },
+    {
+      "id": "508652c4-9155-56f3-a0f2-20896d4168c7",
+      "infinitive": "Venir",
+      "desc": "to come",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Venir.json"
+    },
+    {
+      "id": "9b093389-6238-598d-85f3-2f88f5569db2",
+      "infinitive": "Ver",
+      "desc": "to see / to watch",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Ver.json"
+    },
+    {
+      "id": "528b0d6b-9157-5481-ab93-52be099a1ce6",
+      "infinitive": "Vestirse",
+      "desc": "to get dressed",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive",
+        "stem_e_i"
+      ],
+      "file": "verbs/Vestirse.json"
+    },
+    {
+      "id": "2e5bc58a-82ef-5f22-b493-1125c97e2ef6",
+      "infinitive": "Viajar",
+      "desc": "to travel",
+      "tags": [],
+      "file": "verbs/Viajar.json"
+    },
+    {
+      "id": "27e8865d-14ba-52fb-8816-7ec6ad66209e",
+      "infinitive": "Visitar",
+      "desc": "to visit",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Visitar.json"
+    },
+    {
+      "id": "23905479-9be8-5bfa-becf-adf3b5dcaec4",
+      "infinitive": "Vivir",
+      "desc": "to live",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Vivir.json"
+    },
+    {
+      "id": "f883f45b-7daa-506b-89be-d52f5b03066a",
+      "infinitive": "Volar",
+      "desc": "to fly",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Volar.json"
+    },
+    {
+      "id": "f1c85ebf-0e3e-5d21-8a70-7a1f0d9cd052",
+      "infinitive": "Volver",
+      "desc": "to return / to come back",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Volver.json"
+    },
+    {
+      "id": "31edae48-97ae-53d2-a3a6-3fa0321ddf68",
+      "infinitive": "Volverse",
+      "desc": "to become, to turn",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Volverse.json"
+    },
+    {
+      "id": "e2f582c7-7f9d-56ef-928e-7e84b06a1ad2",
+      "infinitive": "Votar",
+      "desc": "to vote",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Votar.json"
+    }
+  ]
+}

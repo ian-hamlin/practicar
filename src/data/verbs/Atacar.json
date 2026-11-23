@@ -1,0 +1,302 @@
+{
+  "id": "ac13d483-fec1-5bfa-8fbe-b67e074f7001",
+  "infinitive": "Atacar",
+  "englishMeaning": "to attack",
+  "desc": "to attack",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "atacando",
+  "participio": "atacado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ataco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atacas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ataca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atacamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atacan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "ataqué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atacaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atacó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atacamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atacaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "atacaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atacabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atacaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atacábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atacaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he atacado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has atacado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha atacado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos atacado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han atacado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había atacado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías atacado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había atacado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos atacado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían atacado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "atacaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atacarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atacará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atacaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atacarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "atacaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atacarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atacaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atacaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atacarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré atacado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás atacado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá atacado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos atacado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán atacado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ataque"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ataques"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ataque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ataquemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ataquen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "atacara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "atacaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "atacara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atacáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "atacaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera atacado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras atacado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera atacado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos atacado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran atacado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "ataca"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "ataque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ataquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "ataquen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no ataques"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no ataque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no ataquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no ataquen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb with a spelling change: **c → qu before e**, to preserve the hard \"k\" sound",
+    "Only affects the yo form of the pretérito indefinido (ataqué, not \"atacé\") and the entire subjuntivo presente (ataque, ataques...)",
+    "No stem changes; regular past participle: **atacado**",
+    "Related noun: **el ataque** (the attack)",
+    "Common usage: *atacar por sorpresa* (to attack by surprise), *un ataque de risa* (a fit of laughter)"
+  ],
+  "sourceFile": "Verbs/a/Atacar.md"
+}

@@ -1,0 +1,303 @@
+{
+  "id": "a02c98cb-d011-54ac-b993-cbf38feaf172",
+  "infinitive": "Probar",
+  "englishMeaning": "to try, to taste, to test, to prove",
+  "desc": "to try, to taste, to test, to prove",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "probando",
+  "participio": "probado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pruebo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pruebas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "prueba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "probamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prueban"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "probé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "probaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "probó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "probamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "probaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "probaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "probabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "probaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "probábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "probaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he probado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has probado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha probado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos probado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han probado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había probado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías probado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había probado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos probado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían probado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "probaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "probarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "probará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "probaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "probarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "probaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "probarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "probaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "probaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "probarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré probado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás probado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá probado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos probado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán probado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pruebe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pruebes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pruebe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "probemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prueben"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "probara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "probaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "probara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "probáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "probaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera probado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras probado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera probado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos probado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran probado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "prueba"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "pruebe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "probemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "prueben"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no pruebes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no pruebe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no probemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no prueben"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with **o→ue stem change** in the presente — affects all forms except nosotros/nosotras",
+    "The stem change does **not** appear in pretérito indefinido, imperfecto, futuro, or condicional",
+    "Past participle: *probado* (regular)",
+    "Common usage: *probar la comida* (to taste/try the food), *probar suerte* (to try one's luck), *probar ropa* (to try on clothes)",
+    "Related: *la prueba* (the test/proof/trial), *probarse* (to try on — reflexive)"
+  ],
+  "sourceFile": "Verbs/p/Probar.md"
+}

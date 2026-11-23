@@ -1,0 +1,303 @@
+{
+  "id": "5d926db7-4343-54fb-975e-53326f25d254",
+  "infinitive": "Esconder",
+  "englishMeaning": "to hide, to conceal",
+  "desc": "to hide, to conceal",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "escondiendo",
+  "participio": "escondido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "escondo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escondes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esconde"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escondemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esconden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "escondí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escondiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escondió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escondimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escondieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "escondía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escondías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escondía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escondíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escondían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he escondido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has escondido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha escondido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos escondido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han escondido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había escondido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías escondido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había escondido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos escondido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían escondido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "esconderé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esconderás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esconderá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esconderemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esconderán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "escondería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esconderías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escondería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esconderíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esconderían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré escondido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás escondido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá escondido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos escondido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán escondido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "esconda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escondas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esconda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escondamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escondan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "escondiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escondieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escondiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escondiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escondieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera escondido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras escondido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera escondido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos escondido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran escondido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "esconde"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "esconda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escondamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "escondan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no escondas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no esconda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no escondamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no escondan"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -ER verb; follows standard endings throughout",
+    "Past participle: escondido (regular)",
+    "*Esconder algo* = to hide something; *esconderse* = to hide oneself",
+    "*¿Dónde escondiste las llaves?* = Where did you hide the keys?",
+    "Related: escondido (hidden), el escondite (hiding place; also the children's game hide-and-seek)",
+    "*Jugar al escondite* = to play hide-and-seek"
+  ],
+  "sourceFile": "Verbs/e/Esconder.md"
+}

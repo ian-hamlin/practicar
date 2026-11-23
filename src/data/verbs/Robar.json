@@ -1,0 +1,304 @@
+{
+  "id": "ac04071b-ac9e-5b16-a6e0-75a4532e8a78",
+  "infinitive": "Robar",
+  "englishMeaning": "to rob/to steal",
+  "desc": "to rob/to steal",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "robando",
+  "participio": "robado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "robo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "robas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "roba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "robamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "roban"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "robé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "robaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "robó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "robamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "robaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "robaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "robabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "robaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "robábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "robaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he robado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has robado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha robado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos robado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han robado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había robado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías robado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había robado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos robado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían robado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "robaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "robarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "robará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "robaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "robarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "robaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "robarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "robaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "robaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "robarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré robado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás robado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá robado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos robado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán robado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "robe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "robes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "robe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "robemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "roben"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "robara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "robaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "robara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "robáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "robaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera robado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras robado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera robado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos robado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran robado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "roba"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "robe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "robemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "roben"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no robes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no robe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no robemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no roben"
+      }
+    ]
+  },
+  "notes": [
+    "**Robar** is a regular -AR verb",
+    "No stem changes in any tense",
+    "Follows the same pattern as regular -AR verbs like hablar, trabajar",
+    "Past participle: robado (robbed/stolen)",
+    "Most common and natural word for stealing/robbing in Argentina and all of Latin America",
+    "Common usage: *robar un banco* (to rob a bank), *robar el tren* (to rob the train), *me robaron* (they robbed me), *robar dinero* (to steal money)",
+    "Related words: *ladrón/ladrona* (thief), *robo* (robbery/theft)"
+  ],
+  "sourceFile": "Verbs/r/Robar.md"
+}

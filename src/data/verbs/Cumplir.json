@@ -1,0 +1,304 @@
+{
+  "id": "da9bc329-be30-59fe-8ee8-aa8a7ea2f083",
+  "infinitive": "Cumplir",
+  "englishMeaning": "to turn an age, to fulfil, to complete",
+  "desc": "to turn (an age), to fulfil, to complete",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "cumpliendo",
+  "participio": "cumplido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cumplo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cumples"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cumple"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cumplimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cumplen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "cumplí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cumpliste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cumplió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cumplimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cumplieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "cumplía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cumplías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cumplía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cumplíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cumplían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he cumplido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has cumplido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha cumplido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos cumplido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han cumplido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había cumplido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías cumplido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había cumplido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos cumplido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían cumplido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "cumpliré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cumplirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cumplirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cumpliremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cumplirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "cumpliría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cumplirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cumpliría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cumpliríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cumplirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré cumplido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás cumplido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá cumplido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos cumplido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán cumplido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cumpla"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cumplas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cumpla"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cumplamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cumplan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "cumpliera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cumplieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cumpliera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cumpliéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cumplieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera cumplido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras cumplido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera cumplido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos cumplido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran cumplido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "cumple"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "cumpla"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cumplamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "cumplan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no cumplas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no cumpla"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no cumplamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no cumplan"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -IR verb; follows standard endings throughout",
+    "Past participle: cumplido (regular)",
+    "*Cumplir años* = to have a birthday / to turn (an age): *Mañana cumplo 30 años* = Tomorrow I turn 30",
+    "*Cumplir con* = to fulfil / to meet (an obligation): *Cumplió con su promesa* = He kept his promise",
+    "*Cumplir una condena* = to serve a sentence",
+    "*¡Feliz cumpleaños!* = Happy birthday! (from *cumpleaños* = birthday, lit. \"fulfil years\")",
+    "Related: el cumpleaños (birthday), el cumplimiento (fulfilment/compliance), cumplido/a (fulfilled; also: compliment)"
+  ],
+  "sourceFile": "Verbs/c/Cumplir.md"
+}

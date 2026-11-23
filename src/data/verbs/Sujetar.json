@@ -1,0 +1,301 @@
+{
+  "id": "6664c896-2692-5df6-9512-9db9c7203ea8",
+  "infinitive": "Sujetar",
+  "englishMeaning": "to hold, to grip, to fasten",
+  "desc": "to hold, to grip, to fasten",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "sujetando",
+  "participio": "sujetado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sujeto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sujetas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sujeta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sujetamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sujetan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "sujeté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sujetaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sujetó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sujetamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sujetaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "sujetaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sujetabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sujetaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sujetábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sujetaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he sujetado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has sujetado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha sujetado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos sujetado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han sujetado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había sujetado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías sujetado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había sujetado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos sujetado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían sujetado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "sujetaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sujetarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sujetará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sujetaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sujetarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "sujetaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sujetarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sujetaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sujetaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sujetarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré sujetado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás sujetado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá sujetado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos sujetado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán sujetado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sujete"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sujetes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sujete"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sujetemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sujeten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "sujetara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sujetaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sujetara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sujetáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sujetaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera sujetado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras sujetado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera sujetado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos sujetado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran sujetado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "sujeta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "sujete"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sujetemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "sujeten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no sujetes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no sujete"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no sujetemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no sujeten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *sujetado* (regular)",
+    "Means \"to hold,\" \"to grip,\" or \"to fasten/secure\" something in place — *sujeta la puerta* (hold the door), *sujeta el papel con un clip* (fasten the paper with a clip)",
+    "Related: *sujetador* (bra, or \"holder\"), *sujeción* (fastening, restraint)"
+  ],
+  "sourceFile": "Verbs/s/Sujetar.md"
+}

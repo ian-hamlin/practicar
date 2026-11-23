@@ -1,0 +1,301 @@
+{
+  "id": "9a1296d8-7c75-547e-8910-5737b23349a7",
+  "infinitive": "Aprovechar",
+  "englishMeaning": "to make the most of, to take advantage of",
+  "desc": "to make the most of, to take advantage of",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "aprovechando",
+  "participio": "aprovechado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "aprovecho"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aprovechas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aprovecha"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprovechamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprovechan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "aproveché"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aprovechaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aprovechó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprovechamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprovecharon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "aprovechaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aprovechabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aprovechaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprovechábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprovechaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he aprovechado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has aprovechado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha aprovechado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos aprovechado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han aprovechado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había aprovechado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías aprovechado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había aprovechado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos aprovechado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían aprovechado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "aprovecharé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aprovecharás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aprovechará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprovecharemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprovecharán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "aprovecharía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aprovecharías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aprovecharía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprovecharíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprovecharían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré aprovechado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás aprovechado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá aprovechado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos aprovechado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán aprovechado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "aproveche"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aproveches"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aproveche"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprovechemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprovechen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "aprovechara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aprovecharas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aprovechara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprovecháramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprovecharan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera aprovechado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras aprovechado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera aprovechado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos aprovechado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran aprovechado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "aprovecha"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "aproveche"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprovechemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "aprovechen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no aproveches"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no aproveche"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no aprovechemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no aprovechen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb. All conjugations follow standard -AR endings.",
+    "*Aprovecha el tiempo libre.* (Make the most of your free time.)",
+    "*Aproveché las rebajas para comprar ropa.* (I took advantage of the sales to buy clothes.)",
+    "Related: *el aprovechamiento* (use, utilisation), *aprovechado/a* (opportunistic)"
+  ],
+  "sourceFile": "Verbs/a/Aprovechar.md"
+}

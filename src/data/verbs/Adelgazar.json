@@ -1,0 +1,303 @@
+{
+  "id": "9e0790cb-dc43-51d5-a024-3b039feecb90",
+  "infinitive": "Adelgazar",
+  "englishMeaning": "to lose weight, to slim down",
+  "desc": "to lose weight, to slim down",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "adelgazando",
+  "participio": "adelgazado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "adelgazo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adelgazas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adelgaza"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adelgazamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adelgazan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "adelgacé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adelgazaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adelgazó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adelgazamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adelgazaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "adelgazaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adelgazabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adelgazaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adelgazábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adelgazaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he adelgazado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has adelgazado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha adelgazado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos adelgazado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han adelgazado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había adelgazado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías adelgazado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había adelgazado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos adelgazado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían adelgazado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "adelgazaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adelgazarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adelgazará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adelgazaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adelgazarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "adelgazaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adelgazarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adelgazaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adelgazaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adelgazarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré adelgazado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás adelgazado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá adelgazado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos adelgazado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán adelgazado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "adelgace"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adelgaces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adelgace"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adelgacemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adelgacen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "adelgazara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adelgazaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adelgazara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adelgazáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adelgazaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera adelgazado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras adelgazado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera adelgazado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos adelgazado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran adelgazado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "adelgaza"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "adelgace"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adelgacemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "adelgacen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no adelgaces"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no adelgace"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no adelgacemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no adelgacen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with a **spelling change: z→c before e** to preserve the soft /s/ sound",
+    "This affects only the **pretérito indefinido yo** form: *adelgacé* (not *adelgazé*)",
+    "All other forms follow regular -AR patterns",
+    "Past participle: *adelgazado* (regular)",
+    "Common usage: *adelgazar cinco kilos* (to lose five kilos), *quiero adelgazar* (I want to lose weight)",
+    "Related: *delgado/a* (thin/slim), *engordar* (to put on weight — opposite)"
+  ],
+  "sourceFile": "Verbs/a/Adelgazar.md"
+}

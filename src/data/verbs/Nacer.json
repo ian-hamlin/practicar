@@ -1,0 +1,302 @@
+{
+  "id": "272b487e-c403-5b3d-9710-9f309d5ced87",
+  "infinitive": "Nacer",
+  "englishMeaning": "to be born",
+  "desc": "to be born",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "n",
+  "categoryId": "8779dc62-9f31-5393-b27c-acaee5781ff5",
+  "gerundio": "naciendo",
+  "participio": "nacido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "nazco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "naces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "nace"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nacemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "nacen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "nací"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "naciste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "nació"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nacimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "nacieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "nacía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "nacías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "nacía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nacíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "nacían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he nacido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has nacido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha nacido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos nacido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han nacido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había nacido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías nacido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había nacido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos nacido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían nacido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "naceré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "nacerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "nacerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "naceremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "nacerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "nacería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "nacerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "nacería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "naceríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "nacerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré nacido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás nacido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá nacido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos nacido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán nacido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "nazca"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "nazcas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "nazca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nazcamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "nazcan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "naciera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "nacieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "naciera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "naciéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "nacieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera nacido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras nacido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera nacido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos nacido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran nacido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "nace"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "nazca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nazcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "nazcan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no nazcas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no nazca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nazcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no nazcan"
+      }
+    ]
+  },
+  "notes": [
+    "Irregular -ER verb — the *c* changes to *zc* before *o* and *a*: irregular only in the yo form of Presente (*nazco*, not *naco*) and throughout Subjuntivo Presente (*nazca, nazcas...*). All other tenses are fully regular.",
+    "This is the same pattern as other -cer/-cir verbs like *conocer* and *parecer*",
+    "Past participle: *nacido* (regular)",
+    "Almost always used in 3rd person, since it describes people, animals, or things coming into being — *nació en Madrid* (he/she was born in Madrid)",
+    "Related: *nacimiento* (birth), *nacional* (national — same root), *renacer* (to be reborn)"
+  ],
+  "sourceFile": "Verbs/n/Nacer.md"
+}

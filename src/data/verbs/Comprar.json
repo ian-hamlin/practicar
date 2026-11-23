@@ -1,0 +1,301 @@
+{
+  "id": "84aa1893-813a-51c7-9fdd-4cd5b8df6991",
+  "infinitive": "Comprar",
+  "englishMeaning": "to buy",
+  "desc": "to buy",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "comprando",
+  "participio": "comprado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "compro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "compras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "compra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "compramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "compran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "compré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "compraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "compró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "compramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "compraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "compraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "comprabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "compraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "comprábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "compraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he comprado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has comprado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha comprado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos comprado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han comprado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había comprado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías comprado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había comprado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos comprado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían comprado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "compraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "comprarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "comprará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "compraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "comprarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "compraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "comprarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "compraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "compraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "comprarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré comprado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás comprado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá comprado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos comprado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán comprado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "compre"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "compres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "compre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "compremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "compren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "comprara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "compraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "comprara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "compráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "compraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera comprado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras comprado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera comprado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos comprado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran comprado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "compra"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "compre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "compremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "compren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no compres"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no compre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no compremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no compren"
+      }
+    ]
+  },
+  "notes": [
+    "**Comprar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Opposite of **vender** (to sell)",
+    "Common usage: *comprar comida* (to buy food), *ir de compras* (to go shopping)"
+  ],
+  "sourceFile": "Verbs/c/Comprar.md"
+}

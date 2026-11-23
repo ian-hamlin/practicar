@@ -1,0 +1,378 @@
+{
+  "id": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "letter": "p",
+  "count": 36,
+  "verbs": [
+    {
+      "id": "2e52ccff-64fd-511a-ae97-167047a13c00",
+      "infinitive": "Pagar",
+      "desc": "to pay",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Pagar.json"
+    },
+    {
+      "id": "2dc95026-d743-5bfc-b8d5-105fb2cf67e8",
+      "infinitive": "Paralizar",
+      "desc": "to paralyze",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Paralizar.json"
+    },
+    {
+      "id": "66abed5b-a344-5cd1-9da3-00fac1f59d2b",
+      "infinitive": "Parar",
+      "desc": "to stop",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Parar.json"
+    },
+    {
+      "id": "7ff1458d-532b-52e1-82a0-7558c02cd852",
+      "infinitive": "Parecer",
+      "desc": "to seem / to appear / to look like",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Parecer.json"
+    },
+    {
+      "id": "243c353c-49ff-5d41-a6b6-dae6b4aed2d3",
+      "infinitive": "Parecerse",
+      "desc": "to look like / to resemble / to be similar to",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive"
+      ],
+      "file": "verbs/Parecerse.json"
+    },
+    {
+      "id": "c8a8ad6c-d1ff-5e95-9064-4eccec1e2086",
+      "infinitive": "Pasar",
+      "desc": "to pass / to spend time / to happen",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Pasar.json"
+    },
+    {
+      "id": "2db0103e-9be4-5c78-900d-14c2a038700b",
+      "infinitive": "Pasear",
+      "desc": "to walk, to take a stroll",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Pasear.json"
+    },
+    {
+      "id": "15432a47-7b41-5ec6-9a1f-18149d59459d",
+      "infinitive": "Patentar",
+      "desc": "to patent",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Patentar.json"
+    },
+    {
+      "id": "ac53fc93-a883-52ff-9f78-64ef774b842a",
+      "infinitive": "Pedir",
+      "desc": "to ask for / to request / to order",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_i"
+      ],
+      "file": "verbs/Pedir.json"
+    },
+    {
+      "id": "63aa2ced-005c-5712-8d5d-319edae31e25",
+      "infinitive": "Pegar",
+      "desc": "to hit / to stick / to glue / to paste / to give (a blow)",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Pegar.json"
+    },
+    {
+      "id": "86a71add-bad0-5ea6-a7ef-0664b74be021",
+      "infinitive": "Pelar",
+      "desc": "to peel, to skin",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Pelar.json"
+    },
+    {
+      "id": "362bfc8b-9d35-577d-9bd2-a275f1354027",
+      "infinitive": "Pelear",
+      "desc": "to fight, to argue",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Pelear.json"
+    },
+    {
+      "id": "0efb636d-2ae6-5c50-9877-65f95fef6aee",
+      "infinitive": "Pensar",
+      "desc": "to think",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Pensar.json"
+    },
+    {
+      "id": "0c60c65a-365a-542b-b50d-028cfb425c93",
+      "infinitive": "Perder",
+      "desc": "to lose / to miss",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Perder.json"
+    },
+    {
+      "id": "673ad702-e326-53f5-a65b-bd9b4dc32b66",
+      "infinitive": "Perfeccionar",
+      "desc": "to perfect, to improve",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Perfeccionar.json"
+    },
+    {
+      "id": "e0ba2edc-dd10-5c2d-a1a5-92c468ad876b",
+      "infinitive": "Permitir",
+      "desc": "to allow / to permit",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Permitir.json"
+    },
+    {
+      "id": "b38a4910-d8b8-5594-bff1-89b11b01fe9e",
+      "infinitive": "Pesar",
+      "desc": "to weigh",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Pesar.json"
+    },
+    {
+      "id": "4c5d4ecb-b24e-5823-8a4d-149a134affb0",
+      "infinitive": "Pescar",
+      "desc": "to fish",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Pescar.json"
+    },
+    {
+      "id": "884d8b7c-b775-57fc-840b-3604b8b86ba2",
+      "infinitive": "Picar",
+      "desc": "to sting / to bite / to snack / to chop / to itch",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Picar.json"
+    },
+    {
+      "id": "5dc68ee7-0d89-571b-b775-11063f0fa2a6",
+      "infinitive": "Poder",
+      "desc": "to be able to / can",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Poder.json"
+    },
+    {
+      "id": "01f4a2c3-7535-5303-87b2-5cf7998f091f",
+      "infinitive": "Poner",
+      "desc": "to put / to place",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Poner.json"
+    },
+    {
+      "id": "89f11110-6866-5303-bded-bf2cc26f89c6",
+      "infinitive": "Ponerse",
+      "desc": "to put on / to become / to get",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive"
+      ],
+      "file": "verbs/Ponerse.json"
+    },
+    {
+      "id": "d42fa2c8-026f-55d1-9b13-d5e3a14ce8ee",
+      "infinitive": "Portarse",
+      "desc": "to behave, to act, to conduct oneself",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Portarse.json"
+    },
+    {
+      "id": "fd7a90c8-56bc-5fd8-9a70-adf5a4431b8d",
+      "infinitive": "Practicar",
+      "desc": "to practise, to practise a sport",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Practicar.json"
+    },
+    {
+      "id": "ccfdce11-5f9a-5063-a732-372b93f9551f",
+      "infinitive": "Preferir",
+      "desc": "to prefer",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Preferir.json"
+    },
+    {
+      "id": "81cf0d48-1014-5070-be0c-ad733476406f",
+      "infinitive": "Preguntar",
+      "desc": "to ask / to question",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Preguntar.json"
+    },
+    {
+      "id": "445e8b46-b308-5274-affc-cb4aa517773e",
+      "infinitive": "Preocupar",
+      "desc": "to worry / to concern",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Preocupar.json"
+    },
+    {
+      "id": "91da7b32-74a2-59a9-bbb2-aebc4ff1c76b",
+      "infinitive": "Preparar",
+      "desc": "to prepare / to get ready",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Preparar.json"
+    },
+    {
+      "id": "4b332afe-68af-5c31-8cfa-39f09826f76c",
+      "infinitive": "Presentar",
+      "desc": "to present, to introduce",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Presentar.json"
+    },
+    {
+      "id": "a54f23e1-9c4e-5218-b5e2-534e09071145",
+      "infinitive": "Prestar",
+      "desc": "to lend / to loan",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Prestar.json"
+    },
+    {
+      "id": "4d31ea5c-494d-5702-a96b-05a46e199db1",
+      "infinitive": "Pretender",
+      "desc": "to intend, to try, to claim",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Pretender.json"
+    },
+    {
+      "id": "a02c98cb-d011-54ac-b993-cbf38feaf172",
+      "infinitive": "Probar",
+      "desc": "to try, to taste, to test, to prove",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Probar.json"
+    },
+    {
+      "id": "703559ab-1eaf-5e4b-865f-293e8f9f1349",
+      "infinitive": "Producirse",
+      "desc": "to occur / to happen / to take place",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive"
+      ],
+      "file": "verbs/Producirse.json"
+    },
+    {
+      "id": "6cc57db3-3f4f-5b94-be76-d4b71b9dea4a",
+      "infinitive": "Prometer",
+      "desc": "to promise",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Prometer.json"
+    },
+    {
+      "id": "25060d7e-6ddb-5178-a45f-5611dbb0d28e",
+      "infinitive": "Proponerse",
+      "desc": "to set out to, to intend to",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive"
+      ],
+      "file": "verbs/Proponerse.json"
+    },
+    {
+      "id": "6319e302-e2d0-59b8-8ff2-055036b51c6c",
+      "infinitive": "Provocar",
+      "desc": "to cause / to provoke / to trigger",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Provocar.json"
+    }
+  ]
+}

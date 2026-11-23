@@ -1,0 +1,304 @@
+{
+  "id": "06a17b85-fb9f-5542-9991-448b0ceea23d",
+  "infinitive": "Derretir",
+  "englishMeaning": "to melt",
+  "desc": "to melt",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_i"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "derritiendo",
+  "participio": "derretido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "derrito"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "derrites"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "derrite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "derretimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "derriten"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "derretí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "derretiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "derritió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "derretimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "derritieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "derretía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "derretías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "derretía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "derretíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "derretían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he derretido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has derretido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha derretido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos derretido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han derretido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había derretido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías derretido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había derretido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos derretido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían derretido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "derretiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "derretirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "derretirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "derretiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "derretirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "derretiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "derretirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "derretiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "derretiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "derretirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré derretido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás derretido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá derretido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos derretido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán derretido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "derrita"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "derritas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "derrita"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "derritamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "derritan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "derritiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "derritieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "derritiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "derritiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "derritieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera derretido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras derretido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera derretido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos derretido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran derretido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "derrite"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "derrita"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "derritamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "derritan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no derritas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no derrita"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no derritamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no derritan"
+      }
+    ]
+  },
+  "notes": [
+    "**Derretir** is a stem-changing verb: e→i",
+    "Present: stem change e→i (except nosotros)",
+    "Preterite: stem change e→i in 3rd person forms (derritió, derritieron)",
+    "Imperfect: regular -IR pattern, NO stem change",
+    "Same conjugation pattern as **pedir** and **conseguir**",
+    "Often used reflexively: *derretirse* (to melt)"
+  ],
+  "sourceFile": "Verbs/d/Derretir.md"
+}

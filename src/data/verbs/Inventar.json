@@ -1,0 +1,302 @@
+{
+  "id": "6e2c838a-71d1-5dd2-906c-7ecbe8ff6db1",
+  "infinitive": "Inventar",
+  "englishMeaning": "to invent, to make up",
+  "desc": "to invent, to make up",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "i",
+  "categoryId": "50ce3e0b-61b3-530c-8b6a-399ede02b6b5",
+  "gerundio": "inventando",
+  "participio": "inventado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "invento"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "inventas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "inventa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "inventamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "inventan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "inventé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "inventaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "inventó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "inventamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "inventaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "inventaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "inventabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "inventaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "inventábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "inventaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he inventado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has inventado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha inventado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos inventado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han inventado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había inventado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías inventado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había inventado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos inventado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían inventado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "inventaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "inventarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "inventará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "inventaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "inventarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "inventaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "inventarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "inventaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "inventaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "inventarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré inventado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás inventado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá inventado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos inventado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán inventado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "invente"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "inventes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "invente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "inventemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "inventen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "inventara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "inventaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "inventara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "inventáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "inventaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera inventado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras inventado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera inventado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos inventado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran inventado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "inventa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "invente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "inventemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "inventen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no inventes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no invente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no inventemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no inventen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *inventado* (regular)",
+    "Means \"to invent\" (create something new) or \"to make up\" (a story, excuse, lie) — *inventó una excusa* (he made up an excuse), *inventaron el teléfono* (they invented the telephone)",
+    "*¡No inventes!* is a common colloquial exclamation meaning \"No way!\" / \"You're kidding!\"",
+    "Related: *invento* (invention, noun), *inventor/a* (inventor), *inventivo/a* (inventive)"
+  ],
+  "sourceFile": "Verbs/i/Inventar.md"
+}

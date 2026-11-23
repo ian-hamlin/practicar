@@ -1,0 +1,307 @@
+{
+  "id": "f1c44e00-fd19-5537-a461-7b39e1d27fc1",
+  "infinitive": "Arremeter",
+  "englishMeaning": "to attack / to charge / to lunge",
+  "desc": "to attack / to charge / to lunge",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "arremetiendo",
+  "participio": "arremetido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "arremeto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arremetes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arremete"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arremetemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arremeten"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "arremetí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arremetiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arremetió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arremetimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arremetieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "arremetía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arremetías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arremetía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arremetíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arremetían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he arremetido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has arremetido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha arremetido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos arremetido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han arremetido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había arremetido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías arremetido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había arremetido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos arremetido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían arremetido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "arremeteré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arremeterás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arremeterá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arremeteremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arremeterán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "arremetería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arremeterías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arremetería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arremeteríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arremeterían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré arremetido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás arremetido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá arremetido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos arremetido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán arremetido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "arremeta"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arremetas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arremeta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arremetamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arremetan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "arremetiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arremetieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arremetiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arremetiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arremetieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera arremetido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras arremetido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera arremetido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos arremetido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran arremetido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "arremete"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "arremeta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arremetamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "arremetan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no arremetas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no arremeta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no arremetamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no arremetan"
+      }
+    ]
+  },
+  "notes": [
+    "**Arremeter** is a regular **-ER verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **arremetido** (regular)",
+    "Often used with \"contra\": *arremeter contra alguien* (to attack/charge at someone)",
+    "Can be physical (attack, charge) or verbal (lash out, criticize harshly)",
+    "Common usage:",
+    "*El toro arremetió contra el torero* (The bull charged at the bullfighter)",
+    "*Arremetió contra sus críticos* (He/She lashed out at his/her critics)",
+    "Related noun: **la arremetida** (attack, charge, onslaught)",
+    "More formal/literary than everyday speech"
+  ],
+  "sourceFile": "Verbs/a/Arremeter.md"
+}

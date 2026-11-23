@@ -1,0 +1,302 @@
+{
+  "id": "e0917aa4-5f4b-5005-9c0d-dcd7bbfb2572",
+  "infinitive": "Alejar",
+  "englishMeaning": "to move away, to distance",
+  "desc": "to move away, to distance",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "alejando",
+  "participio": "alejado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "alejo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alejas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aleja"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alejamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alejan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "alejé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alejaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alejó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alejamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alejaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "alejaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alejabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alejaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alejábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alejaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he alejado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has alejado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha alejado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos alejado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han alejado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había alejado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías alejado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había alejado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos alejado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían alejado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "alejaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alejarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alejará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alejaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alejarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "alejaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alejarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alejaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alejaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alejarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré alejado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás alejado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá alejado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos alejado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán alejado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "aleje"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alejes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aleje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alejemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alejen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "alejara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alejaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alejara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alejáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alejaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera alejado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras alejado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera alejado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos alejado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran alejado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "aleja"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "aleje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alejemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "alejen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no alejes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no aleje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no alejemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no alejen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *alejado* (regular)",
+    "Means \"to move (something) away\" or \"to distance\" — *aleja la silla de la mesa* (move the chair away from the table), *eso lo aleja de sus objetivos* (that distances him from his goals)",
+    "Reflexive *alejarse* is very common for \"to move away/go away (oneself)\": *se alejó sin decir nada* (he/she walked away without saying anything)",
+    "Related: *lejos* (far, the root adjective/adverb), *alejado/a* (distant, remote), *alejamiento* (distancing, estrangement)"
+  ],
+  "sourceFile": "Verbs/a/Alejar.md"
+}

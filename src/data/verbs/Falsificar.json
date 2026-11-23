@@ -1,0 +1,302 @@
+{
+  "id": "5c65aa7c-2573-51d5-bae1-4f5320ed80a2",
+  "infinitive": "Falsificar",
+  "englishMeaning": "to forge/to falsify",
+  "desc": "to forge/to falsify",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "f",
+  "categoryId": "6a4f18c0-f5d2-5016-9134-e92fb8c852a7",
+  "gerundio": "falsificando",
+  "participio": "falsificado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "falsifico"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "falsificas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "falsifica"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "falsificamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "falsifican"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "falsifiqué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "falsificaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "falsificó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "falsificamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "falsificaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "falsificaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "falsificabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "falsificaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "falsificábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "falsificaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he falsificado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has falsificado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha falsificado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos falsificado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han falsificado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había falsificado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías falsificado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había falsificado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos falsificado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían falsificado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "falsificaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "falsificarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "falsificará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "falsificaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "falsificarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "falsificaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "falsificarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "falsificaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "falsificaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "falsificarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré falsificado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás falsificado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá falsificado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos falsificado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán falsificado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "falsifique"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "falsifiques"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "falsifique"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "falsifiquemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "falsifiquen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "falsificara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "falsificaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "falsificara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "falsificáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "falsificaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera falsificado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras falsificado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera falsificado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos falsificado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran falsificado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "falsifica"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "falsifique"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "falsifiquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "falsifiquen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no falsifiques"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no falsifique"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no falsifiquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no falsifiquen"
+      }
+    ]
+  },
+  "notes": [
+    "**Falsificar** is a regular -AR verb with spelling change",
+    "**Spelling change**: c→qu before é (yo form in pretérito indefinido: falsifiqué)",
+    "Same pattern as sacar, buscar, tocar",
+    "Past participle: falsificado (forged/falsified)",
+    "Common usage: *falsificar documentos* (to forge documents), *falsificar dinero* (to counterfeit money), *falsificar una firma* (to forge a signature)"
+  ],
+  "sourceFile": "Verbs/f/Falsificar.md"
+}

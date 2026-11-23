@@ -1,0 +1,304 @@
+{
+  "id": "48a3bb18-5608-5042-a690-53c2253801af",
+  "infinitive": "Guardar",
+  "englishMeaning": "to keep / to save / to store",
+  "desc": "to keep / to save / to store",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "g",
+  "categoryId": "ec8a91da-65cb-5d21-9c3a-4523865a71c5",
+  "gerundio": "guardando",
+  "participio": "guardado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "guardo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "guardas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "guarda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "guardamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "guardan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "guardé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "guardaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "guardó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "guardamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "guardaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "guardaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "guardabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "guardaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "guardábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "guardaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he guardado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has guardado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha guardado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos guardado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han guardado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había guardado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías guardado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había guardado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos guardado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían guardado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "guardaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "guardarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "guardará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "guardaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "guardarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "guardaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "guardarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "guardaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "guardaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "guardarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré guardado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás guardado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá guardado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos guardado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán guardado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "guarde"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "guardes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "guarde"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "guardemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "guarden"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "guardara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "guardaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "guardara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "guardáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "guardaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera guardado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras guardado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera guardado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos guardado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran guardado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "guarda"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "guarde"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "guardemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "guarden"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no guardes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no guarde"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no guardemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no guarden"
+      }
+    ]
+  },
+  "notes": [
+    "**Guardar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **guardado** (regular)",
+    "Multiple meanings: to keep, to save (files/money), to store, to put away",
+    "Common usage: *guardar silencio* (to keep quiet), *guardar un secreto* (to keep a secret), *guardar dinero* (to save money)",
+    "Technology: *guardar el documento* (to save the document)",
+    "Related noun: **la guarda** (guard, keeper) / **el/la guardián/guardiana** (guardian)"
+  ],
+  "sourceFile": "Verbs/g/Guardar.md"
+}

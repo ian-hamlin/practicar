@@ -1,0 +1,302 @@
+{
+  "id": "ba629ce2-37b0-5652-a545-b62f54b40ab2",
+  "infinitive": "Hablar",
+  "englishMeaning": "to speak, to talk",
+  "desc": "to speak, to talk",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "h",
+  "categoryId": "fae8d62e-db69-5528-b693-9f8b68737a41",
+  "gerundio": "hablando",
+  "participio": "hablado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "hablo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hablas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habla"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hablamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hablan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "hablé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hablaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habló"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hablamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hablaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "hablaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hablabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hablaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hablábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hablaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he hablado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has hablado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha hablado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos hablado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han hablado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había hablado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías hablado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había hablado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos hablado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían hablado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "hablaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hablarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hablará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hablaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hablarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "hablaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hablarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hablaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hablaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hablarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré hablado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás hablado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá hablado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos hablado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán hablado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "hable"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hables"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hable"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hablemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hablen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hablara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hablaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hablara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habláramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hablaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera hablado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras hablado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera hablado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos hablado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran hablado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "habla"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "hable"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hablemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "hablen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no hables"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no hable"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no hablemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no hablen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *hablado* (regular)",
+    "One of the most common and useful verbs in Spanish — ideal as a model for all -AR conjugations",
+    "*Hablar con* = to talk with someone; *hablar de* = to talk about something",
+    "Related: *hablar solo* (to talk to oneself), *hablador/a* (talkative)"
+  ],
+  "sourceFile": "Verbs/h/Hablar.md"
+}

@@ -1,0 +1,305 @@
+{
+  "id": "a4a6b282-1a69-5800-9a9a-c27362e23f65",
+  "infinitive": "Rendirse",
+  "englishMeaning": "to give up, to surrender",
+  "desc": "to give up, to surrender",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive",
+    "stem_e_i"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "rindiendo",
+  "participio": "rendido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me rindo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te rindes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se rinde"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos rendimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se rinden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me rendí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te rendiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se rindió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos rendimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se rindieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me rendía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te rendías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se rendía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos rendíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se rendían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he rendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has rendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha rendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos rendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han rendido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había rendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías rendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había rendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos rendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían rendido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me rendiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te rendirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se rendirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos rendiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se rendirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me rendiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te rendirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se rendiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos rendiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se rendirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré rendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás rendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá rendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos rendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán rendido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me rinda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te rindas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se rinda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos rindamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se rindan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me rindiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te rindieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se rindiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos rindiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se rindieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera rendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras rendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera rendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos rendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran rendido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "ríndete"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "ríndase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rindámonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "ríndanse"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te rindas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se rinda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos rindamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se rindan"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -IR verb; the non-reflexive \"rendir\" means to yield/to produce/to render",
+    "e→i stem change in Presente (all forms except nosotros): rindo, rindes, rinde, rinden",
+    "In Pretérito Indefinido, e→i in él/ella/usted (rindió) and ellos/ellas/ustedes (rindieron)",
+    "Same e→i change in gerund: rindiéndose",
+    "Past participle: rendido",
+    "Common expressions: \"¡No me rindo!\" = I won't give up!; rendirse ante el enemigo = to surrender to the enemy"
+  ],
+  "sourceFile": "Verbs/r/Rendirse.md"
+}

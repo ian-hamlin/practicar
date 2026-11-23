@@ -1,0 +1,304 @@
+{
+  "id": "bc7273a5-48f7-597d-baf0-75b72f57726f",
+  "infinitive": "Fortalecerse",
+  "englishMeaning": "to strengthen oneself, to get stronger",
+  "desc": "to strengthen oneself, to get stronger",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive"
+  ],
+  "letter": "f",
+  "categoryId": "6a4f18c0-f5d2-5016-9134-e92fb8c852a7",
+  "gerundio": "fortaleciendo",
+  "participio": "fortalecido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me fortalezco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te fortaleces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se fortalece"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos fortalecemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se fortalecen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me fortalecí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te fortaleciste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se fortaleció"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos fortalecimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se fortalecieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me fortalecía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te fortalecías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se fortalecía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos fortalecíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se fortalecían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he fortalecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has fortalecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha fortalecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos fortalecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han fortalecido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había fortalecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías fortalecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había fortalecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos fortalecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían fortalecido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me fortaleceré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te fortalecerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se fortalecerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos fortaleceremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se fortalecerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me fortalecería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te fortalecerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se fortalecería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos fortaleceríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se fortalecerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré fortalecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás fortalecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá fortalecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos fortalecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán fortalecido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me fortalezca"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te fortalezcas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se fortalezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos fortalezcamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se fortalezcan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me fortaleciera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te fortalecieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se fortaleciera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos fortaleciéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se fortalecieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera fortalecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras fortalecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera fortalecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos fortalecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran fortalecido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "fortalécete"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "fortalézcase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fortalezcámonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "fortalézcanse"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te fortalezcas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se fortalezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos fortalezcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se fortalezcan"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -ER verb, irregular due to a spelling change: **c → zc before o/a**, the same pattern as *conocer→conozco* and *aparecer→aparezco*",
+    "Only affects the yo form of the presente (fortalezco, not \"fortalezo\") and the entire subjuntivo presente (fortalezca, fortalezcas...); all other tenses are regular",
+    "Regular past participle: **fortalecido**",
+    "Non-reflexive form **fortalecer** means \"to strengthen (something/someone else)\"; the reflexive **fortalecerse** means \"to become stronger/to strengthen oneself\"",
+    "Related noun/adjective: **la fuerza** (strength), **fuerte** (strong)",
+    "Common usage: *fortalecerse física y mentalmente* (to strengthen oneself physically and mentally)"
+  ],
+  "sourceFile": "Verbs/f/Fortalecerse.md"
+}

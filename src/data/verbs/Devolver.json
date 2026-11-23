@@ -1,0 +1,305 @@
+{
+  "id": "f70e3db6-b49c-57dd-8f2c-61304e265457",
+  "infinitive": "Devolver",
+  "englishMeaning": "to return / to give back",
+  "desc": "to return / to give back",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "devolviendo",
+  "participio": "devuelto",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "devuelvo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "devuelves"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "devuelve"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "devolvemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "devuelven"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "devolví"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "devolviste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "devolvió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "devolvimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "devolvieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "devolvía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "devolvías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "devolvía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "devolvíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "devolvían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he devuelto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has devuelto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha devuelto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos devuelto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han devuelto"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había devuelto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías devuelto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había devuelto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos devuelto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían devuelto"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "devolveré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "devolverás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "devolverá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "devolveremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "devolverán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "devolvería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "devolverías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "devolvería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "devolveríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "devolverían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré devuelto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás devuelto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá devuelto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos devuelto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán devuelto"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "devuelva"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "devuelvas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "devuelva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "devolvamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "devuelvan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "devolviera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "devolvieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "devolviera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "devolviéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "devolvieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera devuelto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras devuelto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera devuelto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos devuelto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran devuelto"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "devuelve"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "devuelva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "devolvamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "devuelvan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no devuelvas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no devuelva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no devolvamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no devuelvan"
+      }
+    ]
+  },
+  "notes": [
+    "**Devolver** is a stem-changing verb: o→ue",
+    "Present: stem change o→ue (except nosotros)",
+    "Preterite: regular -ER endings, NO stem change",
+    "Imperfect: regular -ER pattern, NO stem change",
+    "Same conjugation pattern as **volver**",
+    "Irregular past participle: **devuelto** (returned)",
+    "Used for returning borrowed items (not for returning to a place - use **volver**)"
+  ],
+  "sourceFile": "Verbs/d/Devolver.md"
+}

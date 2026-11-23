@@ -1,0 +1,302 @@
+{
+  "id": "8ae74933-bfc9-5c06-ac62-619c6fd16808",
+  "infinitive": "Marchar",
+  "englishMeaning": "to march, to go/run (of a machine, plan)",
+  "desc": "to march, to go/run (of a machine, plan)",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "m",
+  "categoryId": "c342e4a9-b5da-540a-927d-ccca901fb9ff",
+  "gerundio": "marchando",
+  "participio": "marchado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "marcho"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "marchas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "marcha"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "marchamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "marchan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "marché"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "marchaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "marchó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "marchamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "marcharon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "marchaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "marchabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "marchaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "marchábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "marchaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he marchado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has marchado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha marchado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos marchado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han marchado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había marchado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías marchado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había marchado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos marchado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían marchado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "marcharé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "marcharás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "marchará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "marcharemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "marcharán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "marcharía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "marcharías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "marcharía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "marcharíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "marcharían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré marchado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás marchado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá marchado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos marchado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán marchado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "marche"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "marches"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "marche"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "marchemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "marchen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "marchara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "marcharas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "marchara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "marcháramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "marcharan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera marchado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras marchado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera marchado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos marchado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran marchado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "marcha"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "marche"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "marchemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "marchen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no marches"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no marche"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no marchemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no marchen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *marchado* (regular)",
+    "Means \"to march\" (soldiers, a parade) — *los soldados marchan en fila* (the soldiers march in formation) — or, informally, \"to go/run\" (a machine, a plan, a situation): *¿cómo marcha el proyecto?* (how's the project going?), *el motor marcha bien* (the engine is running well)",
+    "Reflexive *marcharse* means \"to leave/go away,\" very common in everyday speech: *me marcho a casa* (I'm heading home)",
+    "Related: *marcha* (march, gear — as in a car; also \"nightlife/atmosphere\" colloquially: *tiene mucha marcha* = it has a lot of energy/life), *marchoso/a* (colloquial, \"fun-loving/into the nightlife\")"
+  ],
+  "sourceFile": "Verbs/m/Marchar.md"
+}

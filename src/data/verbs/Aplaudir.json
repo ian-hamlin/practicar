@@ -1,0 +1,301 @@
+{
+  "id": "6d7f8e9e-099a-58a6-8b64-e3faf73e9e48",
+  "infinitive": "Aplaudir",
+  "englishMeaning": "to applaud / to clap",
+  "desc": "to applaud / to clap",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "aplaudiendo",
+  "participio": "aplaudido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "aplaudo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aplaudes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aplaude"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aplaudimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aplauden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "aplaudí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aplaudiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aplaudió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aplaudimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aplaudieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "aplaudía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aplaudías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aplaudía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aplaudíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aplaudían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he aplaudido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has aplaudido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha aplaudido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos aplaudido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han aplaudido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había aplaudido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías aplaudido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había aplaudido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos aplaudido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían aplaudido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "aplaudiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aplaudirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aplaudirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aplaudiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aplaudirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "aplaudiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aplaudirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aplaudiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aplaudiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aplaudirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré aplaudido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás aplaudido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá aplaudido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos aplaudido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán aplaudido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "aplauda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aplaudas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aplauda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aplaudamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aplaudan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "aplaudiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aplaudieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aplaudiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aplaudiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aplaudieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera aplaudido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras aplaudido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera aplaudido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos aplaudido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran aplaudido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "aplaude"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "aplauda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aplaudamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "aplaudan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no aplaudas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no aplauda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no aplaudamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no aplaudan"
+      }
+    ]
+  },
+  "notes": [
+    "**Aplaudir** is a regular **-IR verb**",
+    "No spelling changes or stem changes",
+    "Related noun: **el aplauso** (the applause)",
+    "Common usage: *aplaudir al artista* (to applaud the artist)"
+  ],
+  "sourceFile": "Verbs/a/Aplaudir.md"
+}

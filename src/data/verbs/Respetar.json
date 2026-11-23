@@ -1,0 +1,301 @@
+{
+  "id": "f72e5e4a-b7a4-5756-a5ff-c68d1df6c14f",
+  "infinitive": "Respetar",
+  "englishMeaning": "to respect",
+  "desc": "to respect",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "respetando",
+  "participio": "respetado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "respeto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "respetas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "respeta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "respetamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "respetan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "respeté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "respetaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "respetó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "respetamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "respetaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "respetaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "respetabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "respetaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "respetábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "respetaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he respetado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has respetado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha respetado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos respetado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han respetado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había respetado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías respetado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había respetado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos respetado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían respetado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "respetaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "respetarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "respetará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "respetaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "respetarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "respetaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "respetarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "respetaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "respetaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "respetarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré respetado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás respetado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá respetado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos respetado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán respetado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "respete"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "respetes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "respete"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "respetemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "respeten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "respetara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "respetaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "respetara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "respetáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "respetaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera respetado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras respetado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera respetado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos respetado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran respetado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "respeta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "respete"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "respetemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "respeten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no respetes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no respete"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no respetemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no respeten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard endings in every tense, no exceptions.",
+    "*Debemos respetar las opiniones de los demás.* (\"We should respect other people's opinions.\")",
+    "*Respeten las normas del edificio, por favor.* (\"Please respect the building's rules.\")",
+    "Related: *el respeto* (respect, noun), *respetuoso/a* (respectful, adjective), *irrespetar* (less common antonym, \"to disrespect\")."
+  ],
+  "sourceFile": "Verbs/r/Respetar.md"
+}

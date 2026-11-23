@@ -1,0 +1,306 @@
+{
+  "id": "9f421e28-eaea-5999-ac96-e25ba1b52c76",
+  "infinitive": "Sostener",
+  "englishMeaning": "to hold, to support, to sustain",
+  "desc": "to hold, to support, to sustain",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "sosteniendo",
+  "participio": "sostenido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sostengo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sostienes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sostiene"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sostenemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sostienen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "sostuve"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sostuviste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sostuvo"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sostuvimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sostuvieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "sostenía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sostenías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sostenía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sosteníamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sostenían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he sostenido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has sostenido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha sostenido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos sostenido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han sostenido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había sostenido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías sostenido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había sostenido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos sostenido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían sostenido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "sostendré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sostendrás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sostendrá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sostendremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sostendrán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "sostendría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sostendrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sostendría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sostendríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sostendrían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré sostenido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás sostenido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá sostenido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos sostenido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán sostenido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sostenga"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sostengas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sostenga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sostengamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sostengan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "sostuviera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sostuvieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sostuviera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sostuviéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sostuvieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera sostenido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras sostenido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera sostenido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos sostenido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran sostenido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "sostén"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "sostenga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sostengamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "sostengan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no sostengas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no sostenga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no sostengamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no sostengan"
+      }
+    ]
+  },
+  "notes": [
+    "Compound of *tener* — follows the same irregular patterns throughout",
+    "Irregular yo present: *sostengo* (go-verb)",
+    "e→ie stem change in present: tú/él/ellos forms (sostienes, sostiene, sostienen); nosotros keeps *sostene-*",
+    "Irregular preterite stem: *sostuv-* (sostuve, sostuviste, sostuvo, sostuvimos, sostuvieron)",
+    "Irregular future/conditional stem: *sostendr-* (sostendré, sostendría)",
+    "Subjuntivo/imperativo from yo stem: *sosteng-* (sostenga, sostengas...); tú affirmative imperative is the short irregular form *sostén* (like tener→ten, mantener→mantén)",
+    "Past participle: *sostenido*",
+    "Common usage: *sostener un objeto* (to hold an object), *sostener una conversación* (to hold/have a conversation), *sostener una opinión* (to hold/maintain an opinion), *sostener a la familia* (to support the family, financially)"
+  ],
+  "sourceFile": "Verbs/s/Sostener.md"
+}

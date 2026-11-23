@@ -1,0 +1,302 @@
+{
+  "id": "6319e302-e2d0-59b8-8ff2-055036b51c6c",
+  "infinitive": "Provocar",
+  "englishMeaning": "to cause / to provoke / to trigger",
+  "desc": "to cause / to provoke / to trigger",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "provocando",
+  "participio": "provocado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "provoco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "provocas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "provoca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "provocamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "provocan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "provoqué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "provocaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "provocó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "provocamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "provocaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "provocaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "provocabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "provocaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "provocábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "provocaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he provocado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has provocado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha provocado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos provocado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han provocado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había provocado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías provocado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había provocado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos provocado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían provocado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "provocaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "provocarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "provocará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "provocaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "provocarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "provocaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "provocarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "provocaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "provocaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "provocarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré provocado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás provocado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá provocado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos provocado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán provocado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "provoque"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "provoques"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "provoque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "provoquemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "provoquen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "provocara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "provocaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "provocara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "provocáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "provocaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera provocado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras provocado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera provocado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos provocado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran provocado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "provoca"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "provoque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "provoquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "provoquen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no provoques"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no provoque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no provoquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no provoquen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with orthographic spelling change: c→qu before *e* (provoqué, provoque, provoquemos, provoquen)",
+    "Past participle: *provocado*",
+    "*provocar algo* = to cause/trigger something (*El estrés provoca insomnio* — Stress causes insomnia)",
+    "*provocar a alguien* = to provoke someone (*No le provoques* — Don't provoke him)",
+    "Related: *la provocación* = provocation; *provocador/a* = provocative"
+  ],
+  "sourceFile": "Verbs/p/Provocar.md"
+}

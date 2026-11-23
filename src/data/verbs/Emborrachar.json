@@ -1,0 +1,302 @@
+{
+  "id": "ef3994ee-0cfa-5c8c-b8cd-1133f6308fbf",
+  "infinitive": "Emborrachar",
+  "englishMeaning": "to get someone drunk, to intoxicate",
+  "desc": "to get someone drunk, to intoxicate",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "emborrachando",
+  "participio": "emborrachado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "emborracho"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "emborrachas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "emborracha"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "emborrachamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "emborrachan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "emborraché"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "emborrachaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "emborrachó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "emborrachamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "emborracharon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "emborrachaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "emborrachabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "emborrachaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "emborrachábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "emborrachaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he emborrachado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has emborrachado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha emborrachado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos emborrachado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han emborrachado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había emborrachado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías emborrachado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había emborrachado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos emborrachado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían emborrachado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "emborracharé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "emborracharás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "emborrachará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "emborracharemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "emborracharán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "emborracharía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "emborracharías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "emborracharía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "emborracharíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "emborracharían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré emborrachado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás emborrachado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá emborrachado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos emborrachado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán emborrachado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "emborrache"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "emborraches"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "emborrache"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "emborrachemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "emborrachen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "emborrachara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "emborracharas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "emborrachara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "emborracháramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "emborracharan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera emborrachado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras emborrachado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera emborrachado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos emborrachado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran emborrachado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "emborracha"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "emborrache"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "emborrachemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "emborrachen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no emborraches"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no emborrache"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no emborrachemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no emborrachen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions (the *ch* digraph never changes before *e*, so no spelling adjustments are needed)",
+    "Past participle: *emborrachado* (regular)",
+    "Transitive: means \"to get someone/something drunk\" or \"to intoxicate\" — *el vino lo emborrachó rápido* (the wine got him drunk fast)",
+    "The reflexive form *emborracharse* (\"to get drunk oneself\") is far more common in everyday speech — worth adding as its own verb entry if needed",
+    "Related: *borracho/a* (drunk, adj./noun), *borrachera* (drunkenness, a bender)"
+  ],
+  "sourceFile": "Verbs/e/Emborrachar.md"
+}

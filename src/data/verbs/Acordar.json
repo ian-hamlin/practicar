@@ -1,0 +1,303 @@
+{
+  "id": "ff439e2c-1a95-5861-b57a-0d5f50c028a4",
+  "infinitive": "Acordar",
+  "englishMeaning": "to agree (on), to decide (together)",
+  "desc": "to agree (on), to decide (together)",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "acordando",
+  "participio": "acordado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "acuerdo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acuerdas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acuerda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acordamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acuerdan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "acordé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acordaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acordó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acordamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acordaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "acordaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acordabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acordaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acordábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acordaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he acordado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has acordado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha acordado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos acordado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han acordado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había acordado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías acordado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había acordado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos acordado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían acordado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "acordaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acordarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acordará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acordaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acordarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "acordaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acordarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acordaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acordaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acordarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré acordado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás acordado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá acordado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos acordado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán acordado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "acuerde"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acuerdes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acuerde"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acordemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acuerden"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "acordara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acordaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acordara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acordáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acordaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera acordado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras acordado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera acordado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos acordado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran acordado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "acuerda"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "acuerde"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acordemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "acuerden"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no acuerdes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no acuerde"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no acordemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no acuerden"
+      }
+    ]
+  },
+  "notes": [
+    "Irregular -AR verb with an *o→ue* stem change (same pattern as *contar*, *recordar*): the stressed *o* becomes *ue* everywhere except nosotros/nosotras and the Pretérito Indefinido/Imperfecto/Futuro/Condicional, which stay fully regular",
+    "Past participle: *acordado* (regular)",
+    "Means \"to agree (on)\" or \"to decide (together)\" — *acordaron el precio* (they agreed on the price), *acordamos reunirnos el lunes* (we agreed to meet on Monday)",
+    "Not to be confused with its reflexive counterpart *acordarse* (\"to remember\"), which has the same stem change but a completely different meaning — see `Acordarse.md`",
+    "Related: *acuerdo* (agreement, noun — *de acuerdo* = agreed/OK), *acordado/a* (agreed upon), *desacuerdo* (disagreement)"
+  ],
+  "sourceFile": "Verbs/a/Acordar.md"
+}

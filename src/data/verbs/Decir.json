@@ -1,0 +1,311 @@
+{
+  "id": "f5cf54a4-6fb1-561f-9d85-af8a61a5678f",
+  "infinitive": "Decir",
+  "englishMeaning": "to say / to tell",
+  "desc": "to say / to tell",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_i"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "diciendo",
+  "participio": "dicho",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "digo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dices"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dice"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "decimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dicen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "dije"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dijiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dijo"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dijimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dijeron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "decía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "decías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "decía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "decíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "decían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "Subject",
+        "conjugation": "Conjugationt"
+      },
+      {
+        "subject": "yo",
+        "conjugation": "he dicho"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has dicho"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha dicho"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos dicho"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han dicho"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había dicho"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías dicho"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había dicho"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos dicho"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían dicho"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "diré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "diremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "diría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "diría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "diríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré dicho"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás dicho"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá dicho"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos dicho"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán dicho"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "diga"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "digas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "diga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "digamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "digan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "dijera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dijeras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dijera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dijéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dijeran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera dicho"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras dicho"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera dicho"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos dicho"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran dicho"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "di"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "diga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "digamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "digan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no digas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no diga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no digamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no digan"
+      }
+    ]
+  },
+  "notes": [
+    "**Decir** is highly irregular",
+    "Present: stem change e→i in most forms, plus irregular \"yo\" form (digo)",
+    "Preterite: completely irregular stem \"dij-\" with special endings (no \"i\" in dijeron)",
+    "Imperfect: regular -ER/-IR pattern based on the infinitive stem \"dec-\"",
+    "Pretérito Perfecto: irregular past participle **dicho**",
+    "Future: irregular stem \"dir-\" (not \"decir-\")",
+    "Condicional: irregular stem \"dir-\" + conditional endings",
+    "Common usage: *decir la verdad* (to tell the truth), *decir que sí/no* (to say yes/no)",
+    "Expression: *es decir* (that is to say)"
+  ],
+  "sourceFile": "Verbs/d/Decir.md"
+}

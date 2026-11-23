@@ -1,0 +1,301 @@
+{
+  "id": "a3982616-e421-5b07-bfc8-28e03560ec9c",
+  "infinitive": "Solucionar",
+  "englishMeaning": "to solve / to resolve / to sort out",
+  "desc": "to solve / to resolve / to sort out",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "solucionando",
+  "participio": "solucionado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "soluciono"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "solucionas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "soluciona"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "solucionamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "solucionan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "solucioné"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "solucionaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "solucionó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "solucionamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "solucionaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "solucionaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "solucionabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "solucionaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "solucionábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "solucionaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he solucionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has solucionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha solucionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos solucionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han solucionado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había solucionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías solucionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había solucionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos solucionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían solucionado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "solucionaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "solucionarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "solucionará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "solucionaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "solucionarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "solucionaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "solucionarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "solucionaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "solucionaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "solucionarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré solucionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás solucionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá solucionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos solucionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán solucionado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "solucione"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "soluciones"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "solucione"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "solucionemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "solucionen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "solucionara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "solucionaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "solucionara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "solucionáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "solucionaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera solucionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras solucionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera solucionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos solucionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran solucionado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "soluciona"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "solucione"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "solucionemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "solucionen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no soluciones"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no solucione"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no solucionemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no solucionen"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; no spelling changes or stem changes",
+    "Past participle: *solucionado*",
+    "Synonym: *resolver* (to resolve/solve — irregular); *solucionar* is more colloquial",
+    "*solucionarse* (reflexive): the problem solves itself / gets sorted (*El problema se solucionó solo* — The problem sorted itself out)"
+  ],
+  "sourceFile": "Verbs/s/Solucionar.md"
+}

@@ -1,0 +1,305 @@
+{
+  "id": "5d3d446e-0f32-537b-8c73-5161de8b1610",
+  "infinitive": "Suspender",
+  "englishMeaning": "to fail (an exam) / to suspend / to hang / to call off",
+  "desc": "to fail (an exam) / to suspend / to hang / to call off",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "suspendiendo",
+  "participio": "suspendido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "suspendo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "suspendes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "suspende"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "suspendemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "suspenden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "suspendí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "suspendiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "suspendió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "suspendimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "suspendieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "suspendía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "suspendías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "suspendía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "suspendíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "suspendían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he suspendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has suspendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha suspendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos suspendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han suspendido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había suspendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías suspendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había suspendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos suspendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían suspendido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "suspenderé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "suspenderás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "suspenderá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "suspenderemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "suspenderán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "suspendería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "suspenderías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "suspendería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "suspenderíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "suspenderían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré suspendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás suspendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá suspendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos suspendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán suspendido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "suspenda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "suspendas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "suspenda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "suspendamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "suspendan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "suspendiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "suspendieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "suspendiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "suspendiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "suspendieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera suspendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras suspendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera suspendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos suspendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran suspendido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "suspende"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "suspenda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "suspendamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "suspendan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no suspendas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no suspenda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no suspendamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no suspendan"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -ER verb; no spelling changes or stem changes",
+    "Past participle: *suspendido*",
+    "*suspender un examen* = to fail an exam (*Suspendí matemáticas* — I failed maths)",
+    "*suspender a alguien* = for a teacher to fail a student (*El profesor me suspendió* — The teacher failed me)",
+    "*suspender un evento* = to call off/cancel an event (*Suspendieron el concierto por la lluvia* — They called off the concert due to rain)",
+    "*suspender a alguien del trabajo* = to suspend someone from work",
+    "Opposite: *aprobar* = to pass",
+    "Related: *el suspenso* / *el suspenso* = fail grade; *la suspensión* = suspension, cancellation"
+  ],
+  "sourceFile": "Verbs/s/Suspender.md"
+}

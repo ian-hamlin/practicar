@@ -1,0 +1,302 @@
+{
+  "id": "4c5d4ecb-b24e-5823-8a4d-149a134affb0",
+  "infinitive": "Pescar",
+  "englishMeaning": "to fish",
+  "desc": "to fish",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "pescando",
+  "participio": "pescado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pesco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pescas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pesca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pescamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pescan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "pesqué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pescaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pescó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pescamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pescaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "pescaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pescabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pescaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pescábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pescaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he pescado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has pescado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha pescado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos pescado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han pescado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había pescado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías pescado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había pescado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos pescado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían pescado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "pescaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pescarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pescará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pescaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pescarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "pescaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pescarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pescaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pescaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pescarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré pescado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás pescado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá pescado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos pescado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán pescado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pesque"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pesques"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pesque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pesquemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pesquen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "pescara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pescaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pescara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pescáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pescaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera pescado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras pescado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera pescado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos pescado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran pescado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "pesca"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "pesque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pesquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "pesquen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no pesques"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no pesque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no pesquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no pesquen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb with a spelling change: **c → qu before e**, to preserve the hard \"k\" sound",
+    "Only affects the yo form of the pretérito indefinido (pesqué, not \"pescé\") and the entire subjuntivo presente (pesque, pesques...)",
+    "No stem changes; regular past participle: **pescado**",
+    "Related noun: **la pesca** (fishing), **el pescado** (fish, as food) vs. **el pez** (fish, the living animal)",
+    "Common usage: *ir de pesca* (to go fishing), *pescar con caña* (to fish with a rod)"
+  ],
+  "sourceFile": "Verbs/p/Pescar.md"
+}

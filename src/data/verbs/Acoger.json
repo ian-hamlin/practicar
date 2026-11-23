@@ -1,0 +1,306 @@
+{
+  "id": "a1508e05-70e5-5f7a-8b57-01ea101dd6d8",
+  "infinitive": "Acoger",
+  "englishMeaning": "to welcome / to receive / to host",
+  "desc": "to welcome / to receive / to host",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "acogiendo",
+  "participio": "acogido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "acojo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acoges"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acoge"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acogemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acogen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "acogí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acogiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acogió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acogimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acogieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "acogía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acogías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acogía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acogíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acogían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he acogido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has acogido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha acogido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos acogido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han acogido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había acogido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías acogido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había acogido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos acogido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían acogido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "acogeré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acogerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acogerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acogeremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acogerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "acogería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acogerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acogería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acogeríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acogerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré acogido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás acogido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá acogido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos acogido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán acogido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "acoja"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acojas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acoja"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acojamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acojan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "acogiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "acogieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "acogiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acogiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "acogieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera acogido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras acogido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera acogido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos acogido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran acogido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "acoge"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "acoja"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acojamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "acojan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no acojas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no acoja"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no acojamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no acojan"
+      }
+    ]
+  },
+  "notes": [
+    "**Acoger** is an -ER verb with irregular \"yo\" form in present",
+    "Present: irregular \"yo\" form (acojo) with spelling change g→j before o",
+    "Preterite: regular -ER endings",
+    "Imperfect: regular -ER pattern",
+    "Future: regular future endings attached to infinitive",
+    "Multiple meanings: to welcome, to receive, to host, to shelter",
+    "Often used reflexively: **acogerse a** (to take refuge in, to avail oneself of)",
+    "Common usage: *acoger a los turistas* (to welcome tourists), *acoger una idea* (to embrace an idea), *acogerse a la ley* (to invoke the law)",
+    "Related adjective: **acogedor/acogedora** (welcoming, cozy)"
+  ],
+  "sourceFile": "Verbs/a/Acoger.md"
+}

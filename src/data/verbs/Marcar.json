@@ -1,0 +1,302 @@
+{
+  "id": "98f83eb1-e0b2-5e38-9d62-4e1822050377",
+  "infinitive": "Marcar",
+  "englishMeaning": "to mark, to score, to dial",
+  "desc": "to mark, to score, to dial",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "m",
+  "categoryId": "c342e4a9-b5da-540a-927d-ccca901fb9ff",
+  "gerundio": "marcando",
+  "participio": "marcado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "marco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "marcas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "marca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "marcamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "marcan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "marqué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "marcaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "marcó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "marcamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "marcaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "marcaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "marcabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "marcaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "marcábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "marcaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he marcado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has marcado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha marcado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos marcado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han marcado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había marcado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías marcado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había marcado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos marcado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían marcado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "marcaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "marcarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "marcará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "marcaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "marcarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "marcaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "marcarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "marcaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "marcaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "marcarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré marcado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás marcado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá marcado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos marcado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán marcado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "marque"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "marques"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "marque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "marquemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "marquen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "marcara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "marcaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "marcara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "marcáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "marcaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera marcado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras marcado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera marcado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos marcado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran marcado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "marca"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "marque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "marquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "marquen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no marques"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no marque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no marquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no marquen"
+      }
+    ]
+  },
+  "notes": [
+    "Spelling-change verb: c→qu before e (Pretérito yo: *marqué*; Subjuntivo: *marque/marques/marque/marquemos/marquen*)",
+    "Past participle: marcado (regular)",
+    "*Marcar un gol* = to score a goal; *marcar un número* = to dial a number",
+    "*Marcar a alguien* = to leave a mark on someone (emotionally): *Esos olores te marcan para toda la vida* = Those smells mark you for life",
+    "Related: la marca (mark, brand), marcado (marked, pronounced), el marcador (scoreboard, marker)"
+  ],
+  "sourceFile": "Verbs/m/Marcar.md"
+}

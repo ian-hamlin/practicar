@@ -1,0 +1,301 @@
+{
+  "id": "381a9434-a89f-5157-9f16-4ecc48a71ba3",
+  "infinitive": "Contratar",
+  "englishMeaning": "to hire, to book, to contract",
+  "desc": "to hire, to book, to contract",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "contratando",
+  "participio": "contratado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "contrato"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "contratas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "contrata"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contratamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "contratan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "contraté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "contrataste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "contrató"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contratamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "contrataron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "contrataba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "contratabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "contrataba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contratábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "contrataban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he contratado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has contratado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha contratado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos contratado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han contratado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había contratado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías contratado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había contratado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos contratado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían contratado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "contrataré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "contratarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "contratará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contrataremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "contratarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "contrataría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "contratarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "contrataría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contrataríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "contratarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré contratado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás contratado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá contratado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos contratado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán contratado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "contrate"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "contrates"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "contrate"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contratemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "contraten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "contratara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "contrataras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "contratara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contratáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "contrataran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera contratado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras contratado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera contratado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos contratado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran contratado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "contrata"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "contrate"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "contratemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "contraten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no contrates"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no contrate"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no contratemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no contraten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb. All conjugations follow standard -AR endings.",
+    "*Contrataron a un nuevo empleado.* (They hired a new employee.)",
+    "*Contratamos el hotel por internet.* (We booked the hotel online.)",
+    "Related: *el contrato* (contract), *el/la contratista* (contractor)"
+  ],
+  "sourceFile": "Verbs/c/Contratar.md"
+}

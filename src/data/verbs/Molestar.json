@@ -1,0 +1,305 @@
+{
+  "id": "d4976752-8e6e-51b1-be50-d2a6185c2afa",
+  "infinitive": "Molestar",
+  "englishMeaning": "to bother, to annoy, to disturb",
+  "desc": "to bother, to annoy, to disturb",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "m",
+  "categoryId": "c342e4a9-b5da-540a-927d-ccca901fb9ff",
+  "gerundio": "molestando",
+  "participio": "molestado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "molesto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "molestas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "molesta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "molestamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "molestan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "molesté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "molestaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "molestó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "molestamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "molestaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "molestaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "molestabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "molestaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "molestábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "molestaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he molestado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has molestado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha molestado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos molestado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han molestado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había molestado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías molestado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había molestado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos molestado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían molestado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "molestaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "molestarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "molestará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "molestaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "molestarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "molestaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "molestarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "molestaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "molestaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "molestarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré molestado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás molestado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá molestado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos molestado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán molestado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "moleste"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "molestes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "moleste"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "molestemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "molesten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "molestara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "molestaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "molestara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "molestáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "molestaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera molestado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras molestado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera molestado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos molestado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran molestado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "molesta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "moleste"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "molestemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "molesten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no molestes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no moleste"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no molestemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no molesten"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; follows standard endings throughout",
+    "Past participle: molestado (regular)",
+    "Like *gustar*, often used with indirect object pronouns: *me molesta* = it bothers me, *le molesta* = it bothers him/her",
+    "*Me molesta que* + subjuntivo = it bothers me that: *Me molesta que llegues tarde* = It bothers me that you arrive late",
+    "*Molestar a alguien* = to bother/disturb someone: *No me molestes* = Don't bother me",
+    "*Molestarse en* + infinitivo = to bother to do something: *Ni se molestó en llamar* = He didn't even bother to call",
+    "*Molestarse* (reflexive) = to take offence: *Se molestó cuando le dije la verdad* = He took offence when I told him the truth",
+    "Related: la molestia (bother, trouble, annoyance), molesto (annoying, bothered), molestar (noun: nuisance)"
+  ],
+  "sourceFile": "Verbs/m/Molestar.md"
+}

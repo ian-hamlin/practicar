@@ -1,0 +1,305 @@
+{
+  "id": "be6b6ea1-8906-5b5d-bfb5-ef6d6da1cebe",
+  "infinitive": "Oír",
+  "englishMeaning": "to hear",
+  "desc": "to hear",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "o",
+  "categoryId": "17ab56ce-480a-5e1b-b55d-16eaabe765bf",
+  "gerundio": "oyendo",
+  "participio": "oído",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "oigo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "oyes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "oye"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "oímos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "oyen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "oí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "oíste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "oyó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "oímos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "oyeron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "oía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "oías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "oía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "oíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "oían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he oído"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has oído"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha oído"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos oído"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han oído"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había oído"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías oído"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había oído"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos oído"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían oído"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "oíré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "oírás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "oírá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "oíremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "oírán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "oíría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "oírías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "oíría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "oíríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "oírían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré oído"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás oído"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá oído"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos oído"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán oído"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "oiga"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "oigas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "oiga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "oigamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "oigan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "oyera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "oyeras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "oyera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "oyéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "oyeran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera oído"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras oído"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera oído"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos oído"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran oído"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "oye"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "oiga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "oigamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "oigan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no oigas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no oiga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no oigamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no oigan"
+      }
+    ]
+  },
+  "notes": [
+    "**Oír** is highly irregular in all tenses",
+    "Present: irregular \"yo\" form (oigo), plus spelling changes for i→y in some forms",
+    "Preterite: spelling change i→y in 3rd person (oyó, oyeron), accents on other forms",
+    "Imperfect: regular pattern but with accent on \"í\" (oía, oías, etc.)",
+    "Used for involuntary hearing (perceiving sound)",
+    "Don't confuse with **escuchar** (to listen - actively paying attention)",
+    "Common usage: *oír música* (to hear music), *oír un ruido* (to hear a noise)",
+    "Related expression: *¡Oye!* (Hey! / Listen!)"
+  ],
+  "sourceFile": "Verbs/o/Oír.md"
+}

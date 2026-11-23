@@ -1,0 +1,308 @@
+{
+  "id": "a519745e-70be-51cc-b5ec-ae3a1a02f5f9",
+  "infinitive": "Olvidar",
+  "englishMeaning": "to forget",
+  "desc": "to forget",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "o",
+  "categoryId": "17ab56ce-480a-5e1b-b55d-16eaabe765bf",
+  "gerundio": "olvidando",
+  "participio": "olvidado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "olvido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "olvidas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "olvida"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "olvidamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "olvidan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "olvidé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "olvidaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "olvidó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "olvidamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "olvidaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "olvidaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "olvidabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "olvidaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "olvidábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "olvidaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he olvidado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has olvidado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha olvidado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos olvidado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han olvidado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había olvidado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías olvidado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había olvidado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos olvidado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían olvidado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "olvidaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "olvidarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "olvidará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "olvidaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "olvidarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "olvidaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "olvidarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "olvidaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "olvidaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "olvidarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré olvidado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás olvidado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá olvidado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos olvidado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán olvidado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "olvide"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "olvides"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "olvide"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "olvidemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "olviden"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "olvidara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "olvidaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "olvidara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "olvidáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "olvidaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera olvidado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras olvidado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera olvidado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos olvidado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran olvidado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "olvida"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "olvide"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "olvidemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "olviden"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no olvides"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no olvide"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no olvidemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no olviden"
+      }
+    ]
+  },
+  "notes": [
+    "**Olvidar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **olvidado** (regular)",
+    "Often used reflexively: **olvidarse (de)** = to forget (about)",
+    "Common usage:",
+    "*Olvidé mis llaves* (I forgot my keys)",
+    "*Me olvidé de llamarte* (I forgot to call you)",
+    "*No olvides* (Don't forget)",
+    "Opposite: **recordar** (to remember)",
+    "Related noun: **el olvido** (forgetfulness, oblivion)",
+    "Expression: *echar en olvido* (to cast into oblivion)"
+  ],
+  "sourceFile": "Verbs/o/Olvidar.md"
+}

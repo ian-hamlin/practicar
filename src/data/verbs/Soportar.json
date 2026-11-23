@@ -1,0 +1,303 @@
+{
+  "id": "ef69483c-7767-5195-94b1-e8dfc33823d6",
+  "infinitive": "Soportar",
+  "englishMeaning": "to tolerate / to put up with / to bear / to support",
+  "desc": "to tolerate / to put up with / to bear / to support",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "soportando",
+  "participio": "soportado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "soporto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "soportas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "soporta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "soportamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "soportan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "soporté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "soportaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "soportó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "soportamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "soportaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "soportaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "soportabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "soportaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "soportábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "soportaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he soportado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has soportado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha soportado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos soportado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han soportado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había soportado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías soportado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había soportado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos soportado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían soportado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "soportaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "soportarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "soportará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "soportaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "soportarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "soportaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "soportarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "soportaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "soportaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "soportarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré soportado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás soportado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá soportado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos soportado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán soportado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "soporte"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "soportes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "soporte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "soportemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "soporten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "soportara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "soportaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "soportara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "soportáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "soportaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera soportado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras soportado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera soportado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos soportado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran soportado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "soporta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "soporte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "soportemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "soporten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no soportes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no soporte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no soportemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no soporten"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; no spelling changes or stem changes",
+    "Past participle: *soportado*",
+    "*No soporto el ruido* — I can't stand the noise (very common usage)",
+    "Often used in negative: *no soportar* = can't stand / can't bear",
+    "Also means to support/hold up structurally: *Las columnas soportan el techo* — The columns support the roof",
+    "False friend: NOT the same as English \"to support\" in emotional sense — use *apoyar* for emotional support"
+  ],
+  "sourceFile": "Verbs/s/Soportar.md"
+}

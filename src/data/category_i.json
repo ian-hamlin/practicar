@@ -1,0 +1,119 @@
+{
+  "id": "50ce3e0b-61b3-530c-8b6a-399ede02b6b5",
+  "letter": "i",
+  "count": 11,
+  "verbs": [
+    {
+      "id": "44741b86-79f7-573c-8e65-80494a126b2d",
+      "infinitive": "Ignorar",
+      "desc": "to ignore",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Ignorar.json"
+    },
+    {
+      "id": "2c40be78-e690-5a0e-bfb1-84e971a66a71",
+      "infinitive": "Imaginarse",
+      "desc": "to imagine, to picture",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Imaginarse.json"
+    },
+    {
+      "id": "768f568d-d623-5cca-b5c2-286dbb84d640",
+      "infinitive": "Impresionar",
+      "desc": "to impress",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Impresionar.json"
+    },
+    {
+      "id": "11172ba0-8ad8-506c-8091-05f9faa0aba7",
+      "infinitive": "Insistir",
+      "desc": "to insist",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Insistir.json"
+    },
+    {
+      "id": "4ef8508d-e4fd-5cfe-9a8b-b6e5b4d0808e",
+      "infinitive": "Instalar",
+      "desc": "to install, to set up",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Instalar.json"
+    },
+    {
+      "id": "54a7d7ea-df82-5d71-99dd-1dd8f947d165",
+      "infinitive": "Intentar",
+      "desc": "to try, to attempt",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Intentar.json"
+    },
+    {
+      "id": "b94ee5b8-f7a7-53eb-82ef-31a4dfe650c7",
+      "infinitive": "Interesar",
+      "desc": "to interest, to be interesting to",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Interesar.json"
+    },
+    {
+      "id": "6e2c838a-71d1-5dd2-906c-7ecbe8ff6db1",
+      "infinitive": "Inventar",
+      "desc": "to invent, to make up",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Inventar.json"
+    },
+    {
+      "id": "807bc869-4bdd-5d86-83bf-27130a0a3481",
+      "infinitive": "Invitar",
+      "desc": "to invite",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Invitar.json"
+    },
+    {
+      "id": "7edc061a-abd1-5771-9f42-9f1ff8f6b9c5",
+      "infinitive": "Ir",
+      "desc": "to go",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Ir.json"
+    },
+    {
+      "id": "6703366a-c287-59a6-aeb2-1bda57d2bf13",
+      "infinitive": "Irse",
+      "desc": "to go away, to leave, to go off",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive"
+      ],
+      "file": "verbs/Irse.json"
+    }
+  ]
+}

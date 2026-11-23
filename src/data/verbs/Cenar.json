@@ -1,0 +1,302 @@
+{
+  "id": "b504b698-3316-5de7-a039-f4d16f75442c",
+  "infinitive": "Cenar",
+  "englishMeaning": "to have dinner",
+  "desc": "to have dinner",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "cenando",
+  "participio": "cenado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ceno"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cenas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cena"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cenamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cenan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "cené"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cenaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cenó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cenamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cenaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "cenaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cenabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cenaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cenábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cenaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he cenado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has cenado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha cenado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos cenado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han cenado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había cenado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías cenado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había cenado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos cenado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían cenado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "cenaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cenarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cenará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cenaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cenarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "cenaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cenarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cenaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cenaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cenarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré cenado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás cenado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá cenado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos cenado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán cenado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cene"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cenes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cene"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cenemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cenen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "cenara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cenaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cenara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cenáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cenaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera cenado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras cenado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera cenado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos cenado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran cenado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "cena"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "cene"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cenemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "cenen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no cenes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no cene"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no cenemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no cenen"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; follows standard endings throughout",
+    "Past participle: cenado (regular)",
+    "*Cenamos a las nueve en España* = We have dinner at nine in Spain",
+    "*¿Qué quieres cenar esta noche?* = What do you want to have for dinner tonight?",
+    "Related: la cena (dinner), el comedor (dining room), comer (to eat/to have lunch), desayunar (to have breakfast)"
+  ],
+  "sourceFile": "Verbs/c/Cenar.md"
+}

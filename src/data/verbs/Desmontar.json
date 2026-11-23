@@ -1,0 +1,305 @@
+{
+  "id": "646b4faf-3175-567d-8a5f-43fda715a38b",
+  "infinitive": "Desmontar",
+  "englishMeaning": "to dismantle / to take apart / to disassemble",
+  "desc": "to dismantle / to take apart / to disassemble",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "desmontando",
+  "participio": "desmontado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "desmonto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desmontas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desmonta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desmontamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desmontan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "desmonté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desmontaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desmontó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desmontamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desmontaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "desmontaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desmontabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desmontaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desmontábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desmontaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he desmontado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has desmontado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha desmontado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos desmontado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han desmontado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había desmontado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías desmontado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había desmontado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos desmontado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían desmontado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "desmontaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desmontarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desmontará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desmontaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desmontarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "desmontaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desmontarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desmontaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desmontaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desmontarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré desmontado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás desmontado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá desmontado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos desmontado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán desmontado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "desmonte"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desmontes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desmonte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desmontemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desmonten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "desmontara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desmontaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desmontara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desmontáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desmontaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera desmontado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras desmontado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera desmontado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos desmontado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran desmontado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "desmonta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "desmonte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desmontemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "desmonten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no desmontes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no desmonte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no desmontemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no desmonten"
+      }
+    ]
+  },
+  "notes": [
+    "**Desmontar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Multiple meanings:",
+    "To dismantle, to take apart: *desmontar un mueble* (to disassemble furniture)",
+    "To dismount: *desmontar del caballo* (to dismount from a horse)",
+    "To debunk: *desmontar un mito* (to debunk a myth)",
+    "Opposite: **montar** (to assemble, to mount, to ride)",
+    "Common usage: *desmontar la tienda de campaña* (to take down the tent), *desmontar un argumento* (to dismantle an argument)"
+  ],
+  "sourceFile": "Verbs/d/Desmontar.md"
+}

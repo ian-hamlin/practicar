@@ -1,0 +1,300 @@
+{
+  "id": "44741b86-79f7-573c-8e65-80494a126b2d",
+  "infinitive": "Ignorar",
+  "englishMeaning": "to ignore",
+  "desc": "to ignore",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "i",
+  "categoryId": "50ce3e0b-61b3-530c-8b6a-399ede02b6b5",
+  "gerundio": "ignorando",
+  "participio": "ignorado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ignoro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ignoras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ignora"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ignoramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ignoran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "ignoré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ignoraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ignoró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ignoramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ignoraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "ignoraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ignorabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ignoraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ignorábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ignoraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he ignorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has ignorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha ignorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos ignorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han ignorado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había ignorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías ignorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había ignorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos ignorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían ignorado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "ignoraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ignorarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ignorará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ignoraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ignorarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "ignoraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ignorarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ignoraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ignoraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ignorarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré ignorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás ignorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá ignorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos ignorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán ignorado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ignore"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ignores"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ignore"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ignoremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ignoren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "ignorara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ignoraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ignorara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ignoráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ignoraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera ignorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras ignorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera ignorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos ignorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran ignorado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "ignora"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "ignore"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ignoremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "ignoren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no ignores"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no ignore"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no ignoremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no ignoren"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb",
+    "Also means \"to be unaware of\" (not know about something): \"Ignoro su paradero\" = I don't know his whereabouts",
+    "Past participle: ignorado"
+  ],
+  "sourceFile": "Verbs/i/Ignorar.md"
+}

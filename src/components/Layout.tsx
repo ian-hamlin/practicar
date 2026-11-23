@@ -1,112 +1,68 @@
-import { useState } from 'react'
-import { Outlet, NavLink } from 'react-router-dom'
-import {
-  AppBar,
-  Box,
-  CssBaseline,
-  Drawer,
-  IconButton,
-  List,
-  ListItem,
-  ListItemButton,
-  ListItemText,
-  Toolbar,
-  Typography,
-} from '@mui/material'
-import MenuIcon from '@mui/icons-material/Menu'
+import { AppShell, Burger, Group, ScrollArea, SegmentedControl } from '@mantine/core'
+import { useDisclosure } from '@mantine/hooks'
+import { Link, Outlet, useLocation } from 'react-router'
+import { keepScrollPosition, type Mode, useMode } from '../mode.ts'
+import classes from './Layout.module.css'
+import { VerbMenu } from './VerbMenu.tsx'
 
-const DRAWER_WIDTH = 240
-
-const navItems = [
-  { label: 'Dashboard', to: '/' },
-  { label: 'Practice', to: '/practice' },
-  { label: 'Verbs', to: '/verbs' },
-]
-
-export default function Layout() {
-  const [mobileOpen, setMobileOpen] = useState(false)
-
-  const drawerContent = (
-    <List disablePadding>
-      {navItems.map(({ label, to }) => (
-        <ListItem key={label} disablePadding>
-          <ListItemButton
-            component={NavLink}
-            to={to}
-            end
-            onClick={() => setMobileOpen(false)}
-            sx={{
-              '&.active': {
-                bgcolor: 'action.selected',
-                '& .MuiListItemText-primary': { fontWeight: 500 },
-              },
-            }}
-          >
-            <ListItemText primary={label} />
-          </ListItemButton>
-        </ListItem>
-      ))}
-    </List>
-  )
+export function Layout() {
+  const [opened, { toggle, close }] = useDisclosure()
+  const { pathname } = useLocation()
+  const [mode, setMode] = useMode()
 
   return (
-    <Box sx={{ display: 'flex' }}>
-      <CssBaseline />
+    <AppShell
+      header={{ height: 64 }}
+      navbar={{ width: 280, breakpoint: 'sm', collapsed: { mobile: !opened } }}
+      padding="xl"
+    >
+      <AppShell.Header className={classes.header}>
+        <Group h="100%" px="lg" justify="space-between">
+          <Group gap="sm">
+            <Burger
+              opened={opened}
+              onClick={toggle}
+              hiddenFrom="sm"
+              size="sm"
+              aria-label="Toggle navigation"
+            />
+            <Link to="/" className={classes.brand} onClick={close}>
+              <span className={classes.logo}>P</span>
+              <span className={classes.wordmark}>Practicar</span>
+            </Link>
+          </Group>
+          <SegmentedControl
+            value={mode}
+            onChange={(v) => keepScrollPosition(() => setMode(v as Mode))}
+            data={[
+              { label: 'Practice', value: 'practice' },
+              { label: 'Study', value: 'study' },
+            ]}
+          />
+        </Group>
+      </AppShell.Header>
 
-      <AppBar
-        position="fixed"
-        sx={{ zIndex: (theme) => theme.zIndex.drawer + 1 }}
-      >
-        <Toolbar>
-          <IconButton
-            color="inherit"
-            edge="start"
-            aria-label="open navigation"
-            onClick={() => setMobileOpen((prev) => !prev)}
-            sx={{ mr: 2, display: { sm: 'none' } }}
+      <AppShell.Navbar className={classes.navbar} p="sm">
+        <AppShell.Section grow component={ScrollArea} type="scroll">
+          <VerbMenu onNavigate={close} />
+        </AppShell.Section>
+        <AppShell.Section pt="xs">
+          <Link
+            to="/about"
+            className={classes.footerLink}
+            data-active={pathname === '/about' || undefined}
+            onClick={close}
           >
-            <MenuIcon />
-          </IconButton>
-          <Typography variant="h6" noWrap>
-            Practicar
-          </Typography>
-        </Toolbar>
-      </AppBar>
+            About
+          </Link>
+        </AppShell.Section>
+      </AppShell.Navbar>
 
-      {/* Mobile drawer */}
-      <Drawer
-        variant="temporary"
-        open={mobileOpen}
-        onClose={() => setMobileOpen(false)}
-        ModalProps={{ keepMounted: true }}
-        sx={{
-          display: { xs: 'block', sm: 'none' },
-          '& .MuiDrawer-paper': { width: DRAWER_WIDTH, boxSizing: 'border-box' },
-        }}
-      >
-        <Toolbar />
-        {drawerContent}
-      </Drawer>
-
-      {/* Desktop drawer */}
-      <Drawer
-        variant="permanent"
-        sx={{
-          display: { xs: 'none', sm: 'block' },
-          width: DRAWER_WIDTH,
-          flexShrink: 0,
-          '& .MuiDrawer-paper': { width: DRAWER_WIDTH, boxSizing: 'border-box' },
-        }}
-        open
-      >
-        <Toolbar />
-        {drawerContent}
-      </Drawer>
-
-      <Box component="main" sx={{ flexGrow: 1, px: 3, pb: 3, pt: 1 }}>
-        <Toolbar />
-        <Outlet />
-      </Box>
-    </Box>
+      <AppShell.Main>
+        <div className={classes.main}>
+          <Outlet />
+        </div>
+      </AppShell.Main>
+    </AppShell>
   )
 }

@@ -1,0 +1,301 @@
+{
+  "id": "ea134e36-fa04-5d88-a30b-325d8c2c4041",
+  "infinitive": "Anunciar",
+  "englishMeaning": "to announce",
+  "desc": "to announce",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "anunciando",
+  "participio": "anunciado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "anuncio"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "anuncias"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "anuncia"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "anunciamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "anuncian"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "anuncié"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "anunciaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "anunció"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "anunciamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "anunciaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "anunciaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "anunciabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "anunciaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "anunciábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "anunciaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he anunciado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has anunciado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha anunciado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos anunciado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han anunciado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había anunciado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías anunciado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había anunciado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos anunciado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían anunciado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "anunciaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "anunciarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "anunciará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "anunciaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "anunciarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "anunciaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "anunciarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "anunciaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "anunciaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "anunciarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré anunciado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás anunciado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá anunciado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos anunciado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán anunciado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "anuncie"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "anuncies"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "anuncie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "anunciemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "anuncien"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "anunciara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "anunciaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "anunciara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "anunciáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "anunciaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera anunciado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras anunciado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera anunciado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos anunciado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran anunciado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "anuncia"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "anuncie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "anunciemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "anuncien"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no anuncies"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no anuncie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no anunciemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no anuncien"
+      }
+    ]
+  },
+  "notes": [
+    "**Anunciar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Common usage: *anunciar noticias* (to announce news), *anunciar un vuelo* (to announce a flight)",
+    "Related noun: **el anuncio** (announcement/advertisement)"
+  ],
+  "sourceFile": "Verbs/a/Anunciar.md"
+}

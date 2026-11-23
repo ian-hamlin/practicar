@@ -1,0 +1,303 @@
+{
+  "id": "0cf28b21-6679-5710-8a8f-3c924d49cd7e",
+  "infinitive": "Chocar",
+  "englishMeaning": "to crash, to collide, to shock, to clash",
+  "desc": "to crash, to collide, to shock, to clash",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "chocando",
+  "participio": "chocado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "choco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "chocas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "choca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "chocamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "chocan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "choqué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "chocaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "chocó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "chocamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "chocaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "chocaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "chocabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "chocaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "chocábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "chocaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he chocado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has chocado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha chocado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos chocado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han chocado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había chocado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías chocado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había chocado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos chocado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían chocado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "chocaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "chocarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "chocará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "chocaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "chocarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "chocaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "chocarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "chocaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "chocaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "chocarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré chocado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás chocado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá chocado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos chocado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán chocado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "choque"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "choques"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "choque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "choquemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "choquen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "chocara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "chocaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "chocara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "chocáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "chocaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera chocado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras chocado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera chocado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos chocado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran chocado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "choca"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "choque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "choquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "choquen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no choques"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no choque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no choquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no choquen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with a **spelling change: c→qu before e** to preserve the hard /k/ sound",
+    "This affects only the **pretérito indefinido yo** form: *choqué* (not *chocé*)",
+    "All other forms follow regular -AR patterns",
+    "Past participle: *chocado* (regular)",
+    "Common usage: *chocar con un coche* (to crash into a car), *chocar contra la pared* (to crash into the wall), *me choca que...* (it shocks/bothers me that...)",
+    "Related: *el choque* (the crash/collision/shock), *chocante* (shocking, striking)"
+  ],
+  "sourceFile": "Verbs/c/Chocar.md"
+}

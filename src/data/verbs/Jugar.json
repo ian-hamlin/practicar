@@ -1,0 +1,308 @@
+{
+  "id": "181cf970-b797-52f9-97d1-e538f8fa6045",
+  "infinitive": "Jugar",
+  "englishMeaning": "to play",
+  "desc": "to play",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_u_ue"
+  ],
+  "letter": "j",
+  "categoryId": "441f2d20-61ff-53bf-8f16-b42e94bf5874",
+  "gerundio": "jugando",
+  "participio": "jugado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "juego"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "juegas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "juega"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "jugamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "juegan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "jugué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "jugaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "jugó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "jugamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "jugaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "jugaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "jugabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "jugaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "jugábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "jugaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he jugado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has jugado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha jugado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos jugado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han jugado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había jugado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías jugado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había jugado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos jugado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían jugado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "jugaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "jugarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "jugará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "jugaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "jugarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "jugaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "jugarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "jugaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "jugaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "jugarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré jugado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás jugado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá jugado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos jugado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán jugado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "juegue"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "juegues"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "juegue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "juguemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "jueguen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "jugara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "jugaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "jugara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "jugáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "jugaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera jugado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras jugado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera jugado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos jugado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran jugado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "juega"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "juegue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "juguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "jueguen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no juegues"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no juegue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no juguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no jueguen"
+      }
+    ]
+  },
+  "notes": [
+    "**Jugar** is a stem-changing verb: u→ue (the only verb with this pattern!)",
+    "Present: stem change u→ue (except nosotros)",
+    "Preterite: spelling change g→gu before é (jugué), NO stem change",
+    "Imperfect: regular -AR pattern, NO stem change",
+    "Pretérito Perfecto: regular past participle **jugado**",
+    "Future: regular future endings attached to infinitive",
+    "Condicional: regular conditional endings attached to infinitive",
+    "Used with sports/games: *jugar al fútbol* (to play soccer), *jugar videojuegos* (to play video games)",
+    "Unique: only Spanish verb with u→ue stem change",
+    "Related noun: **el juego** (game), **el/la jugador/jugadora** (player)"
+  ],
+  "sourceFile": "Verbs/j/Jugar.md"
+}

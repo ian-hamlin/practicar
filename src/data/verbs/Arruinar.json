@@ -1,0 +1,301 @@
+{
+  "id": "a5a348ca-2616-5a15-be38-54e75828f437",
+  "infinitive": "Arruinar",
+  "englishMeaning": "to ruin",
+  "desc": "to ruin",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "arruinando",
+  "participio": "arruinado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "arruino"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arruinas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arruina"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arruinamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arruinan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "arruiné"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arruinaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arruinó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arruinamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arruinaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "arruinaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arruinabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arruinaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arruinábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arruinaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he arruinado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has arruinado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha arruinado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos arruinado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han arruinado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había arruinado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías arruinado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había arruinado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos arruinado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían arruinado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "arruinaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arruinarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arruinará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arruinaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arruinarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "arruinaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arruinarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arruinaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arruinaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arruinarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré arruinado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás arruinado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá arruinado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos arruinado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán arruinado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "arruine"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arruines"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arruine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arruinemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arruinen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "arruinara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arruinaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arruinara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arruináramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arruinaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera arruinado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras arruinado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera arruinado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos arruinado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran arruinado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "arruina"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "arruine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arruinemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "arruinen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no arruines"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no arruine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no arruinemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no arruinen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard endings in every tense, no exceptions.",
+    "*Un duro revés arruinó su vida hace veinte años.* (\"A harsh setback ruined his life twenty years ago.\")",
+    "*No quiero arruinar la sorpresa.* (\"I don't want to ruin the surprise.\")",
+    "Related: *la ruina* (ruin, noun), *arruinarse* (reflexive, \"to go bankrupt / to be ruined\"), *destrozar* (near-synonym, \"to destroy/wreck\")."
+  ],
+  "sourceFile": "Verbs/a/Arruinar.md"
+}

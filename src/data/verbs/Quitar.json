@@ -1,0 +1,303 @@
+{
+  "id": "705b81ec-9266-54e2-a033-d738e2e928f4",
+  "infinitive": "Quitar",
+  "englishMeaning": "to remove, to take off, to take away",
+  "desc": "to remove, to take off, to take away",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "q",
+  "categoryId": "2dc93897-6e3f-576d-9505-469391d25e18",
+  "gerundio": "quitando",
+  "participio": "quitado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "quito"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quitas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quita"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quitamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quitan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "quité"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quitaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quitó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quitamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quitaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "quitaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quitabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quitaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quitábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quitaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he quitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has quitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha quitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos quitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han quitado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había quitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías quitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había quitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos quitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían quitado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "quitaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quitarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quitará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quitaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quitarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "quitaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quitarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quitaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quitaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quitarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré quitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás quitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá quitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos quitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán quitado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "quite"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quites"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quitemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quiten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "quitara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quitaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quitara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quitáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quitaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera quitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras quitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera quitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos quitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran quitado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "quita"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "quite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quitemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "quiten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no quites"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no quite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no quitemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no quiten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb. Follows standard -AR endings throughout all tenses with no exceptions.",
+    "Regular past participle: *quitado*",
+    "*Quitar* = to remove/take away something. The reflexive *quitarse* = to take off (clothing).",
+    "*Quita los zapatos antes de entrar.* (Take off your shoes before entering.)",
+    "*Me quitó el bolso.* (He took my bag away from me.)",
+    "Related: *quitarse* (to take off clothing), *el quite* (dodge, removal)"
+  ],
+  "sourceFile": "Verbs/q/Quitar.md"
+}

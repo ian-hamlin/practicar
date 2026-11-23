@@ -1,0 +1,306 @@
+{
+  "id": "42cdb558-2619-594d-88a0-3e3786d000e9",
+  "infinitive": "Corregir",
+  "englishMeaning": "to correct, to mark",
+  "desc": "to correct, to mark",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_i"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "corrigiendo",
+  "participio": "corregido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "corrijo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "corriges"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "corrige"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "corregimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "corrigen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "corregí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "corregiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "corrigió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "corregimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "corrigieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "corregía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "corregías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "corregía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "corregíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "corregían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he corregido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has corregido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha corregido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos corregido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han corregido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había corregido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías corregido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había corregido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos corregido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían corregido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "corregiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "corregirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "corregirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "corregiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "corregirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "corregiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "corregirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "corregiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "corregiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "corregirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré corregido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás corregido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá corregido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos corregido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán corregido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "corrija"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "corrijas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "corrija"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "corrijamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "corrijan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "corrigiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "corrigieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "corrigiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "corrigiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "corrigieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera corregido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras corregido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera corregido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos corregido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran corregido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "corrige"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "corrija"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "corrijamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "corrijan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no corrijas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no corrija"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no corrijamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no corrijan"
+      }
+    ]
+  },
+  "notes": [
+    "-IR verb with two irregularities: e→i stem change and g→j spelling change before a/o",
+    "**Presente**: e→i in all forms except nosotros; g→j in yo only: *corrijo*",
+    "**Pretérito Indefinido**: e→i in 3rd person only: *corrigió*, *corrigieron*",
+    "**Subjuntivo**: yo form corrijo → stem corrij + -a endings; e→i applies to nosotros too: *corrijamos*",
+    "Past participle: corregido (regular)",
+    "*El profesor corrige los exámenes* = The teacher marks the exams",
+    "*Corrígeme si me equivoco* = Correct me if I'm wrong",
+    "Related: la corrección (correction), correcto/a (correct), incorrecto/a (incorrect)"
+  ],
+  "sourceFile": "Verbs/c/Corregir.md"
+}

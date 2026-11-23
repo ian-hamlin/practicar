@@ -1,0 +1,305 @@
+{
+  "id": "a49f3cee-5598-5038-9714-15332e5f7d44",
+  "infinitive": "Basarse",
+  "englishMeaning": "to be based on",
+  "desc": "to be based (on)",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "b",
+  "categoryId": "0c6cef76-6cf7-5b31-b026-9ab8996fbcd1",
+  "gerundio": "basando",
+  "participio": "basado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me baso"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te basas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se basa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos basamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se basan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me basé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te basaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se basó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos basamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se basaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me basaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te basabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se basaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos basábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se basaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he basado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has basado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha basado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos basado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han basado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había basado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías basado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había basado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos basado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían basado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me basaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te basarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se basará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos basaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se basarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me basaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te basarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se basaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos basaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se basarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré basado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás basado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá basado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos basado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán basado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me base"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te bases"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se base"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos basemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se basen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me basara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te basaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se basara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos basáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se basaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera basado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras basado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera basado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos basado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran basado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "básate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "básese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "basémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "básense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te bases"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se base"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos basemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se basen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, reflexive — follows standard endings in every tense, no exceptions.",
+    "Almost always used with \"en\": *basarse en algo* (\"to be based on something\").",
+    "Past participle is regular: **basado**.",
+    "Imperativo afirmativo reflexive pronouns attach to the end with a written accent to preserve stress (básate, básese, basémonos, básense); imperativo negativo places them separately in front (no te bases...).",
+    "*La película se basa en una historia real.* (\"The movie is based on a true story.\")",
+    "*Nos basamos en los datos del informe.* (\"We're basing this on the report's data.\")",
+    "Related: *la base* (base/basis, noun), *basar* (non-reflexive, \"to base something on\"), *fundamentar* (synonym, \"to substantiate/ground\")."
+  ],
+  "sourceFile": "Verbs/b/Basarse.md"
+}

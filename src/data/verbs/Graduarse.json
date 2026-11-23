@@ -1,0 +1,306 @@
+{
+  "id": "e5a77b1c-4c32-5730-b7c2-37b50667e6d5",
+  "infinitive": "Graduarse",
+  "englishMeaning": "to graduate",
+  "desc": "to graduate",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive"
+  ],
+  "letter": "g",
+  "categoryId": "ec8a91da-65cb-5d21-9c3a-4523865a71c5",
+  "gerundio": "graduando",
+  "participio": "graduado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me gradúo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te gradúas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se gradúa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos graduamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se gradúan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me gradué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te graduaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se graduó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos graduamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se graduaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me graduaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te graduabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se graduaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos graduábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se graduaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he graduado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has graduado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha graduado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos graduado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han graduado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había graduado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías graduado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había graduado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos graduado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían graduado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me graduaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te graduarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se graduará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos graduaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se graduarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me graduaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te graduarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se graduaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos graduaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se graduarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré graduado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás graduado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá graduado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos graduado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán graduado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me gradúe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te gradúes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se gradúe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos graduemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se gradúen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me graduara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te graduaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se graduara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos graduáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se graduaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera graduado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras graduado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera graduado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos graduado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran graduado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "gradúate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "gradúese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "graduémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "gradúense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te gradúes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se gradúe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos graduemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se gradúen"
+      }
+    ]
+  },
+  "notes": [
+    "Irregular reflexive -AR verb with an accent shift: the *u* in the stem takes a written accent (*ú*) and carries the stress in every form except nosotros/nosotras — same pattern as *continuar*, *confiar*, *desviar*, *enviar*",
+    "Not a stem-vowel change in the e→ie/o→ue/e→i/u→ue sense, so no stem-change tag applies — just an orthographic stress shift",
+    "Nosotros forms stay unaccented (*nos graduamos, nos graduemos*) since the stress naturally falls on the right syllable without help",
+    "Affirmative imperative attaches the reflexive pronoun with a written accent to preserve stress: *gradúate, gradúese, graduémonos, gradúense* — nosotros needs the accent here specifically because attaching *-nos* shifts where stress would otherwise fall; negative imperative keeps the pronoun separate: *no te gradúes*...",
+    "Past participle: *graduado* (regular; also used as a noun — *el graduado/la graduada* = the graduate)",
+    "Means \"to graduate\" — *se graduó de la universidad en 2020* (he/she graduated from university in 2020)",
+    "The non-reflexive form *graduar* (\"to calibrate/adjust,\" as in a dial or instrument) is a separate, less common sense: *graduar el volumen* (to adjust the volume)",
+    "Related: *graduación* (graduation), *graduado/a* (graduate, graduated)"
+  ],
+  "sourceFile": "Verbs/g/Graduarse.md"
+}

@@ -1,0 +1,303 @@
+{
+  "id": "00bf27fd-ee05-5710-b170-13fd570332fc",
+  "infinitive": "Mirar",
+  "englishMeaning": "to look at / to watch",
+  "desc": "to look at / to watch",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "m",
+  "categoryId": "c342e4a9-b5da-540a-927d-ccca901fb9ff",
+  "gerundio": "mirando",
+  "participio": "mirado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "miro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "miras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mira"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "miramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "miran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "miré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "miraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "miró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "miramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "miraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "miraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mirabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "miraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mirábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "miraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he mirado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has mirado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha mirado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos mirado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han mirado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había mirado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías mirado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había mirado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos mirado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían mirado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "miraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mirarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mirará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "miraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mirarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "miraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mirarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "miraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "miraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mirarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré mirado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás mirado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá mirado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos mirado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán mirado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "mire"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mires"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mire"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "miremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "miren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "mirara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "miraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mirara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "miráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "miraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera mirado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras mirado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera mirado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos mirado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran mirado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "mira"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "mire"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "miremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "miren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no mires"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no mire"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no miremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no miren"
+      }
+    ]
+  },
+  "notes": [
+    "**Mirar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Often used reflexively: **mirarse** (to look at oneself / to look at each other)",
+    "Difference from **ver**: **mirar** = to look at (deliberately), **ver** = to see (perceive)",
+    "Common usage: *mirar la televisión* (to watch TV), *mirarse en el espejo* (to look at oneself in the mirror)",
+    "**Mirarse fijamente** = to stare at each other intently"
+  ],
+  "sourceFile": "Verbs/m/Mirar.md"
+}

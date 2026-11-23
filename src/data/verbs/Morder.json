@@ -1,0 +1,304 @@
+{
+  "id": "ecc46527-0aa5-5580-b135-b07c71186faa",
+  "infinitive": "Morder",
+  "englishMeaning": "to bite",
+  "desc": "to bite",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "m",
+  "categoryId": "c342e4a9-b5da-540a-927d-ccca901fb9ff",
+  "gerundio": "mordiendo",
+  "participio": "mordido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "muerdo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "muerdes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "muerde"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mordemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "muerden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "mordí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mordiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mordió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mordimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mordieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "mordía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mordías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mordía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mordíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mordían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he mordido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has mordido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha mordido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos mordido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han mordido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había mordido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías mordido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había mordido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos mordido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían mordido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "morderé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "morderás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "morderá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "morderemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "morderán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "mordería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "morderías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mordería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "morderíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "morderían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré mordido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás mordido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá mordido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos mordido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán mordido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "muerda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "muerdas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "muerda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mordamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "muerdan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "mordiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mordieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mordiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mordiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mordieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera mordido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras mordido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera mordido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos mordido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran mordido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "muerde"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "muerda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mordamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "muerdan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no muerdas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no muerda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no mordamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no muerdan"
+      }
+    ]
+  },
+  "notes": [
+    "Irregular -ER verb with an *o→ue* stem change (same pattern as *poder*, *volver*, *dormir*): the stressed *o* in the stem becomes *ue* everywhere except nosotros/nosotras and the preterite/imperfect/future/conditional, which stay regular",
+    "Nosotros forms always revert to the unstressed stem: *mordemos* (Presente), *mordamos* (Subjuntivo/Imperativo)",
+    "Past participle: *mordido* (regular)",
+    "Means \"to bite\" — *el perro me mordió* (the dog bit me), *muerde la manzana* (bite the apple)",
+    "Reflexive *morderse* is common for body parts: *se mordió la lengua* (he/she bit his/her tongue — also figuratively \"held his/her tongue\")",
+    "Related: *mordida* (bite, also \"bribe\" in some Latin American countries), *mordedura* (bite wound), *mordaz* (biting, sarcastic)"
+  ],
+  "sourceFile": "Verbs/m/Morder.md"
+}

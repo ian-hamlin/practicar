@@ -1,0 +1,301 @@
+{
+  "id": "5643c945-05c7-5ccf-917b-2a9108ca2a44",
+  "infinitive": "Estacionar",
+  "englishMeaning": "to park",
+  "desc": "to park",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "estacionando",
+  "participio": "estacionado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "estaciono"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estacionas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "estaciona"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estacionamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "estacionan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "estacioné"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estacionaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "estacionó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estacionamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "estacionaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "estacionaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estacionabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "estacionaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estacionábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "estacionaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he estacionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has estacionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha estacionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos estacionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han estacionado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había estacionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías estacionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había estacionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos estacionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían estacionado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "estacionaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estacionarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "estacionará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estacionaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "estacionarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "estacionaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estacionarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "estacionaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estacionaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "estacionarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré estacionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás estacionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá estacionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos estacionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán estacionado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "estacione"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estaciones"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "estacione"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estacionemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "estacionen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "estacionara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estacionaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "estacionara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estacionáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "estacionaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera estacionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras estacionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera estacionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos estacionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran estacionado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "estaciona"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "estacione"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estacionemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "estacionen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no estaciones"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no estacione"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no estacionemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no estacionen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, no spelling changes or stem changes",
+    "Mainly used in Latin American Spanish; in Spain, **aparcar** is more common for \"to park\"",
+    "Related noun: **el estacionamiento** (parking lot/parking, Latin America) vs. **el aparcamiento** (Spain)",
+    "Common usage: *estacionar el coche* (to park the car), *prohibido estacionar* (no parking)"
+  ],
+  "sourceFile": "Verbs/e/Estacionar.md"
+}

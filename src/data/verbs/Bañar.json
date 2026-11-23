@@ -1,0 +1,302 @@
+{
+  "id": "ac7f00fc-e3f1-5c24-abef-51740422ddfe",
+  "infinitive": "Bañar",
+  "englishMeaning": "to bathe",
+  "desc": "to bathe (someone/something)",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "b",
+  "categoryId": "0c6cef76-6cf7-5b31-b026-9ab8996fbcd1",
+  "gerundio": "bañendo",
+  "participio": "bañado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "baño"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bañas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "baña"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bañamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bañan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "bañé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bañaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bañó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bañamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bañaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "bañaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bañabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bañaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bañábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bañaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he bañado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has bañado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha bañado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos bañado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han bañado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había bañado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías bañado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había bañado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos bañado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían bañado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "bañaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bañarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bañará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bañaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bañarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "bañaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bañarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bañaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bañaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bañarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré bañado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás bañado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá bañado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos bañado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán bañado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "bañe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bañes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bañe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bañemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bañen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "bañara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bañaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bañara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bañáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bañaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera bañado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras bañado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera bañado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos bañado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran bañado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "baña"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "bañe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bañemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "bañen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no bañes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no bañe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no bañemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no bañen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard endings in every tense, no exceptions.",
+    "Not reflexive: *bañar* means to bathe someone or something else (a baby, a dog). The reflexive form *bañarse* (\"to bathe oneself / take a bath\") is a separate verb file if needed.",
+    "*Voy a bañar al perro esta tarde.* (\"I'm going to bathe the dog this afternoon.\")",
+    "*Mi madre me bañaba cuando era pequeño.* (\"My mom used to bathe me when I was little.\")",
+    "Related: *bañarse* (reflexive, \"to bathe oneself\"), *el baño* (bathroom / bath), *la bañera* (bathtub)."
+  ],
+  "sourceFile": "Verbs/b/Bañar.md"
+}

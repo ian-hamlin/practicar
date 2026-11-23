@@ -1,0 +1,303 @@
+{
+  "id": "66abed5b-a344-5cd1-9da3-00fac1f59d2b",
+  "infinitive": "Parar",
+  "englishMeaning": "to stop",
+  "desc": "to stop",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "parando",
+  "participio": "parado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "paro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "paras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "para"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "paran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "paré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "paraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "paró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pararon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "paraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "parabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "paraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "parábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "paraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he parado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has parado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha parado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos parado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han parado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había parado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías parado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había parado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos parado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían parado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "pararé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pararás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "parará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pararemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pararán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "pararía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pararías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pararía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pararíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pararían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré parado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás parado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá parado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos parado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán parado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pare"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pares"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pare"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "paren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "parara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pararas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "parara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pararan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera parado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras parado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera parado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos parado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran parado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "para"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "pare"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "paren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no pares"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no pare"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no paremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no paren"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb",
+    "Can be used transitively (parar el coche = to stop the car) or intransitively (el coche para = the car stops)",
+    "\"Pararse\" (reflexive) is also common: me paro = I stop (myself)",
+    "Past participle: parado",
+    "\"Parado\" also means unemployed in Spain: estar parado = to be unemployed",
+    "Common with \"de\": parar de llover = to stop raining"
+  ],
+  "sourceFile": "Verbs/p/Parar.md"
+}

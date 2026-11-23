@@ -1,0 +1,307 @@
+{
+  "id": "fc9e2fca-701d-5a93-9528-9283f7e81e5c",
+  "infinitive": "Desear",
+  "englishMeaning": "to wish / to desire / to want",
+  "desc": "to wish / to desire / to want",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "deseando",
+  "participio": "deseado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "deseo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "deseas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "deseamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desean"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "deseé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "deseaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "deseó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "deseamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desearon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "deseaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "deseabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "deseaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "deseábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "deseaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he deseado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has deseado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha deseado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos deseado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han deseado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había deseado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías deseado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había deseado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos deseado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían deseado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "desearé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desearás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "deseará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desearemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desearán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "desearía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desearías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desearía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desearíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desearían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré deseado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás deseado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá deseado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos deseado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán deseado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "desee"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desees"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "deseemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "deseen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "deseara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desearas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "deseara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "deseáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desearan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera deseado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras deseado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera deseado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos deseado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran deseado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "desea"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "desee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "deseemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "deseen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no desees"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no desee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no deseemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no deseen"
+      }
+    ]
+  },
+  "notes": [
+    "**Desear** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **deseado** (regular)",
+    "More formal than **querer** (to want)",
+    "Common usage:",
+    "*Te deseo buena suerte* (I wish you good luck)",
+    "*Deseo viajar* (I wish to travel)",
+    "*¿Qué desea?* (What would you like? - formal, like in a store)",
+    "Related noun: **el deseo** (wish, desire)",
+    "Common expressions: *desear lo mejor* (to wish the best), *dejar mucho que desear* (to leave much to be desired)"
+  ],
+  "sourceFile": "Verbs/d/Desear.md"
+}

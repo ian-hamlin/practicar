@@ -1,0 +1,304 @@
+{
+  "id": "bad86cda-79d8-54a8-aa9c-0d18f6015f08",
+  "infinitive": "Convertir",
+  "englishMeaning": "to convert, to transform",
+  "desc": "to convert, to transform",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "convirtiendo",
+  "participio": "convertido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "convierto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conviertes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "convierte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "convertimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "convierten"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "convertí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "convertiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "convirtió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "convertimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "convirtieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "convertía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "convertías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "convertía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "convertíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "convertían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he convertido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has convertido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha convertido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos convertido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han convertido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había convertido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías convertido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había convertido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos convertido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían convertido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "convertiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "convertirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "convertirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "convertiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "convertirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "convertiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "convertirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "convertiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "convertiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "convertirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré convertido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás convertido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá convertido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos convertido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán convertido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "convierta"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conviertas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "convierta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "convirtamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conviertan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "convirtiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "convirtieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "convirtiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "convirtiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "convirtieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera convertido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras convertido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera convertido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos convertido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran convertido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "convierte"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "convierta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "convirtamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "conviertan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no conviertas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no convierta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no convirtamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no conviertan"
+      }
+    ]
+  },
+  "notes": [
+    "-IR verb with e→ie stem change in Presente (all forms except nosotros/nosotras)",
+    "In the Pretérito Indefinido, the stem changes to e→i in él/ella/usted (convirtió) and ellos/ellas/ustedes (convirtieron)",
+    "The same e→i change occurs in the gerund: convirtiendo",
+    "Past participle: convertido (regular)",
+    "Commonly used with \"en\": convertir algo en algo = to turn/convert something into something",
+    "The reflexive form \"convertirse\" means to become/to be converted"
+  ],
+  "sourceFile": "Verbs/c/Convertir.md"
+}

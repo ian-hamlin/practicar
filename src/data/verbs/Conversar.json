@@ -1,0 +1,301 @@
+{
+  "id": "e1e28630-5035-50db-80b9-719c9dd242f1",
+  "infinitive": "Conversar",
+  "englishMeaning": "to converse, to chat",
+  "desc": "to converse, to chat",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "conversando",
+  "participio": "conversado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "converso"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conversas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conversa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conversamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conversan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "conversé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conversaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conversó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conversamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conversaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "conversaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conversabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conversaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conversábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conversaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he conversado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has conversado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha conversado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos conversado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han conversado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había conversado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías conversado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había conversado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos conversado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían conversado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "conversaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conversarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conversará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conversaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conversarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "conversaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conversarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conversaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conversaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conversarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré conversado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás conversado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá conversado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos conversado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán conversado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "converse"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "converses"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "converse"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conversemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conversen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "conversara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conversaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conversara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conversáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conversaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera conversado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras conversado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera conversado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos conversado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran conversado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "conversa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "converse"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conversemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "conversen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no converses"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no converse"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no conversemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no conversen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard endings in every tense, no exceptions.",
+    "*Conversamos toda la noche sobre el viaje.* (\"We chatted all night about the trip.\")",
+    "*Me gustaría conversar contigo sobre el proyecto.* (\"I'd like to chat with you about the project.\")",
+    "Related: *la conversación* (conversation), *charlar* (synonym, \"to chat\"), *hablar* (broader, \"to speak/talk\")."
+  ],
+  "sourceFile": "Verbs/c/Conversar.md"
+}

@@ -1,0 +1,64 @@
+.hero {
+  padding-block: var(--mantine-spacing-lg) var(--mantine-spacing-xl);
+}
+
+.title {
+  font-size: clamp(36px, 5vw, 56px);
+  line-height: 1.05;
+  letter-spacing: -0.01em;
+
+  em {
+    color: var(--mantine-primary-color-filled);
+    font-style: normal;
+  }
+}
+
+.stat {
+  padding: var(--mantine-spacing-sm) var(--mantine-spacing-md);
+  border: 1px solid var(--app-border);
+  border-radius: var(--mantine-radius-md);
+  background: var(--app-surface);
+}
+
+.statValue {
+  font-family: var(--mantine-font-family-headings);
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 1.1;
+}
+
+.card {
+  position: relative;
+  display: block;
+  padding: var(--mantine-spacing-md);
+  border: 1px solid var(--app-border);
+  border-radius: var(--mantine-radius-lg);
+  background: var(--app-surface);
+  transition:
+    transform 150ms ease,
+    box-shadow 150ms ease,
+    border-color 150ms ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    border-color: var(--mantine-primary-color-light-color);
+    box-shadow: var(--mantine-shadow-md);
+  }
+}
+
+.letter {
+  font-family: var(--mantine-font-family-headings);
+  font-size: 44px;
+  font-weight: 600;
+  line-height: 1;
+  color: var(--mantine-primary-color-filled);
+}
+
+.count {
+  position: absolute;
+  top: var(--mantine-spacing-md);
+  right: var(--mantine-spacing-md);
+  font-size: var(--mantine-font-size-xs);
+  font-weight: 600;
+  color: var(--app-muted);
+}

@@ -1,0 +1,303 @@
+{
+  "id": "6e706d96-fa08-586d-bb77-bbd21df34381",
+  "infinitive": "Evitar",
+  "englishMeaning": "to avoid / to prevent / to evade",
+  "desc": "to avoid / to prevent / to evade",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "evitando",
+  "participio": "evitado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "evito"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "evitas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "evita"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "evitamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "evitan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "evité"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "evitaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "evitó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "evitamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "evitaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "evitaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "evitabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "evitaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "evitábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "evitaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he evitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has evitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha evitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos evitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han evitado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había evitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías evitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había evitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos evitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían evitado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "evitaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "evitarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "evitará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "evitaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "evitarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "evitaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "evitarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "evitaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "evitaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "evitarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré evitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás evitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá evitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos evitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán evitado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "evite"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "evites"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "evite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "evitemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "eviten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "evitara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "evitaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "evitara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "evitáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "evitaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera evitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras evitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera evitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos evitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran evitado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "evita"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "evite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "evitemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "eviten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no evites"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no evite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no evitemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no eviten"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; no spelling changes or stem changes",
+    "Past participle: *evitado*",
+    "*evitar + infinitive* = to avoid doing something (*Evita comer mucho azúcar* — Avoid eating too much sugar)",
+    "*evitar + noun* = to avoid something (*Evito el tráfico por las mañanas* — I avoid traffic in the mornings)",
+    "*evitar que + subjuntivo* = to prevent something from happening (*Evita que te encorves* — It prevents you from hunching over)",
+    "Related: *la evitación* = avoidance; *evitable* = avoidable; *inevitable* = inevitable"
+  ],
+  "sourceFile": "Verbs/e/Evitar.md"
+}

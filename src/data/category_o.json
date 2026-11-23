@@ -1,0 +1,108 @@
+{
+  "id": "17ab56ce-480a-5e1b-b55d-16eaabe765bf",
+  "letter": "o",
+  "count": 10,
+  "verbs": [
+    {
+      "id": "822b3330-0a07-59ba-9de9-09d5818ee543",
+      "infinitive": "Observar",
+      "desc": "to observe, to watch",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Observar.json"
+    },
+    {
+      "id": "1a4fce85-0188-5ce8-b45d-c157724accb8",
+      "infinitive": "Ocurrir",
+      "desc": "to occur, to happen",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Ocurrir.json"
+    },
+    {
+      "id": "fd2cfd79-a4fd-57b1-9121-ec51763a6453",
+      "infinitive": "Odiar",
+      "desc": "to hate",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Odiar.json"
+    },
+    {
+      "id": "9be787dc-5600-5e3e-85f7-f5af46187140",
+      "infinitive": "Ofrecer",
+      "desc": "to offer / to provide",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Ofrecer.json"
+    },
+    {
+      "id": "be6b6ea1-8906-5b5d-bfb5-ef6d6da1cebe",
+      "infinitive": "Oír",
+      "desc": "to hear",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Oír.json"
+    },
+    {
+      "id": "8501c9a9-2bbc-5fe7-86c8-406277f99fc8",
+      "infinitive": "Oler",
+      "desc": "to smell",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Oler.json"
+    },
+    {
+      "id": "a519745e-70be-51cc-b5ec-ae3a1a02f5f9",
+      "infinitive": "Olvidar",
+      "desc": "to forget",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Olvidar.json"
+    },
+    {
+      "id": "1275e473-0a5a-5bc0-aec0-59ced3275157",
+      "infinitive": "Omitir",
+      "desc": "to omit / to leave out / to skip",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Omitir.json"
+    },
+    {
+      "id": "4c15f1c2-cc23-5b5f-967c-1769ef40bb35",
+      "infinitive": "Opinar",
+      "desc": "to think / to have an opinion / to give one's opinion",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Opinar.json"
+    },
+    {
+      "id": "1f879a26-2943-5ef2-9f84-74cbe91bf4d7",
+      "infinitive": "Ordenar",
+      "desc": "to tidy, to order, to arrange",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Ordenar.json"
+    }
+  ]
+}

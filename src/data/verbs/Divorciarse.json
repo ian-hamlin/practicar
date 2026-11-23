@@ -1,0 +1,304 @@
+{
+  "id": "82882848-ccbb-57fa-9232-53f18218f84e",
+  "infinitive": "Divorciarse",
+  "englishMeaning": "to get divorced",
+  "desc": "to get divorced",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "divorciando",
+  "participio": "divorciado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me divorcio"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te divorcias"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se divorcia"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos divorciamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se divorcian"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me divorcié"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te divorciaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se divorció"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos divorciamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se divorciaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me divorciaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te divorciabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se divorciaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos divorciábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se divorciaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he divorciado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has divorciado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha divorciado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos divorciado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han divorciado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había divorciado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías divorciado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había divorciado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos divorciado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían divorciado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me divorciaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te divorciarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se divorciará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos divorciaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se divorciarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me divorciaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te divorciarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se divorciaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos divorciaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se divorciarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré divorciado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás divorciado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá divorciado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos divorciado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán divorciado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me divorcie"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te divorcies"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se divorcie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos divorciemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se divorcien"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me divorciara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te divorciaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se divorciara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos divorciáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se divorciaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera divorciado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras divorciado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera divorciado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos divorciado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran divorciado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "divórciate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "divórciese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "divorciémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "divórciense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te divorcies"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se divorcie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos divorciemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se divorcien"
+      }
+    ]
+  },
+  "notes": [
+    "**Divorciarse** is a regular -AR reflexive verb",
+    "Always used with reflexive pronouns (me, te, se, nos, se)",
+    "No stem changes in any tense",
+    "Follows the same pattern as regular -AR verbs like hablar, trabajar",
+    "Usually used with \"de\": *Se divorció de su esposa.* (He got divorced from his wife.)",
+    "Past participle: divorciado/divorciada (divorced)#"
+  ],
+  "sourceFile": "Verbs/d/Divorciarse.md"
+}

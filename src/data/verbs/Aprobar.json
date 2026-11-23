@@ -1,0 +1,306 @@
+{
+  "id": "a0365683-c2b5-5215-b512-4e4faa4eae46",
+  "infinitive": "Aprobar",
+  "englishMeaning": "to pass (an exam) / to approve / to pass (a law)",
+  "desc": "to pass (an exam) / to approve / to pass (a law)",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "aprobando",
+  "participio": "aprobado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "apruebo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "apruebas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aprueba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprobamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprueban"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "aprobé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aprobaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aprobó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprobamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprobaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "aprobaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aprobabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aprobaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprobábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprobaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he aprobado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has aprobado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha aprobado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos aprobado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han aprobado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había aprobado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías aprobado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había aprobado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos aprobado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían aprobado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "aprobaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aprobarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aprobará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprobaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprobarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "aprobaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aprobarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aprobaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprobaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprobarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré aprobado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás aprobado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá aprobado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos aprobado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán aprobado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "apruebe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aprubes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "apruebe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprobemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprueben"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "aprobara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aprobaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aprobara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprobáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprobaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera aprobado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras aprobado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera aprobado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos aprobado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran aprobado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "aprueba"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "apruebe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprobemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "aprueben"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no apruebes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no apruebe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no aprobemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no aprueben"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with o→ue stem change in present tense and subjuntivo (except nosotros, which keeps the infinitive stem *aprob-*)",
+    "No stem change in preterite, imperfect, future, or conditional",
+    "Past participle: *aprobado*",
+    "*aprobar un examen* = to pass an exam (*Aprobé el examen por los pelos* — I just barely passed the exam)",
+    "*aprobar una ley* = to pass/approve a law",
+    "*aprobar algo* = to approve of something (*No apruebo su comportamiento* — I don't approve of his behaviour)",
+    "Opposite: *suspender* = to fail (an exam)",
+    "Related: *el aprobado* = pass grade; *la aprobación* = approval"
+  ],
+  "sourceFile": "Verbs/a/Aprobar.md"
+}

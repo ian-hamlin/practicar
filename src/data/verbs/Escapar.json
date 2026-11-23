@@ -1,0 +1,306 @@
+{
+  "id": "48df2016-61b6-5071-a373-2bb7fb557b80",
+  "infinitive": "Escapar",
+  "englishMeaning": "to escape / to get away",
+  "desc": "to escape / to get away",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "escapando",
+  "participio": "escapado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "escapo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escapas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escapa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escapamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escapan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "escapé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escapaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escapó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escapamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escaparon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "escapaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escapabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escapaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escapábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escapaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he escapado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has escapado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha escapado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos escapado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han escapado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había escapado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías escapado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había escapado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos escapado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían escapado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "escaparé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escaparás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escapará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escaparemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escaparán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "escaparía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escaparías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escaparía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escaparíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escaparían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré escapado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás escapado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá escapado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos escapado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán escapado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "escape"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escapes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escape"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escapemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escapen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "escapara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escaparas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escapara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escapáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escaparan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera escapado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras escapado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera escapado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos escapado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran escapado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "escapa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "escape"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escapemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "escapen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no escapes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no escape"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no escapemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no escapen"
+      }
+    ]
+  },
+  "notes": [
+    "**Escapar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **escapado** (regular)",
+    "Often used with \"de\": *escapar de la cárcel* (to escape from prison)",
+    "Often used reflexively: **escaparse** (to escape, to slip away)",
+    "Common usage: *escapar del peligro* (to escape danger), *escaparse de casa* (to run away from home)",
+    "Related noun: **el escape** (escape, exhaust - car)",
+    "Similar meaning to **huir** (to flee), but **escapar** often implies successfully getting away",
+    "Expression: *escapar por los pelos* (to escape by the skin of one's teeth)"
+  ],
+  "sourceFile": "Verbs/e/Escapar.md"
+}

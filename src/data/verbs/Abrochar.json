@@ -1,0 +1,303 @@
+{
+  "id": "63776da8-f088-5ab0-846a-6d4d0b3d3698",
+  "infinitive": "Abrochar",
+  "englishMeaning": "to fasten / to buckle / to button up",
+  "desc": "to fasten / to buckle / to button up",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "abrochando",
+  "participio": "abrochado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "abrocho"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abrochas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abrocha"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abrochamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abrochan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "abroché"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abrochaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abrochó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abrochamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abrocharon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "abrochaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abrochabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abrochaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abrochábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abrochaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he abrochado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has abrochado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha abrochado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos abrochado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han abrochado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había abrochado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías abrochado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había abrochado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos abrochado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían abrochado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "abrocharé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abrocharás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abrochará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abrocharemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abrocharán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "abrocharía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abrocharías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abrocharía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abrocharíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abrocharían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré abrochado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás abrochado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá abrochado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos abrochado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán abrochado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "abroche"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abroches"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abroche"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abrochemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abrochen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "abrochara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abrocharas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abrochara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abrocháramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abrocharan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera abrochado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras abrochado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera abrochado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos abrochado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran abrochado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "abrocha"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "abroche"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abrochemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "abrochen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no abroches"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no abroche"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no abrochemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no abrochen"
+      }
+    ]
+  },
+  "notes": [
+    "**Abrochar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Used for fastening seatbelts, buttons, buckles",
+    "Often used reflexively: **abrocharse** (to fasten/buckle oneself)",
+    "Common usage: *abrochar el cinturón* (to fasten the seatbelt), *abrocharse la camisa* (to button up one's shirt)",
+    "Opposite: **desabrochar** (to unfasten/unbuckle)"
+  ],
+  "sourceFile": "Verbs/a/Abrochar.md"
+}

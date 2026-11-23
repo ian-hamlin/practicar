@@ -1,0 +1,301 @@
+{
+  "id": "2c1ca102-787c-590e-b882-e17af30dfffc",
+  "infinitive": "Vender",
+  "englishMeaning": "to sell",
+  "desc": "to sell",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "v",
+  "categoryId": "7848c6f0-8db9-54f6-91a9-a1f1ebd97c61",
+  "gerundio": "vendiendo",
+  "participio": "vendido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "vendo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vendes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vende"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vendemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "venden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "vendí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vendiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vendió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vendimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vendieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "vendía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vendías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vendía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vendíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vendían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he vendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has vendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha vendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos vendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han vendido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había vendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías vendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había vendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos vendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían vendido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "venderé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "venderás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "venderá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "venderemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "venderán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "vendería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "venderías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vendería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "venderíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "venderían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré vendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás vendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá vendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos vendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán vendido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "venda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vendas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "venda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vendamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vendan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "vendiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vendieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vendiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vendiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vendieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera vendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras vendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera vendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos vendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran vendido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "vende"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "venda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vendamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "vendan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no vendas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no venda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no vendamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no vendan"
+      }
+    ]
+  },
+  "notes": [
+    "**Vender** is a regular **-ER verb**",
+    "No spelling changes or stem changes",
+    "Opposite of **comprar** (to buy)",
+    "Common usage: *vender por internet* (to sell online), *Se vende* (For sale)"
+  ],
+  "sourceFile": "Verbs/v/Vender.md"
+}

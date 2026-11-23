@@ -1,0 +1,302 @@
+{
+  "id": "7b638633-1850-5e7d-9c89-e5f3f249faa4",
+  "infinitive": "Fijar",
+  "englishMeaning": "to fix, to set, to fasten",
+  "desc": "to fix, to set, to fasten",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "f",
+  "categoryId": "6a4f18c0-f5d2-5016-9134-e92fb8c852a7",
+  "gerundio": "fijando",
+  "participio": "fijado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "fijo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "fijas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "fija"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fijamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "fijan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "fijé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "fijaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "fijó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fijamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "fijaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "fijaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "fijabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "fijaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fijábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "fijaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he fijado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has fijado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha fijado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos fijado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han fijado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había fijado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías fijado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había fijado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos fijado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían fijado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "fijaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "fijarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "fijará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fijaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "fijarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "fijaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "fijarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "fijaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fijaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "fijarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré fijado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás fijado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá fijado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos fijado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán fijado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "fije"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "fijes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "fije"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fijemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "fijen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "fijara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "fijaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "fijara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fijáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "fijaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera fijado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras fijado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera fijado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos fijado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran fijado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "fija"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "fije"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fijemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "fijen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no fijes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no fije"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no fijemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no fijen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *fijado* (regular)",
+    "Means \"to fix,\" \"to set,\" or \"to fasten\" — *fijar la fecha* (to set the date), *fijar un cartel en la pared* (to fasten a poster to the wall)",
+    "Reflexive *fijarse (en)* is extremely common and means \"to notice\" or \"to pay attention (to)\": *fíjate en los detalles* (notice the details), *no me fijé en la hora* (I didn't notice the time)",
+    "Related: *fijo/a* (fixed, permanent — *un trabajo fijo* = a permanent job), *fijación* (fixation), *fijamente* (fixedly, intently)"
+  ],
+  "sourceFile": "Verbs/f/Fijar.md"
+}

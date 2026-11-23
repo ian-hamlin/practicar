@@ -1,0 +1,306 @@
+{
+  "id": "84955115-b491-5ce2-bf5a-89047b137dac",
+  "infinitive": "Terminar",
+  "englishMeaning": "to finish / to end",
+  "desc": "to finish / to end",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "t",
+  "categoryId": "a163d0db-76b7-5624-8633-200bb9177aae",
+  "gerundio": "terminando",
+  "participio": "terminado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "termino"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "terminas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "termina"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "terminamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "terminan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "terminé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "terminaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "terminó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "terminamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "terminaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "terminaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "terminabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "terminaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "terminábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "terminaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he terminado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has terminado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha terminado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos terminado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han terminado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había terminado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías terminado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había terminado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos terminado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían terminado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "terminaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "terminarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "terminará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "terminaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "terminarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "terminaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "terminarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "terminaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "terminaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "terminarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré terminado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás terminado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá terminado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos terminado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán terminado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "termine"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "termines"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "termine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "terminemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "terminen"
+      },
+      {
+        "subject": "",
+        "conjugation": ""
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "terminara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "terminaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "terminara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "termináramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "terminaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera terminado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras terminado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera terminado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos terminado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran terminado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "termina"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "termine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "terminemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "terminen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no termines"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no termine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no terminemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no terminen"
+      }
+    ]
+  },
+  "notes": [
+    "**Terminar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Often used with \"de\" + infinitive: *terminar de comer* (to finish eating)",
+    "Can also mean \"to break up\" (relationships): *terminaron su relación* (they ended their relationship)",
+    "Common usage: *terminar el trabajo* (to finish work), *terminar con alguien* (to break up with someone)"
+  ],
+  "sourceFile": "Verbs/t/Terminar.md"
+}

@@ -1,0 +1,302 @@
+{
+  "id": "91da7b32-74a2-59a9-bbb2-aebc4ff1c76b",
+  "infinitive": "Preparar",
+  "englishMeaning": "to prepare / to get ready",
+  "desc": "to prepare / to get ready",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "preparando",
+  "participio": "preparado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "preparo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preparas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "prepara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preparamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "preparan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "preparé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preparaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "preparó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preparamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prepararon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "preparaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preparabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "preparaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preparábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "preparaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he preparado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has preparado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha preparado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos preparado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han preparado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había preparado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías preparado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había preparado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos preparado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían preparado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "prepararé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prepararás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "preparará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prepararemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prepararán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "prepararía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prepararías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "prepararía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prepararíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prepararían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré preparado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás preparado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá preparado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos preparado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán preparado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "prepare"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prepares"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "prepare"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preparemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "preparen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "preparara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prepararas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "preparara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preparáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prepararan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera preparado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras preparado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera preparado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos preparado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran preparado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "prepara"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "prepare"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preparemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "preparen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no prepares"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no prepare"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no preparemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no preparen"
+      }
+    ]
+  },
+  "notes": [
+    "**Preparar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Often used reflexively: **prepararse** (to get ready, to prepare oneself)",
+    "Common usage: *preparar la comida* (to prepare food), *prepararse para el examen* (to prepare for the exam)",
+    "Related adjective: **preparado/a** (prepared/ready)"
+  ],
+  "sourceFile": "Verbs/p/Preparar.md"
+}

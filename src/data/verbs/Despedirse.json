@@ -1,0 +1,307 @@
+{
+  "id": "5e35bcad-23c0-5dc8-8ef2-8635dfc18cd8",
+  "infinitive": "Despedirse",
+  "englishMeaning": "to say goodbye, to take one's leave",
+  "desc": "to say goodbye, to take one's leave",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive",
+    "stem_e_i"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "despidiendo",
+  "participio": "despedido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me despido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te despides"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se despide"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos despedimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se despiden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me despedí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te despediste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se despidió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos despedimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se despidieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me despedía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te despedías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se despedía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos despedíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se despedían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he despedido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has despedido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha despedido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos despedido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han despedido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había despedido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías despedido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había despedido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos despedido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían despedido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me despediré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te despedirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se despedirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos despediremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se despedirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me despediría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te despedirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se despediría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos despediríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se despedirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré despedido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás despedido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá despedido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos despedido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán despedido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me despida"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te despidas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se despida"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos despidamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se despidan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me despidiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te despidieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se despidiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos despidiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se despidieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera despedido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras despedido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera despedido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos despedido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran despedido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "despídete"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "despídase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "despidámonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "despídanse"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te despidas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se despida"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos despidamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se despidan"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -IR verb with e→i stem change",
+    "Stem change applies in presente (all forms except nosotros/nosotras): *despido, despides, despide, despiden*",
+    "In pretérito indefinido, e→i in 3rd person only: *se despidió, se despidieron*",
+    "In subjuntivo, e→i applies to nosotros too (all -IR e→i verbs): *nos despidamos*",
+    "Past participle: despedido (regular)",
+    "*Me despido de mis amigos en el aeropuerto* = I say goodbye to my friends at the airport",
+    "Non-reflexive: *despedir* = to fire/dismiss someone (*Lo despidieron del trabajo* = They fired him from his job)",
+    "Related: la despedida (farewell, goodbye), despedida de soltero/a (stag/hen party)"
+  ],
+  "sourceFile": "Verbs/d/Despedirse.md"
+}

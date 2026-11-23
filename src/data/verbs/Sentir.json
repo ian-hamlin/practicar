@@ -1,0 +1,306 @@
+{
+  "id": "c5d8ca00-d90c-544c-a637-b8e873454aa2",
+  "infinitive": "Sentir",
+  "englishMeaning": "to feel / to be sorry / to regret",
+  "desc": "to feel / to be sorry / to regret",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "sintiendo",
+  "participio": "sentido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "siento"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sientes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "siente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sentimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sienten"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "sentí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sentiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sintió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sentimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sintieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "sentía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sentías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sentía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sentíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sentían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he sentido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has sentido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha sentido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos sentido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han sentido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había sentido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías sentido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había sentido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos sentido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían sentido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "sentiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sentirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sentirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sentiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sentirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "sentiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sentirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sentiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sentiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sentirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré sentido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás sentido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá sentido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos sentido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán sentido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sienta"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sientas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sienta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sintamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sientan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "sintiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sintieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sintiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sintiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sintieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera sentido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras sentido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera sentido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos sentido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran sentido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "siente"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "sienta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sintamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "sientan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no sientas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no sienta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no sintamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no sientan"
+      }
+    ]
+  },
+  "notes": [
+    "**Sentir** is a stem-changing verb: e→ie in present, e→i in preterite",
+    "Present: stem change e→ie (except nosotros)",
+    "Preterite: stem change e→i in 3rd person forms (sintió, sintieron)",
+    "Imperfect: regular -IR pattern, NO stem change",
+    "Multiple meanings: to feel, to be sorry, to regret",
+    "Often used reflexively: **sentirse** (to feel - emotions/physical state)",
+    "Common usage: *Lo siento* (I'm sorry), *Me siento feliz* (I feel happy), *sentir frío* (to feel cold)",
+    "Special pattern like **dormir** - has TWO different stem changes"
+  ],
+  "sourceFile": "Verbs/s/Sentir.md"
+}

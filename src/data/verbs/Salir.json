@@ -1,0 +1,308 @@
+{
+  "id": "f486119e-96fa-55d6-b61d-ad205f3f36ca",
+  "infinitive": "Salir",
+  "englishMeaning": "to leave / to go out / to exit",
+  "desc": "to leave / to go out / to exit",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "saliendo",
+  "participio": "salido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "salgo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sales"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sale"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "salimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "salen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "salí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "saliste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "salió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "salimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "salieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "salía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "salías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "salía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "salíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "salían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he salido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has salido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha salido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos salido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han salido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había salido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías salido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había salido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos salido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían salido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "saldré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "saldrás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "saldrá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "saldremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "saldrán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "saldría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "saldrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "saldría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "saldríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "saldrían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré salido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás salido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá salido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos salido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán salido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "salga"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "salgas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "salga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "salgamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "salgan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "saliera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "salieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "saliera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "saliéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "salieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera salido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras salido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera salido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos salido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran salido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "sal"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "salga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "salgamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "salgan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no salgas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no salga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no salgamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no salgan"
+      }
+    ]
+  },
+  "notes": [
+    "**Salir** is irregular in present and future/conditional",
+    "Present: irregular \"yo\" form (salgo), otherwise regular -IR endings",
+    "Preterite: regular -IR conjugation",
+    "Imperfect: regular -IR pattern",
+    "Pretérito Perfecto: regular past participle **salido**",
+    "Future: irregular stem \"saldr-\" (not \"salir-\")",
+    "Condicional: irregular stem \"saldr-\" + conditional endings",
+    "Multiple meanings: to leave, to go out, to exit, to come out",
+    "Common usage: *salir de casa* (to leave home), *salir con amigos* (to go out with friends), *salir bien* (to turn out well)",
+    "Opposite: **entrar** (to enter)",
+    "Expression: *salir adelante* (to get ahead, to succeed)"
+  ],
+  "sourceFile": "Verbs/s/Salir.md"
+}

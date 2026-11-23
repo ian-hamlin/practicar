@@ -1,0 +1,308 @@
+{
+  "id": "b333e18e-5b92-5356-b0b5-806f3f8f3f44",
+  "infinitive": "Caber",
+  "englishMeaning": "to fit / to have enough room",
+  "desc": "to fit / to have enough room",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "cabiendo",
+  "participio": "cabido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "quepo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cabes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cabe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cabemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "caben"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "cupe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cupiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cupo"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cupimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cupieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "cabía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cabías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cabía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cabíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cabían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he cabido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has cabido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha cabido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos cabido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han cabido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había cabido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías cabido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había cabido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos cabido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían cabido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "cabré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cabrás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cabrá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cabremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cabrán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "cabría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cabrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cabría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cabríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cabrían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré cabido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás cabido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá cabido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos cabido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán cabido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "quepa"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quepas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quepa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quepamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quepan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "cupiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cupieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cupiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cupiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cupieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera cabido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras cabido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera cabido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos cabido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran cabido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "cabe"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "quepa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quepamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "quepan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no quepas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no quepa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no quepamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no quepan"
+      }
+    ]
+  },
+  "notes": [
+    "**Caber** is completely irregular",
+    "Present: irregular \"yo\" form (quepo), otherwise regular -ER endings",
+    "Preterite: completely irregular stem \"cup-\"",
+    "Imperfect: regular -ER pattern based on infinitive stem \"cab-\"",
+    "Pretérito Perfecto: regular past participle **cabido**",
+    "Future: irregular stem \"cabr-\" (not \"caber-\")",
+    "Condicional: irregular stem \"cabr-\" + conditional endings",
+    "Means \"to fit\" or \"to have enough room\"",
+    "Common usage: *¿Cabe en la caja?* (Does it fit in the box?), *No quepo en el coche* (I don't fit in the car)",
+    "Expression: *No cabe duda* (There's no doubt)",
+    "Often used in 3rd person: *Cabe"
+  ],
+  "sourceFile": "Verbs/c/Caber.md"
+}

@@ -1,0 +1,305 @@
+{
+  "id": "ccfdce11-5f9a-5063-a732-372b93f9551f",
+  "infinitive": "Preferir",
+  "englishMeaning": "to prefer",
+  "desc": "to prefer",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "prefiriendo",
+  "participio": "preferido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "prefiero"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prefieres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "prefiere"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preferimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prefieren"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "preferí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preferiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "prefirió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preferimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prefirieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "prefería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preferías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "prefería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preferíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "preferían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he preferido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has preferido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha preferido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos preferido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han preferido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había preferido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías preferido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había preferido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos preferido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían preferido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "preferiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preferirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "preferirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preferiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "preferirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "preferiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preferirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "preferiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preferiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "preferirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré preferido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás preferido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá preferido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos preferido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán preferido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "prefiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prefieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "prefiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prefiramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prefieran"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "prefiriera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prefirieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "prefiriera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prefiriéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prefirieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera preferido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras preferido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera preferido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos preferido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran preferido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "prefiere"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "prefiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prefiramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "prefieran"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no prefieras"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no prefiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no prefiramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no prefieran"
+      }
+    ]
+  },
+  "notes": [
+    "Stem-changing -IR verb with e→ie in presente (all forms except nosotros/nosotras)",
+    "In pretérito indefinido, 3rd person singular and plural show e→i: *prefirió, prefirieron* (characteristic of -IR stem-changing verbs)",
+    "Subjuntivo nosotros uses e→i (not e→ie): *prefiramos*",
+    "Past participle: preferido (regular)",
+    "*Prefiero el café al té* = I prefer coffee to tea",
+    "*¿Qué prefieres, playa o montaña?* = Which do you prefer, the beach or the mountains?",
+    "Related: la preferencia (preference), preferido/a (favourite/preferred), mejor (better)"
+  ],
+  "sourceFile": "Verbs/p/Preferir.md"
+}

@@ -1,0 +1,303 @@
+{
+  "id": "27e8865d-14ba-52fb-8816-7ec6ad66209e",
+  "infinitive": "Visitar",
+  "englishMeaning": "to visit",
+  "desc": "to visit",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "v",
+  "categoryId": "7848c6f0-8db9-54f6-91a9-a1f1ebd97c61",
+  "gerundio": "visitando",
+  "participio": "visitado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "visito"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "visitas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "visita"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "visitamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "visitan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "visité"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "visitaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "visitó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "visitamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "visitaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "visitaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "visitabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "visitaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "visitábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "visitaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he visitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has visitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha visitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos visitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han visitado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había visitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías visitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había visitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos visitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían visitado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "visitaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "visitarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "visitará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "visitaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "visitarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "visitaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "visitarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "visitaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "visitaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "visitarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré visitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás visitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá visitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos visitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán visitado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "visite"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "visites"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "visite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "visitemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "visiten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "visitara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "visitaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "visitara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "visitáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "visitaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera visitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras visitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera visitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos visitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran visitado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "visita"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "visite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "visitemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "visiten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no visites"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no visite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no visitemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no visiten"
+      }
+    ]
+  },
+  "notes": [
+    "**Visitar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Used for visiting people or places",
+    "Common usage: *visitar a un amigo* (to visit a friend), *visitar un museo* (to visit a museum)",
+    "Use personal \"a\" when visiting people: *Visité a mi abuela* (I visited my grandmother)",
+    "Related noun: **la visita** (the visit / the visitor)"
+  ],
+  "sourceFile": "Verbs/v/Visitar.md"
+}

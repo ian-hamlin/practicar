@@ -1,0 +1,308 @@
+{
+  "id": "38337f4d-ff09-5e9e-92fa-70d350623cd6",
+  "infinitive": "Derramar",
+  "englishMeaning": "to spill / to shed",
+  "desc": "to spill / to shed",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "derramando",
+  "participio": "derramado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "derramo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "derramas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "derrama"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "derramamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "derraman"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "derramé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "derramaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "derramó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "derramamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "derramaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "derramaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "derramabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "derramaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "derramábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "derramaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he derramado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has derramado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha derramado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos derramado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han derramado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había derramado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías derramado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había derramado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos derramado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían derramado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "derramaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "derramarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "derramará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "derramaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "derramarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "derramaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "derramarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "derramaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "derramaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "derramarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré derramado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás derramado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá derramado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos derramado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán derramado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "derrame"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "derrames"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "derrame"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "derramemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "derramen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "derramara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "derramaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "derramara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "derramáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "derramaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera derramado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras derramado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera derramado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos derramado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran derramado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "derrama"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "derrame"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "derramemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "derramen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no derrames"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no derrame"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no derramemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no derramen"
+      }
+    ]
+  },
+  "notes": [
+    "**Derramar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **derramado** (regular)",
+    "Multiple meanings:",
+    "To spill (liquids): *derramar leche* (to spill milk)",
+    "To shed (tears, blood): *derramar lágrimas* (to shed tears)",
+    "To spread, to scatter",
+    "Often used reflexively: **derramarse** (to spill - intransitive)",
+    "Common usage: *Derramé el café* (I spilled the coffee), *derramar sangre* (to shed blood)",
+    "Related noun: **el derrame** (spill, hemorrhage)",
+    "Expression: *derramar el corazón* (to pour one's heart out)"
+  ],
+  "sourceFile": "Verbs/d/Derramar.md"
+}

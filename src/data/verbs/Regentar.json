@@ -1,0 +1,302 @@
+{
+  "id": "7df4f3f9-bb20-5823-b7c3-841b1e804ea6",
+  "infinitive": "Regentar",
+  "englishMeaning": "to run, to manage a business",
+  "desc": "to run, to manage (a business)",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "regentando",
+  "participio": "regentado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "regento"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regentas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regenta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regentamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regentan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "regenté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regentaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regentó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regentamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regentaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "regentaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regentabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regentaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regentábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regentaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he regentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has regentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha regentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos regentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han regentado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había regentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías regentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había regentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos regentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían regentado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "regentaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regentarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regentará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regentaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regentarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "regentaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regentarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regentaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regentaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regentarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré regentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás regentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá regentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos regentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán regentado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "regente"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regentes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regentemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regenten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "regentara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regentaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regentara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regentáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regentaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera regentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras regentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera regentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos regentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran regentado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "regenta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "regente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regentemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "regenten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no regentes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no regente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no regentemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no regenten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard endings in every tense, no exceptions.",
+    "Typically used for running an establishment: *regentar un bar/una tienda/un hotel*.",
+    "*Su hijo regenta el bar de carretera.* (\"Her/his son runs the roadside bar.\")",
+    "*Regentamos esta tienda desde hace diez años.* (\"We've been running this shop for ten years.\")",
+    "Related: *el/la regente* (manager/regent, noun), *administrar* (broader synonym, \"to manage/administer\"), *gestionar* (synonym, \"to manage\")."
+  ],
+  "sourceFile": "Verbs/r/Regentar.md"
+}

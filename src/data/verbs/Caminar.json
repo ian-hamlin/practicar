@@ -1,0 +1,302 @@
+{
+  "id": "a7e3c6dc-6ee0-5c1f-b1fc-cefb7e42ca89",
+  "infinitive": "Caminar",
+  "englishMeaning": "to walk",
+  "desc": "to walk",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "caminando",
+  "participio": "caminado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "camino"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "caminas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "camina"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "caminamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "caminan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "caminé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "caminaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "caminó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "caminamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "caminaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "caminaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "caminabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "caminaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "caminábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "caminaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he caminado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has caminado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha caminado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos caminado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han caminado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había caminado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías caminado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había caminado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos caminado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían caminado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "caminaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "caminarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "caminará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "caminaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "caminarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "caminaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "caminarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "caminaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "caminaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "caminarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré caminado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás caminado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá caminado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos caminado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán caminado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "camine"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "camines"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "camine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "caminemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "caminen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "caminara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "caminaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "caminara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "camináramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "caminaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera caminado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras caminado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera caminado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos caminado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran caminado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "camina"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "camine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "caminemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "caminen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no camines"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no camine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no caminemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no caminen"
+      }
+    ]
+  },
+  "notes": [
+    "**Caminar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Common usage: *caminar por el parque* (to walk through the park), *caminar despacio* (to walk slowly)",
+    "Related noun: **la caminata** (the walk/hike)",
+    "Synonym: **andar** (to walk - more common in some regions)"
+  ],
+  "sourceFile": "Verbs/c/Caminar.md"
+}

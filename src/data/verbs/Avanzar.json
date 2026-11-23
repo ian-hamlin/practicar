@@ -1,0 +1,303 @@
+{
+  "id": "6aad6717-cd2a-50b1-b591-14c9e57402fc",
+  "infinitive": "Avanzar",
+  "englishMeaning": "to advance, to make progress",
+  "desc": "to advance, to make progress",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "avanzando",
+  "participio": "avanzado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "avanzo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "avanzas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "avanza"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "avanzamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "avanzan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "avancé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "avanzaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "avanzó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "avanzamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "avanzaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "avanzaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "avanzabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "avanzaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "avanzábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "avanzaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he avanzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has avanzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha avanzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos avanzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han avanzado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había avanzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías avanzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había avanzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos avanzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían avanzado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "avanzaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "avanzarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "avanzará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "avanzaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "avanzarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "avanzaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "avanzarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "avanzaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "avanzaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "avanzarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré avanzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás avanzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá avanzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos avanzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán avanzado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "avance"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "avances"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "avance"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "avancemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "avancen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "avanzara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "avanzaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "avanzara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "avanzáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "avanzaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera avanzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras avanzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera avanzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos avanzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran avanzado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "avanza"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "avance"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "avancemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "avancen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no avances"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no avance"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no avancemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no avancen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with a spelling change: **z→c before e** to preserve the /s/ (Latin America) or /θ/ (Spain) sound. This affects the yo form of the pretérito indefinido (avancé, not *avanzé) and every form of the subjuntivo presente and the usted/nosotros/ustedes imperative forms (avance, avancemos, avancen).",
+    "No stem change — purely an orthographic adjustment.",
+    "Past participle is regular: **avanzado**.",
+    "*Expósito deberá avanzar a través de corazonadas.* (\"Expósito will have to advance through hunches.\")",
+    "*Avanzamos mucho en el proyecto esta semana.* (\"We made a lot of progress on the project this week.\")",
+    "Related: *el avance* (advance/progress, noun), *avanzado/a* (advanced, adjective), other -zar verbs share this pattern (rechazar, abrazar, cruzar, esbozar)."
+  ],
+  "sourceFile": "Verbs/a/Avanzar.md"
+}

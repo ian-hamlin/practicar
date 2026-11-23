@@ -1,0 +1,301 @@
+{
+  "id": "17617771-2ea6-5c1f-874e-13b1c77b9b70",
+  "infinitive": "Transformar",
+  "englishMeaning": "to transform",
+  "desc": "to transform",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "t",
+  "categoryId": "a163d0db-76b7-5624-8633-200bb9177aae",
+  "gerundio": "transformando",
+  "participio": "transformado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "transformo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "transformas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "transforma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "transformamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "transforman"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "transformé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "transformaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "transformó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "transformamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "transformaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "transformaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "transformabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "transformaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "transformábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "transformaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he transformado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has transformado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha transformado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos transformado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han transformado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había transformado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías transformado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había transformado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos transformado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían transformado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "transformaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "transformarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "transformará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "transformaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "transformarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "transformaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "transformarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "transformaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "transformaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "transformarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré transformado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás transformado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá transformado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos transformado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán transformado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "transforme"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "transformes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "transforme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "transformemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "transformen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "transformara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "transformaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "transformara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "transformáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "transformaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera transformado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras transformado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera transformado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos transformado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran transformado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "transforma"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "transforme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "transformemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "transformen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no transformes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no transforme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no transformemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no transformen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb",
+    "Often used with \"en\": transformar algo en algo = to transform something into something",
+    "Past participle: transformado",
+    "The reflexive form \"transformarse\" means to be transformed / to transform oneself"
+  ],
+  "sourceFile": "Verbs/t/Transformar.md"
+}

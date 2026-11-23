@@ -1,0 +1,308 @@
+{
+  "id": "f6606ce4-0778-5056-8154-8594e93d99b6",
+  "infinitive": "Echar",
+  "englishMeaning": "to throw, to put, to pour, to kick out",
+  "desc": "to throw, to put, to pour, to kick out",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "echando",
+  "participio": "echado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "echo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "echas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "echa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "echamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "echan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "eché"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "echaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "echó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "echamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "echaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "echaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "echabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "echaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "echábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "echaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he echado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has echado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha echado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos echado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han echado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había echado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías echado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había echado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos echado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían echado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "echaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "echarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "echará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "echaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "echarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "echaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "echarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "echaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "echaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "echarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré echado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás echado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá echado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos echado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán echado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "eche"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "eches"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "eche"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "echemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "echen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "echara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "echaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "echara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "echáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "echaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera echado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras echado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera echado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos echado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran echado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "echa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "eche"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "echemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "echen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no eches"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no eche"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no echemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no echen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, no exceptions",
+    "Past participle: *echado* (regular)",
+    "**Echar** has many high-frequency fixed expressions:",
+    "*echar de menos* — to miss (a person or thing)",
+    "*echar una mano* — to lend a hand / to help out",
+    "*echar la culpa* — to blame",
+    "*echar un vistazo* — to have a look / to glance at",
+    "*echar a perder* — to ruin / to spoil",
+    "*echarse a reír/llorar* — to burst out laughing/crying",
+    "*echar de casa* — to throw out of the house",
+    "Related: *el echo* is not a word — use *el lanzamiento* (throw) or the expression itself"
+  ],
+  "sourceFile": "Verbs/e/Echar.md"
+}

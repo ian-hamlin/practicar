@@ -1,0 +1,305 @@
+{
+  "id": "adc50cf6-1b2a-508e-add0-5936d829f8d5",
+  "infinitive": "Batir",
+  "englishMeaning": "to beat / to whisk / to whip / to defeat",
+  "desc": "to beat / to whisk / to whip / to defeat",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "b",
+  "categoryId": "0c6cef76-6cf7-5b31-b026-9ab8996fbcd1",
+  "gerundio": "batiendo",
+  "participio": "batido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "bato"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bates"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bate"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "batimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "baten"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "batí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "batiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "batió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "batimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "batieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "batía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "batías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "batía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "batíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "batían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he batido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has batido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha batido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos batido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han batido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había batido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías batido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había batido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos batido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían batido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "batiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "batirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "batirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "batiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "batirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "batiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "batirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "batiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "batiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "batirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré batido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás batido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá batido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos batido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán batido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "bata"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "batas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bata"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "batamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "batan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "batiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "batieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "batiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "batiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "batieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera batido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras batido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera batido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos batido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran batido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "bate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "bata"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "batamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "batan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no batas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no bata"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no batamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no batan"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -IR verb; no spelling changes or stem changes",
+    "Past participle: *batido*",
+    "*batir huevos* = to beat eggs (*Bate los huevos con un tenedor* — Beat the eggs with a fork)",
+    "*batir nata* = to whip cream",
+    "*batir un récord* = to beat a record (*Batió el récord mundial* — He broke the world record)",
+    "*batir al enemigo/al rival* = to defeat the enemy/opponent",
+    "*batirse* (reflexive) = to fight, to duel (*batirse en duelo* — to fight a duel)",
+    "Related: *el batido* = milkshake/smoothie; *la batidora* = blender/mixer; *el batidor* = whisk"
+  ],
+  "sourceFile": "Verbs/b/Batir.md"
+}

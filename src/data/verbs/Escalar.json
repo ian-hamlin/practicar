@@ -1,0 +1,303 @@
+{
+  "id": "c7fcc383-7dc9-5d86-a3c8-a6791c25db47",
+  "infinitive": "Escalar",
+  "englishMeaning": "to climb, to scale",
+  "desc": "to climb, to scale",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "escalando",
+  "participio": "escalado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "escalo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escalas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escala"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escalamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escalan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "escalé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escalaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escaló"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escalamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escalaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "escalaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escalabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escalaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escalábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escalaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he escalado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has escalado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha escalado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos escalado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han escalado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había escalado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías escalado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había escalado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos escalado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían escalado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "escalaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escalarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escalará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escalaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escalarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "escalaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escalarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escalaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escalaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escalarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré escalado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás escalado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá escalado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos escalado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán escalado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "escale"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escales"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escale"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escalemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escalen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "escalara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escalaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escalara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escaláramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escalaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera escalado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras escalado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera escalado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos escalado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran escalado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "escala"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "escale"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escalemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "escalen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no escales"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no escale"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no escalemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no escalen"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; follows standard endings throughout",
+    "Past participle: escalado (regular)",
+    "*Escalar una montaña* = to climb a mountain: *Escalaron el Everest sin oxígeno* = They climbed Everest without oxygen",
+    "*Escalar en roca* = to go rock climbing",
+    "Also used figuratively: *escalar posiciones* = to climb the ranks, *escalar un conflicto* = to escalate a conflict",
+    "Related: la escalada (climbing; escalation), el/la escalador/a (climber), escalar posiciones (to climb the ranks)"
+  ],
+  "sourceFile": "Verbs/e/Escalar.md"
+}

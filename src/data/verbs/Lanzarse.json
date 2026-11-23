@@ -1,0 +1,304 @@
+{
+  "id": "49dd3f9e-8f59-5a7a-bf8f-cf846c365399",
+  "infinitive": "Lanzarse",
+  "englishMeaning": "to throw oneself, to leap",
+  "desc": "to throw oneself, to leap",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive"
+  ],
+  "letter": "l",
+  "categoryId": "fa5b6027-a511-5f12-980d-687e3e083fde",
+  "gerundio": "lanzando",
+  "participio": "lanzado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me lanzo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te lanzas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se lanza"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos lanzamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se lanzan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me lancé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te lanzaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se lanzó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos lanzamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se lanzaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me lanzaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te lanzabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se lanzaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos lanzábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se lanzaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he lanzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has lanzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha lanzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos lanzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han lanzado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había lanzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías lanzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había lanzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos lanzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían lanzado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me lanzaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te lanzarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se lanzará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos lanzaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se lanzarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me lanzaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te lanzarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se lanzaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos lanzaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se lanzarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré lanzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás lanzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá lanzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos lanzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán lanzado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me lance"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te lances"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se lance"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos lancemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se lancen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me lanzara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te lanzaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se lanzara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos lanzáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se lanzaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera lanzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras lanzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera lanzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos lanzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran lanzado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "lánzate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "láncese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lancémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "láncense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te lances"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se lance"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos lancemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se lancen"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -AR verb; the non-reflexive \"lanzar\" means to throw/launch",
+    "Spelling change: z→c before e, affecting only the **yo Pretérito Indefinido: me lancé**",
+    "The same z→c change applies throughout the present subjunctive (me lance, te lances, etc.)",
+    "All other forms follow regular -AR reflexive patterns",
+    "Past participle: lanzado",
+    "Figurative uses: lanzarse a un proyecto = to throw oneself into a project; lanzarse al vacío = to leap into the void"
+  ],
+  "sourceFile": "Verbs/l/Lanzarse.md"
+}

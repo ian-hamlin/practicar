@@ -1,0 +1,302 @@
+{
+  "id": "4ce14faa-4235-56d7-bc2a-9dc2a80b4407",
+  "infinitive": "Dañar",
+  "englishMeaning": "to damage, to harm",
+  "desc": "to damage, to harm",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "dañendo",
+  "participio": "dañado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "daño"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dañas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "daña"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dañamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dañan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "dañé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dañaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dañó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dañamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dañaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "dañaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dañabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dañaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dañábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dañaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he dañado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has dañado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha dañado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos dañado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han dañado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había dañado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías dañado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había dañado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos dañado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían dañado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "dañaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dañarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dañará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dañaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dañarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "dañaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dañarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dañaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dañaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dañarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré dañado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás dañado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá dañado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos dañado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán dañado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "dañe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dañes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dañe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dañemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dañen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "dañara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dañaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dañara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dañáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dañaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera dañado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras dañado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera dañado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos dañado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran dañado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "daña"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "dañe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dañemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "dañen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no dañes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no dañe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no dañemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no dañen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *dañado* (regular)",
+    "Means \"to damage\" or \"to harm\" (physically, emotionally, or materially) — *la lluvia dañó el techo* (the rain damaged the roof), *sus palabras la dañaron* (his words hurt her)",
+    "Reflexive *dañarse* means \"to get damaged\" or \"to hurt oneself\": *el fruto se dañó con el calor* (the fruit got damaged by the heat)",
+    "Related: *daño* (damage, harm — noun; *hacer daño* = to hurt), *dañino/a* (harmful), *dañado/a* (damaged)"
+  ],
+  "sourceFile": "Verbs/d/Dañar.md"
+}

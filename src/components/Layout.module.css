@@ -1,0 +1,57 @@
+.header {
+  background: color-mix(in srgb, var(--app-bg) 85%, transparent);
+  backdrop-filter: blur(8px);
+  border-bottom-color: var(--app-border);
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo {
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 10px;
+  background: var(--mantine-primary-color-filled);
+  color: var(--mantine-color-white);
+  font-family: var(--mantine-font-family-headings);
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.wordmark {
+  font-family: var(--mantine-font-family-headings);
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.navbar {
+  background: var(--app-surface);
+  border-right-color: var(--app-border);
+}
+
+.footerLink {
+  display: block;
+  padding: 8px 10px;
+  border-radius: var(--mantine-radius-md);
+  font-size: var(--mantine-font-size-sm);
+  color: var(--app-muted);
+
+  &:hover {
+    color: var(--mantine-color-text);
+  }
+
+  &[data-active] {
+    color: var(--mantine-primary-color-filled);
+    font-weight: 600;
+  }
+}
+
+.main {
+  max-width: 1200px;
+}

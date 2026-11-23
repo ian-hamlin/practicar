@@ -1,0 +1,302 @@
+{
+  "id": "b3fd0929-ce04-5210-88c4-151fcb7e5338",
+  "infinitive": "Hallar",
+  "englishMeaning": "to find",
+  "desc": "to find",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "h",
+  "categoryId": "fae8d62e-db69-5528-b693-9f8b68737a41",
+  "gerundio": "hallando",
+  "participio": "hallado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "hallo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hallas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "halla"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hallamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hallan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "hallé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hallaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "halló"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hallamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hallaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "hallaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hallabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hallaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hallábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hallaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he hallado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has hallado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha hallado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos hallado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han hallado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había hallado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías hallado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había hallado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos hallado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían hallado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "hallaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hallarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hallará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hallaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hallarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "hallaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hallarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hallaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hallaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hallarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré hallado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás hallado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá hallado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos hallado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán hallado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "halle"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "halles"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "halle"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hallemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hallen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hallara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hallaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hallara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "halláramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hallaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera hallado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras hallado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera hallado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos hallado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran hallado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "halla"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "halle"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hallemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "hallen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no halles"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no halle"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no hallemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no hallen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *hallado* (regular)",
+    "Means \"to find\" — a more formal/literary synonym of *encontrar*, common in writing and set expressions: *hallar la solución* (to find the solution), *hallar la verdad* (to find the truth)",
+    "Reflexive *hallarse* means \"to be located\" or \"to find oneself (in a state)\": *se halla muy débil* (he/she finds himself/herself very weak)",
+    "Related: *hallazgo* (finding, discovery — noun), *hallado/a* (found)"
+  ],
+  "sourceFile": "Verbs/h/Hallar.md"
+}

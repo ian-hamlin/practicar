@@ -1,0 +1,301 @@
+{
+  "id": "db238907-9b71-5ce3-87b4-7c11f22a87da",
+  "infinitive": "Solicitar",
+  "englishMeaning": "to apply for, to request",
+  "desc": "to apply for, to request",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "solicitando",
+  "participio": "solicitado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "solicito"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "solicitas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "solicita"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "solicitamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "solicitan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "solicité"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "solicitaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "solicitó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "solicitamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "solicitaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "solicitaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "solicitabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "solicitaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "solicitábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "solicitaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he solicitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has solicitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha solicitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos solicitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han solicitado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había solicitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías solicitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había solicitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos solicitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían solicitado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "solicitaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "solicitarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "solicitará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "solicitaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "solicitarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "solicitaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "solicitarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "solicitaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "solicitaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "solicitarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré solicitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás solicitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá solicitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos solicitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán solicitado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "solicite"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "solicites"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "solicite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "solicitemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "soliciten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "solicitara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "solicitaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "solicitara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "solicitáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "solicitaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera solicitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras solicitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera solicitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos solicitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran solicitado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "solicita"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "solicite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "solicitemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "soliciten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no solicites"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no solicite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no solicitemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no soliciten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, no spelling changes or stem changes",
+    "More formal than **pedir**; typically used for formal requests/applications (jobs, visas, permits)",
+    "Common usage: *solicitar un empleo* (to apply for a job), *solicitar información* (to request information), *solicitar una beca* (to apply for a scholarship)",
+    "Related noun: **la solicitud** (the application/request)"
+  ],
+  "sourceFile": "Verbs/s/Solicitar.md"
+}

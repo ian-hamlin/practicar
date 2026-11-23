@@ -1,0 +1,301 @@
+{
+  "id": "7634f765-36e1-5621-b9dd-d43d33a72263",
+  "infinitive": "Completar",
+  "englishMeaning": "to complete / to finish",
+  "desc": "to complete / to finish",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "completando",
+  "participio": "completado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "completo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "completas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "completa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "completamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "completan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "completé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "completaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "completó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "completamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "completaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "completaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "completabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "completaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "completábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "completaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he completado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has completado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha completado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos completado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han completado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había completado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías completado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había completado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos completado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían completado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "completaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "completarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "completará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "completaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "completarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "completaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "completarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "completaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "completaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "completarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré completado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás completado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá completado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos completado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán completado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "complete"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "completes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "complete"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "completemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "completen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "completara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "completaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "completara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "completáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "completaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera completado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras completado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera completado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos completado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran completado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "completa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "complete"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "completemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "completen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no completes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no complete"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no completemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no completen"
+      }
+    ]
+  },
+  "notes": [
+    "**Completar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Common usage: *completar el formulario* (to complete the form), *completar la tarea* (to finish the homework)",
+    "Related adjective: **completo/a** (complete/full)"
+  ],
+  "sourceFile": "Verbs/c/Completar.md"
+}

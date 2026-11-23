@@ -1,0 +1,302 @@
+{
+  "id": "b1c19982-35d9-5450-a002-0c02774d25be",
+  "infinitive": "Rankear",
+  "englishMeaning": "to rank",
+  "desc": "to rank (informal, anglicism)",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "rankeando",
+  "participio": "rankeado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "rankeo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rankeas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rankea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rankeamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rankean"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "rankeé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rankeaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rankeó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rankeamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rankearon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "rankeaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rankeabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rankeaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rankeábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rankeaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he rankeado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has rankeado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha rankeado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos rankeado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han rankeado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había rankeado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías rankeado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había rankeado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos rankeado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían rankeado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "rankearé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rankearás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rankeará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rankearemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rankearán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "rankearía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rankearías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rankearía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rankearíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rankearían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré rankeado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás rankeado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá rankeado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos rankeado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán rankeado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "rankee"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rankees"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rankee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rankeemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rankeen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "rankeara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rankearas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rankeara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rankeáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rankearan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera rankeado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras rankeado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera rankeado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos rankeado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran rankeado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "rankea"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "rankee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rankeemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "rankeen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no rankees"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no rankee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no rankeemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no rankeen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — an informal anglicism borrowed from English \"to rank,\" common in gaming, sports, and SEO/marketing contexts (e.g. *rankear en Google*, *rankear en el torneo*)",
+    "Not in the RAE dictionary — colloquial/technical usage only, more common in Latin America than Spain",
+    "No spelling changes needed: unlike -car verbs (c→qu), the k stays k before every vowel, so it conjugates fully regularly",
+    "Past participle: *rankeado* (regular)",
+    "Example: *Ese video rankea muy bien en YouTube* (That video ranks very well on YouTube)"
+  ],
+  "sourceFile": "Verbs/r/Rankear.md"
+}

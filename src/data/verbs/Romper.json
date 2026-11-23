@@ -1,0 +1,301 @@
+{
+  "id": "30b088ca-a573-54d5-bf90-df60b4e4895e",
+  "infinitive": "Romper",
+  "englishMeaning": "to break",
+  "desc": "to break",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "rompiendo",
+  "participio": "roto",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "rompo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rompes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rompe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rompemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rompen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "rompí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rompiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rompió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rompimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rompieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "rompía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rompías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rompía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rompíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rompían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he roto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has roto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha roto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos roto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han roto"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había roto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías roto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había roto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos roto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían roto"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "romperé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "romperás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "romperá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "romperemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "romperán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "rompería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "romperías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rompería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "romperíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "romperían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré roto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás roto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá roto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos roto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán roto"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "rompa"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rompas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rompa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rompamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rompan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "rompiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rompieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rompiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rompiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rompieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera roto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras roto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera roto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos roto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran roto"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "rompe"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "rompa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rompamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "rompan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no rompas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no rompa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no rompamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no rompan"
+      }
+    ]
+  },
+  "notes": [
+    "**Romper** is a regular **-ER verb**",
+    "No spelling changes or stem changes",
+    "Irregular past participle: **roto** (broken) - used in perfect tenses: *he roto* (I have broken)",
+    "Can be used reflexively: *romperse* (to break/get broken)"
+  ],
+  "sourceFile": "Verbs/r/Romper.md"
+}

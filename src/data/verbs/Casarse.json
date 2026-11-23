@@ -1,0 +1,305 @@
+{
+  "id": "f0c8749f-0a50-540d-87d9-1d85b5be726b",
+  "infinitive": "Casarse",
+  "englishMeaning": "to get married / to marry",
+  "desc": "to get married / to marry",
+  "tags": [
+    "verb",
+    "reflexive",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "casando",
+  "participio": "casado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me caso"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te casas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se casa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos casamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se casan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me casé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te casaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se casó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos casamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se casaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me casaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te casabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se casaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos casábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se casaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he casado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has casado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha casado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos casado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han casado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había casado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías casado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había casado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos casado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían casado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me casaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te casarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se casará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos casaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se casarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me casaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te casarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se casaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos casaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se casarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré casado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás casado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá casado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos casado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán casado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me case"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te cases"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se case"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos casemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se casen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me casara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te casaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se casara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos casáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se casaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera casado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras casado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera casado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos casado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran casado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "cásate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "cásese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "casémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "cásense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te cases"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se case"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos casemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se casen"
+      }
+    ]
+  },
+  "notes": [
+    "**Casarse** is the reflexive form of **casar** (to marry someone - perform ceremony)",
+    "Regular **-AR verb** with reflexive pronouns",
+    "No spelling changes or stem changes",
+    "Used with \"con\" to indicate who you marry: *casarse con alguien* (to marry someone)",
+    "Non-reflexive **casar**: to marry (as in a priest marrying a couple)",
+    "Common usage: *Me casé con Juan* (I married Juan), *Nos casamos en 2020* (We got married in 2020)",
+    "Related noun: **el casamiento / la boda** (wedding)"
+  ],
+  "sourceFile": "Verbs/c/Casarse.md"
+}

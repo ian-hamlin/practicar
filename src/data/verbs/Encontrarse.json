@@ -1,0 +1,306 @@
+{
+  "id": "a43a8663-899f-5490-a3dc-b1e493880b6a",
+  "infinitive": "Encontrarse",
+  "englishMeaning": "to find oneself, to be located, to meet",
+  "desc": "to find oneself, to be located, to meet",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive",
+    "stem_o_ue"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "encontrando",
+  "participio": "encontrado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me encuentro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te encuentras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se encuentra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos encontramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se encuentran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me encontré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te encontraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se encontró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos encontramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se encontraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me encontraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te encontrabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se encontraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos encontrábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se encontraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he encontrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has encontrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha encontrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos encontrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han encontrado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había encontrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías encontrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había encontrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos encontrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían encontrado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me encontraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te encontrarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se encontrará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos encontraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se encontrarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me encontraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te encontrarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se encontraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos encontraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se encontrarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré encontrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás encontrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá encontrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos encontrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán encontrado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me encuentre"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te encuentres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se encuentre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos encontremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se encuentren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me encontrara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te encontraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se encontrara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos encontráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se encontraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera encontrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras encontrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera encontrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos encontrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran encontrado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "encuéntrate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "encuéntrese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "encontrémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "encuéntrense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te encuentres"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se encuentre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos encontremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se encuentren"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -AR verb based on *encontrar*. Uses reflexive pronouns (me/te/se/nos/se) in all tenses.",
+    "o→ue stem change in presente: all forms except *nosotros* (*encuentro, encuentras, encuentra, encuentran*).",
+    "Stem change does NOT apply to past tenses, future, or conditional.",
+    "*Me encuentro muy cansado hoy.* (I find myself very tired today.)",
+    "*El hotel se encuentra cerca del centro.* (The hotel is located near the centre.)",
+    "*Nos encontramos con unos amigos en el café.* (We met up with some friends at the café.)",
+    "Related: *encontrar* (to find — transitive), *el encuentro* (meeting, encounter)"
+  ],
+  "sourceFile": "Verbs/e/Encontrarse.md"
+}

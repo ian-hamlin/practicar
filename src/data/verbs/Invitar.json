@@ -1,0 +1,301 @@
+{
+  "id": "807bc869-4bdd-5d86-83bf-27130a0a3481",
+  "infinitive": "Invitar",
+  "englishMeaning": "to invite",
+  "desc": "to invite",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "i",
+  "categoryId": "50ce3e0b-61b3-530c-8b6a-399ede02b6b5",
+  "gerundio": "invitando",
+  "participio": "invitado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "invito"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "invitas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "invita"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "invitamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "invitan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "invité"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "invitaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "invitó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "invitamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "invitaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "invitaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "invitabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "invitaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "invitábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "invitaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he invitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has invitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha invitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos invitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han invitado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había invitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías invitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había invitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos invitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían invitado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "invitaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "invitarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "invitará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "invitaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "invitarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "invitaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "invitarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "invitaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "invitaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "invitarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré invitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás invitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá invitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos invitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán invitado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "invite"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "invites"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "invite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "invitemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "inviten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "invitara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "invitaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "invitara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "invitáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "invitaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera invitado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras invitado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera invitado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos invitado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran invitado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "invita"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "invite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "invitemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "inviten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no invites"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no invite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no invitemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no inviten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *invitado* (regular; also used as a noun meaning \"guest\")",
+    "Means \"to invite\" — *te invito a mi fiesta* (I'm inviting you to my party); also colloquially means \"to treat/pay for someone\" — *te invito a un café* (I'll treat you to a coffee, i.e. I'm paying)",
+    "Related: *invitación* (invitation), *invitado/a* (guest)"
+  ],
+  "sourceFile": "Verbs/i/Invitar.md"
+}

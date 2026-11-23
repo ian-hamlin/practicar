@@ -1,0 +1,302 @@
+{
+  "id": "841e911e-b4b5-5b4c-8194-228a97af080c",
+  "infinitive": "Reglamentar",
+  "englishMeaning": "to regulate, to establish rules for",
+  "desc": "to regulate, to establish rules for",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "reglamentando",
+  "participio": "reglamentado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "reglamento"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reglamentas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reglamenta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reglamentamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reglamentan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "reglamenté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reglamentaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reglamentó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reglamentamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reglamentaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "reglamentaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reglamentabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reglamentaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reglamentábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reglamentaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he reglamentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has reglamentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha reglamentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos reglamentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han reglamentado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había reglamentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías reglamentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había reglamentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos reglamentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían reglamentado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "reglamentaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reglamentarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reglamentará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reglamentaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reglamentarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "reglamentaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reglamentarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reglamentaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reglamentaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reglamentarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré reglamentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás reglamentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá reglamentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos reglamentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán reglamentado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "reglamente"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reglamentes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reglamente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reglamentemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reglamenten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "reglamentara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reglamentaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reglamentara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reglamentáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reglamentaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera reglamentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras reglamentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera reglamentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos reglamentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran reglamentado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "reglamenta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "reglamente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reglamentemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "reglamenten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no reglamentes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no reglamente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no reglamentemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no reglamenten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *reglamentado* (regular)",
+    "Means \"to regulate\" or \"to establish rules/regulations for\" — *reglamentar el tráfico* (to regulate traffic), *una actividad reglamentada por ley* (an activity regulated by law)",
+    "Formal/legal register — common in government, legal, and administrative contexts",
+    "Related: *reglamento* (regulations, rulebook), *reglamentario/a* (regulatory, mandatory), *regla* (rule)"
+  ],
+  "sourceFile": "Verbs/r/Reglamentar.md"
+}

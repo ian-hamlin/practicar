@@ -1,0 +1,305 @@
+{
+  "id": "fa7651d6-190e-5031-aba3-3514a8644780",
+  "infinitive": "Tranquilizarse",
+  "englishMeaning": "to calm down, to relax",
+  "desc": "to calm down, to relax",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive"
+  ],
+  "letter": "t",
+  "categoryId": "a163d0db-76b7-5624-8633-200bb9177aae",
+  "gerundio": "tranquilizando",
+  "participio": "tranquilizado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me tranquilizo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tranquilizas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se tranquiliza"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tranquilizamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tranquilizan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me tranquilicé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tranquilizaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se tranquilizó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tranquilizamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tranquilizaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me tranquilizaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tranquilizabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se tranquilizaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tranquilizábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tranquilizaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he tranquilizado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has tranquilizado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha tranquilizado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos tranquilizado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han tranquilizado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había tranquilizado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías tranquilizado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había tranquilizado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos tranquilizado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían tranquilizado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me tranquilizaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tranquilizarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se tranquilizará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tranquilizaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tranquilizarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me tranquilizaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tranquilizarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se tranquilizaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tranquilizaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tranquilizarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré tranquilizado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás tranquilizado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá tranquilizado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos tranquilizado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán tranquilizado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me tranquilice"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tranquilices"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se tranquilice"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tranquilicemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tranquilicen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me tranquilizara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tranquilizaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se tranquilizara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tranquilizáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tranquilizaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera tranquilizado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras tranquilizado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera tranquilizado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos tranquilizado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran tranquilizado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "tranquilízate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "tranquilícese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tranquilicémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "tranquilícense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te tranquilices"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se tranquilice"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos tranquilicemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se tranquilicen"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -AR verb with a spelling change: *z→c* before *e*, to preserve the soft sound — affects the yo form of Pretérito Indefinido (*me tranquilicé*, not *me tranquilizé*) and all of Subjuntivo Presente (*me tranquilice, te tranquilices...*)",
+    "Same spelling pattern as *cruzar* (crucé, cruce) — no stem change involved, just the orthographic z→c swap",
+    "Affirmative imperative attaches the reflexive pronoun with a written accent to preserve the original stressed syllable: *tranquilízate, tranquilícese, tranquilicémonos, tranquilícense*; negative imperative keeps the pronoun separate: *no te tranquilices*...",
+    "Past participle: *tranquilizado* (regular)",
+    "Means \"to calm down\" or \"to relax (oneself)\" — *tranquilízate, todo va a salir bien* (calm down, everything's going to be fine)",
+    "Base verb *tranquilizar* (non-reflexive, \"to calm/reassure someone else\") is the transitive counterpart: *el médico la tranquilizó* (the doctor reassured her)",
+    "Related: *tranquilo/a* (calm, adj.), *tranquilidad* (calmness, peace of mind), *tranquilizante* (tranquilizer, sedative)"
+  ],
+  "sourceFile": "Verbs/t/Tranquilizarse.md"
+}

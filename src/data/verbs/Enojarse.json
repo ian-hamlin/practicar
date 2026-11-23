@@ -1,0 +1,306 @@
+{
+  "id": "fd980492-b417-5599-90d9-beb7b8ee634a",
+  "infinitive": "Enojarse",
+  "englishMeaning": "to get angry / to get mad",
+  "desc": "to get angry / to get mad",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "enojando",
+  "participio": "enojado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me enojo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enojas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enoja"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enojamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enojan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me enojé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enojaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enojó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enojamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enojaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me enojaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enojabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enojaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enojábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enojaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he enojado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has enojado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha enojado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos enojado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han enojado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había enojado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías enojado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había enojado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos enojado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían enojado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me enojaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enojarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enojará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enojaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enojarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me enojaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enojarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enojaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enojaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enojarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré enojado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás enojado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá enojado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos enojado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán enojado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me enoje"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enojes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enoje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enojemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enojen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me enojara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enojaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enojara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enojáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enojaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera enojado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras enojado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera enojado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos enojado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran enojado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "enójate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "enójese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enojémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "enójense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te enojes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se enoje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos enojemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se enojen"
+      }
+    ]
+  },
+  "notes": [
+    "**Enojarse** is the reflexive form of **enojar** (to anger/annoy)",
+    "Regular **-AR verb** with reflexive pronouns",
+    "No spelling changes or stem changes",
+    "Used with \"con\" to indicate who you're angry with: *enojarse con alguien* (to get angry with someone)",
+    "Non-reflexive **enojar**: to anger, to annoy (someone else)",
+    "Common in Latin America; in Spain, **enfadarse** is more common",
+    "Common usage: *Me enojé con mi hermano* (I got angry with my brother), *No te enojes* (Don't get angry)",
+    "Related adjective: **enojado/a** (angry/mad)"
+  ],
+  "sourceFile": "Verbs/e/Enojarse.md"
+}

@@ -1,0 +1,305 @@
+{
+  "id": "f349093f-ec1e-5b32-a64f-8b72fc334613",
+  "infinitive": "Comerse",
+  "englishMeaning": "to eat up",
+  "desc": "to eat up, to finish eating",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "comiendo",
+  "participio": "comido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me como"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te comes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se come"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos comemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se comen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me comí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te comiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se comió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos comimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se comieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me comía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te comías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se comía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos comíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se comían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he comido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has comido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha comido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos comido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han comido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había comido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías comido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había comido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos comido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían comido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me comeré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te comerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se comerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos comeremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se comerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me comería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te comerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se comería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos comeríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se comerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré comido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás comido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá comido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos comido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán comido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me coma"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te comas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se coma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos comamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se coman"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me comiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te comieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se comiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos comiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se comieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera comido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras comido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera comido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos comido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran comido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "cómete"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "cómase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "comámonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "cómanse"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te comas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se coma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos comamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se coman"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -ER verb, reflexive — follows standard endings in every tense, no exceptions.",
+    "Reflexive intensifier form of *comer*: *comerse algo* emphasizes finishing/consuming something completely, often used with food (*cómete la sopa* — \"eat up your soup\") rather than a true reflexive action.",
+    "Past participle is regular: **comido**.",
+    "Imperativo afirmativo reflexive pronouns attach to the end with a written accent to preserve stress (cómete, cómase, comámonos, cómanse); imperativo negativo places them separately in front (no te comas...).",
+    "*Se comió todo el pastel él solo.* (\"He ate the whole cake by himself.\")",
+    "*Cómete las verduras antes del postre.* (\"Eat up your vegetables before dessert.\")",
+    "Related: *comer* (non-reflexive, \"to eat\"), *la comida* (food/meal), *comerse las uñas* (idiomatic, \"to bite one's nails\")."
+  ],
+  "sourceFile": "Verbs/c/Comerse.md"
+}

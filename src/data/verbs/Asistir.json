@@ -1,0 +1,305 @@
+{
+  "id": "b32df0aa-5e40-5f4a-9280-62019d0f0672",
+  "infinitive": "Asistir",
+  "englishMeaning": "to attend, to assist",
+  "desc": "to attend, to assist",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "asistiendo",
+  "participio": "asistido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "asisto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asistes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asiste"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asistimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asisten"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "asistí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asististe"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asistió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asistimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asistieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "asistía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asistías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asistía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asistíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asistían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he asistido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has asistido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha asistido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos asistido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han asistido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había asistido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías asistido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había asistido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos asistido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían asistido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "asistiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asistirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asistirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asistiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asistirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "asistiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asistirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asistiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asistiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asistirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré asistido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás asistido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá asistido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos asistido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán asistido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "asista"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asistas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asista"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asistamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asistan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "asistiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asistieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asistiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asistiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asistieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera asistido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras asistido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera asistido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos asistido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran asistido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "asiste"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "asista"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asistamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "asistan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no asistas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no asista"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no asistamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no asistan"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -IR verb. Follows standard -IR endings throughout all tenses with no exceptions.",
+    "Regular past participle: *asistido*",
+    "Primary meaning is \"to attend\" (an event, class, meeting): *asistir a una reunión* (to attend a meeting).",
+    "Secondary meaning is \"to assist/help\", though *ayudar* is more common for everyday help.",
+    "Note the preposition: *asistir a* + event (not *asistir* alone).",
+    "*¿Vas a asistir a la conferencia?* (Are you going to attend the conference?)",
+    "*Asistí a todas las clases este mes.* (I attended all the classes this month.)",
+    "Related: la asistencia (attendance/assistance), el/la asistente (assistant/attendee)"
+  ],
+  "sourceFile": "Verbs/a/Asistir.md"
+}

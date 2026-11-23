@@ -1,0 +1,301 @@
+{
+  "id": "443a90c1-dad6-5b1f-be28-59a438c9ab5c",
+  "infinitive": "Cepillar",
+  "englishMeaning": "to brush",
+  "desc": "to brush",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "cepillando",
+  "participio": "cepillado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cepillo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cepillas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cepilla"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cepillamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cepillan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "cepillé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cepillaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cepilló"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cepillamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cepillaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "cepillaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cepillabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cepillaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cepillábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cepillaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he cepillado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has cepillado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha cepillado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos cepillado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han cepillado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había cepillado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías cepillado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había cepillado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos cepillado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían cepillado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "cepillaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cepillarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cepillará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cepillaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cepillarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "cepillaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cepillarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cepillaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cepillaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cepillarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré cepillado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás cepillado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá cepillado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos cepillado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán cepillado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cepille"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cepilles"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cepille"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cepillemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cepillen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "cepillara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cepillaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cepillara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cepilláramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cepillaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera cepillado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras cepillado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera cepillado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos cepillado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran cepillado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "cepilla"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "cepille"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cepillemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "cepillen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no cepilles"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no cepille"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no cepillemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no cepillen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, no spelling changes or stem changes",
+    "Very often used reflexively: **cepillarse** (to brush one's own hair/teeth), e.g. *cepillarse los dientes* (to brush one's teeth), *cepillarse el pelo* (to brush one's hair)",
+    "Common usage: *cepillar al perro* (to brush the dog), *cepillar la ropa* (to brush clothing)",
+    "Related noun: **el cepillo** (the brush) — *el cepillo de dientes* (toothbrush)"
+  ],
+  "sourceFile": "Verbs/c/Cepillar.md"
+}

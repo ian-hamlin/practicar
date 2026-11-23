@@ -1,0 +1,305 @@
+{
+  "id": "d4253a05-8e17-5bd8-ae6c-b0338d7bb4e7",
+  "infinitive": "Repetir",
+  "englishMeaning": "to repeat",
+  "desc": "to repeat",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_i"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "repitiendo",
+  "participio": "repetido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "repito"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "repites"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "repite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "repetimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "repiten"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "repetí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "repetiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "repitió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "repetimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "repitieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "repetía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "repetías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "repetía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "repetíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "repetían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he repetido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has repetido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha repetido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos repetido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han repetido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había repetido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías repetido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había repetido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos repetido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían repetido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "repetiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "repetirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "repetirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "repetiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "repetirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "repetiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "repetirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "repetiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "repetiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "repetirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré repetido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás repetido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá repetido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos repetido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán repetido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "repita"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "repitas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "repita"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "repitamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "repitan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "repitiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "repitieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "repitiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "repitiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "repitieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera repetido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras repetido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera repetido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos repetido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran repetido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "repite"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "repita"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "repitamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "repitan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no repitas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no repita"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no repitamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no repitan"
+      }
+    ]
+  },
+  "notes": [
+    "**Repetir** is a stem-changing verb: e→i",
+    "Present: stem change e→i (except nosotros)",
+    "Preterite: stem change e→i in 3rd person forms (repitió, repitieron)",
+    "Imperfect: regular -IR pattern, NO stem change",
+    "Same conjugation pattern as **pedir**, **servir**, **conseguir**, and **derretir**",
+    "Common usage: *repetir la pregunta* (to repeat the question), *repetir un curso* (to repeat a course)",
+    "Can also mean \"to have seconds\" (food): *¿Quieres repetir?* (Do you want seconds?)"
+  ],
+  "sourceFile": "Verbs/r/Repetir.md"
+}

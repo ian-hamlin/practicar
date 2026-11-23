@@ -1,0 +1,301 @@
+{
+  "id": "7e189aa2-7761-5929-97e2-b5fdc49ce4ad",
+  "infinitive": "Ganar",
+  "englishMeaning": "to win, to earn",
+  "desc": "to win, to earn",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "g",
+  "categoryId": "ec8a91da-65cb-5d21-9c3a-4523865a71c5",
+  "gerundio": "ganando",
+  "participio": "ganado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "gano"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ganas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "gana"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ganamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ganan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "gané"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ganaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ganó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ganamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ganaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "ganaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ganabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ganaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ganábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ganaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he ganado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has ganado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha ganado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos ganado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han ganado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había ganado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías ganado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había ganado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos ganado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían ganado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "ganaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ganarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ganará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ganaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ganarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "ganaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ganarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ganaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ganaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ganarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré ganado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás ganado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá ganado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos ganado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán ganado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "gane"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ganes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "gane"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ganemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ganen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "ganara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ganaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ganara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ganáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ganaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera ganado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras ganado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera ganado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos ganado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran ganado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "gana"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "gane"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ganemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "ganen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no ganes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no gane"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no ganemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no ganen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb",
+    "Two main meanings: to win (ganar un partido, ganar la carrera) and to earn/make money (ganar dinero, ganar el sueldo)",
+    "Past participle: ganado",
+    "\"Ganarse la vida\" = to earn a living"
+  ],
+  "sourceFile": "Verbs/g/Ganar.md"
+}

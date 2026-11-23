@@ -1,0 +1,302 @@
+{
+  "id": "c1673482-134c-5c16-a295-48c66bb6d2da",
+  "infinitive": "Esperar",
+  "englishMeaning": "to wait / to hope / to expect",
+  "desc": "to wait / to hope / to expect",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "esperando",
+  "participio": "esperado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "espero"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esperas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "espera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esperamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esperan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "esperé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esperaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esperó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esperamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esperaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "esperaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esperabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esperaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esperábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esperaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he esperado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has esperado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha esperado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos esperado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han esperado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había esperado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías esperado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había esperado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos esperado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían esperado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "esperaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esperarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esperará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esperaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esperarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "esperaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esperarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esperaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esperaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esperarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré esperado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás esperado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá esperado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos esperado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán esperado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "espere"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esperes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "espere"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esperemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esperen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "esperara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esperaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esperara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esperáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esperaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera esperado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras esperado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera esperado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos esperado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran esperado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "espera"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "espere"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esperemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "esperen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no esperes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no espere"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no esperemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no esperen"
+      }
+    ]
+  },
+  "notes": [
+    "**Esperar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Multiple meanings: to wait (for), to hope, to expect",
+    "Common usage: *esperar el autobús* (to wait for the bus), *Espero que sí* (I hope so), *esperar un bebé* (to expect a baby)",
+    "Related noun: **la esperanza** (hope)"
+  ],
+  "sourceFile": "Verbs/e/Esperar.md"
+}

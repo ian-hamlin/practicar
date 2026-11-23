@@ -1,0 +1,304 @@
+{
+  "id": "4f9ea76d-9f06-5d97-b028-252471222ffe",
+  "infinitive": "Correr",
+  "englishMeaning": "to run",
+  "desc": "to run",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "corriendo",
+  "participio": "corrido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "corro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "corres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "corre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "corremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "corren"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "corrí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "corriste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "corrió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "corrimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "corrieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "corría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "corrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "corría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "corríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "corrían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he corrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has corrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha corrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos corrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han corrido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había corrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías corrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había corrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos corrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían corrido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "correré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "correrás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "correrá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "correremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "correrán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "correría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "correrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "correría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "correríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "correrían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré corrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás corrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá corrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos corrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán corrido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "corra"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "corras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "corra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "corramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "corran"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "corriera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "corrieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "corriera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "corriéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "corrieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera corrido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras corrido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera corrido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos corrido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran corrido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "corre"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "corra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "corramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "corran"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no corras"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no corra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no corramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no corran"
+      }
+    ]
+  },
+  "notes": [
+    "**Correr** is a regular **-ER verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **corrido** (regular)",
+    "Common usage: *correr rápido* (to run fast), *salir a correr* (to go out for a run)",
+    "Can also mean \"to jog\" in everyday context",
+    "Related noun: **la carrera** (race, career), **el/la corredor/corredora** (runner)",
+    "Expression: *correr con los gastos* (to cover the expenses)"
+  ],
+  "sourceFile": "Verbs/c/Correr.md"
+}

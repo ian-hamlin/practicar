@@ -1,0 +1,303 @@
+{
+  "id": "7058ab78-7a4f-5fb9-885d-930b57bfb97b",
+  "infinitive": "Adivinar",
+  "englishMeaning": "to guess / to divine / to predict",
+  "desc": "to guess / to divine / to predict",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "adivinando",
+  "participio": "adivinado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "adivino"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adivinas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adivina"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adivinamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adivinan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "adiviné"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adivinaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adivinó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adivinamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adivinaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "adivinaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adivinabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adivinaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adivinábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adivinaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he adivinado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has adivinado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha adivinado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos adivinado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han adivinado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había adivinado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías adivinado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había adivinado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos adivinado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían adivinado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "adivinaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adivinarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adivinará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adivinaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adivinarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "adivinaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adivinarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adivinaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adivinaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adivinarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré adivinado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás adivinado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá adivinado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos adivinado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán adivinado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "adivine"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adivines"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adivine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adivinemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adivinen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "adivinara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "adivinaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "adivinara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adivináramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "adivinaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera adivinado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras adivinado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera adivinado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos adivinado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran adivinado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "adivina"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "adivine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "adivinemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "adivinen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no adivines"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no adivine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no adivinemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no adivinen"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; no spelling changes or stem changes",
+    "Past participle: *adivinado*",
+    "*adivinar algo* = to guess something (*¡Adivina quién llamó!* — Guess who called!)",
+    "*adivinar el futuro* = to predict / tell the future",
+    "*el/la adivino/a* = fortune teller, soothsayer",
+    "*una adivinanza* = a riddle, a guessing game (*¿Sabes la adivinanza?* — Do you know the riddle?)"
+  ],
+  "sourceFile": "Verbs/a/Adivinar.md"
+}

@@ -1,0 +1,304 @@
+{
+  "id": "cb2b7e44-57d2-54bb-aa24-3626e354d120",
+  "infinitive": "Responder",
+  "englishMeaning": "to answer / to respond / to reply",
+  "desc": "to answer / to respond / to reply",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "respondiendo",
+  "participio": "respondido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "respondo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "respondes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "responde"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "respondemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "responden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "respondí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "respondiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "respondió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "respondimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "respondieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "respondía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "respondías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "respondía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "respondíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "respondían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he respondido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has respondido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha respondido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos respondido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han respondido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había respondido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías respondido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había respondido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos respondido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían respondido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "responderé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "responderás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "responderá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "responderemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "responderán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "respondería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "responderías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "respondería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "responderíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "responderían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré respondido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás respondido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá respondido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos respondido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán respondido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "responda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "respondas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "responda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "respondamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "respondan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "respondiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "respondieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "respondiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "respondiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "respondieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera respondido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras respondido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera respondido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos respondido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran respondido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "responde"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "responda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "respondamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "respondan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no respondas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no responda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no respondamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no respondan"
+      }
+    ]
+  },
+  "notes": [
+    "**Responder** is a regular **-ER verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **respondido** (regular)",
+    "Often used with \"a\": *responder a una pregunta* (to answer a question)",
+    "Common usage: *responder el teléfono* (to answer the phone), *responder un email* (to reply to an email)",
+    "Similar to **contestar** (to answer)",
+    "Related noun: **la respuesta** (answer, response)"
+  ],
+  "sourceFile": "Verbs/r/Responder.md"
+}

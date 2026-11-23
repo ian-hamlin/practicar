@@ -1,0 +1,303 @@
+{
+  "id": "949a2481-6250-51a0-ad6f-1821999a9729",
+  "infinitive": "Separar",
+  "englishMeaning": "to separate, to divide, to split",
+  "desc": "to separate, to divide, to split",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "separando",
+  "participio": "separado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "separo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "separas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "separa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "separamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "separan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "separé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "separaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "separó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "separamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "separaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "separaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "separabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "separaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "separábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "separaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he separado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has separado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha separado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos separado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han separado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había separado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías separado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había separado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos separado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían separado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "separaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "separarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "separará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "separaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "separarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "separaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "separarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "separaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "separaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "separarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré separado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás separado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá separado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos separado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán separado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "separe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "separes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "separe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "separemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "separen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "separara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "separaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "separara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "separáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "separaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera separado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras separado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera separado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos separado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran separado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "separa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "separe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "separemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "separen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no separes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no separe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no separemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no separen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb. Follows standard -AR endings throughout all tenses with no exceptions.",
+    "Regular past participle: *separado*",
+    "*Separar* = to separate/divide things or people. The reflexive *separarse* = to separate (a couple), to split up.",
+    "*Separa la ropa blanca de la de color.* (Separate the white clothes from the coloured ones.)",
+    "*La pareja se separó el año pasado.* (The couple split up last year.)",
+    "Related: *separarse* (to split up/separate oneself), *la separación* (separation), *separado/a* (separated)"
+  ],
+  "sourceFile": "Verbs/s/Separar.md"
+}

@@ -1,0 +1,308 @@
+{
+  "id": "5ed9c34c-bf29-5925-a765-22b80acf265c",
+  "infinitive": "Mudar",
+  "englishMeaning": "to change / to move",
+  "desc": "to change / to move",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "m",
+  "categoryId": "c342e4a9-b5da-540a-927d-ccca901fb9ff",
+  "gerundio": "mudando",
+  "participio": "mudado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "mudo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mudas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "muda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mudamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mudan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "mudé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mudaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mudó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mudamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mudaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "mudaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mudabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mudaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mudábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mudaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he mudado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has mudado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha mudado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos mudado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han mudado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había mudado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías mudado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había mudado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos mudado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían mudado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "mudaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mudarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mudará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mudaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mudarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "mudaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mudarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mudaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mudaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mudarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré mudado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás mudado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá mudado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos mudado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán mudado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "mude"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mudes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mude"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mudemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "muden"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "mudara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mudaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mudara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mudáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mudaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera mudado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras mudado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera mudado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos mudado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran mudado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "muda"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "mude"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mudemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "muden"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no mudes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no mude"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no mudemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no muden"
+      }
+    ]
+  },
+  "notes": [
+    "**Mudar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **mudado** (regular)",
+    "Often used reflexively: **mudarse** (to move - change residence)",
+    "Multiple meanings:",
+    "To change (clothes, appearance)",
+    "To move (residence): *mudarse de casa*",
+    "To shed (skin, feathers): animals molting",
+    "Common usage: *Me mudé a una casa nueva* (I moved to a new house), *mudar de ropa* (to change clothes)",
+    "Related noun: **la mudanza** (move, moving - as in moving house)",
+    "Don't confuse with **mover** (to move something physically from one place to another)"
+  ],
+  "sourceFile": "Verbs/m/Mudar.md"
+}

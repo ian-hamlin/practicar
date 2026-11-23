@@ -1,0 +1,303 @@
+{
+  "id": "a1966d98-3b2d-5585-81de-c41dc36002cf",
+  "infinitive": "Envejecer",
+  "englishMeaning": "to age / to grow old / to get older",
+  "desc": "to age / to grow old / to get older",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "envejeciendo",
+  "participio": "envejecido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "envejezco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "envejeces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "envejece"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "envejecemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "envejecen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "envejecí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "envejeciste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "envejeció"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "envejecimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "envejecieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "envejecía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "envejecías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "envejecía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "envejecíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "envejecían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he envejecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has envejecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha envejecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos envejecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han envejecido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había envejecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías envejecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había envejecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos envejecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían envejecido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "envejeceré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "envejecerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "envejecerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "envejeceremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "envejecerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "envejecería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "envejecerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "envejecería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "envejeceríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "envejecerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré envejecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás envejecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá envejecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos envejecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán envejecido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "envejezca"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "envejezcas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "envejezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "envejezcamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "envejezcan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "envejeciera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "envejecieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "envejeciera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "envejeciéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "envejecieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera envejecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras envejecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera envejecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos envejecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran envejecido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "envejece"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "envejezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "envejezcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "envejezcan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no envejezcas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no envejezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no envejezcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no envejezcan"
+      }
+    ]
+  },
+  "notes": [
+    "Irregular yo present: *envejezco* (c→zc before *a/o*); same pattern as *conocer*, *parecer*, *crecer*",
+    "Subjuntivo stem from yo form: *envejezc-*",
+    "Past participle: *envejecido*",
+    "Can be intransitive (*Envejece bien* — He's ageing well) or transitive (*El estrés te envejece* — Stress ages you)",
+    "*envejecer bien/mal* = to age well/badly",
+    "Related: *viejo/a* = old; *la vejez* = old age; *el envejecimiento* = ageing"
+  ],
+  "sourceFile": "Verbs/e/Envejecer.md"
+}

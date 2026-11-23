@@ -1,0 +1,301 @@
+{
+  "id": "a0bc13ee-363e-54ef-9f98-cb01e597c097",
+  "infinitive": "Juntar",
+  "englishMeaning": "to join, to gather, to put together",
+  "desc": "to join, to gather, to put together",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "j",
+  "categoryId": "441f2d20-61ff-53bf-8f16-b42e94bf5874",
+  "gerundio": "juntando",
+  "participio": "juntado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "junto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "juntas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "junta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "juntamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "juntan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "junté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "juntaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "juntó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "juntamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "juntaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "juntaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "juntabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "juntaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "juntábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "juntaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he juntado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has juntado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha juntado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos juntado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han juntado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había juntado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías juntado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había juntado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos juntado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían juntado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "juntaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "juntarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "juntará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "juntaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "juntarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "juntaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "juntarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "juntaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "juntaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "juntarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré juntado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás juntado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá juntado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos juntado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán juntado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "junte"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "juntes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "junte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "juntemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "junten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "juntara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "juntaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "juntara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "juntáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "juntaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera juntado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras juntado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera juntado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos juntado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran juntado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "junta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "junte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "juntemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "junten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no juntes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no junte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no juntemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no junten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, no spelling changes or stem changes",
+    "Often used reflexively: **juntarse** (to get together, to meet up), e.g. *nos juntamos el sábado* (we're getting together on Saturday)",
+    "Common usage: *juntar dinero* (to save up/gather money), *juntar las manos* (to put your hands together)",
+    "Related adjective: **junto/a** (together, next to) — *vivimos juntos* (we live together)"
+  ],
+  "sourceFile": "Verbs/j/Juntar.md"
+}

@@ -1,0 +1,181 @@
+{
+  "id": "fa5b6027-a511-5f12-980d-687e3e083fde",
+  "letter": "l",
+  "count": 17,
+  "verbs": [
+    {
+      "id": "36422094-178e-5cf9-bf27-8f0192538a44",
+      "infinitive": "Ladrar",
+      "desc": "to bark",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Ladrar.json"
+    },
+    {
+      "id": "49dd3f9e-8f59-5a7a-bf8f-cf846c365399",
+      "infinitive": "Lanzarse",
+      "desc": "to throw oneself, to leap",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive"
+      ],
+      "file": "verbs/Lanzarse.json"
+    },
+    {
+      "id": "4144dc2e-f344-5035-bc6f-d84aca261114",
+      "infinitive": "Lastimar",
+      "desc": "to hurt, to injure",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Lastimar.json"
+    },
+    {
+      "id": "af927867-9aed-53e9-a8e5-6ab157817598",
+      "infinitive": "Lavar",
+      "desc": "to wash",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Lavar.json"
+    },
+    {
+      "id": "6e8bf87c-208a-5585-b1c9-22336ad49df4",
+      "infinitive": "Leer",
+      "desc": "to read",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Leer.json"
+    },
+    {
+      "id": "6b31fe05-6d90-5b68-9206-c92eeca1658f",
+      "infinitive": "Levantarse",
+      "desc": "to get up / to stand up / to wake up",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Levantarse.json"
+    },
+    {
+      "id": "93e444c7-197b-594e-969f-b39fb3920bc0",
+      "infinitive": "Liberar",
+      "desc": "to free/to release",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Liberar.json"
+    },
+    {
+      "id": "ae93167c-9d21-5fff-a421-5553cb19cb35",
+      "infinitive": "Limar",
+      "desc": "to file, to smooth, to polish",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Limar.json"
+    },
+    {
+      "id": "57b2123a-cdd4-5812-8028-6fda45aaa996",
+      "infinitive": "Limpiar",
+      "desc": "to clean",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Limpiar.json"
+    },
+    {
+      "id": "bd13f51f-d224-5d51-ac5f-ffef896faedc",
+      "infinitive": "Llamar",
+      "desc": "to call / to name",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Llamar.json"
+    },
+    {
+      "id": "b0a18ff4-5a28-5bcc-83ff-57b9fbb9f386",
+      "infinitive": "Llegar",
+      "desc": "to arrive / to reach",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Llegar.json"
+    },
+    {
+      "id": "ffac26fe-e1e2-514a-be85-29b68ab3c5a5",
+      "infinitive": "Llevar",
+      "desc": "to carry / to take / to wear",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Llevar.json"
+    },
+    {
+      "id": "e6b5a75d-37d6-5835-a18d-318c3aa59f4a",
+      "infinitive": "Llevarse",
+      "desc": "to take away/to carry off",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Llevarse.json"
+    },
+    {
+      "id": "cca83050-1500-5d26-87ce-7ef714640047",
+      "infinitive": "Llorar",
+      "desc": "to cry / to weep",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Llorar.json"
+    },
+    {
+      "id": "c830bbcf-7a60-5c6d-97ff-fdc808ad39ef",
+      "infinitive": "Llover",
+      "desc": "to rain",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Llover.json"
+    },
+    {
+      "id": "a0b21bbd-b7e9-5077-9ee4-42f719293772",
+      "infinitive": "Lograr",
+      "desc": "to achieve, to manage to",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Lograr.json"
+    },
+    {
+      "id": "f7902852-31a1-5c9f-8865-075c265a7130",
+      "infinitive": "Luchar",
+      "desc": "to fight, to struggle",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Luchar.json"
+    }
+  ]
+}

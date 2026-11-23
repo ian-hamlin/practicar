@@ -1,0 +1,302 @@
+{
+  "id": "65586cf1-abc1-58c6-a01f-f9ff183bcebf",
+  "infinitive": "Quemar",
+  "englishMeaning": "to burn, to scorch",
+  "desc": "to burn, to scorch",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "q",
+  "categoryId": "2dc93897-6e3f-576d-9505-469391d25e18",
+  "gerundio": "quemando",
+  "participio": "quemado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "quemo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quemas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quema"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quemamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "queman"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "quemé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quemaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quemó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quemamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quemaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "quemaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quemabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quemaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quemábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quemaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he quemado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has quemado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha quemado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos quemado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han quemado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había quemado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías quemado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había quemado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos quemado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían quemado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "quemaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quemarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quemará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quemaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quemarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "quemaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quemarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quemaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quemaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quemarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré quemado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás quemado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá quemado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos quemado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán quemado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "queme"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quemes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "queme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quememos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quemen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "quemara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quemaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quemara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quemáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quemaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera quemado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras quemado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera quemado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos quemado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran quemado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "quema"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "queme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quememos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "quemen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no quemes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no queme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no quememos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no quemen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, no exceptions",
+    "Past participle: *quemado* (regular)",
+    "Often used reflexively: *quemarse* — *me he quemado la espalda* (I have burned my back), *me quemé con el café* (I burned myself on the coffee)",
+    "Common usage: *quemar calorías* (to burn calories), *el sol quema* (the sun burns)",
+    "Related: *la quemadura* (the burn), *quemado/a* (burned/sunburned)"
+  ],
+  "sourceFile": "Verbs/q/Quemar.md"
+}

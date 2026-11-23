@@ -1,0 +1,303 @@
+{
+  "id": "f835092c-cf3d-5588-a8c7-f14b4e91e04e",
+  "infinitive": "Navegar",
+  "englishMeaning": "to navigate, to sail",
+  "desc": "to navigate, to sail",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "n",
+  "categoryId": "8779dc62-9f31-5393-b27c-acaee5781ff5",
+  "gerundio": "navegando",
+  "participio": "navegado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "navego"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "navegas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "navega"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "navegamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "navegan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "navegué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "navegaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "navegó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "navegamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "navegaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "navegaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "navegabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "navegaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "navegábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "navegaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he navegado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has navegado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha navegado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos navegado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han navegado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había navegado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías navegado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había navegado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos navegado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían navegado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "navegaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "navegarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "navegará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "navegaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "navegarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "navegaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "navegarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "navegaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "navegaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "navegarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré navegado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás navegado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá navegado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos navegado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán navegado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "navegue"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "navegues"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "navegue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "naveguemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "naveguen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "navegara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "navegaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "navegara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "navegáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "navegaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera navegado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras navegado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera navegado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos navegado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran navegado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "navega"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "navegue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "naveguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "naveguen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no navegues"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no navegue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no naveguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no naveguen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with a spelling change: **g → gu** before **e** to preserve the hard /g/ sound",
+    "This change appears in the **pretérito indefinido yo** form: *navegué* (not *navegé*)",
+    "All other forms follow regular -AR patterns",
+    "Past participle: *navegado* (regular)",
+    "Common usage: *navegar por internet* (to browse the internet), *navegar en barco* (to sail a boat)",
+    "Related: *la navegación* (navigation), *el navegante* (navigator/sailor)"
+  ],
+  "sourceFile": "Verbs/n/Navegar.md"
+}

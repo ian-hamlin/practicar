@@ -1,0 +1,305 @@
+{
+  "id": "d42fa2c8-026f-55d1-9b13-d5e3a14ce8ee",
+  "infinitive": "Portarse",
+  "englishMeaning": "to behave, to act, to conduct oneself",
+  "desc": "to behave, to act, to conduct oneself",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "portando",
+  "participio": "portado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me porto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te portas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se porta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos portamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se portan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me porté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te portaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se portó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos portamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se portaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me portaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te portabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se portaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos portábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se portaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he portado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has portado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha portado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos portado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han portado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había portado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías portado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había portado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos portado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían portado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me portaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te portarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se portará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos portaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se portarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me portaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te portarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se portaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos portaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se portarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré portado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás portado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá portado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos portado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán portado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me porte"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te portes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se porte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos portemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se porten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me portara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te portaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se portara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos portáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se portaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera portado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras portado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera portado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos portado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran portado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "pórtate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "pórtese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "portémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "pórtense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te portes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se porte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos portemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se porten"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular reflexive -AR verb; follows standard endings throughout",
+    "Past participle: portado (regular)",
+    "*Portarse bien* = to behave well: *¡Pórtate bien!* = Behave yourself!",
+    "*Portarse mal* = to behave badly / to misbehave",
+    "*Portarse como* = to act like: *Se portó como un caballero* = He acted like a gentleman",
+    "*Portarse bien con alguien* = to treat someone well: *Se portó muy bien conmigo* = He treated me very well",
+    "Related: el comportamiento (behaviour), comportarse (to behave — synonym, more formal)"
+  ],
+  "sourceFile": "Verbs/p/Portarse.md"
+}

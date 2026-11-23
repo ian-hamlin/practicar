@@ -1,0 +1,305 @@
+{
+  "id": "f3ce36da-529f-5f6b-acaf-294f1e4dc12a",
+  "infinitive": "Entrecruzarse",
+  "englishMeaning": "to cross, to intersect, to become intertwined",
+  "desc": "to cross, to intersect, to become intertwined",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "entrecruzando",
+  "participio": "entrecruzado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me entrecruzo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te entrecruzas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se entrecruza"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos entrecruzamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se entrecruzan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me entrecrucé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te entrecruzaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se entrecruzó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos entrecruzamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se entrecruzaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me entrecruzaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te entrecruzabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se entrecruzaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos entrecruzábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se entrecruzaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he entrecruzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has entrecruzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha entrecruzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos entrecruzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han entrecruzado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había entrecruzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías entrecruzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había entrecruzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos entrecruzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían entrecruzado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me entrecruzaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te entrecruzarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se entrecruzará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos entrecruzaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se entrecruzarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me entrecruzaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te entrecruzarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se entrecruzaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos entrecruzaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se entrecruzarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré entrecruzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás entrecruzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá entrecruzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos entrecruzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán entrecruzado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me entrecruce"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te entrecruces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se entrecruce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos entrecrucemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se entrecrucen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me entrecruzara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te entrecruzaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se entrecruzara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos entrecruzáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se entrecruzaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera entrecruzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras entrecruzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera entrecruzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos entrecruzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran entrecruzado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "entrecrúzate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "entrecrúcese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "entrecrucémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "entrecrúcense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te entrecruces"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se entrecruce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos entrecrucemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se entrecrucen"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive compound of *cruzar*, with the same spelling change: **z→c before e**, seen in the yo form of the pretérito indefinido (me entrecrucé) and throughout the subjuntivo presente and imperative forms (entrecruce, entrecrucemos, entrecrucen).",
+    "Past participle is regular: **entrecruzado**.",
+    "Typically used with plural or collective subjects, since crossing/intertwining requires more than one thing: *sus vidas se entrecruzan* (\"their lives become intertwined\").",
+    "Imperativo afirmativo reflexive pronouns attach to the end with a written accent to preserve stress (entrecrúzate, entrecrúcese, entrecrucémonos, entrecrúcense); imperativo negativo places them separately in front (no te entrecruces...).",
+    "*Sus vidas y sus ilusiones se entrecruzan en los escasos paradores.* (\"Their lives and hopes become intertwined at the scarce roadside stops.\")",
+    "*Los caminos se entrecruzaron sin que lo supieran.* (\"Their paths crossed without them knowing.\")",
+    "Related: *cruzar* (non-reflexive base verb, \"to cross\"), *cruzarse* (reflexive, \"to cross paths\"), *entrelazarse* (synonym, \"to become interwoven\")."
+  ],
+  "sourceFile": "Verbs/e/Entrecruzarse.md"
+}

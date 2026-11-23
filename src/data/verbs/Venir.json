@@ -1,0 +1,308 @@
+{
+  "id": "508652c4-9155-56f3-a0f2-20896d4168c7",
+  "infinitive": "Venir",
+  "englishMeaning": "to come",
+  "desc": "to come",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "v",
+  "categoryId": "7848c6f0-8db9-54f6-91a9-a1f1ebd97c61",
+  "gerundio": "viniendo",
+  "participio": "venido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "vengo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vienes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "viene"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "venimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vienen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "vine"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "viniste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vino"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vinimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vinieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "venía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "venías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "venía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "veníamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "venían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he venido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has venido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha venido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos venido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han venido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había venido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías venido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había venido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos venido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían venido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "vendré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vendrás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vendrá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vendremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vendrán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "vendría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vendrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vendría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vendríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vendrían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré venido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás venido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá venido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos venido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán venido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "venga"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vengas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "venga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vengamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vengan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "viniera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vinieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "viniera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "viniéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vinieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera venido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras venido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera venido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos venido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran venido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "ven"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "venga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vengamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "vengan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no vengas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no venga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no vengamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no vengan"
+      }
+    ]
+  },
+  "notes": [
+    "**Venir** is highly irregular in multiple tenses",
+    "Present: stem change e→ie (except nosotros) plus irregular \"yo\" form (vengo)",
+    "Preterite: completely irregular stem \"vin-\"",
+    "Imperfect: regular -IR pattern with accent on \"í\"",
+    "Pretérito Perfecto: regular past participle **venido**",
+    "Future: irregular stem \"vendr-\" (not \"venir-\")",
+    "Condicional: irregular stem \"vendr-\" + conditional endings",
+    "Opposite of **ir** (to go)",
+    "Common usage: *venir a casa* (to come home), *venir de España* (to come from Spain)",
+    "Often used with gerund: *Vengo corriendo* (I'm coming running / I come running)"
+  ],
+  "sourceFile": "Verbs/v/Venir.md"
+}

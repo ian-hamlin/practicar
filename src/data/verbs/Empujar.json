@@ -1,0 +1,300 @@
+{
+  "id": "8825ca47-8721-553b-bfb0-74093ce306be",
+  "infinitive": "Empujar",
+  "englishMeaning": "to push",
+  "desc": "to push",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "empujando",
+  "participio": "empujado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "empujo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empujas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empuja"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empujamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empujan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "empujé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empujaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empujó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empujamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empujaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "empujaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empujabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empujaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empujábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empujaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he empujado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has empujado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha empujado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos empujado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han empujado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había empujado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías empujado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había empujado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos empujado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían empujado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "empujaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empujarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empujará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empujaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empujarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "empujaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empujarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empujaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empujaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empujarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré empujado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás empujado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá empujado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos empujado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán empujado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "empuje"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empujes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empuje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empujemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empujen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "empujara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empujaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empujara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empujáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empujaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera empujado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras empujado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera empujado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos empujado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran empujado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "empuja"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "empuje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empujemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "empujen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no empujes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no empuje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no empujemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no empujen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, no spelling changes or stem changes",
+    "Common usage: *empujar la puerta* (to push the door), *empujar un carrito* (to push a cart), *no empujes* (don't push — common sign/warning)",
+    "Opposite of **tirar** (to pull, in this sense) or **jalar** (to pull, Latin America)"
+  ],
+  "sourceFile": "Verbs/e/Empujar.md"
+}

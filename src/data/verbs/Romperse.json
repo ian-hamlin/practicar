@@ -1,0 +1,306 @@
+{
+  "id": "453834ea-96aa-52ae-b174-ce13d1b6f6e6",
+  "infinitive": "Romperse",
+  "englishMeaning": "to break, to snap, to shatter",
+  "desc": "to break, to snap, to shatter (intransitive)",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "rompiendo",
+  "participio": "roto",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me rompo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te rompes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se rompe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos rompemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se rompen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me rompí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te rompiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se rompió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos rompimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se rompieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me rompía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te rompías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se rompía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos rompíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se rompían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he roto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has roto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha roto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos roto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han roto"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había roto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías roto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había roto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos roto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían roto"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me romperé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te romperás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se romperá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos romperemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se romperán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me rompería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te romperías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se rompería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos romperíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se romperían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré roto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás roto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá roto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos roto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán roto"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me rompa"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te rompas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se rompa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos rompamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se rompan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me rompiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te rompieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se rompiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos rompiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se rompieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera roto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras roto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera roto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos roto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran roto"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "rómpete"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "rómpase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "rompámonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "rómpanse"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te rompas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se rompa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos rompamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se rompan"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -ER verb. Uses reflexive pronouns (me/te/se/nos/se) in all tenses.",
+    "Irregular past participle: ***roto*** (not *rompido*). Used in all compound tenses: *se ha roto, se había roto*.",
+    "All other tense conjugations follow regular -ER endings.",
+    "Base verb: *romper* (to break something — transitive). *Romperse* = something breaks by itself (intransitive).",
+    "*Se me rompió el vaso.* (My glass broke / The glass broke on me.)",
+    "*Me he roto el brazo.* (I have broken my arm.)",
+    "*La cuerda se rompió de repente.* (The rope snapped suddenly.)",
+    "Related: *romper* (to break something), *roto/a* (broken — adjective), *la rotura* (break, fracture)"
+  ],
+  "sourceFile": "Verbs/r/Romperse.md"
+}

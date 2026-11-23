@@ -1,0 +1,302 @@
+{
+  "id": "f65f4380-ab10-5bd8-81a6-de1b4cec2481",
+  "infinitive": "Cubrir",
+  "englishMeaning": "to cover / to cover up",
+  "desc": "to cover / to cover up",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "cubriendo",
+  "participio": "cubierto",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cubro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cubres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cubre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cubrimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cubren"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "cubrí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cubriste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cubrió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cubrimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cubrieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "cubría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cubrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cubría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cubríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cubrían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he cubierto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has cubierto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha cubierto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos cubierto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han cubierto"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había cubierto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías cubierto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había cubierto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos cubierto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían cubierto"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "cubriré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cubrirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cubrirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cubriremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cubrirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "cubriría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cubrirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cubriría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cubriríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cubrirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré cubierto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás cubierto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá cubierto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos cubierto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán cubierto"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cubra"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cubras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cubra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cubramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cubran"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "cubriera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cubrieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cubriera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cubriéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cubrieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera cubierto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras cubierto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera cubierto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos cubierto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran cubierto"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "cubre"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "cubra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cubramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "cubran"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no cubras"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no cubra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no cubramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no cubran"
+      }
+    ]
+  },
+  "notes": [
+    "-IR verb; all tenses are regular EXCEPT the past participle",
+    "Irregular past participle: **cubierto** (used in all compound tenses: he cubierto, había cubierto, etc.)",
+    "*cubrir algo con algo* = to cover something with something (*Cubrió la herida con una venda* — He covered the wound with a bandage)",
+    "*cubrirse* (reflexive) = to cover oneself (*Cúbrete con la manta* — Cover yourself with the blanket)",
+    "Related: *descubrir* (to discover/uncover — also has irregular PP: *descubierto*)"
+  ],
+  "sourceFile": "Verbs/c/Cubrir.md"
+}

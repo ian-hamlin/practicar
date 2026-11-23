@@ -1,0 +1,302 @@
+{
+  "id": "a0b21bbd-b7e9-5077-9ee4-42f719293772",
+  "infinitive": "Lograr",
+  "englishMeaning": "to achieve, to manage to",
+  "desc": "to achieve, to manage to",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "l",
+  "categoryId": "fa5b6027-a511-5f12-980d-687e3e083fde",
+  "gerundio": "logrando",
+  "participio": "logrado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "logro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "logras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "logra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "logramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "logran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "logré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lograste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "logró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "logramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lograron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "lograba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lograbas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lograba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lográbamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lograban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he logrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has logrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha logrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos logrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han logrado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había logrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías logrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había logrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos logrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían logrado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "lograré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lograrás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "logrará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lograremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lograrán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "lograría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lograrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lograría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lograríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lograrían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré logrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás logrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá logrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos logrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán logrado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "logre"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "logres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "logre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "logremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "logren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "lograra"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lograras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lograra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lográramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lograran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera logrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras logrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera logrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos logrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran logrado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "logra"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "logre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "logremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "logren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no logres"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no logre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no logremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no logren"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard endings in every tense, no exceptions.",
+    "Often followed by an infinitive: *lograr + infinitivo* (\"to manage to / to succeed in doing something\").",
+    "*Un extraño acontecimiento logra sacarlo de su aislamiento.* (\"A strange event manages to pull him out of his isolation.\")",
+    "*Logramos terminar el proyecto a tiempo.* (\"We managed to finish the project on time.\")",
+    "Related: *el logro* (achievement, noun), *conseguir* (near-synonym, \"to achieve/get\"), *alcanzar* (synonym, \"to attain\")."
+  ],
+  "sourceFile": "Verbs/l/Lograr.md"
+}

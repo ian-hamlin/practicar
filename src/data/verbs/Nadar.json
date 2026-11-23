@@ -1,0 +1,302 @@
+{
+  "id": "77e5106c-0919-5aa0-a80b-bde8ca75aa17",
+  "infinitive": "Nadar",
+  "englishMeaning": "to swim",
+  "desc": "to swim",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "n",
+  "categoryId": "8779dc62-9f31-5393-b27c-acaee5781ff5",
+  "gerundio": "nadando",
+  "participio": "nadado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "nado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "nadas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "nada"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nadamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "nadan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "nadé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "nadaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "nadó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nadamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "nadaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "nadaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "nadabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "nadaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nadábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "nadaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he nadado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has nadado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha nadado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos nadado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han nadado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había nadado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías nadado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había nadado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos nadado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían nadado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "nadaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "nadarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "nadará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nadaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "nadarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "nadaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "nadarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "nadaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nadaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "nadarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré nadado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás nadado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá nadado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos nadado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán nadado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "nade"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "nades"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "nade"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nademos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "naden"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "nadara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "nadaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "nadara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nadáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "nadaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera nadado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras nadado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera nadado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos nadado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran nadado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "nada"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "nade"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nademos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "naden"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no nades"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no nade"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nademos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no naden"
+      }
+    ]
+  },
+  "notes": [
+    "**Nadar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Common usage: *nadar en el mar* (to swim in the sea), *nadar en la piscina* (to swim in the pool)",
+    "Related noun: **la natación** (swimming - the sport), **el nadador/la nadadora** (swimmer)",
+    "Expression: *nadar en la abundancia* (to be rolling in money - literally \"to swim in abundance\")"
+  ],
+  "sourceFile": "Verbs/n/Nadar.md"
+}

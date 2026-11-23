@@ -1,0 +1,303 @@
+{
+  "id": "cf256387-5031-5188-8873-020fc04beccd",
+  "infinitive": "Abrazar",
+  "englishMeaning": "to hug, to embrace",
+  "desc": "to hug, to embrace",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "abrazando",
+  "participio": "abrazado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "abrazo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abrazas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abraza"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abrazamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abrazan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "abracé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abrazaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abrazó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abrazamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abrazaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "abrazaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abrazabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abrazaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abrazábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abrazaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he abrazado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has abrazado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha abrazado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos abrazado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han abrazado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había abrazado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías abrazado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había abrazado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos abrazado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían abrazado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "abrazaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abrazarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abrazará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abrazaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abrazarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "abrazaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abrazarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abrazaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abrazaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abrazarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré abrazado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás abrazado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá abrazado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos abrazado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán abrazado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "abrace"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abraces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abrace"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abracemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abracen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "abrazara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abrazaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abrazara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abrazáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abrazaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera abrazado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras abrazado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera abrazado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos abrazado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran abrazado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "abraza"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "abrace"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abracemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "abracen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no abraces"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no abrace"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no abracemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no abracen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with a spelling change: **z→c before e** to preserve the /s/ (Latin America) or /θ/ (Spain) sound, since \"ze\" is not a standard Spanish spelling. This affects the yo form of the pretérito indefinido (abracé, not *abrazé) and every form of the subjuntivo presente and the usted/nosotros/ustedes imperative forms (abrace, abracemos, abracen).",
+    "No stem change — this is purely an orthographic adjustment, not a stem-changing pattern.",
+    "Past participle is regular: **abrazado**.",
+    "*Ella abrazó a su hermana en el aeropuerto.* (\"She hugged her sister at the airport.\")",
+    "*Espero que nos abracemos pronto.* (\"I hope we hug soon.\")",
+    "Related: *el abrazo* (hug, noun), *abrazarse* (reflexive, \"to hug each other/one another\"), other -zar verbs share this same spelling pattern (rechazar, empezar, alcanzar, cruzar)."
+  ],
+  "sourceFile": "Verbs/a/Abrazar.md"
+}

@@ -1,0 +1,304 @@
+{
+  "id": "3e157109-14a5-53f6-939b-2e413c289efb",
+  "infinitive": "Entender",
+  "englishMeaning": "to understand",
+  "desc": "to understand",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "entendiendo",
+  "participio": "entendido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "entiendo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "entiendes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "entiende"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "entendemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "entienden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "entendí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "entendiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "entendió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "entendimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "entendieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "entendía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "entendías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "entendía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "entendíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "entendían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he entendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has entendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha entendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos entendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han entendido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había entendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías entendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había entendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos entendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían entendido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "entenderé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "entenderás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "entenderá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "entenderemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "entenderán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "entendería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "entenderías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "entendería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "entenderíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "entenderían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré entendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás entendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá entendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos entendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán entendido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "entienda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "entiendas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "entienda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "entendamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "entiendan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "entendiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "entendieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "entendiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "entendiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "entendieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera entendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras entendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera entendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos entendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran entendido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "entiende"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "entienda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "entendamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "entiendan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no entiendas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no entienda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no entendamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no entiendan"
+      }
+    ]
+  },
+  "notes": [
+    "-ER verb with **e→ie stem change** in the presente — affects all forms except nosotros/nosotras",
+    "The stem change does **not** appear in pretérito indefinido, imperfecto, futuro, or condicional",
+    "Past participle: *entendido* (regular)",
+    "Common usage: *no entiendo* (I don't understand), *¿me entiendes?* (do you understand me?), *entenderse con alguien* (to get along with someone)",
+    "Note: *entenderse* (reflexive) means to get along / to communicate well with each other — *no os entendéis* = you don't understand each other",
+    "Related: *el entendimiento* (understanding), *malentender* (to misunderstand)"
+  ],
+  "sourceFile": "Verbs/e/Entender.md"
+}

@@ -1,0 +1,302 @@
+{
+  "id": "c0e442ab-09c4-5163-a451-36894c19f624",
+  "infinitive": "Resultar",
+  "englishMeaning": "to turn out, to result, to prove to be",
+  "desc": "to turn out, to result, to prove to be",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "resultando",
+  "participio": "resultado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "resulto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "resultas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "resulta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "resultamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "resultan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "resulté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "resultaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "resultó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "resultamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "resultaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "resultaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "resultabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "resultaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "resultábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "resultaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he resultado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has resultado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha resultado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos resultado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han resultado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había resultado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías resultado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había resultado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos resultado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían resultado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "resultaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "resultarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "resultará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "resultaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "resultarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "resultaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "resultarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "resultaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "resultaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "resultarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré resultado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás resultado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá resultado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos resultado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán resultado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "resulte"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "resultes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "resulte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "resultemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "resulten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "resultara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "resultaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "resultara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "resultáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "resultaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera resultado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras resultado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera resultado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos resultado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran resultado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "resulta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "resulte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "resultemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "resulten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no resultes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no resulte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no resultemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no resulten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb. All conjugations follow standard -AR endings.",
+    "Most commonly used in 3rd person: *resulta que...* (it turns out that...).",
+    "*Resultó ser un hotel muy bueno.* (It turned out to be a very good hotel.)",
+    "*Resultó que el vuelo estaba cancelado.* (It turned out that the flight was cancelled.)",
+    "Related: *el resultado* (result, outcome)"
+  ],
+  "sourceFile": "Verbs/r/Resultar.md"
+}

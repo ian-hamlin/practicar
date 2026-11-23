@@ -1,0 +1,305 @@
+{
+  "id": "dba2eeea-0f53-5424-a862-d6c564bbbc8d",
+  "infinitive": "Descansar",
+  "englishMeaning": "to rest / to take a break",
+  "desc": "to rest / to take a break",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "descansando",
+  "participio": "descansado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "descanso"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descansas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descansa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descansamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descansan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "descansé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descansaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descansó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descansamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descansaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "descansaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descansabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descansaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descansábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descansaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he descansado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has descansado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha descansado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos descansado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han descansado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había descansado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías descansado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había descansado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos descansado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían descansado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "descansaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descansarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descansará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descansaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descansarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "descansaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descansarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descansaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descansaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descansarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré descansado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás descansado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá descansado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos descansado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán descansado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "descanse"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descanses"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descanse"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descansemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descansen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "descansara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "descansaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "descansara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descansáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "descansaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera descansado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras descansado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera descansado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos descansado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran descansado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "descansa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "descanse"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "descansemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "descansen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no descanses"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no descanse"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no descansemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no descansen"
+      }
+    ]
+  },
+  "notes": [
+    "**Descansar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **descansado** (regular)",
+    "Common usage: *descansar un poco* (to rest a bit), *descansar bien* (to rest well)",
+    "Related noun: **el descanso** (rest, break)",
+    "Expression: *¡Que descanses!* (Rest well! / Sleep well!)",
+    "Common phrase: *Descansar en paz* (to rest in peace - RIP)",
+    "Can also mean \"to be based on\": *Su argumento descansa en hechos* (His argument rests on facts)"
+  ],
+  "sourceFile": "Verbs/d/Descansar.md"
+}

@@ -1,0 +1,307 @@
+{
+  "id": "2f60ee2a-ab6c-559f-872b-b1017a11ab2e",
+  "infinitive": "Almorzar",
+  "englishMeaning": "to have lunch",
+  "desc": "to have lunch",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "almorzando",
+  "participio": "almorzado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "almuerzo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "almuerzas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "almuerza"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "almorzamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "almuerzan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "almorcé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "almorzaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "almorzó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "almorzamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "almorzaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "almorzaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "almorzabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "almorzaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "almorzábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "almorzaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he almorzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has almorzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha almorzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos almorzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han almorzado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había almorzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías almorzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había almorzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos almorzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían almorzado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "almorzaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "almorzarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "almorzará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "almorzaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "almorzarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "almorzaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "almorzarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "almorzaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "almorzaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "almorzarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré almorzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás almorzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá almorzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos almorzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán almorzado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "almuerce"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "almuerces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "almuerce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "almorcemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "almuercen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "almorzara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "almorzaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "almorzara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "almorzáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "almorzaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera almorzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras almorzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera almorzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos almorzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran almorzado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "almuerza"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "almuerce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "almorcemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "almuercen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no almuerces"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no almuerce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no almorcemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no almuercen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with o→ue stem change and z→c spelling change before e",
+    "Stem change applies in presente (all forms except nosotros/nosotras): *almuerzo, almuerzas, almuerza, almuerzan*",
+    "z→c spelling change applies in yo pretérito indefinido: *almorcé* (not *\\*almorzé*)",
+    "Subjuntivo nosotros reverts to infinitive stem with z→c: *almorcemos* (not *\\*almorzemos* or *\\*almuerz-*)",
+    "No stem change in pretérito indefinido (-AR verbs never change in preterite)",
+    "Past participle: almorzado (regular)",
+    "*Almorzamos a las dos* = We have lunch at two",
+    "*¿Dónde quieres almorzar hoy?* = Where do you want to have lunch today?",
+    "Related: el almuerzo (lunch), comer (to eat/have lunch), cenar (to have dinner), desayunar (to have breakfast)"
+  ],
+  "sourceFile": "Verbs/a/Almorzar.md"
+}

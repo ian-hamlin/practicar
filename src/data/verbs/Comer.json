@@ -1,0 +1,301 @@
+{
+  "id": "70223d84-f22b-5a00-a298-94770df7b89c",
+  "infinitive": "Comer",
+  "englishMeaning": "to eat",
+  "desc": "to eat",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "comiendo",
+  "participio": "comido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "como"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "comes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "come"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "comemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "comen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "comí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "comiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "comió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "comimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "comieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "comía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "comías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "comía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "comíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "comían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he comido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has comido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha comido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos comido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han comido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había comido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías comido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había comido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos comido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían comido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "comeré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "comerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "comerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "comeremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "comerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "comería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "comerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "comería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "comeríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "comerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré comido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás comido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá comido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos comido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán comido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "coma"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "comas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "coma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "comamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "coman"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "comiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "comieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "comiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "comiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "comieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera comido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras comido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera comido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos comido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran comido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "come"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "coma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "comamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "coman"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no comas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no coma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no comamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no coman"
+      }
+    ]
+  },
+  "notes": [
+    "**Comer** is a regular **-ER verb**",
+    "No spelling changes or stem changes",
+    "One of the most common and useful verbs",
+    "Model verb for regular -ER conjugation patterns"
+  ],
+  "sourceFile": "Verbs/c/Comer.md"
+}

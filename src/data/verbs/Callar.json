@@ -1,0 +1,302 @@
+{
+  "id": "f71988f1-c2e5-55e2-b975-46ceae6190e6",
+  "infinitive": "Callar",
+  "englishMeaning": "to quiet, to silence",
+  "desc": "to quiet, to silence",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "callando",
+  "participio": "callado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "callo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "callas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "calla"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "callamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "callan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "callé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "callaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "calló"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "callamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "callaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "callaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "callabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "callaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "callábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "callaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he callado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has callado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha callado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos callado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han callado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había callado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías callado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había callado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos callado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían callado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "callaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "callarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "callará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "callaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "callarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "callaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "callarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "callaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "callaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "callarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré callado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás callado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá callado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos callado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán callado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "calle"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "calles"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "calle"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "callemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "callen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "callara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "callaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "callara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "calláramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "callaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera callado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras callado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera callado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos callado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran callado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "calla"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "calle"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "callemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "callen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no calles"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no calle"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no callemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no callen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard endings in every tense, no exceptions.",
+    "Not reflexive: *callar* means to quiet or silence someone/something, or to keep quiet about something (*callar un secreto*, \"to keep a secret quiet\"). The reflexive form *callarse* (\"to fall silent / shut up\") is more common in everyday speech and is a separate verb file if needed.",
+    "*El profesor calló a la clase con una mirada.* (\"The teacher silenced the class with a look.\")",
+    "*Ella prefirió callar la verdad.* (\"She preferred to keep the truth quiet.\")",
+    "Related: *callarse* (reflexive, \"to be/go quiet\"), *silencioso/a* (silent, adjective), *el silencio* (silence)."
+  ],
+  "sourceFile": "Verbs/c/Callar.md"
+}

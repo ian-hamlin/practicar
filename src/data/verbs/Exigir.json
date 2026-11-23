@@ -1,0 +1,304 @@
+{
+  "id": "332e2709-2fcc-5c76-8150-5533a4dc11a9",
+  "infinitive": "Exigir",
+  "englishMeaning": "to demand / to require / to insist on",
+  "desc": "to demand / to require / to insist on",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "exigiendo",
+  "participio": "exigido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "exijo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "exiges"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "exige"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "exigimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "exigen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "exigí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "exigiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "exigió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "exigimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "exigieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "exigía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "exigías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "exigía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "exigíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "exigían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he exigido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has exigido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha exigido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos exigido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han exigido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había exigido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías exigido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había exigido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos exigido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían exigido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "exigiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "exigirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "exigirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "exigiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "exigirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "exigiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "exigirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "exigiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "exigiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "exigirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré exigido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás exigido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá exigido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos exigido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán exigido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "exija"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "exijas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "exija"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "exijamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "exijan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "exigiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "exigieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "exigiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "exigiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "exigieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera exigido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras exigido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera exigido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos exigido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran exigido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "exige"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "exija"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "exijamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "exijan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no exijas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no exija"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no exijamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no exijan"
+      }
+    ]
+  },
+  "notes": [
+    "-IR verb with orthographic spelling change: g→j before *a/o* to preserve the [x] sound (exijo, exija, exijamos, exijan)",
+    "Past participle: *exigido*",
+    "Subjuntivo stem from yo form: *exij-*",
+    "*exigir algo* = to demand something (*Exige una respuesta inmediata* — He demands an immediate answer)",
+    "*exigir que + subjuntivo* = to demand that… (*Exigen que los trabajadores lleguen a tiempo* — They demand that workers arrive on time)",
+    "Very common in subjuntivo contexts: *exige que*, *exigimos que*, *piden que exija…*",
+    "Related: *la exigencia* = demand, requirement; *exigente* = demanding; *exigible* = demandable"
+  ],
+  "sourceFile": "Verbs/e/Exigir.md"
+}

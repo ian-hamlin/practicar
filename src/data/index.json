@@ -1,0 +1,214 @@
+{
+  "generatedAt": "2026-11-23T12:37:05.797Z",
+  "totalVerbs": 443,
+  "letters": [
+    {
+      "id": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+      "letter": "a",
+      "count": 59,
+      "first": "Abducir",
+      "last": "Ayudar",
+      "categoryFile": "category_a.json"
+    },
+    {
+      "id": "0c6cef76-6cf7-5b31-b026-9ab8996fbcd1",
+      "letter": "b",
+      "count": 8,
+      "first": "Bailar",
+      "last": "Buscar",
+      "categoryFile": "category_b.json"
+    },
+    {
+      "id": "09f6c60f-7a45-5a55-9460-8926494475ed",
+      "letter": "c",
+      "count": 51,
+      "first": "Caber",
+      "last": "Cumplir",
+      "categoryFile": "category_c.json"
+    },
+    {
+      "id": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+      "letter": "d",
+      "count": 42,
+      "first": "Dañar",
+      "last": "Durar",
+      "categoryFile": "category_d.json"
+    },
+    {
+      "id": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+      "letter": "e",
+      "count": 48,
+      "first": "Echar",
+      "last": "Extinguir",
+      "categoryFile": "category_e.json"
+    },
+    {
+      "id": "6a4f18c0-f5d2-5016-9134-e92fb8c852a7",
+      "letter": "f",
+      "count": 9,
+      "first": "Fabricarse",
+      "last": "Funcionar",
+      "categoryFile": "category_f.json"
+    },
+    {
+      "id": "ec8a91da-65cb-5d21-9c3a-4523865a71c5",
+      "letter": "g",
+      "count": 8,
+      "first": "Ganar",
+      "last": "Gustar",
+      "categoryFile": "category_g.json"
+    },
+    {
+      "id": "fae8d62e-db69-5528-b693-9f8b68737a41",
+      "letter": "h",
+      "count": 5,
+      "first": "Haber",
+      "last": "Huir",
+      "categoryFile": "category_h.json"
+    },
+    {
+      "id": "50ce3e0b-61b3-530c-8b6a-399ede02b6b5",
+      "letter": "i",
+      "count": 11,
+      "first": "Ignorar",
+      "last": "Irse",
+      "categoryFile": "category_i.json"
+    },
+    {
+      "id": "441f2d20-61ff-53bf-8f16-b42e94bf5874",
+      "letter": "j",
+      "count": 2,
+      "first": "Jugar",
+      "last": "Juntar",
+      "categoryFile": "category_j.json"
+    },
+    {
+      "id": "98391ab7-b772-585a-8d6d-aea71382f27d",
+      "letter": "k",
+      "count": 0,
+      "first": null,
+      "last": null,
+      "categoryFile": "category_k.json"
+    },
+    {
+      "id": "fa5b6027-a511-5f12-980d-687e3e083fde",
+      "letter": "l",
+      "count": 17,
+      "first": "Ladrar",
+      "last": "Luchar",
+      "categoryFile": "category_l.json"
+    },
+    {
+      "id": "c342e4a9-b5da-540a-927d-ccca901fb9ff",
+      "letter": "m",
+      "count": 17,
+      "first": "Mandar",
+      "last": "Mudar",
+      "categoryFile": "category_m.json"
+    },
+    {
+      "id": "8779dc62-9f31-5393-b27c-acaee5781ff5",
+      "letter": "n",
+      "count": 7,
+      "first": "Nacer",
+      "last": "Nevar",
+      "categoryFile": "category_n.json"
+    },
+    {
+      "id": "17ab56ce-480a-5e1b-b55d-16eaabe765bf",
+      "letter": "o",
+      "count": 10,
+      "first": "Observar",
+      "last": "Ordenar",
+      "categoryFile": "category_o.json"
+    },
+    {
+      "id": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+      "letter": "p",
+      "count": 36,
+      "first": "Pagar",
+      "last": "Provocar",
+      "categoryFile": "category_p.json"
+    },
+    {
+      "id": "2dc93897-6e3f-576d-9505-469391d25e18",
+      "letter": "q",
+      "count": 8,
+      "first": "Quebrar",
+      "last": "Quitar",
+      "categoryFile": "category_q.json"
+    },
+    {
+      "id": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+      "letter": "r",
+      "count": 36,
+      "first": "Rankear",
+      "last": "Romperse",
+      "categoryFile": "category_r.json"
+    },
+    {
+      "id": "06769efb-6096-5f1d-9440-1c1ba0545995",
+      "letter": "s",
+      "count": 34,
+      "first": "Saber",
+      "last": "Suspender",
+      "categoryFile": "category_s.json"
+    },
+    {
+      "id": "a163d0db-76b7-5624-8633-200bb9177aae",
+      "letter": "t",
+      "count": 18,
+      "first": "Tapar",
+      "last": "Tutear",
+      "categoryFile": "category_t.json"
+    },
+    {
+      "id": "770b5668-3401-5a60-ab5b-964aac2ea95b",
+      "letter": "u",
+      "count": 4,
+      "first": "Ulular",
+      "last": "Utilizar",
+      "categoryFile": "category_u.json"
+    },
+    {
+      "id": "7848c6f0-8db9-54f6-91a9-a1f1ebd97c61",
+      "letter": "v",
+      "count": 13,
+      "first": "Vaciar",
+      "last": "Votar",
+      "categoryFile": "category_v.json"
+    },
+    {
+      "id": "f5cb9139-aa33-5ecd-8bb5-c0f46c3c4dca",
+      "letter": "w",
+      "count": 0,
+      "first": null,
+      "last": null,
+      "categoryFile": "category_w.json"
+    },
+    {
+      "id": "cbcab763-ca50-56e8-bd0c-dd25a9d33c7b",
+      "letter": "x",
+      "count": 0,
+      "first": null,
+      "last": null,
+      "categoryFile": "category_x.json"
+    },
+    {
+      "id": "14a210b2-830d-57ad-90da-4180e01b4a95",
+      "letter": "y",
+      "count": 0,
+      "first": null,
+      "last": null,
+      "categoryFile": "category_y.json"
+    },
+    {
+      "id": "ce525dda-dfdd-57fd-99d6-78504a85ca07",
+      "letter": "z",
+      "count": 0,
+      "first": null,
+      "last": null,
+      "categoryFile": "category_z.json"
+    }
+  ]
+}

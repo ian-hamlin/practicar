@@ -1,0 +1,304 @@
+{
+  "id": "a48b316a-035d-5c56-9aa4-dc4f0ed721f4",
+  "infinitive": "Tutear",
+  "englishMeaning": "to address someone as \"tú\" / to use the informal \"you\" with someone",
+  "desc": "to address someone as \"tú\" / to use the informal \"you\" with someone",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "t",
+  "categoryId": "a163d0db-76b7-5624-8633-200bb9177aae",
+  "gerundio": "tuteando",
+  "participio": "tuteado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "tuteo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tuteas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tutea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tuteamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tutean"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "tuteé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tuteaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tuteó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tuteamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tutearon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "tuteaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tuteabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tuteaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tuteábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tuteaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he tuteado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has tuteado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha tuteado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos tuteado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han tuteado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había tuteado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías tuteado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había tuteado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos tuteado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían tuteado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "tutearé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tutearás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tuteará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tutearemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tutearán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "tutearía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tutearías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tutearía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tutearíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tutearían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré tuteado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás tuteado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá tuteado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos tuteado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán tuteado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "tutee"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tutees"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tutee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tuteemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tuteen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "tuteara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tutearas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tuteara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tuteáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tutearan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera tuteado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras tuteado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera tuteado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos tuteado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran tuteado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "tutea"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "tutee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tuteemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "tuteen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no tutees"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no tutee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no tuteemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no tuteen"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; no spelling changes or stem changes",
+    "Past participle: *tuteado*",
+    "Derived from *tú* — means to use the informal *tú* form with someone rather than the formal *usted*",
+    "*tutear a alguien* = to address someone as tú (*¿Puedo tutearte?* — Can I call you tú? / Can we be informal?)",
+    "*tutearse* (reciprocal reflexive) = to be on first-name/informal terms with each other (*Nos tuteamos desde el primer día* — We used tú with each other from the first day)",
+    "Opposite concept: *tratar de usted* = to address someone formally",
+    "Related: *el tuteo* = the use of tú; *el ustedeo* = the use of usted"
+  ],
+  "sourceFile": "Verbs/t/Tutear.md"
+}

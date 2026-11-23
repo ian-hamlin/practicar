@@ -1,0 +1,304 @@
+{
+  "id": "9b093389-6238-598d-85f3-2f88f5569db2",
+  "infinitive": "Ver",
+  "englishMeaning": "to see / to watch",
+  "desc": "to see / to watch",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "v",
+  "categoryId": "7848c6f0-8db9-54f6-91a9-a1f1ebd97c61",
+  "gerundio": "viendo",
+  "participio": "visto",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "veo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ves"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ve"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ven"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "vi"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "viste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vio"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "veía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "veías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "veía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "veíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "veían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he visto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has visto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha visto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos visto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han visto"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había visto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías visto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había visto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos visto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían visto"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "veré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "verás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "verá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "veremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "verán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "vería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "verías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "veríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "verían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré visto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás visto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá visto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos visto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán visto"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "vea"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "veas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "veamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vean"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "viera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "viera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "viéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera visto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras visto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera visto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos visto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran visto"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "ve"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "vea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "veamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "vean"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no veas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no vea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no veamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no vean"
+      }
+    ]
+  },
+  "notes": [
+    "**Ver** is irregular in all tenses",
+    "Present: irregular \"yo\" form (veo), shortened forms for tú/él/ellos (ves, ve, ven)",
+    "Preterite: irregular with no accents and shortened forms (vi, vio)",
+    "Imperfect: irregular stem \"ve-\" with accents (veía, veías, etc.)",
+    "Irregular past participle: **visto** (seen) - used in perfect tenses: *he visto* (I have seen)",
+    "Common usage: *ver la televisión* (to watch TV), *ver una película* (to watch a movie)",
+    "Don't confuse with **mirar** (to look at deliberately) - **ver** is perceiving/seeing"
+  ],
+  "sourceFile": "Verbs/v/Ver.md"
+}

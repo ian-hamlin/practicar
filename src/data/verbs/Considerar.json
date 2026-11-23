@@ -1,0 +1,301 @@
+{
+  "id": "fa0411bd-978a-5f7e-8f1e-d1aa788773b5",
+  "infinitive": "Considerar",
+  "englishMeaning": "to consider",
+  "desc": "to consider",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "considerando",
+  "participio": "considerado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "considero"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "consideras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "considera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "consideramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "consideran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "consideré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "consideraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "consideró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "consideramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "consideraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "consideraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "considerabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "consideraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "considerábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "consideraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he considerado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has considerado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha considerado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos considerado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han considerado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había considerado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías considerado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había considerado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos considerado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían considerado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "consideraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "considerarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "considerará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "consideraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "considerarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "consideraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "considerarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "consideraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "consideraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "considerarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré considerado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás considerado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá considerado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos considerado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán considerado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "considere"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "consideres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "considere"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "consideremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "consideren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "considerara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "consideraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "considerara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "consideráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "consideraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera considerado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras considerado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera considerado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos considerado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran considerado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "considera"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "considere"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "consideremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "consideren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no consideres"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no considere"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no consideremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no consideren"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *considerado* (regular; also used as an adjective meaning \"considerate/thoughtful\")",
+    "Means \"to consider\" or \"to think over\" — *considero que tienes razón* (I think you're right), *hay que considerar todas las opciones* (we have to consider all the options)",
+    "Related: *consideración* (consideration), *considerado/a* (considerate, thoughtful — as an adjective describing a person)"
+  ],
+  "sourceFile": "Verbs/c/Considerar.md"
+}

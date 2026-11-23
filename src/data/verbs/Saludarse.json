@@ -1,0 +1,305 @@
+{
+  "id": "f6509ee3-1f8c-557a-9d7e-82bf2bc012f8",
+  "infinitive": "Saludarse",
+  "englishMeaning": "to greet each other, to say hello",
+  "desc": "to greet each other, to say hello",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "saludando",
+  "participio": "saludado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me saludo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te saludas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se saluda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos saludamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se saludan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me saludé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te saludaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se saludó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos saludamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se saludaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me saludaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te saludabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se saludaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos saludábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se saludaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he saludado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has saludado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha saludado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos saludado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han saludado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había saludado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías saludado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había saludado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos saludado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían saludado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me saludaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te saludarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se saludará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos saludaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se saludarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me saludaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te saludarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se saludaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos saludaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se saludarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré saludado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás saludado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá saludado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos saludado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán saludado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me salude"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te saludes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se salude"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos saludemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se saluden"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me saludara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te saludaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se saludara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos saludáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se saludaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera saludado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras saludado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera saludado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos saludado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran saludado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "salúdate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "salúdese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "saludémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "salúdense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te saludes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se salude"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos saludemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se saluden"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular reflexive -AR verb; follows standard endings throughout",
+    "The reflexive form is typically reciprocal: *se saludan con dos besos* = they greet each other with two kisses",
+    "Non-reflexive *saludar* = to greet someone: *Saluda a tu madre de mi parte* = Say hello to your mother from me",
+    "Past participle: saludado (regular)",
+    "*En España se saludan con dos besos* = In Spain they greet each other with two kisses",
+    "*Los argentinos se saludan con un beso* = Argentinians greet each other with one kiss",
+    "Related: el saludo (greeting), saludar (to greet), ¡Saludos! (regards/greetings)"
+  ],
+  "sourceFile": "Verbs/s/Saludarse.md"
+}

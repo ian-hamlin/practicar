@@ -1,0 +1,303 @@
+{
+  "id": "e3289b68-5bb4-5a9a-a7b4-8b037b65c53a",
+  "infinitive": "Seducir",
+  "englishMeaning": "to seduce, to charm",
+  "desc": "to seduce, to charm",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "seduciendo",
+  "participio": "seducido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "seduzco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "seduces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "seduce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "seducimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "seducen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "seduje"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sedujiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sedujo"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sedujimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sedujeron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "seducía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "seducías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "seducía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "seducíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "seducían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he seducido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has seducido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha seducido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos seducido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han seducido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había seducido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías seducido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había seducido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos seducido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían seducido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "seduciré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "seducirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "seducirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "seduciremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "seducirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "seduciría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "seducirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "seduciría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "seduciríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "seducirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré seducido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás seducido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá seducido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos seducido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán seducido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "seduzca"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "seduzcas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "seduzca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "seduzcamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "seduzcan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "sedujera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sedujeras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sedujera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sedujéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sedujeran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera seducido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras seducido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera seducido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos seducido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran seducido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "seduce"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "seduzca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "seduzcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "seduzcan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no seduzcas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no seduzca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no seduzcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no seduzcan"
+      }
+    ]
+  },
+  "notes": [
+    "Irregular -IR verb, part of the **-ducir** family (conducir, producir, reducir, traducir, seducir...)",
+    "Presente yo form takes **-zco** (seduzco, not \"seduco\"); this irregular stem \"seduzc-\" carries through the entire subjuntivo presente (seduzca, seduzcas...)",
+    "Pretérito indefinido uses the strong stem **seduj-** with the special ending set (-e, -iste, -o, -imos, -eron — no \"i\" before \"eron\", unlike regular -ir verbs)",
+    "Regular past participle: **seducido**",
+    "Related noun/adjective: **la seducción** (seduction), **seductor/seductora** (seductive, seducer)",
+    "Common usage: *seducir a alguien con palabras* (to seduce/charm someone with words)"
+  ],
+  "sourceFile": "Verbs/s/Seducir.md"
+}

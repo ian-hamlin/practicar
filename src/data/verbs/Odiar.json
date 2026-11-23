@@ -1,0 +1,303 @@
+{
+  "id": "fd2cfd79-a4fd-57b1-9121-ec51763a6453",
+  "infinitive": "Odiar",
+  "englishMeaning": "to hate",
+  "desc": "to hate",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "o",
+  "categoryId": "17ab56ce-480a-5e1b-b55d-16eaabe765bf",
+  "gerundio": "odiando",
+  "participio": "odiado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "odio"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "odias"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "odia"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "odiamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "odian"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "odié"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "odiaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "odió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "odiamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "odiaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "odiaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "odiabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "odiaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "odiábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "odiaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he odiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has odiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha odiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos odiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han odiado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había odiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías odiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había odiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos odiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían odiado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "odiaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "odiarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "odiará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "odiaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "odiarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "odiaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "odiarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "odiaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "odiaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "odiarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré odiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás odiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá odiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos odiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán odiado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "odie"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "odies"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "odie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "odiemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "odien"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "odiara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "odiaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "odiara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "odiáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "odiaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera odiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras odiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera odiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos odiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran odiado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "odia"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "odie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "odiemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "odien"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no odies"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no odie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no odiemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no odien"
+      }
+    ]
+  },
+  "notes": [
+    "**Odiar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Strong verb expressing dislike/hatred",
+    "Common usage: *odiar las mentiras* (to hate lies), *odiar a alguien* (to hate someone)",
+    "Related noun: **el odio** (hatred)",
+    "Opposite: **amar** (to love)"
+  ],
+  "sourceFile": "Verbs/o/Odiar.md"
+}

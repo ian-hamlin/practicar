@@ -1,0 +1,304 @@
+{
+  "id": "55b73374-14f0-5d04-9e24-7270fd5efdff",
+  "infinitive": "Renunciar",
+  "englishMeaning": "to resign / to quit / to renounce",
+  "desc": "to resign / to quit / to renounce",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "renunciando",
+  "participio": "renunciado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "renuncio"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "renuncias"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "renuncia"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "renunciamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "renuncian"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "renuncié"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "renunciaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "renunció"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "renunciamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "renunciaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "renunciaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "renunciabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "renunciaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "renunciábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "renunciaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he renunciado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has renunciado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha renunciado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos renunciado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han renunciado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había renunciado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías renunciado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había renunciado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos renunciado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían renunciado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "renunciaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "renunciarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "renunciará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "renunciaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "renunciarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "renunciaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "renunciarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "renunciaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "renunciaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "renunciarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré renunciado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás renunciado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá renunciado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos renunciado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán renunciado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "renuncie"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "renuncies"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "renuncie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "renunciemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "renuncien"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "renunciara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "renunciaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "renunciara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "renunciáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "renunciaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera renunciado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras renunciado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera renunciado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos renunciado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran renunciado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "renuncia"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "renuncie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "renunciemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "renuncien"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no renuncies"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no renuncie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no renunciemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no renuncien"
+      }
+    ]
+  },
+  "notes": [
+    "**Renunciar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **renunciado** (regular)",
+    "Often used with \"a\": *renunciar a algo* (to give up something, to renounce something)",
+    "Common usage: *renunciar al trabajo* (to quit one's job), *renunciar a un derecho* (to waive a right)",
+    "Related noun: **la renuncia** (resignation, renunciation)",
+    "Can mean: to resign (from a job), to quit, to give up, to renounce"
+  ],
+  "sourceFile": "Verbs/r/Renunciar.md"
+}

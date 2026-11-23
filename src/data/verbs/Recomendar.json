@@ -1,0 +1,303 @@
+{
+  "id": "ae5d4e8d-1e3d-581d-9a9a-9b6399b0fe85",
+  "infinitive": "Recomendar",
+  "englishMeaning": "to recommend",
+  "desc": "to recommend",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "recomendando",
+  "participio": "recomendado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "recomiendo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recomiendas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recomienda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recomendamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recomiendan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "recomendé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recomendaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recomendó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recomendamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recomendaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "recomendaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recomendabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recomendaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recomendábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recomendaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he recomendado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has recomendado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha recomendado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos recomendado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han recomendado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había recomendado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías recomendado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había recomendado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos recomendado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían recomendado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "recomendaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recomendarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recomendará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recomendaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recomendarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "recomendaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recomendarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recomendaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recomendaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recomendarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré recomendado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás recomendado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá recomendado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos recomendado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán recomendado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "recomiende"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recomiendes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recomiende"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recomendemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recomienden"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "recomendara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recomendaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recomendara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recomendáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recomendaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera recomendado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras recomendado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera recomendado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos recomendado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran recomendado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "recomienda"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "recomiende"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recomendemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "recomienden"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no recomiendes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no recomiende"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no recomendemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no recomienden"
+      }
+    ]
+  },
+  "notes": [
+    "Irregular -AR verb with an *e→ie* stem change (same pattern as *pensar*, *comenzar*, *empezar*): the stressed *e* in the stem becomes *ie* everywhere except nosotros/nosotras and the preterite/imperfect/future/conditional, which stay regular",
+    "Nosotros forms always revert to the unstressed stem: *recomendamos* (Presente), *recomendemos* (Subjuntivo/Imperativo)",
+    "Past participle: *recomendado* (regular)",
+    "Means \"to recommend\" — *te recomiendo este restaurante* (I recommend this restaurant to you), *el médico le recomendó reposo* (the doctor recommended rest)",
+    "Related: *recomendación* (recommendation), *recomendable* (advisable, recommendable)"
+  ],
+  "sourceFile": "Verbs/r/Recomendar.md"
+}

@@ -1,0 +1,304 @@
+{
+  "id": "2c40be78-e690-5a0e-bfb1-84e971a66a71",
+  "infinitive": "Imaginarse",
+  "englishMeaning": "to imagine, to picture",
+  "desc": "to imagine, to picture",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "i",
+  "categoryId": "50ce3e0b-61b3-530c-8b6a-399ede02b6b5",
+  "gerundio": "imaginando",
+  "participio": "imaginado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me imagino"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te imaginas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se imagina"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos imaginamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se imaginan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me imaginé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te imaginaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se imaginó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos imaginamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se imaginaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me imaginaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te imaginabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se imaginaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos imaginábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se imaginaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he imaginado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has imaginado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha imaginado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos imaginado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han imaginado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había imaginado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías imaginado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había imaginado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos imaginado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían imaginado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me imaginaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te imaginarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se imaginará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos imaginaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se imaginarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me imaginaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te imaginarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se imaginaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos imaginaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se imaginarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré imaginado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás imaginado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá imaginado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos imaginado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán imaginado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me imagine"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te imagines"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se imagine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos imaginemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se imaginen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me imaginara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te imaginaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se imaginara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos imagináramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se imaginaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera imaginado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras imaginado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera imaginado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos imaginado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran imaginado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "imagínate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "imagínese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "imaginémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "imagínense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te imagines"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se imagine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos imaginemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se imaginen"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular reflexive -AR verb; follows standard endings throughout",
+    "Past participle: imaginado (regular)",
+    "*Imaginarse* (reflexive) is more common in speech than plain *imaginar*",
+    "*¡Imagínate!* / *¡Imagínese!* = Just imagine! Can you believe it! (common exclamation)",
+    "Triggers the subjunctive when used in a negative context: *No me imagino que sea verdad* = I can't imagine it's true",
+    "Related: la imaginación (imagination), imaginario (imaginary), imaginativo (imaginative)"
+  ],
+  "sourceFile": "Verbs/i/Imaginarse.md"
+}

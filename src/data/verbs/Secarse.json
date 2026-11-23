@@ -1,0 +1,305 @@
+{
+  "id": "66614de4-6227-5c3e-a867-07fb2114992c",
+  "infinitive": "Secarse",
+  "englishMeaning": "to dry oneself, to dry up, to wither",
+  "desc": "to dry (oneself), to dry up, to wither",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "secando",
+  "participio": "secado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me seco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te secas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se seca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos secamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se secan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me sequé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te secaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se secó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos secamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se secaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me secaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te secabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se secaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos secábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se secaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he secado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has secado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha secado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos secado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han secado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había secado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías secado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había secado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos secado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían secado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me secaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te secarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se secará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos secaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se secarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me secaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te secarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se secaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos secaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se secarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré secado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás secado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá secado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos secado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán secado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me seque"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te seques"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se seque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos sequemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se sequen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me secara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te secaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se secara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos secáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se secaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera secado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras secado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera secado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos secado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran secado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "sécate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "séquese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sequémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "séquense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te seques"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se seque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos sequemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se sequen"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -AR verb with spelling change: c→qu before e to preserve the hard /k/ sound",
+    "Affects yo pretérito indefinido (*me sequé*) and all subjuntivo presente forms (*me seque, te seques…*)",
+    "Past participle: secado (regular)",
+    "*Secarse el pelo* = to dry one's hair; *secarse las manos* = to dry one's hands",
+    "Non-reflexive *secar* = to dry something: *Seca los platos* = Dry the dishes",
+    "Also used for plants/rivers: *Se secó el río* = The river dried up; *La planta se secó* = The plant withered",
+    "Related: seco/a (dry), la sequía (drought), el secador (hairdryer)"
+  ],
+  "sourceFile": "Verbs/s/Secarse.md"
+}

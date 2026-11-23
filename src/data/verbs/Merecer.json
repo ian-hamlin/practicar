@@ -1,0 +1,305 @@
+{
+  "id": "329a5c99-b645-5fcd-b8ce-f4c5ba50f5c6",
+  "infinitive": "Merecer",
+  "englishMeaning": "to deserve, to merit",
+  "desc": "to deserve, to merit",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "m",
+  "categoryId": "c342e4a9-b5da-540a-927d-ccca901fb9ff",
+  "gerundio": "mereciendo",
+  "participio": "merecido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "merezco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mereces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "merece"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "merecemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "merecen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "merecí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mereciste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mereció"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "merecimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "merecieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "merecía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "merecías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "merecía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "merecíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "merecían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he merecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has merecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha merecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos merecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han merecido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había merecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías merecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había merecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos merecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían merecido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "mereceré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "merecerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "merecerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mereceremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "merecerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "merecería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "merecerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "merecería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mereceríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "merecerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré merecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás merecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá merecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos merecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán merecido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "merezca"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "merezcas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "merezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "merezcamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "merezcan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "mereciera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "merecieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mereciera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mereciéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "merecieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera merecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras merecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera merecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos merecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran merecido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "merece"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "merezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "merezcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "merezcan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no merezcas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no merezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no merezcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no merezcan"
+      }
+    ]
+  },
+  "notes": [
+    "Irregular -ER verb: c→zc before o and a (same pattern as Conocer, Parecer, Ofrecer)",
+    "Affects yo presente (*merezco*) and all subjuntivo presente forms (*merezca, merezcas, merezca, merezcamos, merezcan*)",
+    "All other tenses are fully regular",
+    "Past participle: merecido (regular)",
+    "*Merecer la pena* = to be worth it: *Merece la pena intentarlo* = It's worth trying",
+    "*Se lo merece* = He/she deserves it",
+    "*Lo tiene merecido* = He/she had it coming",
+    "Related: merecido/a (deserved), merecidamente (deservedly), el mérito (merit)"
+  ],
+  "sourceFile": "Verbs/m/Merecer.md"
+}

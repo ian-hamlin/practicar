@@ -1,0 +1,306 @@
+{
+  "id": "e0ba2edc-dd10-5c2d-a1a5-92c468ad876b",
+  "infinitive": "Permitir",
+  "englishMeaning": "to allow / to permit",
+  "desc": "to allow / to permit",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "permitiendo",
+  "participio": "permitido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "permito"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "permites"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "permite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "permitimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "permiten"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "permití"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "permitiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "permitió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "permitimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "permitieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "permitía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "permitías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "permitía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "permitíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "permitían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he permitido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has permitido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha permitido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos permitido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han permitido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había permitido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías permitido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había permitido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos permitido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían permitido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "permitiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "permitirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "permitirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "permitiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "permitirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "permitiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "permitirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "permitiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "permitiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "permitirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré permitido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás permitido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá permitido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos permitido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán permitido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "permita"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "permitas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "permita"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "permitamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "permitan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "permitiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "permitieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "permitiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "permitiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "permitieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera permitido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras permitido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera permitido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos permitido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran permitido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "permite"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "permita"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "permitamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "permitan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no permitas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no permita"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no permitamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no permitan"
+      }
+    ]
+  },
+  "notes": [
+    "**Permitir** is a regular **-IR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **permitido** (regular)",
+    "Often followed by infinitive: *permitir hacer algo* (to allow to do something)",
+    "Can be used with indirect object: *Me permite entrar* (He/She allows me to enter)",
+    "Common usage: *permitir el acceso* (to allow access), *¿Me permite?* (May I? / Excuse me)",
+    "Related noun: **el permiso** (permission, permit)",
+    "Opposite: **prohibir** (to prohibit, to forbid)",
+    "Expression: *Si me lo permite* (If you allow me / If I may)"
+  ],
+  "sourceFile": "Verbs/p/Permitir.md"
+}

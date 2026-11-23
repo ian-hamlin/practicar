@@ -1,0 +1,301 @@
+{
+  "id": "d5f16c18-8d18-5d35-a0bd-c7f6dd42251f",
+  "infinitive": "Asumir",
+  "englishMeaning": "to accept, to take on, to assume",
+  "desc": "to accept, to take on, to assume",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "asumiendo",
+  "participio": "asumido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "asumo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asumes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asume"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asumimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asumen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "asumí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asumiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asumió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asumimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asumieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "asumía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asumías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asumía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asumíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asumían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he asumido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has asumido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha asumido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos asumido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han asumido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había asumido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías asumido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había asumido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos asumido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían asumido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "asumiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asumirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asumirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asumiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asumirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "asumiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asumirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asumiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asumiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asumirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré asumido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás asumido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá asumido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos asumido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán asumido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "asuma"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asumas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asuma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asumamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asuman"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "asumiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asumieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asumiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asumiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asumieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera asumido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras asumido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera asumido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos asumido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran asumido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "asume"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "asuma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asumamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "asuman"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no asumas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no asuma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no asumamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no asuman"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -IR verb. All conjugations follow standard -IR endings.",
+    "*Asumió la responsabilidad del error.* (He took on responsibility for the mistake.)",
+    "*Tienes que asumir las consecuencias.* (You have to accept the consequences.)",
+    "Related: *la asunción* (assumption, taking on), *asumido/a* (accepted)"
+  ],
+  "sourceFile": "Verbs/a/Asumir.md"
+}

@@ -1,0 +1,303 @@
+{
+  "id": "5ade584e-c668-5ac6-933f-659ee2cc3b5e",
+  "infinitive": "Conseguir",
+  "englishMeaning": "to get / to obtain / to achieve",
+  "desc": "to get / to obtain / to achieve",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_i"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "consiguiendo",
+  "participio": "conseguido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "consigo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "consigues"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "consigue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conseguimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "consiguen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "conseguí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conseguiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "consiguió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conseguimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "consiguieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "conseguía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conseguías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conseguía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conseguíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conseguían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he conseguido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has conseguido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha conseguido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos conseguido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han conseguido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había conseguido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías conseguido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había conseguido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos conseguido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían conseguido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "conseguiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conseguirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conseguirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conseguiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conseguirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "conseguiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conseguirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conseguiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conseguiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conseguirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré conseguido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás conseguido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá conseguido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos conseguido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán conseguido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "consiga"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "consigas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "consiga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "consigamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "consigan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "consiguiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "consiguieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "consiguiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "consiguiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "consiguieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera conseguido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras conseguido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera conseguido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos conseguido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran conseguido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "consigue"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "consiga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "consigamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "consigan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no consigas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no consiga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no consigamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no consigan"
+      }
+    ]
+  },
+  "notes": [
+    "**Conseguir** is a stem-changing verb: e→i",
+    "Present: stem change e→i (except nosotros) plus spelling change gu→g before o (consigo)",
+    "Preterite: stem change e→i in 3rd person forms (consiguió, consiguieron)",
+    "Imperfect: regular -IR pattern, NO stem change",
+    "Similar pattern to **pedir** but with spelling adjustments for \"gu\""
+  ],
+  "sourceFile": "Verbs/c/Conseguir.md"
+}

@@ -1,0 +1,302 @@
+{
+  "id": "804a0d42-54f3-56cc-b38c-46b8727f76b6",
+  "infinitive": "Regalar",
+  "englishMeaning": "to give (as a gift) / to gift",
+  "desc": "to give (as a gift) / to gift",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "regalando",
+  "participio": "regalado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "regalo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regalas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regala"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regalamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regalan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "regalé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regalaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regaló"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regalamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regalaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "regalaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regalabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regalaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regalábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regalaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he regalado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has regalado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha regalado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos regalado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han regalado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había regalado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías regalado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había regalado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos regalado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían regalado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "regalaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regalarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regalará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regalaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regalarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "regalaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regalarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regalaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regalaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regalarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré regalado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás regalado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá regalado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos regalado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán regalado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "regale"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regales"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regale"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regalemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regalen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "regalara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regalaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regalara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regaláramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regalaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera regalado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras regalado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera regalado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos regalado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran regalado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "regala"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "regale"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regalemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "regalen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no regales"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no regale"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no regalemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no regalen"
+      }
+    ]
+  },
+  "notes": [
+    "**Regalar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Specifically means to give as a gift (not just any \"to give\" - use **dar** for general giving)",
+    "Related noun: **regalo** (gift/present)",
+    "Common usage: *regalar flores* (to give flowers as a gift)"
+  ],
+  "sourceFile": "Verbs/r/Regalar.md"
+}

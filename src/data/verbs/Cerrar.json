@@ -1,0 +1,304 @@
+{
+  "id": "176988b0-0516-5acf-a47d-bd381d21f6f4",
+  "infinitive": "Cerrar",
+  "englishMeaning": "to close",
+  "desc": "to close",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "cerrando",
+  "participio": "cerrado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cierro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cierras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cierra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cerramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cierran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "cerré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cerraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cerró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cerramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cerraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "cerraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cerrabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cerraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cerrábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cerraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he cerrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has cerrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha cerrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos cerrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han cerrado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había cerrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías cerrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había cerrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos cerrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían cerrado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "cerraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cerrarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cerrará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cerraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cerrarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "cerraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cerrarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cerraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cerraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cerrarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré cerrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás cerrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá cerrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos cerrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán cerrado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cierre"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cierres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cierre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cerremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cierren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "cerrara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cerraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cerrara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cerráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cerraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera cerrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras cerrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera cerrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos cerrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran cerrado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "cierra"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "cierre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cerremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "cierren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no cierres"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no cierre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no cerremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no cierren"
+      }
+    ]
+  },
+  "notes": [
+    "**Cerrar** is a stem-changing verb: e→ie",
+    "Present: stem change e→ie (except nosotros)",
+    "Preterite: regular -AR endings, NO stem change",
+    "Imperfect: regular -AR pattern, NO stem change",
+    "Opposite of **abrir** (to open)",
+    "Same conjugation pattern as **despertar** and **encender**"
+  ],
+  "sourceFile": "Verbs/c/Cerrar.md"
+}

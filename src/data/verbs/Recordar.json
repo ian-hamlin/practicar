@@ -1,0 +1,308 @@
+{
+  "id": "2d19363d-43cd-586b-9b19-cadb94ef61c8",
+  "infinitive": "Recordar",
+  "englishMeaning": "to remember / to remind",
+  "desc": "to remember / to remind",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "recordando",
+  "participio": "recordado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "recuerdo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recuerdas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recuerda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recordamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recuerdan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "recordé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recordaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recordó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recordamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recordaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "recordaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recordabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recordaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recordábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recordaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he recordado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has recordado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha recordado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos recordado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han recordado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había recordado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías recordado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había recordado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos recordado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían recordado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "recordaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recordarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recordará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recordaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recordarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "recordaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recordarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recordaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recordaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recordarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré recordado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás recordado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá recordado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos recordado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán recordado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "recuerde"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recuerdes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recuerde"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recordemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recuerden"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "recordara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recordaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recordara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recordáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recordaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera recordado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras recordado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera recordado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos recordado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran recordado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "recuerda"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "recuerde"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recordemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "recuerden"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no recuerdes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no recuerde"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no recordemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no recuerden"
+      }
+    ]
+  },
+  "notes": [
+    "**Recordar** is a stem-changing verb: o→ue",
+    "Present: stem change o→ue (except nosotros)",
+    "Preterite: regular -AR endings, NO stem change",
+    "Imperfect: regular -AR pattern, NO stem change",
+    "Future: regular future endings, NO stem change",
+    "Multiple meanings:",
+    "To remember: *Recuerdo ese día* (I remember that day)",
+    "To remind: *Me recuerda a mi abuela* (It reminds me of my grandmother)",
+    "Common usage: *recordar el pasado* (to remember the past), *recordaré este momento* (I will remember this moment)",
+    "Don't confuse with **acordarse** (to remember - reflexive, used with \"de\")"
+  ],
+  "sourceFile": "Verbs/r/Recordar.md"
+}

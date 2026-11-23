@@ -1,0 +1,303 @@
+{
+  "id": "7ec03662-9342-57ec-9891-c0a4ec6121ac",
+  "infinitive": "Esbozar",
+  "englishMeaning": "to outline, to sketch",
+  "desc": "to outline, to sketch",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "esbozando",
+  "participio": "esbozado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "esbozo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esbozas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esboza"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esbozamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esbozan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "esbocé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esbozaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esbozó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esbozamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esbozaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "esbozaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esbozabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esbozaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esbozábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esbozaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he esbozado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has esbozado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha esbozado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos esbozado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han esbozado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había esbozado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías esbozado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había esbozado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos esbozado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían esbozado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "esbozaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esbozarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esbozará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esbozaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esbozarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "esbozaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esbozarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esbozaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esbozaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esbozarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré esbozado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás esbozado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá esbozado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos esbozado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán esbozado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "esboce"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esboces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esboce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esbocemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esbocen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "esbozara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esbozaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esbozara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esbozáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esbozaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera esbozado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras esbozado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera esbozado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos esbozado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran esbozado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "esboza"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "esboce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esbocemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "esbocen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no esboces"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no esboce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no esbocemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no esbocen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with a spelling change: **z→c before e** to preserve the /s/ (Latin America) or /θ/ (Spain) sound. This affects the yo form of the pretérito indefinido (esbocé, not *esbozé) and every form of the subjuntivo presente and the usted/nosotros/ustedes imperative forms (esboce, esbocemos, esbocen).",
+    "No stem change — purely an orthographic adjustment.",
+    "Past participle is regular: **esbozado**.",
+    "*El artista esbozó el retrato en pocos minutos.* (\"The artist sketched the portrait in a few minutes.\")",
+    "*La película esboza los orígenes de un corazón revolucionario.* (\"The film outlines the origins of a revolutionary heart.\")",
+    "Related: *el esbozo* (sketch/outline, noun), *dibujar* (broader, \"to draw\"), other -zar verbs share this pattern (rechazar, abrazar, avanzar, cruzar)."
+  ],
+  "sourceFile": "Verbs/e/Esbozar.md"
+}

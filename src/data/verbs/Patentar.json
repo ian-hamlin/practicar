@@ -1,0 +1,301 @@
+{
+  "id": "15432a47-7b41-5ec6-9a1f-18149d59459d",
+  "infinitive": "Patentar",
+  "englishMeaning": "to patent",
+  "desc": "to patent",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "patentando",
+  "participio": "patentado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "patento"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "patentas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "patenta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "patentamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "patentan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "patenté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "patentaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "patentó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "patentamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "patentaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "patentaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "patentabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "patentaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "patentábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "patentaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he patentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has patentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha patentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos patentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han patentado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había patentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías patentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había patentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos patentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían patentado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "patentaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "patentarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "patentará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "patentaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "patentarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "patentaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "patentarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "patentaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "patentaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "patentarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré patentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás patentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá patentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos patentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán patentado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "patente"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "patentes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "patente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "patentemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "patenten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "patentara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "patentaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "patentara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "patentáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "patentaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera patentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras patentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera patentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos patentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran patentado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "patenta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "patente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "patentemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "patenten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no patentes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no patente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no patentemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no patenten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *patentado* (regular)",
+    "Means \"to patent\" — *patentar un invento* (to patent an invention), *la fórmula está patentada* (the formula is patented)",
+    "Related: *patente* (patent, noun; also \"obvious/evident\" as an adjective), *patentado/a* (patented)"
+  ],
+  "sourceFile": "Verbs/p/Patentar.md"
+}

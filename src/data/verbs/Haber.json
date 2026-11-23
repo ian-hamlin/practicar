@@ -1,0 +1,311 @@
+{
+  "id": "dcb120ea-586b-52b6-a3a6-699be046bb14",
+  "infinitive": "Haber",
+  "englishMeaning": "to have - auxiliary / there is/are",
+  "desc": "to have - auxiliary / there is/are",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "h",
+  "categoryId": "fae8d62e-db69-5528-b693-9f8b68737a41",
+  "gerundio": "habiendo",
+  "participio": "habido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "he"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "hube"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubo"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he habido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has habido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha habido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos habido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han habido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había habido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías habido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había habido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos habido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían habido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "habré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "habría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré habido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás habido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá habido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos habido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán habido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "haya"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hayas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "haya"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hayamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hayan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera habido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras habido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera habido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos habido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran habido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "ha"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "haya"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hayamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "hayan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no hayas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no haya"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no hayamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no hayan"
+      }
+    ]
+  },
+  "notes": [
+    "**Haber** is completely irregular in all tenses",
+    "Primary use: auxiliary verb for perfect tenses (*he comido* - I have eaten)",
+    "Past participle: **habido** (rarely used except in perfect tenses of haber itself)",
+    "Future: irregular stem \"habr-\" (not \"haber-\")",
+    "Condicional: irregular stem \"habr-\" + conditional endings",
+    "Impersonal forms for \"there is/are\":",
+    "Present: **hay** (there is/are)",
+    "Preterite: **hubo** (there was/were)",
+    "Imperfect: **había** (there was/were)",
+    "Perfect: **ha habido** (there has/have been)",
+    "Future: **habrá** (there will be)",
+    "Conditional: **habría** (there would be)",
+    "The preterite forms (hube, hubiste, etc.) are rarely used in everyday speech",
+    "Don't confuse with **tener** (to have/possess)"
+  ],
+  "sourceFile": "Verbs/h/Haber.md"
+}

@@ -1,0 +1,304 @@
+{
+  "id": "38667963-4fbd-54b1-aa0b-a978c07b24ee",
+  "infinitive": "Darse",
+  "englishMeaning": "to give oneself, to happen, to occur",
+  "desc": "to give oneself, to happen, to occur",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "dando",
+  "participio": "dado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me doy"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te das"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se da"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos damos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se dan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me di"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te diste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se dio"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos dimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se dieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me daba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te dabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se daba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos dábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se daban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he dado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has dado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha dado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos dado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han dado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había dado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías dado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había dado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos dado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían dado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me daré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te darás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se dará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos daremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se darán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me daría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te darías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se daría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos daríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se darían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré dado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás dado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá dado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos dado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán dado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me dé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te des"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se dé"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos demos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se den"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me diera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te dieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se diera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos diéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se dieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera dado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras dado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera dado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos dado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran dado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "date"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "dese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "démonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "dense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te des"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se dé"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos demos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se den"
+      }
+    ]
+  },
+  "notes": [
+    "Irregular reflexive -AR verb — inherits every irregularity of *dar* (irregular yo form *doy*, irregular preterite *di/diste/dio...*, and the subjunctive forms built on *dé/des/dé/demos/den*, which keep a written accent on *dé* only when it stands alone to distinguish it from the preposition *de*)",
+    "Affirmative imperative: *date* and *dense* need no written accent since the natural stress already falls correctly by default Spanish stress rules; *démonos* needs one because without it the stress would shift to the wrong syllable (nosotros drops the final -s before attaching -nos: *demos* → *demo* + *nos* → *démonos*)",
+    "Past participle: *dado* (regular)",
+    "Two very different meanings: literal **\"to give oneself/each other\"** — *se dieron la mano* (they shook hands) — and the far more common idiomatic **\"to happen/occur\"** or **\"to turn out to be\"** — *se dio una oportunidad única* (a unique opportunity arose), *se le dan bien los idiomas* (he/she is good at languages)",
+    "Common set phrases: *darse cuenta (de)* = to realize, *darse prisa* = to hurry up, *darse por vencido/a* = to give up, *dárselas de* = to act like/show off as",
+    "Related: *dar* (base verb, \"to give\"), *dado* (die/dice, as a noun), *dadivoso/a* (generous)"
+  ],
+  "sourceFile": "Verbs/d/Darse.md"
+}

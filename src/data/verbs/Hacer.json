@@ -1,0 +1,307 @@
+{
+  "id": "0b0485cd-c457-527e-a1c8-a5b5f457f8ca",
+  "infinitive": "Hacer",
+  "englishMeaning": "to do / to make",
+  "desc": "to do / to make",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "h",
+  "categoryId": "fae8d62e-db69-5528-b693-9f8b68737a41",
+  "gerundio": "haciendo",
+  "participio": "hecho",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "hago"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "haces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hace"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hacemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hacen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "hice"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hiciste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hizo"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hicimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hicieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "hacía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hacías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hacía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hacíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hacían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he hecho"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has hecho"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha hecho"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos hecho"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han hecho"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había hecho"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías hecho"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había hecho"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos hecho"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían hecho"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "haré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "harás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "haremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "harán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "haría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "harías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "haría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "haríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "harían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré hecho"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás hecho"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá hecho"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos hecho"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán hecho"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "haga"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hagas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "haga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hagamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hagan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hiciera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hicieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hiciera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hiciéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hicieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera hecho"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras hecho"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera hecho"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos hecho"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran hecho"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "haz"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "haga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hagamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "hagan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no hagas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no haga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no hagamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no hagan"
+      }
+    ]
+  },
+  "notes": [
+    "**Hacer** is irregular in multiple tenses",
+    "Present: irregular \"yo\" form (hago), otherwise regular -ER endings",
+    "Preterite: irregular stem \"hic-/hiz-\" (spelling change c→z in él/ella form: hizo)",
+    "Imperfect: regular -ER pattern based on infinitive stem \"hac-\"",
+    "Pretérito Perfecto: irregular past participle **hecho**",
+    "Future: irregular stem \"har-\" (not \"hacer-\")",
+    "Condicional: irregular stem \"har-\" + conditional endings",
+    "Used in many expressions: *hace frío* (it's cold), *hacer ejercicio* (to exercise), *hacer cola* (to wait in line)",
+    "Weather expressions: *Hace calor* (It's hot), *Hace sol* (It's sunny)",
+    "Time expressions: *Hace dos años* (Two years ago)"
+  ],
+  "sourceFile": "Verbs/h/Hacer.md"
+}

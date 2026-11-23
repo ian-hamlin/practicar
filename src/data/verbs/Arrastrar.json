@@ -1,0 +1,302 @@
+{
+  "id": "1017bf94-1ab6-552e-b561-1d93902e5e64",
+  "infinitive": "Arrastrar",
+  "englishMeaning": "to drag, to pull along",
+  "desc": "to drag, to pull along",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "arrastrando",
+  "participio": "arrastrado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "arrastro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arrastras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arrastra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arrastramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arrastran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "arrastré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arrastraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arrastró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arrastramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arrastraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "arrastraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arrastrabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arrastraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arrastrábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arrastraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he arrastrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has arrastrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha arrastrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos arrastrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han arrastrado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había arrastrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías arrastrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había arrastrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos arrastrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían arrastrado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "arrastraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arrastrarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arrastrará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arrastraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arrastrarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "arrastraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arrastrarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arrastraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arrastraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arrastrarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré arrastrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás arrastrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá arrastrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos arrastrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán arrastrado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "arrastre"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arrastres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arrastre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arrastremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arrastren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "arrastrara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "arrastraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "arrastrara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arrastráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "arrastraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera arrastrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras arrastrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera arrastrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos arrastrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran arrastrado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "arrastra"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "arrastre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "arrastremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "arrastren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no arrastres"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no arrastre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no arrastremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no arrastren"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *arrastrado* (regular)",
+    "Means \"to drag\" or \"to pull along\" (literally or figuratively) — *arrastra la silla* (drag the chair), *arrastrar los pies* (to drag one's feet, also figuratively meaning to be reluctant)",
+    "Reflexive *arrastrarse* means \"to crawl\" or \"to grovel\": *el bebé se arrastra por el suelo* (the baby crawls on the floor)",
+    "Related: *arrastre* (dragging, trawling), *rastro* (trace, trail — related root)"
+  ],
+  "sourceFile": "Verbs/a/Arrastrar.md"
+}

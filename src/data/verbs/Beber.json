@@ -1,0 +1,301 @@
+{
+  "id": "a272fa40-c147-5f9e-ac3a-9a239438d6cd",
+  "infinitive": "Beber",
+  "englishMeaning": "to drink",
+  "desc": "to drink",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "b",
+  "categoryId": "0c6cef76-6cf7-5b31-b026-9ab8996fbcd1",
+  "gerundio": "bebiendo",
+  "participio": "bebido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "bebo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bebes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bebe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bebemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "beben"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "bebí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bebiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bebió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bebimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bebieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "bebía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bebías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bebía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bebíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bebían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he bebido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has bebido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha bebido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos bebido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han bebido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había bebido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías bebido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había bebido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos bebido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían bebido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "beberé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "beberás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "beberá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "beberemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "beberán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "bebería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "beberías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bebería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "beberíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "beberían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré bebido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás bebido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá bebido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos bebido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán bebido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "beba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bebas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "beba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bebamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "beban"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "bebiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bebieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bebiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bebiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bebieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera bebido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras bebido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera bebido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos bebido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran bebido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "bebe"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "beba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bebamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "beban"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no bebas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no beba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no bebamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no beban"
+      }
+    ]
+  },
+  "notes": [
+    "**Beber** is a regular **-ER verb**",
+    "No spelling changes or stem changes",
+    "Common usage: *beber agua* (to drink water), *beber vino* (to drink wine)",
+    "In Latin America, **tomar** is more commonly used for \"to drink\""
+  ],
+  "sourceFile": "Verbs/b/Beber.md"
+}

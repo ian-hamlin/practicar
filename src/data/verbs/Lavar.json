@@ -1,0 +1,301 @@
+{
+  "id": "af927867-9aed-53e9-a8e5-6ab157817598",
+  "infinitive": "Lavar",
+  "englishMeaning": "to wash",
+  "desc": "to wash",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "l",
+  "categoryId": "fa5b6027-a511-5f12-980d-687e3e083fde",
+  "gerundio": "lavando",
+  "participio": "lavado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "lavo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lavas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lava"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lavamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lavan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "lavé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lavaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lavó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lavamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lavaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "lavaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lavabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lavaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lavábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lavaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he lavado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has lavado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha lavado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos lavado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han lavado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había lavado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías lavado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había lavado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos lavado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían lavado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "lavaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lavarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lavará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lavaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lavarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "lavaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lavarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lavaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lavaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lavarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré lavado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás lavado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá lavado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos lavado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán lavado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "lave"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "laves"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lave"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lavemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "laven"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "lavara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lavaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lavara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "laváramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lavaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera lavado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras lavado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera lavado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos lavado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran lavado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "lava"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "lave"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lavemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "laven"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no laves"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no lave"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no lavemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no laven"
+      }
+    ]
+  },
+  "notes": [
+    "**Lavar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Often used reflexively: *lavarse* (to wash oneself), *lavarse las manos* (to wash one's hands)",
+    "Common usage: *lavar la ropa* (to wash clothes), *lavar los platos* (to wash the dishes)"
+  ],
+  "sourceFile": "Verbs/l/Lavar.md"
+}

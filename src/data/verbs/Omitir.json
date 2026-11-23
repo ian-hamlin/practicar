@@ -1,0 +1,304 @@
+{
+  "id": "1275e473-0a5a-5bc0-aec0-59ced3275157",
+  "infinitive": "Omitir",
+  "englishMeaning": "to omit / to leave out / to skip",
+  "desc": "to omit / to leave out / to skip",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "o",
+  "categoryId": "17ab56ce-480a-5e1b-b55d-16eaabe765bf",
+  "gerundio": "omitiendo",
+  "participio": "omitido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "omito"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "omites"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "omite"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "omitimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "omiten"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "omití"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "omitiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "omitió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "omitimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "omitieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "omitía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "omitías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "omitía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "omitíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "omitían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he omitido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has omitido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha omitido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos omitido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han omitido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había omitido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías omitido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había omitido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos omitido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían omitido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "omitiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "omitirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "omitirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "omitiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "omitirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "omitiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "omitirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "omitiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "omitiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "omitirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré omitido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás omitido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá omitido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos omitido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán omitido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "omita"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "omitas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "omita"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "omitamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "omitan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "omitiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "omitieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "omitiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "omitiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "omitieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera omitido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras omitido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera omitido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos omitido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran omitido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "omite"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "omita"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "omitamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "omitan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no omitas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no omita"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no omitamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no omitan"
+      }
+    ]
+  },
+  "notes": [
+    "**Omitir** is a regular **-IR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **omitido** (regular)",
+    "Common usage: *omitir detalles* (to omit details), *omitir información* (to leave out information)",
+    "Related noun: **la omisión** (omission)",
+    "Related adjective: **omitido/a** (omitted)",
+    "Formal/written register - more common than spoken language"
+  ],
+  "sourceFile": "Verbs/o/Omitir.md"
+}

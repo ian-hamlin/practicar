@@ -1,0 +1,300 @@
+{
+  "id": "3ca30729-e300-53bb-814b-07c085fe83d1",
+  "infinitive": "Fumar",
+  "englishMeaning": "to smoke",
+  "desc": "to smoke",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "f",
+  "categoryId": "6a4f18c0-f5d2-5016-9134-e92fb8c852a7",
+  "gerundio": "fumando",
+  "participio": "fumado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "fumo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "fumas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "fuma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fumamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "fuman"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "fumé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "fumaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "fumó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fumamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "fumaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "fumaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "fumabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "fumaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fumábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "fumaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he fumado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has fumado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha fumado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos fumado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han fumado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había fumado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías fumado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había fumado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos fumado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían fumado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "fumaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "fumarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "fumará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fumaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "fumarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "fumaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "fumarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "fumaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fumaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "fumarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré fumado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás fumado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá fumado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos fumado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán fumado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "fume"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "fumes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "fume"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fumemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "fumen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "fumara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "fumaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "fumara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fumáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "fumaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera fumado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras fumado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera fumado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos fumado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran fumado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "fuma"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "fume"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fumemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "fumen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no fumes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no fume"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no fumemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no fumen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb; follows standard endings throughout",
+    "Commonly used with *dejar de*: *dejar de fumar* = to quit smoking",
+    "Past participle: fumado"
+  ],
+  "sourceFile": "Verbs/f/Fumar.md"
+}

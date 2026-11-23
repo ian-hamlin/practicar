@@ -1,0 +1,303 @@
+{
+  "id": "83fceb06-6b6e-5ff4-baa1-497a0d040dc1",
+  "infinitive": "Asesinar",
+  "englishMeaning": "to assassinate/to murder",
+  "desc": "to assassinate/to murder",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "asesinando",
+  "participio": "asesinado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "asesino"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asesinas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asesina"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asesinamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asesinan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "asesiné"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asesinaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asesinó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asesinamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asesinaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "asesinaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asesinabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asesinaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asesinábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asesinaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he asesinado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has asesinado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha asesinado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos asesinado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han asesinado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había asesinado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías asesinado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había asesinado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos asesinado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían asesinado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "asesinaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asesinarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asesinará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asesinaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asesinarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "asesinaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asesinarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asesinaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asesinaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asesinarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré asesinado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás asesinado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá asesinado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos asesinado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán asesinado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "asesine"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asesines"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asesine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asesinemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asesinen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "asesinara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "asesinaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "asesinara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asesináramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "asesinaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera asesinado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras asesinado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera asesinado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos asesinado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran asesinado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "asesina"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "asesine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asesinemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "asesinen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no asesines"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no asesine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no asesinemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no asesinen"
+      }
+    ]
+  },
+  "notes": [
+    "**Asesinar** is a regular -AR verb",
+    "No stem changes in any tense",
+    "Follows the same pattern as regular -AR verbs like hablar, trabajar",
+    "Past participle: asesinado (assassinated/murdered)",
+    "Refers to premeditated killing, especially of important/public figures",
+    "Related word: *asesino/asesina* (assassin/murderer)"
+  ],
+  "sourceFile": "Verbs/a/Asesinar.md"
+}

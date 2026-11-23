@@ -1,0 +1,303 @@
+{
+  "id": "d27fa869-c413-57db-b3c3-30ec601b7516",
+  "infinitive": "Secuestrar",
+  "englishMeaning": "to kidnap / to hijack / to sequester",
+  "desc": "to kidnap / to hijack / to sequester",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "secuestrando",
+  "participio": "secuestrado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "secuestro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "secuestras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "secuestra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "secuestramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "secuestran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "secuestré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "secuestraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "secuestró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "secuestramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "secuestraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "secuestraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "secuestrabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "secuestraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "secuestrábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "secuestraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he secuestrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has secuestrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha secuestrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos secuestrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han secuestrado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había secuestrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías secuestrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había secuestrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos secuestrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían secuestrado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "secuestraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "secuestrarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "secuestrará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "secuestraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "secuestrarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "secuestraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "secuestrarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "secuestraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "secuestraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "secuestrarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré secuestrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás secuestrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá secuestrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos secuestrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán secuestrado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "secuestre"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "secuestres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "secuestre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "secuestremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "secuestren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "secuestrara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "secuestraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "secuestrara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "secuestráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "secuestraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera secuestrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras secuestrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera secuestrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos secuestrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran secuestrado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "secuestra"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "secuestre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "secuestremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "secuestren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no secuestres"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no secuestre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no secuestremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no secuestren"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; no spelling changes or stem changes",
+    "Past participle: *secuestrado*",
+    "*secuestrar a alguien* = to kidnap someone (*Secuestraron al empresario para pedir rescate* — They kidnapped the businessman to demand a ransom)",
+    "*secuestrar un avión/barco* = to hijack a plane/ship",
+    "*secuestrar una publicación* = to seize/ban a publication (legal/judicial context)",
+    "Related: *el secuestro* = kidnapping, hijacking; *el/la secuestrador/a* = kidnapper, hijacker; *el rescate* = ransom"
+  ],
+  "sourceFile": "Verbs/s/Secuestrar.md"
+}

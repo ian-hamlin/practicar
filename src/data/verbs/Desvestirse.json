@@ -1,0 +1,305 @@
+{
+  "id": "6dc73401-887a-562a-a39d-e13f9717722c",
+  "infinitive": "Desvestirse",
+  "englishMeaning": "to undress oneself",
+  "desc": "to undress (oneself)",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive",
+    "stem_e_i"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "desvistiendo",
+  "participio": "desvestido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me desvisto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te desvistes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se desviste"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos desvestimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se desvisten"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me desvestí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te desvestiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se desvistió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos desvestimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se desvistieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me desvestía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te desvestías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se desvestía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos desvestíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se desvestían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he desvestido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has desvestido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha desvestido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos desvestido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han desvestido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había desvestido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías desvestido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había desvestido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos desvestido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían desvestido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me desvestiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te desvestirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se desvestirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos desvestiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se desvestirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me desvestiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te desvestirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se desvestiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos desvestiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se desvestirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré desvestido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás desvestido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá desvestido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos desvestido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán desvestido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me desvista"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te desvistas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se desvista"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos desvistamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se desvistan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me desvistiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te desvistieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se desvistiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos desvistiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se desvistieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera desvestido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras desvestido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera desvestido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos desvestido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran desvestido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "desvístete"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "desvístase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desvistámonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "desvístanse"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te desvistas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se desvista"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos desvistamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se desvistan"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -IR verb with an e→i stem change, following the same pattern as *vestirse*. The stem change appears in the presente (all but nosotros/nosotras), the 3rd-person forms of pretérito indefinido (se desvistió, se desvistieron), and throughout the subjuntivo presente — including nosotros/nosotras (nos desvistamos), since e→i type -IR stem-changers keep the change in that form.",
+    "Past participle is regular: **desvestido**.",
+    "Imperativo afirmativo reflexive pronouns attach to the end with a written accent to preserve stress (desvístete, desvístase, desvistámonos, desvístanse); imperativo negativo places them separately in front (no te desvistas...).",
+    "*Se desvistió rápidamente antes de la ducha.* (\"He/she undressed quickly before the shower.\")",
+    "*Los niños se desvisten solos antes de bañarse.* (\"The kids undress themselves before bathing.\")",
+    "Related: *vestirse* (reflexive, \"to get dressed\" — antonym, same e→i pattern), *desvestir* (non-reflexive, \"to undress someone else\"), *la ropa* (clothes)."
+  ],
+  "sourceFile": "Verbs/d/Desvestirse.md"
+}

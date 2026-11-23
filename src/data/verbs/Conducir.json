@@ -1,0 +1,305 @@
+{
+  "id": "535703da-9367-563b-9241-4fc1304bdd74",
+  "infinitive": "Conducir",
+  "englishMeaning": "to drive / to lead",
+  "desc": "to drive / to lead",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "conduciendo",
+  "participio": "conducido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "conduzco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conduces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conduce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conducimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conducen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "conduje"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "condujiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "condujo"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "condujimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "condujeron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "conducía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conducías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conducía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conducíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conducían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he conducido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has conducido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha conducido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos conducido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han conducido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había conducido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías conducido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había conducido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos conducido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían conducido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "conduciré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conducirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conducirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conduciremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conducirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "conduciría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conducirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conduciría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conduciríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conducirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré conducido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás conducido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá conducido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos conducido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán conducido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "conduzca"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "conduzcas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "conduzca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conduzcamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "conduzcan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "condujera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "condujeras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "condujera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "condujéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "condujeran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera conducido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras conducido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera conducido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos conducido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran conducido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "conduce"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "conduzca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conduzcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "conduzcan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no conduzcas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no conduzca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no conduzcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no conduzcan"
+      }
+    ]
+  },
+  "notes": [
+    "**Conducir** is irregular in present and preterite",
+    "Present: irregular \"yo\" form (conduzco) with spelling change c→zc before o",
+    "Preterite: completely irregular stem \"conduj-\" with special endings (no \"i\" in condujeron)",
+    "Imperfect: regular -IR pattern",
+    "Future: regular future endings attached to infinitive",
+    "Similar conjugation pattern to **traducir** (to translate) and **producir** (to produce)",
+    "In Latin America, **manejar** is more commonly used for \"to drive\"",
+    "Common usage: *conducir un coche* (to drive a car), *conducir a* (to lead to)"
+  ],
+  "sourceFile": "Verbs/c/Conducir.md"
+}

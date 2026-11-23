@@ -1,0 +1,303 @@
+{
+  "id": "2dc95026-d743-5bfc-b8d5-105fb2cf67e8",
+  "infinitive": "Paralizar",
+  "englishMeaning": "to paralyze",
+  "desc": "to paralyze",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "paralizando",
+  "participio": "paralizado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "paralizo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "paralizas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "paraliza"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paralizamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "paralizan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "paralicé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "paralizaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "paralizó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paralizamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "paralizaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "paralizaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "paralizabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "paralizaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paralizábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "paralizaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he paralizado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has paralizado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha paralizado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos paralizado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han paralizado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había paralizado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías paralizado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había paralizado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos paralizado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían paralizado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "paralizaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "paralizarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "paralizará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paralizaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "paralizarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "paralizaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "paralizarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "paralizaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paralizaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "paralizarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré paralizado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás paralizado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá paralizado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos paralizado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán paralizado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "paralice"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "paralices"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "paralice"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paralicemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "paralicen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "paralizara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "paralizaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "paralizara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paralizáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "paralizaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera paralizado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras paralizado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera paralizado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos paralizado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran paralizado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "paraliza"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "paralice"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paralicemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "paralicen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no paralices"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no paralice"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no paralicemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no paralicen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with a spelling change: **z→c before e** to preserve the /s/ (Latin America) or /θ/ (Spain) sound. This affects the yo form of the pretérito indefinido (paralicé, not *paralizé) and every form of the subjuntivo presente and the usted/nosotros/ustedes imperative forms (paralice, paralicemos, paralicen).",
+    "No stem change — purely an orthographic adjustment.",
+    "Past participle is regular: **paralizado**.",
+    "*El accidente paralizó su vida hace veinte años.* (\"The accident brought his life to a standstill twenty years ago.\")",
+    "*La huelga paralizó la ciudad por completo.* (\"The strike brought the city to a complete halt.\")",
+    "Related: *la parálisis* (paralysis, noun), *paralizado/a* (paralyzed, adjective), other -zar verbs share this pattern (rechazar, abrazar, avanzar, cruzar)."
+  ],
+  "sourceFile": "Verbs/p/Paralizar.md"
+}

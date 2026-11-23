@@ -1,0 +1,305 @@
+{
+  "id": "bbe360fe-6685-5371-a3d6-02d0ebf155ef",
+  "infinitive": "Sonar",
+  "englishMeaning": "to sound / to ring / to play",
+  "desc": "to sound / to ring / to play",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "sonando",
+  "participio": "sonado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sueno"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "suenas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "suena"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sonamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "suenan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "soné"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sonaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sonó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sonamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sonaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "sonaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sonabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sonaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sonábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sonaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he sonado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has sonado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha sonado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos sonado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han sonado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había sonado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías sonado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había sonado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos sonado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían sonado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "sonaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sonarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sonará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sonaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sonarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "sonaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sonarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sonaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sonaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sonarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré sonado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás sonado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá sonado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos sonado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán sonado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "suene"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "suenes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "suene"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sonemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "suenen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "sonara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sonaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sonara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sonáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sonaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera sonado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras sonado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera sonado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos sonado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran sonado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "suena"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "suene"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sonemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "suenen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no suenes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no suene"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no sonemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no suenen"
+      }
+    ]
+  },
+  "notes": [
+    "**Sonar** is a stem-changing verb: o→ue",
+    "Present: stem change o→ue (except nosotros)",
+    "Preterite: regular -AR endings, NO stem change",
+    "Imperfect: regular -AR pattern, NO stem change",
+    "Often used in 3rd person for things that make sounds",
+    "Common usage: *suena el teléfono* (the phone is ringing), *suena la música* (the music is playing)",
+    "Don't confuse with **soñar** (to dream) - same conjugation pattern but different meaning"
+  ],
+  "sourceFile": "Verbs/s/Sonar.md"
+}

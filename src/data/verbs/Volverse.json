@@ -1,0 +1,308 @@
+{
+  "id": "31edae48-97ae-53d2-a3a6-3fa0321ddf68",
+  "infinitive": "Volverse",
+  "englishMeaning": "to become, to turn",
+  "desc": "to become, to turn",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive",
+    "stem_o_ue"
+  ],
+  "letter": "v",
+  "categoryId": "7848c6f0-8db9-54f6-91a9-a1f1ebd97c61",
+  "gerundio": "volviendo",
+  "participio": "vuelto",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me vuelvo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te vuelves"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se vuelve"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos volvemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se vuelven"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me volví"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te volviste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se volvió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos volvimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se volvieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me volvía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te volvías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se volvía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos volvíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se volvían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he vuelto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has vuelto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha vuelto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos vuelto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han vuelto"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había vuelto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías vuelto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había vuelto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos vuelto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían vuelto"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me volveré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te volverás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se volverá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos volveremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se volverán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me volvería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te volverías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se volvería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos volveríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se volverían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré vuelto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás vuelto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá vuelto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos vuelto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán vuelto"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me vuelva"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te vuelvas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se vuelva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos volvamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se vuelvan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me volviera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te volvieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se volviera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos volviéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se volvieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera vuelto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras vuelto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera vuelto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos vuelto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran vuelto"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "vuélvete"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "vuélvase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "volvámonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "vuélvanse"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te vuelvas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se vuelva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos volvamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se vuelvan"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive compound of *volver* — follows the same irregular patterns.",
+    "o→ue stem change in the stressed syllables: presente (all but nosotros/nosotras) and subjuntivo presente (all but nosotros/nosotras). Nosotros/nosotras reverts to the unstressed stem (nos volvemos, nos volvamos).",
+    "No stem change in the pretérito indefinido — regular -ER endings throughout (me volví, se volvió...).",
+    "Irregular past participle, inherited from *volver→vuelto*: **vuelto**.",
+    "Imperativo afirmativo reflexive pronouns attach to the end with a written accent to preserve stress (vuélvete, vuélvase, volvámonos, vuélvanse); imperativo negativo places them separately in front (no te vuelvas...).",
+    "Used for a change of state (like \"to become,\" similar to *ponerse* and *hacerse*, but usually for more permanent or drastic changes): *volverse loco* (\"to go crazy\").",
+    "*Los personajes cruzan la línea... de pronto se vuelve impredecible.* (\"The reality suddenly becomes unpredictable.\")",
+    "*Se volvió muy desconfiado después de eso.* (\"He became very distrustful after that.\")",
+    "Related: *volver* (non-reflexive, \"to return / to do again\"), *convertirse en* (near-synonym, more gradual \"to become/turn into\"), *ponerse* (near-synonym, for temporary emotional/physical states)."
+  ],
+  "sourceFile": "Verbs/v/Volverse.md"
+}

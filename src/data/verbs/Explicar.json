@@ -1,0 +1,299 @@
+{
+  "id": "3578d737-d5d5-528e-afee-ce9083f9f8c8",
+  "infinitive": "Explicar",
+  "englishMeaning": "to explain",
+  "desc": "to explain",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "explicando",
+  "participio": "explicado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "explico"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "explicas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "explica"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "explicamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "explican"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "expliqué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "explicaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "explicó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "explicamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "explicaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "explicaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "explicabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "explicaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "explicábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "explicaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he explicado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has explicado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha explicado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos explicado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han explicado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había explicado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías explicado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había explicado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos explicado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían explicado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "explicaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "explicarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "explicará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "explicaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "explicarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "explicaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "explicarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "explicaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "explicaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "explicarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré explicado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás explicado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá explicado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos explicado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán explicado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "explique"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "expliques"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "explique"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "expliquemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "expliquen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "explicara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "explicaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "explicara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "explicáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "explicaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera explicado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras explicado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera explicado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos explicado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran explicado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "explica"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "explique"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "expliquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "expliquen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no expliques"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no explique"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no expliquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no expliquen"
+      }
+    ]
+  },
+  "notes": [
+    "**Explicar** is a regular **-AR verb** with a spelling change",
+    "Spelling change: c→qu before é (expliqué, not \"explicé\") - same pattern as saca"
+  ],
+  "sourceFile": "Verbs/e/Explicar.md"
+}

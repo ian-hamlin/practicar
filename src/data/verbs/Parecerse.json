@@ -1,0 +1,304 @@
+{
+  "id": "243c353c-49ff-5d41-a6b6-dae6b4aed2d3",
+  "infinitive": "Parecerse",
+  "englishMeaning": "to look like / to resemble / to be similar to",
+  "desc": "to look like / to resemble / to be similar to",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "pareciendo",
+  "participio": "parecido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me parezco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te pareces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se parece"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos parecemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se parecen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me parecí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te pareciste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se pareció"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos parecimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se parecieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me parecía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te parecías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se parecía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos parecíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se parecían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he parecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has parecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha parecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos parecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han parecido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había parecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías parecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había parecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos parecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían parecido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me pareceré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te parecerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se parecerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos pareceremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se parecerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me parecería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te parecerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se parecería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos pareceríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se parecerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré parecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás parecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá parecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos parecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán parecido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me parezca"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te parezcas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se parezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos parezcamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se parezcan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me pareciera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te parecieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se pareciera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos pareciéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se parecieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera parecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras parecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera parecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos parecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran parecido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "parécete"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "parézcase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "parezcámonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "parézcanse"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te parezcas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se parezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos parezcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se parezcan"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive form of *parecer*; irregular -ER verb with c→zc change before *a/o*",
+    "Irregular yo present: *me parezco* (c→zc); subjuntivo stem: *parezc-*",
+    "Past participle: *parecido*",
+    "*parecerse a alguien* = to look like / to resemble someone (*Me parezco mucho a mi madre* — I look a lot like my mother)",
+    "*parecerse en algo* = to be alike in something (*Se parecen en el carácter* — They are alike in character)",
+    "Distinct from *parecer* (non-reflexive) = to seem/appear (*Me parece bien* — It seems fine to me)"
+  ],
+  "sourceFile": "Verbs/p/Parecerse.md"
+}

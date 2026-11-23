@@ -1,0 +1,303 @@
+{
+  "id": "c97a3b33-c067-505e-8443-a38b627cc604",
+  "infinitive": "Apagar",
+  "englishMeaning": "to turn off, to switch off",
+  "desc": "to turn off, to switch off",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "apagando",
+  "participio": "apagado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "apago"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "apagas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "apaga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "apagamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "apagan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "apagué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "apagaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "apagó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "apagamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "apagaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "apagaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "apagabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "apagaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "apagábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "apagaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he apagado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has apagado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha apagado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos apagado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han apagado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había apagado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías apagado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había apagado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos apagado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían apagado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "apagaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "apagarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "apagará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "apagaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "apagarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "apagaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "apagarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "apagaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "apagaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "apagarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré apagado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás apagado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá apagado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos apagado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán apagado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "apague"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "apagues"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "apague"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "apaguemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "apaguen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "apagara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "apagaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "apagara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "apagáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "apagaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera apagado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras apagado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera apagado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos apagado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran apagado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "apaga"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "apague"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "apaguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "apaguen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no apagues"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no apague"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no apaguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no apaguen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with spelling change: g→gu before e",
+    "The only affected form in indicative is **yo Pretérito Indefinido: apagué** (to preserve the hard /g/ sound)",
+    "The same g→gu change occurs throughout the present subjunctive (apague, apagues, etc.)",
+    "All other forms follow regular -AR patterns",
+    "Past participle: apagado",
+    "Also used figuratively: apagar la sed = to quench thirst; apagar el fuego = to put out the fire"
+  ],
+  "sourceFile": "Verbs/a/Apagar.md"
+}

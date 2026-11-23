@@ -1,0 +1,305 @@
+{
+  "id": "d3eedb1d-ee0b-55ad-91af-5498fff2a0e0",
+  "infinitive": "Tomar",
+  "englishMeaning": "to take / to drink / to have",
+  "desc": "to take / to drink / to have",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "t",
+  "categoryId": "a163d0db-76b7-5624-8633-200bb9177aae",
+  "gerundio": "tomando",
+  "participio": "tomado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "tomo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tomas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "toma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tomamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "toman"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "tomé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tomaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tomó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tomamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tomaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "tomaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tomabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tomaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tomábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tomaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he tomado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has tomado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha tomado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos tomado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han tomado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había tomado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías tomado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había tomado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos tomado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían tomado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "tomaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tomarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tomará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tomaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tomarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "tomaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tomarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tomaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tomaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tomarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré tomado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás tomado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá tomado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos tomado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán tomado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "tome"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tomes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tome"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tomemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tomen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "tomara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tomaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tomara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tomáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tomaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera tomado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras tomado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera tomado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos tomado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran tomado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "toma"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "tome"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tomemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "tomen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no tomes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no tome"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no tomemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no tomen"
+      }
+    ]
+  },
+  "notes": [
+    "**Tomar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **tomado** (regular)",
+    "Very versatile verb in Latin America: to take, to drink, to have (food/drinks)",
+    "Common usage: *tomar café* (to have coffee), *tomar el bus* (to take the bus), *tomar una foto* (to take a photo)",
+    "More common than **beber** for \"to drink\" in Latin America",
+    "Expression: *tomar el pelo* (to pull someone's leg), *tomar en cuenta* (to take into account)",
+    "Related noun: **la toma** (taking, shot/take in film)"
+  ],
+  "sourceFile": "Verbs/t/Tomar.md"
+}

@@ -1,0 +1,307 @@
+{
+  "id": "fa92372e-5875-5bb9-ade6-c3fcd4dc752e",
+  "infinitive": "Acostarse",
+  "englishMeaning": "to go to bed, to lie down",
+  "desc": "to go to bed, to lie down",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive",
+    "stem_o_ue"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "acostando",
+  "participio": "acostado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me acuesto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acuestas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acuesta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acostamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acuestan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me acosté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acostaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acostó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acostamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acostaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me acostaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acostabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acostaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acostábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acostaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he acostado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has acostado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha acostado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos acostado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han acostado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había acostado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías acostado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había acostado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos acostado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían acostado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me acostaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acostarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acostará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acostaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acostarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me acostaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acostarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acostaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acostaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acostarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré acostado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás acostado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá acostado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos acostado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán acostado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me acueste"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acuestes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acueste"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acostemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acuesten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me acostara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acostaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acostara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acostáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acostaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera acostado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras acostado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera acostado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos acostado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran acostado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "acuéstate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "acuéstese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acostémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "acuéstense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te acuestes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se acueste"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos acostemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se acuesten"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -AR verb with o→ue stem change",
+    "Stem change applies in presente (all forms except nosotros/nosotras): *acuesto, acuestas, acuesta, acuestan*",
+    "No stem change in pretérito indefinido (-AR verbs never change in preterite)",
+    "Subjuntivo nosotros reverts to infinitive stem: *nos acostemos* (not *\\*acuestemos*)",
+    "Past participle: acostado (regular)",
+    "*Me acuesto a las once* = I go to bed at eleven",
+    "Non-reflexive: *acostar* = to put (someone) to bed; *Acostó al niño* = She put the child to bed",
+    "Related: la cama (bed), el sueño (sleep/dream), dormirse (to fall asleep), despertarse (to wake up)"
+  ],
+  "sourceFile": "Verbs/a/Acostarse.md"
+}

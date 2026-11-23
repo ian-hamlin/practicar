@@ -1,0 +1,302 @@
+{
+  "id": "813e9da4-6e29-5cd0-94ad-72ad0b5bb6b7",
+  "infinitive": "Enamorar",
+  "englishMeaning": "to win someone's heart, to make fall in love",
+  "desc": "to win someone's heart, to make fall in love",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "enamorando",
+  "participio": "enamorado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "enamoro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enamoras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enamora"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enamoramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enamoran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "enamoré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enamoraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enamoró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enamoramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enamoraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "enamoraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enamorabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enamoraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enamorábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enamoraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he enamorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has enamorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha enamorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos enamorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han enamorado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había enamorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías enamorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había enamorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos enamorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían enamorado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "enamoraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enamorarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enamorará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enamoraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enamorarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "enamoraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enamorarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enamoraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enamoraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enamorarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré enamorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás enamorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá enamorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos enamorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán enamorado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "enamore"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enamores"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enamore"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enamoremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enamoren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "enamorara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enamoraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enamorara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enamoráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enamoraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera enamorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras enamorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera enamorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos enamorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran enamorado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "enamora"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "enamore"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enamoremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "enamoren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no enamores"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no enamore"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no enamoremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no enamoren"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *enamorado* (regular; also a very common adjective meaning \"in love\")",
+    "Means \"to win someone's heart\" or \"to make (someone) fall in love\" — *la enamoró con su sonrisa* (he won her heart with his smile)",
+    "Reflexive *enamorarse (de)* is far more common in everyday speech and means \"to fall in love (with)\": *me enamoré de ella al instante* (I fell in love with her instantly)",
+    "Related: *amor* (love), *enamorado/a* (in love; also \"sweetheart\" as a noun), *enamoramiento* (infatuation, the state of falling in love)"
+  ],
+  "sourceFile": "Verbs/e/Enamorar.md"
+}

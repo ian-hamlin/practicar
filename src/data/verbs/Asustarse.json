@@ -1,0 +1,304 @@
+{
+  "id": "29c996e4-3f86-5130-91ad-31cb73f06709",
+  "infinitive": "Asustarse",
+  "englishMeaning": "to get scared, to be frightened",
+  "desc": "to get scared, to be frightened",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "asustando",
+  "participio": "asustado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me asusto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te asustas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se asusta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos asustamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se asustan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me asusté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te asustaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se asustó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos asustamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se asustaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me asustaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te asustabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se asustaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos asustábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se asustaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he asustado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has asustado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha asustado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos asustado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han asustado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había asustado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías asustado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había asustado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos asustado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían asustado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me asustaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te asustarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se asustará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos asustaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se asustarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me asustaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te asustarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se asustaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos asustaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se asustarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré asustado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás asustado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá asustado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos asustado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán asustado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me asuste"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te asustes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se asuste"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos asustemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se asusten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me asustara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te asustaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se asustara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos asustáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se asustaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera asustado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras asustado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera asustado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos asustado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran asustado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "asústate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "asústese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "asustémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "asústense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te asustes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se asuste"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos asustemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se asusten"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -AR verb; regular in all forms",
+    "The non-reflexive \"asustar\" means to scare/to frighten (someone) — transitive",
+    "\"Asustarse\" is the intransitive reflexive: to get scared, to become frightened",
+    "Note: the non-reflexive Asustar.md already exists in this vault (added earlier)",
+    "Past participle: asustado",
+    "Common: asustarse de algo = to be scared of something; asustarse con algo = to be startled by something"
+  ],
+  "sourceFile": "Verbs/a/Asustarse.md"
+}

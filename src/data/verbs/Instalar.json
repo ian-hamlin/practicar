@@ -1,0 +1,300 @@
+{
+  "id": "4ef8508d-e4fd-5cfe-9a8b-b6e5b4d0808e",
+  "infinitive": "Instalar",
+  "englishMeaning": "to install, to set up",
+  "desc": "to install, to set up",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "i",
+  "categoryId": "50ce3e0b-61b3-530c-8b6a-399ede02b6b5",
+  "gerundio": "instalando",
+  "participio": "instalado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "instalo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "instalas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "instala"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "instalamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "instalan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "instalé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "instalaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "instaló"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "instalamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "instalaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "instalaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "instalabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "instalaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "instalábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "instalaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he instalado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has instalado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha instalado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos instalado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han instalado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había instalado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías instalado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había instalado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos instalado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían instalado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "instalaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "instalarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "instalará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "instalaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "instalarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "instalaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "instalarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "instalaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "instalaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "instalarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré instalado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás instalado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá instalado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos instalado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán instalado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "instale"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "instales"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "instale"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "instalemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "instalen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "instalara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "instalaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "instalara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "instaláramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "instalaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera instalado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras instalado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera instalado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos instalado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran instalado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "instala"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "instale"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "instalemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "instalen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no instales"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no instale"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no instalemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no instalen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb",
+    "Used for installing software, appliances, or setting up equipment",
+    "Past participle: instalado"
+  ],
+  "sourceFile": "Verbs/i/Instalar.md"
+}

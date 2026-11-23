@@ -1,0 +1,304 @@
+{
+  "id": "cd35e314-108b-5099-86af-e813e9de48ac",
+  "infinitive": "Atreverse",
+  "englishMeaning": "to dare / to have the nerve to",
+  "desc": "to dare / to have the nerve to",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "atreviendo",
+  "participio": "atrevido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me atrevo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te atreves"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se atreve"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos atrevemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se atreven"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me atreví"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te atreviste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se atrevió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos atrevimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se atrevieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me atrevía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te atrevías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se atrevía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos atrevíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se atrevían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he atrevido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has atrevido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha atrevido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos atrevido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han atrevido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había atrevido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías atrevido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había atrevido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos atrevido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían atrevido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me atreveré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te atreverás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se atreverá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos atreveremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se atreverán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me atrevería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te atreverías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se atrevería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos atreveríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se atreverían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré atrevido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás atrevido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá atrevido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos atrevido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán atrevido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me atreva"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te atrevas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se atreva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos atrevamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se atrevan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me atreviera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te atrevieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se atreviera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos atreviéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se atrevieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera atrevido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras atrevido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera atrevido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos atrevido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran atrevido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "atrévete"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "atrévase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "atrevámonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "atrévanse"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te atrevas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se atreva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos atrevamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se atrevan"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -ER verb; fully regular (only used in reflexive form)",
+    "Followed by **a + infinitive**: *atreverse a hacer algo* — to dare to do something",
+    "Past participle: *atrevido*",
+    "*atrevido/a* (adjective) = daring, bold, cheeky",
+    "*¡Atrévete!* = Dare yourself! / Go on, dare!",
+    "Common with negation: *No me atrevo a decírselo* — I don't dare tell him/her"
+  ],
+  "sourceFile": "Verbs/a/Atreverse.md"
+}

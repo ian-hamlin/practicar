@@ -1,0 +1,302 @@
+{
+  "id": "12259c8b-5f9c-5363-8987-f5e2aad166cc",
+  "infinitive": "Crear",
+  "englishMeaning": "to create",
+  "desc": "to create",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "creando",
+  "participio": "creado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "creo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "creas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "crea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "creamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "crean"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "creé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "creaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "creó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "creamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "crearon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "creaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "creabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "creaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "creábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "creaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he creado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has creado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha creado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos creado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han creado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había creado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías creado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había creado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos creado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían creado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "crearé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "crearás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "creará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "crearemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "crearán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "crearía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "crearías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "crearía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "crearíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "crearían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré creado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás creado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá creado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos creado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán creado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cree"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "crees"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cree"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "creemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "creen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "creara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "crearas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "creara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "creáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "crearan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera creado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras creado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera creado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos creado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran creado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "crea"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "cree"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "creemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "creen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no crees"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no cree"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no creemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no creen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb; the stem ends in a vowel (cre-), which causes some accent marks",
+    "In Pretérito Indefinido: yo = **creé** (double e, accent on second e), él/ella/usted = **creó** (accent on ó to distinguish from the conjunction \"creo/crea\")",
+    "Tú, nosotros, ellos forms have no accent: creaste, creamos, crearon",
+    "In Presente, \"creo\" looks like the yo form of \"creer\" but context distinguishes them",
+    "Past participle: creado"
+  ],
+  "sourceFile": "Verbs/c/Crear.md"
+}

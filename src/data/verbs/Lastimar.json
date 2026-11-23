@@ -1,0 +1,302 @@
+{
+  "id": "4144dc2e-f344-5035-bc6f-d84aca261114",
+  "infinitive": "Lastimar",
+  "englishMeaning": "to hurt, to injure",
+  "desc": "to hurt, to injure",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "l",
+  "categoryId": "fa5b6027-a511-5f12-980d-687e3e083fde",
+  "gerundio": "lastimando",
+  "participio": "lastimado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "lastimo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lastimas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lastima"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lastimamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lastiman"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "lastimé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lastimaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lastimó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lastimamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lastimaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "lastimaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lastimabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lastimaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lastimábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lastimaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he lastimado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has lastimado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha lastimado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos lastimado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han lastimado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había lastimado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías lastimado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había lastimado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos lastimado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían lastimado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "lastimaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lastimarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lastimará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lastimaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lastimarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "lastimaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lastimarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lastimaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lastimaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lastimarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré lastimado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás lastimado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá lastimado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos lastimado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán lastimado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "lastime"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lastimes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lastime"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lastimemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lastimen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "lastimara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lastimaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lastimara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lastimáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lastimaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera lastimado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras lastimado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera lastimado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos lastimado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran lastimado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "lastima"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "lastime"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lastimemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "lastimen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no lastimes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no lastime"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no lastimemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no lastimen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *lastimado* (regular)",
+    "Means \"to hurt\" or \"to injure\" (physically or emotionally) — *me lastimé el tobillo* (I hurt my ankle, with reflexive *lastimarse*), *sus palabras la lastimaron* (his words hurt her)",
+    "Reflexive *lastimarse* is very common for injuring oneself: *se lastimó al caer* (he/she got hurt falling)",
+    "Related: *lástima* (pity, shame — *¡qué lástima!* = what a shame!), *lastimero/a* (plaintive, pitiful)"
+  ],
+  "sourceFile": "Verbs/l/Lastimar.md"
+}

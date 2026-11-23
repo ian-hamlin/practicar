@@ -1,0 +1,302 @@
+{
+  "id": "11172ba0-8ad8-506c-8091-05f9faa0aba7",
+  "infinitive": "Insistir",
+  "englishMeaning": "to insist",
+  "desc": "to insist",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "i",
+  "categoryId": "50ce3e0b-61b3-530c-8b6a-399ede02b6b5",
+  "gerundio": "insistiendo",
+  "participio": "insistido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "insisto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "insistes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "insiste"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "insistimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "insisten"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "insistí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "insististe"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "insistió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "insistimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "insistieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "insistía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "insistías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "insistía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "insistíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "insistían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he insistido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has insistido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha insistido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos insistido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han insistido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había insistido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías insistido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había insistido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos insistido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían insistido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "insistiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "insistirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "insistirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "insistiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "insistirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "insistiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "insistirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "insistiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "insistiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "insistirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré insistido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás insistido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá insistido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos insistido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán insistido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "insista"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "insistas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "insista"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "insistamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "insistan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "insistiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "insistieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "insistiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "insistiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "insistieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera insistido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras insistido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera insistido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos insistido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran insistido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "insiste"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "insista"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "insistamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "insistan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no insistas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no insista"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no insistamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no insistan"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -IR verb — follows standard endings in every tense, no exceptions.",
+    "Often used with \"en\": *insistir en algo* (\"to insist on something\").",
+    "*Marcos insiste en llamarlo \"una en un millón\".* (\"Marcos insists on calling it 'one in a million'.\")",
+    "*Insistí varias veces, pero no cambió de opinión.* (\"I insisted several times, but he/she didn't change his/her mind.\")",
+    "Related: *la insistencia* (insistence, noun), *insistente* (insistent, adjective), *persistir* (near-synonym, \"to persist\")."
+  ],
+  "sourceFile": "Verbs/i/Insistir.md"
+}

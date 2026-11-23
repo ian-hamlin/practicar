@@ -1,0 +1,303 @@
+{
+  "id": "75b4e8e4-7638-563c-9a2d-d79e04ff9223",
+  "infinitive": "Cometer",
+  "englishMeaning": "to commit",
+  "desc": "to commit",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "cometiendo",
+  "participio": "cometido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cometo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cometes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "comete"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cometemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cometen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "cometí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cometiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cometió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cometimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cometieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "cometía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cometías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cometía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cometíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cometían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he cometido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has cometido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha cometido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos cometido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han cometido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había cometido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías cometido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había cometido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos cometido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían cometido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "cometeré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cometerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cometerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cometeremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cometerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "cometería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cometerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cometería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cometeríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cometerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré cometido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás cometido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá cometido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos cometido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán cometido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cometa"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cometas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cometa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cometamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cometan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "cometiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cometieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cometiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cometiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cometieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera cometido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras cometido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera cometido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos cometido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran cometido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "comete"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "cometa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cometamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "cometan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no cometas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no cometa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no cometamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no cometan"
+      }
+    ]
+  },
+  "notes": [
+    "**Cometer** is a regular -ER verb",
+    "No stem changes in any tense",
+    "Follows the same pattern as regular -ER verbs like comer, beber",
+    "Past participle: cometido (committed)",
+    "Common usage: *cometer un error* (to make a mistake), *cometer un crimen* (to commit a crime), *cometer una falta* (to commit a foul)",
+    "Often used with negative actions or mistakes"
+  ],
+  "sourceFile": "Verbs/c/Cometer.md"
+}

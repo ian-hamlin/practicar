@@ -1,0 +1,302 @@
+{
+  "id": "f50f52db-6eb5-5526-9e19-bf5ced47325a",
+  "infinitive": "Desarrollar",
+  "englishMeaning": "to develop",
+  "desc": "to develop",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "desarrollando",
+  "participio": "desarrollado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "desarrollo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desarrollas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desarrolla"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desarrollamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desarrollan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "desarrollé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desarrollaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desarrolló"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desarrollamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desarrollaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "desarrollaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desarrollabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desarrollaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desarrollábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desarrollaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he desarrollado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has desarrollado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha desarrollado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos desarrollado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han desarrollado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había desarrollado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías desarrollado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había desarrollado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos desarrollado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían desarrollado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "desarrollaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desarrollarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desarrollará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desarrollaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desarrollarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "desarrollaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desarrollarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desarrollaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desarrollaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desarrollarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré desarrollado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás desarrollado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá desarrollado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos desarrollado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán desarrollado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "desarrolle"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desarrolles"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desarrolle"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desarrollemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desarrollen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "desarrollara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desarrollaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desarrollara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desarrolláramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desarrollaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera desarrollado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras desarrollado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera desarrollado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos desarrollado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran desarrollado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "desarrolla"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "desarrolle"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desarrollemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "desarrollen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no desarrolles"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no desarrolle"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no desarrollemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no desarrollen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *desarrollado* (regular)",
+    "Means \"to develop\" — *desarrollar un proyecto* (to develop a project), *el niño se desarrolla rápido* (the child is developing quickly, with reflexive *desarrollarse*)",
+    "Common in business, technology, and biological/personal-growth contexts",
+    "Related: *desarrollo* (development), *desarrollador/a* (developer), *subdesarrollado/a* (underdeveloped)"
+  ],
+  "sourceFile": "Verbs/d/Desarrollar.md"
+}

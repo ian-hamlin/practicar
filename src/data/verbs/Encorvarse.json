@@ -1,0 +1,304 @@
+{
+  "id": "2eb05d4c-de1a-5f1c-8c96-5e45b7837212",
+  "infinitive": "Encorvarse",
+  "englishMeaning": "to hunch over / to stoop / to become hunched / to bend over",
+  "desc": "to hunch over / to stoop / to become hunched / to bend over",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "encorvando",
+  "participio": "encorvado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me encorvo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te encorvas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se encorva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos encorvamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se encorvan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me encorvé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te encorvaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se encorvó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos encorvamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se encorvaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me encorvaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te encorvabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se encorvaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos encorvábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se encorvaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he encorvado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has encorvado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha encorvado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos encorvado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han encorvado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había encorvado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías encorvado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había encorvado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos encorvado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían encorvado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me encorvaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te encorvarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se encorvará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos encorvaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se encorvarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me encorvaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te encorvarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se encorvaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos encorvaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se encorvarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré encorvado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás encorvado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá encorvado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos encorvado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán encorvado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me encorve"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te encorves"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se encorve"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos encorvemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se encorven"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me encorvara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te encorvaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se encorvara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos encorváramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se encorvaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera encorvado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras encorvado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera encorvado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos encorvado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran encorvado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "encórvate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "encórvese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "encorvémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "encórvense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te encorves"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se encorve"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos encorvemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se encorven"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular reflexive -AR verb; no spelling changes or stem changes",
+    "Past participle: *encorvado*",
+    "*encorvarse* = to hunch over, to stoop (*No te encorves al sentarte* — Don't hunch when you sit)",
+    "Non-reflexive *encorvar* = to bend/curve something (*El peso encorva la estantería* — The weight bends the shelf)",
+    "*estar encorvado/a* = to be hunched over (state)",
+    "Related: *la joroba* = hump; *jorobado/a* = hunchbacked; *la postura* = posture"
+  ],
+  "sourceFile": "Verbs/e/Encorvarse.md"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "e21b935e-9e34-5cae-a732-aea021646129",
+  "infinitive": "Gustar",
+  "englishMeaning": "to like / to please",
+  "desc": "to like / to please",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "g",
+  "categoryId": "ec8a91da-65cb-5d21-9c3a-4523865a71c5",
+  "gerundio": "gustando",
+  "participio": "gustado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "gusto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "gustas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "gusta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "gustamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "gustan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "gusté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "gustaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "gustó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "gustamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "gustaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "gustaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "gustabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "gustaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "gustábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "gustaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he gustado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has gustado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha gustado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos gustado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han gustado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había gustado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías gustado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había gustado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos gustado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían gustado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "gustaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "gustarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "gustará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "gustaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "gustarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "gustaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "gustarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "gustaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "gustaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "gustarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré gustado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás gustado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá gustado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos gustado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán gustado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "guste"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "gustes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "guste"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "gustemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "gusten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "gustara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "gustaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "gustara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "gustáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "gustaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera gustado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras gustado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera gustado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos gustado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran gustado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "gusta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "guste"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "gustemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "gusten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no gustes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no guste"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no gustemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no gusten"
+      }
+    ]
+  },
+  "notes": [
+    "**Gustar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "**SPECIAL USAGE:** Gustar works differently than English \"to like\"",
+    "Structure: **Indirect object pronoun + gusta/gustan + subject**",
+    "*Me gusta el café* = I like coffee (literally: Coffee pleases me)",
+    "*Me gustan los libros* = I like books (literally: Books please me)",
+    "Most commonly used in 3rd person: **gusta** (singular) / **gustan** (plural)",
+    "Indirect object pronouns: me, te, le, nos, les",
+    "Common usage:",
+    "*Me gusta bailar* (I like to dance)",
+    "*¿Te gusta el chocolate?* (Do you like chocolate?)",
+    "*A ella le gustan las películas* (She likes movies)",
+    "Similar verbs: **encantar** (to love), **interesar** (to interest), **molestar** (to bother)#v"
+  ],
+  "sourceFile": "Verbs/g/Gustar.md"
+}

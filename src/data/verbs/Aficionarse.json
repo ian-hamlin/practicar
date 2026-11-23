@@ -1,0 +1,303 @@
+{
+  "id": "6cba037a-329b-5701-b329-65756d23c2c4",
+  "infinitive": "Aficionarse",
+  "englishMeaning": "to become keen on / to take up / to become a fan of",
+  "desc": "to become keen on / to take up / to become a fan of",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "aficionando",
+  "participio": "aficionado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me aficiono"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te aficionas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se aficiona"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos aficionamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se aficionan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me aficioné"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te aficionaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se aficionó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos aficionamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se aficionaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me aficionaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te aficionabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se aficionaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos aficionábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se aficionaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he aficionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has aficionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha aficionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos aficionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han aficionado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había aficionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías aficionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había aficionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos aficionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían aficionado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me aficionaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te aficionarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se aficionará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos aficionaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se aficionarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me aficionaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te aficionarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se aficionaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos aficionaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se aficionarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré aficionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás aficionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá aficionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos aficionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán aficionado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me aficione"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te aficiones"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se aficione"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos aficionemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se aficionen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me aficionara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te aficionaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se aficionara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos aficionáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se aficionaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera aficionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras aficionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera aficionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos aficionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran aficionado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "aficiónate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "aficiónese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aficionémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "aficiónense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te aficiones"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se aficione"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos aficionemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se aficionen"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -AR verb; fully regular",
+    "Always followed by **a**: *aficionarse a algo/alguien* — to become a fan of something/someone",
+    "Past participle: *aficionado*",
+    "*el aficionado / la aficionada* = fan, enthusiast, amateur (*un aficionado al fútbol* — a football fan)",
+    "Related: *la afición* = hobby, passion, fan base"
+  ],
+  "sourceFile": "Verbs/a/Aficionarse.md"
+}

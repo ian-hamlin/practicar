@@ -1,0 +1,301 @@
+{
+  "id": "5e06afd4-4bbd-556a-890c-da9077b3394f",
+  "infinitive": "Negociar",
+  "englishMeaning": "to negotiate",
+  "desc": "to negotiate",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "n",
+  "categoryId": "8779dc62-9f31-5393-b27c-acaee5781ff5",
+  "gerundio": "negociando",
+  "participio": "negociado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "negocio"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "negocias"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "negocia"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "negociamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "negocian"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "negocié"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "negociaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "negoció"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "negociamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "negociaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "negociaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "negociabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "negociaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "negociábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "negociaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he negociado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has negociado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha negociado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos negociado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han negociado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había negociado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías negociado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había negociado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos negociado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían negociado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "negociaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "negociarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "negociará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "negociaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "negociarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "negociaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "negociarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "negociaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "negociaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "negociarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré negociado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás negociado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá negociado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos negociado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán negociado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "negocie"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "negocies"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "negocie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "negociemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "negocien"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "negociara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "negociaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "negociara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "negociáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "negociaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera negociado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras negociado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera negociado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos negociado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran negociado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "negocia"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "negocie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "negociemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "negocien"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no negocies"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no negocie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no negociemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no negocien"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *negociado* (regular)",
+    "Means \"to negotiate\" — *negociar un contrato* (to negotiate a contract), *negociamos el precio* (we negotiated the price)",
+    "Related: *negociación* (negotiation), *negociador/a* (negotiator), *negocio* (business, deal)"
+  ],
+  "sourceFile": "Verbs/n/Negociar.md"
+}

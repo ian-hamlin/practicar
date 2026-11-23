@@ -1,0 +1,304 @@
+{
+  "id": "5badb57c-33b6-56cd-a425-47d2ba57cd99",
+  "infinitive": "Subirse",
+  "englishMeaning": "to get on / to climb / to go up",
+  "desc": "to get on / to climb / to go up",
+  "tags": [
+    "verb",
+    "reflexive",
+    "regular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "subiendo",
+  "participio": "subido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me subo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te subes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se sube"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos subimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se suben"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me subí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te subiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se subió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos subimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se subieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me subía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te subías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se subía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos subíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se subían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he subido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has subido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha subido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos subido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han subido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había subido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías subido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había subido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos subido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían subido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me subiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te subirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se subirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos subiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se subirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me subiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te subirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se subiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos subiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se subirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré subido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás subido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá subido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos subido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán subido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me suba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te subas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se suba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos subamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se suban"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me subiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te subieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se subiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos subiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se subieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera subido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras subido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera subido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos subido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran subido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "súbete"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "súbase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "subámonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "súbanse"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te subas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se suba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos subamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se suban"
+      }
+    ]
+  },
+  "notes": [
+    "**Subirse** is the reflexive form of **subir** (to go up/climb/upload)",
+    "Regular **-IR verb** with reflexive pronouns",
+    "No spelling changes or stem changes",
+    "Used for getting on transportation or climbing onto something",
+    "Non-reflexive **subir**: covered earlier (to go up, to raise, to upload)",
+    "Common usage: *subirse al autobús* (to get on the bus), *subirse al árbol* (to climb the tree)"
+  ],
+  "sourceFile": "Verbs/s/Subirse.md"
+}

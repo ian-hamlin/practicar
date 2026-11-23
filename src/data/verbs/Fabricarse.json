@@ -1,0 +1,305 @@
+{
+  "id": "e4cfe445-0304-5a2d-9087-1a4a93431e55",
+  "infinitive": "Fabricarse",
+  "englishMeaning": "to make for oneself, to be manufactured",
+  "desc": "to make for oneself, to be manufactured",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive"
+  ],
+  "letter": "f",
+  "categoryId": "6a4f18c0-f5d2-5016-9134-e92fb8c852a7",
+  "gerundio": "fabricando",
+  "participio": "fabricado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me fabrico"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te fabricas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se fabrica"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos fabricamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se fabrican"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me fabriqué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te fabricaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se fabricó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos fabricamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se fabricaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me fabricaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te fabricabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se fabricaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos fabricábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se fabricaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he fabricado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has fabricado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha fabricado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos fabricado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han fabricado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había fabricado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías fabricado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había fabricado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos fabricado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían fabricado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me fabricaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te fabricarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se fabricará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos fabricaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se fabricarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me fabricaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te fabricarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se fabricaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos fabricaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se fabricarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré fabricado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás fabricado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá fabricado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos fabricado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán fabricado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me fabrique"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te fabriques"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se fabrique"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos fabriquemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se fabriquen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me fabricara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te fabricaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se fabricara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos fabricáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se fabricaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera fabricado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras fabricado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera fabricado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos fabricado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran fabricado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "fabrícate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "fabríquese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fabriquémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "fabríquense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te fabriques"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se fabrique"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos fabriquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se fabriquen"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -AR verb with a spelling change: *c→qu* before *e*, to preserve the hard /k/ sound — affects the yo form of Pretérito Indefinido (*me fabriqué*, not *me fabricé*) and all of Subjuntivo Presente (*me fabrique, te fabriques...*)",
+    "Same spelling pattern as *dedicarse*, *comunicar*, *secar*",
+    "Affirmative imperative attaches the reflexive pronoun with a written accent to preserve stress (*fabrícate, fabríquese, fabriquémonos, fabríquense*); negative imperative places the pronoun separately (*no te fabriques*...)",
+    "Past participle: *fabricado* (regular)",
+    "Two main senses: reflexive \"to make/build for oneself\" — *se fabricó su propia casa* (he built his own house) — and passive-reflexive \"to be manufactured\" — *este producto se fabrica en España* (this product is manufactured in Spain)",
+    "Base verb *fabricar* (\"to manufacture, to make\") is the non-reflexive counterpart, worth adding separately if needed",
+    "Related: *fábrica* (factory), *fabricante* (manufacturer), *fabricación* (manufacturing)"
+  ],
+  "sourceFile": "Verbs/f/Fabricarse.md"
+}

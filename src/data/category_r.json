@@ -1,0 +1,379 @@
+{
+  "id": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "letter": "r",
+  "count": 36,
+  "verbs": [
+    {
+      "id": "b1c19982-35d9-5450-a002-0c02774d25be",
+      "infinitive": "Rankear",
+      "desc": "to rank (informal, anglicism)",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Rankear.json"
+    },
+    {
+      "id": "eccdfb0e-5a91-5f7c-83a6-d29eae70cd63",
+      "infinitive": "Realizar",
+      "desc": "to carry out / to achieve / to realise",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Realizar.json"
+    },
+    {
+      "id": "b0f48901-d5ed-5ddc-9970-dbc7a254043e",
+      "infinitive": "Rechazar",
+      "desc": "to reject",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Rechazar.json"
+    },
+    {
+      "id": "36a75ee3-d6fa-5c6d-85a0-34c13d868618",
+      "infinitive": "Recibir",
+      "desc": "to receive, to get",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Recibir.json"
+    },
+    {
+      "id": "699d107b-6dd2-50a5-a18b-5c63664e2e36",
+      "infinitive": "Recibirse",
+      "desc": "to graduate, to qualify (Latin American)",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Recibirse.json"
+    },
+    {
+      "id": "6767a5fe-c042-530f-a3a4-771ed2003c35",
+      "infinitive": "Reciclar",
+      "desc": "to recycle",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Reciclar.json"
+    },
+    {
+      "id": "e57cc76e-4382-5849-8839-01c49cc148ab",
+      "infinitive": "Reclamar",
+      "desc": "to complain, to make a claim, to demand",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Reclamar.json"
+    },
+    {
+      "id": "5f201c23-4e57-5a0f-88a4-c1169e8604d9",
+      "infinitive": "Recoger",
+      "desc": "to pick up, to collect",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Recoger.json"
+    },
+    {
+      "id": "ae5d4e8d-1e3d-581d-9a9a-9b6399b0fe85",
+      "infinitive": "Recomendar",
+      "desc": "to recommend",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Recomendar.json"
+    },
+    {
+      "id": "2d19363d-43cd-586b-9b19-cadb94ef61c8",
+      "infinitive": "Recordar",
+      "desc": "to remember / to remind",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Recordar.json"
+    },
+    {
+      "id": "b4800443-cadd-575e-8ce5-b862cceb5b77",
+      "infinitive": "Recurrir",
+      "desc": "to resort to, to turn to, to appeal",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Recurrir.json"
+    },
+    {
+      "id": "acde8b21-4697-571b-9422-5c2a1db973b6",
+      "infinitive": "Reformar",
+      "desc": "to renovate, to reform, to refurbish",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Reformar.json"
+    },
+    {
+      "id": "804a0d42-54f3-56cc-b38c-46b8727f76b6",
+      "infinitive": "Regalar",
+      "desc": "to give (as a gift) / to gift",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Regalar.json"
+    },
+    {
+      "id": "faf53113-83c7-5125-83e4-d4f57fcdcf28",
+      "infinitive": "Regar",
+      "desc": "to water (plants), to irrigate",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Regar.json"
+    },
+    {
+      "id": "8a1dc36e-cb62-5314-9ba1-bf47251899fa",
+      "infinitive": "Regatear",
+      "desc": "to bargain, to haggle",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Regatear.json"
+    },
+    {
+      "id": "7df4f3f9-bb20-5823-b7c3-841b1e804ea6",
+      "infinitive": "Regentar",
+      "desc": "to run, to manage (a business)",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Regentar.json"
+    },
+    {
+      "id": "841e911e-b4b5-5b4c-8194-228a97af080c",
+      "infinitive": "Reglamentar",
+      "desc": "to regulate, to establish rules for",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Reglamentar.json"
+    },
+    {
+      "id": "21d5011c-8db5-5558-a7b5-6b0300295310",
+      "infinitive": "Regresar",
+      "desc": "to return, to go back, to come back",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Regresar.json"
+    },
+    {
+      "id": "56021675-4844-5861-ac47-507337b381ba",
+      "infinitive": "Reír",
+      "desc": "to laugh",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_i"
+      ],
+      "file": "verbs/Reír.json"
+    },
+    {
+      "id": "f4e56a29-4d05-5487-8fd2-f7a911547f1b",
+      "infinitive": "Relajar",
+      "desc": "to relax (someone/something)",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Relajar.json"
+    },
+    {
+      "id": "f5a4f0f4-0bb7-5477-a49c-374e821591de",
+      "infinitive": "Relajarse",
+      "desc": "to relax / to unwind / to loosen up",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Relajarse.json"
+    },
+    {
+      "id": "a4a6b282-1a69-5800-9a9a-c27362e23f65",
+      "infinitive": "Rendirse",
+      "desc": "to give up, to surrender",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive",
+        "stem_e_i"
+      ],
+      "file": "verbs/Rendirse.json"
+    },
+    {
+      "id": "55b73374-14f0-5d04-9e24-7270fd5efdff",
+      "infinitive": "Renunciar",
+      "desc": "to resign / to quit / to renounce",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Renunciar.json"
+    },
+    {
+      "id": "7edbc080-4be5-5198-bbda-2f7ff430e491",
+      "infinitive": "Reñir",
+      "desc": "to scold, to tell off, to quarrel",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_i"
+      ],
+      "file": "verbs/Reñir.json"
+    },
+    {
+      "id": "c585da79-058b-5d29-8835-c66ae35d1db1",
+      "infinitive": "Reparar",
+      "desc": "to repair / to fix / to mend",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Reparar.json"
+    },
+    {
+      "id": "d4253a05-8e17-5bd8-ae6c-b0338d7bb4e7",
+      "infinitive": "Repetir",
+      "desc": "to repeat",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_i"
+      ],
+      "file": "verbs/Repetir.json"
+    },
+    {
+      "id": "e6ebc1f6-3552-5443-ba70-baf2cd5064c1",
+      "infinitive": "Replantearse",
+      "desc": "to reconsider, to rethink",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Replantearse.json"
+    },
+    {
+      "id": "08e37eeb-4226-5887-9977-27200a8e0c98",
+      "infinitive": "Rescatar",
+      "desc": "to rescue",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Rescatar.json"
+    },
+    {
+      "id": "82ca6843-c390-5fea-b526-128601cdae73",
+      "infinitive": "Reservar",
+      "desc": "to reserve / to book",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Reservar.json"
+    },
+    {
+      "id": "f72e5e4a-b7a4-5756-a5ff-c68d1df6c14f",
+      "infinitive": "Respetar",
+      "desc": "to respect",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Respetar.json"
+    },
+    {
+      "id": "cb2b7e44-57d2-54bb-aa24-3626e354d120",
+      "infinitive": "Responder",
+      "desc": "to answer / to respond / to reply",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Responder.json"
+    },
+    {
+      "id": "c0e442ab-09c4-5163-a451-36894c19f624",
+      "infinitive": "Resultar",
+      "desc": "to turn out, to result, to prove to be",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Resultar.json"
+    },
+    {
+      "id": "f3e58db0-014d-5b92-a51e-01bfdfa4f61e",
+      "infinitive": "Retirar",
+      "desc": "to remove, to clear away, to withdraw",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Retirar.json"
+    },
+    {
+      "id": "ac04071b-ac9e-5b16-a6e0-75a4532e8a78",
+      "infinitive": "Robar",
+      "desc": "to rob/to steal",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Robar.json"
+    },
+    {
+      "id": "30b088ca-a573-54d5-bf90-df60b4e4895e",
+      "infinitive": "Romper",
+      "desc": "to break",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Romper.json"
+    },
+    {
+      "id": "453834ea-96aa-52ae-b174-ce13d1b6f6e6",
+      "infinitive": "Romperse",
+      "desc": "to break, to snap, to shatter (intransitive)",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive"
+      ],
+      "file": "verbs/Romperse.json"
+    }
+  ]
+}

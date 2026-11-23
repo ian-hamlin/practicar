@@ -1,0 +1,305 @@
+{
+  "id": "2697a178-96ca-5d88-baf2-88257be59934",
+  "infinitive": "Usar",
+  "englishMeaning": "to use / to wear",
+  "desc": "to use / to wear",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "u",
+  "categoryId": "770b5668-3401-5a60-ab5b-964aac2ea95b",
+  "gerundio": "usando",
+  "participio": "usado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "uso"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "usas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "usa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "usamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "usan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "usé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "usaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "usó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "usamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "usaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "usaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "usabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "usaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "usábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "usaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he usado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has usado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha usado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos usado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han usado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había usado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías usado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había usado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos usado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían usado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "usaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "usarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "usará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "usaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "usarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "usaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "usarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "usaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "usaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "usarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré usado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás usado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá usado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos usado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán usado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "use"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "uses"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "use"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "usemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "usen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "usara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "usaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "usara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "usáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "usaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera usado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras usado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera usado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos usado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran usado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "usa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "use"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "usemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "usen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no uses"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no use"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no usemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no usen"
+      }
+    ]
+  },
+  "notes": [
+    "**Usar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **usado** (regular)",
+    "Multiple meanings:",
+    "To use: *usar el teléfono* (to use the phone)",
+    "To wear: *usar gafas* (to wear glasses)",
+    "Common usage: *usar un fósforo* (to use a match), *usar ropa elegante* (to wear elegant clothes)",
+    "Related adjective: **usado/a** (used, worn)"
+  ],
+  "sourceFile": "Verbs/u/Usar.md"
+}

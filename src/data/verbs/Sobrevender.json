@@ -1,0 +1,301 @@
+{
+  "id": "731bced1-86ee-5aba-b5c0-8df6690cebab",
+  "infinitive": "Sobrevender",
+  "englishMeaning": "to oversell, to overbook",
+  "desc": "to oversell, to overbook",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "sobrevendiendo",
+  "participio": "sobrevendido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sobrevendo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sobrevendes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sobrevende"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sobrevendemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sobrevenden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "sobrevendí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sobrevendiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sobrevendió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sobrevendimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sobrevendieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "sobrevendía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sobrevendías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sobrevendía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sobrevendíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sobrevendían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he sobrevendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has sobrevendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha sobrevendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos sobrevendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han sobrevendido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había sobrevendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías sobrevendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había sobrevendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos sobrevendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían sobrevendido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "sobrevenderé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sobrevenderás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sobrevenderá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sobrevenderemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sobrevenderán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "sobrevendería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sobrevenderías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sobrevendería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sobrevenderíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sobrevenderían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré sobrevendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás sobrevendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá sobrevendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos sobrevendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán sobrevendido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sobrevenda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sobrevendas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sobrevenda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sobrevendamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sobrevendan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "sobrevendiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sobrevendieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sobrevendiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sobrevendiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sobrevendieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera sobrevendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras sobrevendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera sobrevendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos sobrevendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran sobrevendido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "sobrevende"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "sobrevenda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sobrevendamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "sobrevendan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no sobrevendas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no sobrevenda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no sobrevendamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no sobrevendan"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -ER verb formed with prefix *sobre-* + *vender* (to sell). All conjugations follow standard -ER endings.",
+    "*El hotel sobrevendió sus habitaciones.* (The hotel oversold its rooms.)",
+    "*La aerolínea sobrevende vuelos con frecuencia.* (The airline frequently overbooks flights.)",
+    "Related: *vender* (to sell), *el sobrevendido* (overbooking situation), *el overbooking* (also used in Spanish)"
+  ],
+  "sourceFile": "Verbs/s/Sobrevender.md"
+}

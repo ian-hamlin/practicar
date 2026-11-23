@@ -1,0 +1,303 @@
+{
+  "id": "5a8c80d0-2caf-5ff7-9937-63933db57347",
+  "infinitive": "Acostumbrarse",
+  "englishMeaning": "to get used to / to become accustomed to",
+  "desc": "to get used to / to become accustomed to",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "acostumbrando",
+  "participio": "acostumbrado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me acostumbro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acostumbras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acostumbra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acostumbramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acostumbran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me acostumbré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acostumbraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acostumbró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acostumbramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acostumbraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me acostumbraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acostumbrabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acostumbraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acostumbrábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acostumbraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he acostumbrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has acostumbrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha acostumbrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos acostumbrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han acostumbrado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había acostumbrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías acostumbrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había acostumbrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos acostumbrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían acostumbrado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me acostumbraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acostumbrarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acostumbrará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acostumbraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acostumbrarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me acostumbraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acostumbrarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acostumbraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acostumbraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acostumbrarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré acostumbrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás acostumbrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá acostumbrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos acostumbrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán acostumbrado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me acostumbre"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acostumbres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acostumbre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acostumbremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acostumbren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me acostumbrara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acostumbraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acostumbrara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acostumbráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acostumbraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera acostumbrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras acostumbrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera acostumbrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos acostumbrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran acostumbrado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "acostúmbrate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "acostúmbrese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acostumbrémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "acostúmbrense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te acostumbres"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se acostumbre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos acostumbremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se acostumbren"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive form of *acostumbrar* (to accustom); fully regular -AR verb",
+    "Always followed by **a + infinitive**: *acostumbrarse a hacer algo* — to get used to doing something",
+    "Past participle: *acostumbrado*",
+    "Non-reflexive *acostumbrar a* = to be in the habit of: *Acostumbro a levantarme temprano* — I usually get up early",
+    "Related: *estar acostumbrado/a a* = to be used to (*Ya estoy acostumbrado al frío* — I'm already used to the cold)"
+  ],
+  "sourceFile": "Verbs/a/Acostumbrarse.md"
+}

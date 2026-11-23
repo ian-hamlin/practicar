@@ -1,0 +1,303 @@
+{
+  "id": "77949a8c-cc6e-5394-a87e-190ed9ead792",
+  "infinitive": "Ahorrar",
+  "englishMeaning": "to save money or time",
+  "desc": "to save (money or time)",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "ahorrando",
+  "participio": "ahorrado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ahorro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ahorras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ahorra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ahorramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ahorran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "ahorré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ahorraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ahorró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ahorramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ahorraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "ahorraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ahorrabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ahorraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ahorrábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ahorraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he ahorrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has ahorrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha ahorrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos ahorrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han ahorrado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había ahorrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías ahorrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había ahorrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos ahorrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían ahorrado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "ahorraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ahorrarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ahorrará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ahorraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ahorrarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "ahorraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ahorrarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ahorraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ahorraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ahorrarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré ahorrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás ahorrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá ahorrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos ahorrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán ahorrado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ahorre"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ahorres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ahorre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ahorremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ahorren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "ahorrara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ahorraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ahorrara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ahorráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ahorraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera ahorrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras ahorrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera ahorrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos ahorrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran ahorrado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "ahorra"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "ahorre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ahorremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "ahorren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no ahorres"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no ahorre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no ahorremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no ahorren"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; follows standard endings throughout",
+    "Past participle: ahorrado (regular)",
+    "*Ahorrar dinero* = to save money: *Ahorro cada mes para las vacaciones* = I save every month for the holidays",
+    "*Ahorrar tiempo* = to save time: *Esto nos ahorra mucho tiempo* = This saves us a lot of time",
+    "*Ahorrar energía* = to save energy",
+    "Related: el ahorro (saving/savings), los ahorros (savings), el/la ahorrador/a (saver)"
+  ],
+  "sourceFile": "Verbs/a/Ahorrar.md"
+}

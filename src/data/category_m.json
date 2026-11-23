@@ -1,0 +1,186 @@
+{
+  "id": "c342e4a9-b5da-540a-927d-ccca901fb9ff",
+  "letter": "m",
+  "count": 17,
+  "verbs": [
+    {
+      "id": "6ec10831-d35b-5ce8-b309-86d26b5f6c12",
+      "infinitive": "Mandar",
+      "desc": "to send, to order/command",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Mandar.json"
+    },
+    {
+      "id": "866a51d1-27f3-5208-9574-c7fda5d1e5a3",
+      "infinitive": "Mantener",
+      "desc": "to maintain / to keep / to support / to sustain",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Mantener.json"
+    },
+    {
+      "id": "98f83eb1-e0b2-5e38-9d62-4e1822050377",
+      "infinitive": "Marcar",
+      "desc": "to mark, to score, to dial",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Marcar.json"
+    },
+    {
+      "id": "8ae74933-bfc9-5c06-ac62-619c6fd16808",
+      "infinitive": "Marchar",
+      "desc": "to march, to go/run (of a machine, plan)",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Marchar.json"
+    },
+    {
+      "id": "b1a08cb7-de9c-5817-ba71-0268aa1d7f94",
+      "infinitive": "Matar",
+      "desc": "to kill",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Matar.json"
+    },
+    {
+      "id": "26fab6ea-305c-55b2-b1e2-3a7471aedb35",
+      "infinitive": "Medir",
+      "desc": "to measure",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_i"
+      ],
+      "file": "verbs/Medir.json"
+    },
+    {
+      "id": "f16180b9-c325-5139-bc37-7ce4b38a329e",
+      "infinitive": "Mejorar",
+      "desc": "to improve / to get better",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Mejorar.json"
+    },
+    {
+      "id": "b5b202fa-fead-5bd3-9165-c9332752e114",
+      "infinitive": "Mentir",
+      "desc": "to lie, to tell a lie",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Mentir.json"
+    },
+    {
+      "id": "329a5c99-b645-5fcd-b8ce-f4c5ba50f5c6",
+      "infinitive": "Merecer",
+      "desc": "to deserve, to merit",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Merecer.json"
+    },
+    {
+      "id": "00bf27fd-ee05-5710-b170-13fd570332fc",
+      "infinitive": "Mirar",
+      "desc": "to look at / to watch",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Mirar.json"
+    },
+    {
+      "id": "4e2e07d9-4824-54d5-99f3-1e8e0e3a13a1",
+      "infinitive": "Mojarse",
+      "desc": "to get wet",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Mojarse.json"
+    },
+    {
+      "id": "d4976752-8e6e-51b1-be50-d2a6185c2afa",
+      "infinitive": "Molestar",
+      "desc": "to bother, to annoy, to disturb",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Molestar.json"
+    },
+    {
+      "id": "ecc46527-0aa5-5580-b135-b07c71186faa",
+      "infinitive": "Morder",
+      "desc": "to bite",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Morder.json"
+    },
+    {
+      "id": "fd47864f-0004-5b9f-859b-0ea9823cfb54",
+      "infinitive": "Morir",
+      "desc": "to die",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Morir.json"
+    },
+    {
+      "id": "05696d2c-ccbe-57b8-b192-afa7e147d2d7",
+      "infinitive": "Morirse",
+      "desc": "to die (emphasizes the process/experience)",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Morirse.json"
+    },
+    {
+      "id": "92e73547-02b7-5012-a482-db5c895185bb",
+      "infinitive": "Mostrar",
+      "desc": "to show",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Mostrar.json"
+    },
+    {
+      "id": "5ed9c34c-bf29-5925-a765-22b80acf265c",
+      "infinitive": "Mudar",
+      "desc": "to change / to move",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Mudar.json"
+    }
+  ]
+}

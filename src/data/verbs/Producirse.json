@@ -1,0 +1,304 @@
+{
+  "id": "703559ab-1eaf-5e4b-865f-293e8f9f1349",
+  "infinitive": "Producirse",
+  "englishMeaning": "to occur / to happen / to take place",
+  "desc": "to occur / to happen / to take place",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "produciendo",
+  "participio": "producido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me produzco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te produces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se produce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos producimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se producen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me produje"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te produjiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se produjo"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos produjimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se produjeron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me producía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te producías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se producía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos producíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se producían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he producido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has producido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha producido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos producido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han producido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había producido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías producido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había producido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos producido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían producido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me produciré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te producirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se producirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos produciremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se producirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me produciría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te producirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se produciría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos produciríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se producirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré producido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás producido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá producido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos producido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán producido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me produzca"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te produzcas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se produzca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos produzcamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se produzcan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me produjera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te produjeras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se produjera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos produjéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se produjeran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera producido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras producido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera producido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos producido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran producido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "prodúcete"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "prodúzcase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "produzcámonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "prodúzcanse"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te produzcas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se produzca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos produzcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se produzcan"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive form of *producir* (to produce); used to mean \"to occur / to happen / to take place\"",
+    "Most commonly used in 3rd person: *se produce un accidente* (an accident occurs)",
+    "Irregular yo present: *me produzco* (c→zc change, like *conocer*, *conducir*)",
+    "Irregular preterite stem: *produj-* (like *conducir* → *conduj-*); no accent on 3rd person singular (*produjo*)",
+    "Past participle: *producido*",
+    "Subjuntivo stem from yo form: *produzc-* (*se produzca*)"
+  ],
+  "sourceFile": "Verbs/p/Producirse.md"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "0c45d232-2f08-561d-a3e5-af45983ae345",
+  "infinitive": "Divertir",
+  "englishMeaning": "to amuse / to entertain",
+  "desc": "to amuse / to entertain",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "divirtiendo",
+  "participio": "divertido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "divierto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "diviertes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "divierte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "divertimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "divierten"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "divertí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "divertiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "divirtió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "divertimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "divirtieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "divertía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "divertías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "divertía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "divertíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "divertían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he divertido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has divertido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha divertido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos divertido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han divertido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había divertido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías divertido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había divertido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos divertido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían divertido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "divertiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "divertirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "divertirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "divertiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "divertirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "divertiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "divertirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "divertiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "divertiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "divertirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré divertido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás divertido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá divertido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos divertido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán divertido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "divierta"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "diviertas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "divierta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "divirtamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "diviertan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "divirtiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "divirtieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "divirtiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "divirtiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "divirtieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera divertido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras divertido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera divertido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos divertido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran divertido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "divierte"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "divierta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "divirtamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "diviertan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no diviertas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no divierta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no divirtamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no diviertan"
+      }
+    ]
+  },
+  "notes": [
+    "**Divertir** is a stem-changing verb: e→ie in present, e→i in preterite",
+    "Present: stem change e→ie (except nosotros)",
+    "Preterite: stem change e→i in 3rd person forms (divirtió, divirtieron)",
+    "Imperfect: regular -IR pattern, NO stem change",
+    "Pretérito Perfecto: regular past participle **divertido**",
+    "Future: regular future endings attached to infinitive",
+    "Condicional: regular conditional endings attached to infinitive",
+    "Almost always used reflexively: **divertirse** (to have fun, to enjoy oneself)",
+    "Reflexive forms: *me divierto, te diviertes, se divierte, nos divertimos, se divierten*",
+    "Common usage: *Me divertí mucho* (I had a lot of fun), *¿Te diviertes?* (Are you having fun?)",
+    "Related adjective: **divertido/a** (fun, amusing, entertaining)",
+    "Same pattern as **sentir** and **preferir**"
+  ],
+  "sourceFile": "Verbs/d/Divertir.md"
+}

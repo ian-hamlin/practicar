@@ -1,0 +1,305 @@
+{
+  "id": "faf53113-83c7-5125-83e4-d4f57fcdcf28",
+  "infinitive": "Regar",
+  "englishMeaning": "to water plants, to irrigate",
+  "desc": "to water (plants), to irrigate",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "regando",
+  "participio": "regado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "riego"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "riegas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "riega"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "riegan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "regué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "regaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he regado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has regado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha regado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos regado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han regado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había regado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías regado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había regado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos regado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían regado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "regaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "regaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré regado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás regado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá regado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos regado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán regado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "riegue"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "riegues"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "riegue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reguemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rieguen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "regara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera regado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras regado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera regado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos regado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran regado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "riega"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "riegue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "rieguen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no riegues"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no riegue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no reguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no rieguen"
+      }
+    ]
+  },
+  "notes": [
+    "Two irregularities combine: e→ie stem change + g→gu spelling change before e",
+    "Stem change (e→ie): affects all present tense forms except nosotros (*riego, riegas, riega, regamos, riegan*)",
+    "Spelling change (g→gu): affects yo pretérito indefinido (*regué*) and subjuntivo presente to preserve hard /g/",
+    "Nosotros reverts to infinitive stem in subjuntivo presente: *reguemos* (not ~~*rieguemos*~~)",
+    "Past participle: regado (regular)",
+    "*Regar las plantas* = to water the plants; *regar el jardín* = to water the garden",
+    "Related: el riego (irrigation, watering), la regadera (watering can)"
+  ],
+  "sourceFile": "Verbs/r/Regar.md"
+}

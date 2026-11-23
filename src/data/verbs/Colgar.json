@@ -1,0 +1,303 @@
+{
+  "id": "9f21d0af-8169-5577-81eb-54ba2559e713",
+  "infinitive": "Colgar",
+  "englishMeaning": "to hang / to hang up",
+  "desc": "to hang / to hang up",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "colgando",
+  "participio": "colgado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cuelgo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cuelgas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cuelga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "colgamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cuelgan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "colgué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "colgaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "colgó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "colgamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "colgaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "colgaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "colgabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "colgaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "colgábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "colgaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he colgado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has colgado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha colgado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos colgado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han colgado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había colgado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías colgado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había colgado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos colgado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían colgado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "colgaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "colgarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "colgará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "colgaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "colgarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "colgaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "colgarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "colgaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "colgaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "colgarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré colgado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás colgado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá colgado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos colgado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán colgado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cuelgue"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cuelgues"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cuelgue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "colguemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cuelguen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "colgara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "colgaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "colgara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "colgáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "colgaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera colgado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras colgado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera colgado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos colgado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran colgado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "cuelga"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "cuelgue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "colguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "cuelguen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no cuelgues"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no cuelgue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no colguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no cuelguen"
+      }
+    ]
+  },
+  "notes": [
+    "**Colgar** is a stem-changing verb: o→ue, with spelling change",
+    "Present: stem change o→ue (except nosotros)",
+    "Preterite: spelling change g→gu before é (colgué), NO stem change",
+    "Imperfect: regular -AR pattern, NO stem change",
+    "Used for hanging items"
+  ],
+  "sourceFile": "Verbs/c/Colgar.md"
+}

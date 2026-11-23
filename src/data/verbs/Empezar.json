@@ -1,0 +1,304 @@
+{
+  "id": "3385bbea-aa47-5afb-82cb-4933f138ab95",
+  "infinitive": "Empezar",
+  "englishMeaning": "to begin / to start",
+  "desc": "to begin / to start",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "empezando",
+  "participio": "empezado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "empiezo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empiezas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empieza"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empezamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empiezan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "empecé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empezaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empezó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empezamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empezaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "empezaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empezabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empezaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empezábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empezaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he empezado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has empezado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha empezado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos empezado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han empezado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había empezado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías empezado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había empezado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos empezado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían empezado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "empezaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empezarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empezará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empezaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empezarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "empezaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empezarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empezaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empezaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empezarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré empezado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás empezado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá empezado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos empezado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán empezado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "empiece"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empieces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empiece"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empecemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empiecen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "empezara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empezaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empezara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empezáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empezaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera empezado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras empezado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera empezado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos empezado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran empezado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "empieza"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "empiece"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empecemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "empiecen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no empieces"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no empiece"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no empecemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no empiecen"
+      }
+    ]
+  },
+  "notes": [
+    "**Empezar** is a stem-changing verb: e→ie, with spelling change",
+    "Present: stem change e→ie (except nosotros)",
+    "Preterite: spelling change z→c before é (empecé), NO stem change",
+    "Imperfect: regular -AR pattern, NO stem change",
+    "Often used with \"a\" + infinitive: *empezar a trabajar* (to start working)",
+    "Synonym: **comenzar** (same conjugation pattern)"
+  ],
+  "sourceFile": "Verbs/e/Empezar.md"
+}

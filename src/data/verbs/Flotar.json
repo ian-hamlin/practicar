@@ -1,0 +1,300 @@
+{
+  "id": "7e0559f2-eec3-54b2-b96a-9d98f384fcd3",
+  "infinitive": "Flotar",
+  "englishMeaning": "to float",
+  "desc": "to float",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "f",
+  "categoryId": "6a4f18c0-f5d2-5016-9134-e92fb8c852a7",
+  "gerundio": "flotando",
+  "participio": "flotado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "floto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "flotas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "flota"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "flotamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "flotan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "floté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "flotaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "flotó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "flotamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "flotaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "flotaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "flotabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "flotaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "flotábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "flotaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he flotado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has flotado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha flotado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos flotado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han flotado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había flotado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías flotado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había flotado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos flotado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían flotado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "flotaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "flotarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "flotará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "flotaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "flotarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "flotaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "flotarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "flotaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "flotaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "flotarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré flotado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás flotado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá flotado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos flotado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán flotado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "flote"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "flotes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "flote"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "flotemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "floten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "flotara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "flotaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "flotara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "flotáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "flotaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera flotado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras flotado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera flotado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos flotado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran flotado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "flota"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "flote"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "flotemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "floten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no flotes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no flote"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no flotemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no floten"
+      }
+    ]
+  },
+  "notes": [
+    "**Flotar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Used for physical floating (in water, air) and figuratively (floating ideas, uncertainty)"
+  ],
+  "sourceFile": "Verbs/f/Flotar.md"
+}

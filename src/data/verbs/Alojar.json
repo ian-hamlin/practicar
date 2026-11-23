@@ -1,0 +1,302 @@
+{
+  "id": "f4834e61-0fba-53dc-9412-07e0428af615",
+  "infinitive": "Alojar",
+  "englishMeaning": "to lodge, to accommodate, to house",
+  "desc": "to lodge, to accommodate, to house",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "alojando",
+  "participio": "alojado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "alojo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alojas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aloja"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alojamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alojan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "alojé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alojaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alojó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alojamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alojaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "alojaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alojabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alojaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alojábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alojaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he alojado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has alojado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha alojado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos alojado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han alojado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había alojado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías alojado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había alojado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos alojado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían alojado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "alojaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alojarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alojará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alojaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alojarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "alojaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alojarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alojaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alojaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alojarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré alojado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás alojado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá alojado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos alojado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán alojado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "aloje"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alojes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aloje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alojemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alojen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "alojara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "alojaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "alojara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alojáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "alojaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera alojado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras alojado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera alojado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos alojado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran alojado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "aloja"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "aloje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "alojemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "alojen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no alojes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no aloje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no alojemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no alojen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *alojado* (regular)",
+    "Means \"to lodge,\" \"to accommodate,\" or \"to house\" — *el hotel aloja a cien huéspedes* (the hotel accommodates a hundred guests)",
+    "Reflexive *alojarse* is very common for \"to stay\" (at a hotel/place): *nos alojamos en un hotel céntrico* (we stayed at a hotel downtown)",
+    "Related: *alojamiento* (lodging, accommodation), *alojado/a* (lodged, hosted)"
+  ],
+  "sourceFile": "Verbs/a/Alojar.md"
+}

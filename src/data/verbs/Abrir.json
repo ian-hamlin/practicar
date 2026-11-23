@@ -1,0 +1,302 @@
+{
+  "id": "ff5f4e09-40c2-539b-bf93-2b8a84a892a9",
+  "infinitive": "Abrir",
+  "englishMeaning": "to open",
+  "desc": "to open",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "abriendo",
+  "participio": "abierto",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "abro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abrimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abren"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "abrí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abriste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abrió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abrimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abrieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "abría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abrían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he abierto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has abierto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha abierto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos abierto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han abierto"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había abierto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías abierto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había abierto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos abierto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían abierto"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "abriré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abrirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abrirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abriremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abrirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "abriría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abrirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abriría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abriríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abrirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré abierto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás abierto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá abierto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos abierto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán abierto"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "abra"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abran"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "abriera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "abrieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "abriera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abriéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "abrieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera abierto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras abierto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera abierto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos abierto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran abierto"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "abre"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "abra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "abran"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no abras"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no abra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no abramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no abran"
+      }
+    ]
+  },
+  "notes": [
+    "**Abrir** is a regular **-IR verb**",
+    "No spelling changes or stem changes",
+    "Irregular past participle: **abierto** (open/opened) - used in perfect tenses: *he abierto* (I have opened)",
+    "Opposite of **cerrar** (to close)",
+    "Common usage: *abrir la puerta* (to open the door), *abrir una cuenta* (to open an account)"
+  ],
+  "sourceFile": "Verbs/a/Abrir.md"
+}

@@ -1,0 +1,307 @@
+{
+  "id": "8578a104-a82f-5f1e-bc73-6d36db6e7b39",
+  "infinitive": "Huir",
+  "englishMeaning": "to flee / to escape / to run away",
+  "desc": "to flee / to escape / to run away",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "h",
+  "categoryId": "fae8d62e-db69-5528-b693-9f8b68737a41",
+  "gerundio": "huyendo",
+  "participio": "huido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "huyo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "huyes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "huye"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "huimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "huyen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "huí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "huiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "huyó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "huimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "huyeron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "huía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "huías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "huía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "huíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "huían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he huido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has huido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha huido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos huido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han huido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había huido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías huido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había huido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos huido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían huido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "huiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "huirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "huirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "huiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "huirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "huiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "huirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "huiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "huiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "huirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré huido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás huido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá huido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos huido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán huido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "huya"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "huyas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "huya"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "huyamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "huyan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "huyera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "huyeras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "huyera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "huyéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "huyeran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera huido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras huido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera huido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos huido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran huido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "huye"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "huya"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "huyamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "huyan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no huyas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no huya"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no huyamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no huyan"
+      }
+    ]
+  },
+  "notes": [
+    "**Huir** is an -IR verb with spelling changes",
+    "Present: spelling change adds \"y\" before vowel endings (huyo, huyes, huye, huyen) except nosotros",
+    "Preterite: spelling change i→y in 3rd person (huyó, huyeron), accents on other forms (huí, huiste, huimos)",
+    "Imperfect: regular -IR pattern with accent on \"í\" (huía, huías, etc.)",
+    "Pretérito Perfecto: uses regular past participle **huido**",
+    "Future: regular future endings attached to infinitive",
+    "Used with \"de\": *huir de algo/alguien* (to flee from something/someone)",
+    "Common usage: *huir del peligro* (to flee from danger), *huir de la justicia* (to flee from justice)",
+    "Related noun: **la huida** (flight, escape)",
+    "Similar pattern to **construir** (to build) and **destruir** (to destroy)"
+  ],
+  "sourceFile": "Verbs/h/Huir.md"
+}

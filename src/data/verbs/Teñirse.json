@@ -1,0 +1,307 @@
+{
+  "id": "b9a96de2-67bf-5695-8c57-c26213554ba0",
+  "infinitive": "Teñirse",
+  "englishMeaning": "to dye one's hair, to get dyed",
+  "desc": "to dye one's hair, to get dyed",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive",
+    "stem_e_i"
+  ],
+  "letter": "t",
+  "categoryId": "a163d0db-76b7-5624-8633-200bb9177aae",
+  "gerundio": "tiñendo",
+  "participio": "teñido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me tiño"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tiñes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se tiñe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos teñimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tiñen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me teñí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te teñiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se tiñó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos teñimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tiñeron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me teñía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te teñías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se teñía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos teñíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se teñían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he teñido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has teñido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha teñido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos teñido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han teñido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había teñido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías teñido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había teñido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos teñido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían teñido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me teñiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te teñirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se teñirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos teñiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se teñirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me teñiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te teñirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se teñiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos teñiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se teñirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré teñido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás teñido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá teñido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos teñido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán teñido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me tiña"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tiñas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se tiña"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tiñamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tiñan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me tiñera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te tiñeras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se tiñera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos tiñéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se tiñeran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera teñido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras teñido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera teñido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos teñido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran teñido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "tíñete"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "tíñase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tiñámonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "tíñanse"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te tiñas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se tiña"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos tiñamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se tiñan"
+      }
+    ]
+  },
+  "notes": [
+    "Irregular reflexive -IR verb with an *e→i* stem change throughout the present (except nosotros) and in the 3rd person Pretérito Indefinido — same pattern as *reñir*",
+    "The *i* is dropped after *ñ* in the 3rd person preterite: *se tiñó* (not ~~se tiñió~~), *se tiñeron* (not ~~se tiñieron~~) — the ñ already contains the \"y\" glide, so a separate written *i* would be redundant",
+    "-IR e→i verbs keep the stem change in subjuntivo nosotros: *nos tiñamos*",
+    "Affirmative imperative attaches the reflexive pronoun with a written accent to preserve stress: *tíñete, tíñase, tiñámonos, tíñanse*; negative imperative keeps the pronoun separate: *no te tiñas*...",
+    "Past participle: *teñido* (regular)",
+    "Means \"to dye one's hair\" or \"to get (something) dyed\" — *se tiñó el pelo de rojo* (she dyed her hair red)",
+    "Base verb *teñir* (non-reflexive, \"to dye\" something else) follows the identical stem-change pattern: *teñir una camisa* (to dye a shirt)",
+    "Related: *tinte* (dye, tint), *teñido/a* (dyed), *tintorería* (dry cleaner's, dyer's shop)"
+  ],
+  "sourceFile": "Verbs/t/Teñirse.md"
+}

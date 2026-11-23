@@ -1,0 +1,302 @@
+{
+  "id": "2f17aa1a-3029-50ae-8129-18a9bd9f15be",
+  "infinitive": "Subir",
+  "englishMeaning": "to go up / to climb / to raise / to upload",
+  "desc": "to go up / to climb / to raise / to upload",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "subiendo",
+  "participio": "subido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "subo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "subes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sube"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "subimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "suben"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "subí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "subiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "subió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "subimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "subieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "subía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "subías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "subía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "subíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "subían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he subido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has subido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha subido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos subido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han subido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había subido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías subido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había subido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos subido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían subido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "subiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "subirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "subirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "subiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "subirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "subiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "subirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "subiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "subiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "subirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré subido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás subido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá subido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos subido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán subido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "suba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "subas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "suba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "subamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "suban"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "subiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "subieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "subiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "subiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "subieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera subido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras subido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera subido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos subido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran subido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "sube"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "suba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "subamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "suban"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no subas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no suba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no subamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no suban"
+      }
+    ]
+  },
+  "notes": [
+    "**Subir** is a regular **-IR verb**",
+    "No spelling changes or stem changes",
+    "Multiple meanings: to go up, to climb, to raise, to get on (transportation), to upload (technology)",
+    "Opposite of **bajar** (to go down/lower)",
+    "Common usage: *subir las escaleras* (to go up the stairs), *subir al bus* (to get on the bus), *subir fotos* (to upload photos)"
+  ],
+  "sourceFile": "Verbs/s/Subir.md"
+}

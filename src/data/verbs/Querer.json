@@ -1,0 +1,312 @@
+{
+  "id": "27a5a988-ada8-5b24-825f-ff0dc83724a2",
+  "infinitive": "Querer",
+  "englishMeaning": "to want / to love",
+  "desc": "to want / to love",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "q",
+  "categoryId": "2dc93897-6e3f-576d-9505-469391d25e18",
+  "gerundio": "queriendo",
+  "participio": "querido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "quiero"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quieres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quiere"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "queremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quieren"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "quise"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quisiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quiso"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quisimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quisieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "quería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "querías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "queríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "querían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he querido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has querido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha querido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos querido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han querido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había querido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías querido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había querido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos querido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían querido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "querré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "querrás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "querrá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "querremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "querrán"
+      },
+      {
+        "subject": "",
+        "conjugation": ""
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "querría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "querrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "querría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "querríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "querrían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré querido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás querido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá querido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos querido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán querido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "quiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "queramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quieran"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "quisiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "quisieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "quisiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quisiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "quisieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera querido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras querido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera querido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos querido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran querido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "quiere"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "quiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "queramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "quieran"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no quieras"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no quiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no queramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no quieran"
+      }
+    ]
+  },
+  "notes": [
+    "**Querer** is irregular",
+    "Present: stem change e→ie (except nosotros)",
+    "Preterite: completely irregular stem \"quis-\"",
+    "Imperfect: regular -ER pattern based on infinitive stem \"quer-\"",
+    "Pretérito Perfecto: regular past participle **querido**",
+    "Future: irregular stem \"querr-\" (not \"querer-\")",
+    "Condicional: irregular stem \"querr-\" + conditional endings",
+    "Meaning varies by context: \"to want\" (things/actions) or \"to love\" (people)",
+    "Common usage: *Quiero café* (I want coffee), *Te quiero* (I love you)",
+    "Related noun: **el querido/la querida** (dear one, beloved)"
+  ],
+  "sourceFile": "Verbs/q/Querer.md"
+}

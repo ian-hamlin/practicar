@@ -1,0 +1,301 @@
+{
+  "id": "1ec04a30-b37c-55af-8e6a-2a30e2fd3870",
+  "infinitive": "Donar",
+  "englishMeaning": "to donate",
+  "desc": "to donate",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "donando",
+  "participio": "donado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "dono"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "donas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dona"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "donamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "donan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "doné"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "donaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "donó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "donamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "donaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "donaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "donabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "donaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "donábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "donaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he donado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has donado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha donado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos donado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han donado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había donado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías donado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había donado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos donado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían donado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "donaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "donarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "donará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "donaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "donarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "donaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "donarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "donaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "donaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "donarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré donado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás donado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá donado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos donado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán donado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "done"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dones"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "done"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "donemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "donen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "donara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "donaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "donara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "donáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "donaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera donado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras donado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera donado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos donado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran donado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "dona"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "done"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "donemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "donen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no dones"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no done"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no donemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no donen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *donado* (regular)",
+    "Means \"to donate\" — *donar sangre* (to donate blood), *donar dinero a una ONG* (to donate money to an NGO), *donar órganos* (to donate organs)",
+    "Related: *donación* (donation), *donante* (donor), *donativo* (donation, contribution — noun)"
+  ],
+  "sourceFile": "Verbs/d/Donar.md"
+}

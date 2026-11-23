@@ -1,0 +1,309 @@
+{
+  "id": "9683eb00-a019-5545-8c55-1c3adc5e5e64",
+  "infinitive": "Creer",
+  "englishMeaning": "to believe / to think",
+  "desc": "to believe / to think",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "creyendo",
+  "participio": "creído",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "creo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "crees"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cree"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "creemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "creen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "creí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "creíste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "creyó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "creímos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "creyeron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "creía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "creías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "creía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "creíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "creían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he creído"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has creído"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha creído"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos creído"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han creído"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había creído"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías creído"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había creído"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos creído"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían creído"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "creeré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "creerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "creerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "creeremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "creerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "creería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "creerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "creería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "creeríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "creerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré creido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás creido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá creido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos creido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán creido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "crea"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "creas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "crea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "creamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "crean"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "creyera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "creyeras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "creyera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "creyéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "creyeran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera creído"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras creído"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera creído"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos creído"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran creído"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "cree"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "crea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "creamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "crean"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no creas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no crea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no creamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no crean"
+      }
+    ]
+  },
+  "notes": [
+    "**Creer** is an -ER verb with spelling changes",
+    "Present: regular -ER conjugation",
+    "Preterite: spelling change i→y in 3rd person (creyó, creyeron), accents on other forms (creí, creíste, creímos)",
+    "Imperfect: regular -ER pattern with accent on \"í\" (creía, creías, etc.)",
+    "Pretérito Perfecto: past participle **creído** with accent",
+    "Future: regular future endings attached to infinitive",
+    "Condicional: regular conditional endings attached to infinitive",
+    "Similar pattern to **leer** (to read) and **caer** (to fall)",
+    "Often used with \"en\": *creer en algo/alguien* (to believe in something/someone)",
+    "Can also mean \"to think\": *Creo que sí* (I think so)",
+    "Common usage: *No lo creo* (I don't believe it), *creer en Dios* (to believe in God)",
+    "Related noun: **la creencia** (belief)"
+  ],
+  "sourceFile": "Verbs/c/Creer.md"
+}

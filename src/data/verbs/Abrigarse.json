@@ -1,0 +1,305 @@
+{
+  "id": "e0d194d5-7fdd-5747-a4f7-5c1650c83064",
+  "infinitive": "Abrigarse",
+  "englishMeaning": "to wrap up / to dress warmly / to bundle up",
+  "desc": "to wrap up / to dress warmly / to bundle up",
+  "tags": [
+    "verb",
+    "reflexive",
+    "irregular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "abrigando",
+  "participio": "abrigado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me abrigo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te abrigas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se abriga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos abrigamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se abrigan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me abrigué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te abrigaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se abrigó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos abrigamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se abrigaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me abrigaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te abrigabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se abrigaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos abrigábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se abrigaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he abrigado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has abrigado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha abrigado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos abrigado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han abrigado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había abrigado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías abrigado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había abrigado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos abrigado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían abrigado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me abrigaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te abrigarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se abrigará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos abrigaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se abrigarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me abrigaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te abrigarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se abrigaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos abrigaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se abrigarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré abrigado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás abrigado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá abrigado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos abrigado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán abrigado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me abrigue"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te abrigues"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se abrigue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos abriguemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se abriguen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me abrigara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te abrigaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se abrigara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos abrigáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se abrigaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera abrigado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras abrigado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera abrigado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos abrigado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran abrigado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "abrígate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "abríguese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "abriguémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "abríguense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te abrigues"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se abrigue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos abriguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se abriguen"
+      }
+    ]
+  },
+  "notes": [
+    "**Abrigarse** is the reflexive form of **abrigar** (to shelter/protect from cold)",
+    "Regular **-AR verb** with reflexive pronouns and spelling change",
+    "Spelling change: g→gu before é in preterite \"yo\" form (me abrigué)",
+    "Means to dress warmly, to wrap up, to bundle up",
+    "Non-reflexive **abrigar**: to keep warm, to shelter (something/someone else)",
+    "Common usage: *Abrígate bien* (Bundle up well), *Me abrigo cuando hace frío* (I dress warmly when it's cold)",
+    "Related noun: **el abrigo** (coat, overcoat)"
+  ],
+  "sourceFile": "Verbs/a/Abrigarse.md"
+}

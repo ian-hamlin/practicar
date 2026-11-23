@@ -1,0 +1,319 @@
+{
+  "id": "2739f101-7105-50bc-a864-ed7c2a4d1e63",
+  "infinitive": "Traer",
+  "englishMeaning": "to bring",
+  "desc": "to bring",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "t",
+  "categoryId": "a163d0db-76b7-5624-8633-200bb9177aae",
+  "gerundio": "trayendo",
+  "participio": "traído",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "traigo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "traes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "trae"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "traemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "traen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "traje"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "trajiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "trajo"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "trajimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "trajeron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "traía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "traías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "traía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "traíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "traían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he traído"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has traído"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha traído"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos traído"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han traído"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había traído"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías traído"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había traído"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos traído"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían traído"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "traería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "traerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "traería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "traeríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "traerían"
+      },
+      {
+        "subject": "yo",
+        "conjugation": "traeré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "traerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "traerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "traeremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "traerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "traería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "traerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "traería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "traeríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "traerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré traido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás traido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá traido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos traido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán traido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "traiga"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "traigas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "traiga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "traigamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "traigan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "trajera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "trajeras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "trajera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "trajéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "trajeran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera traído"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras traído"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera traído"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos traído"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran traído"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "trae"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "traiga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "traigamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "traigan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no traigas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no traiga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no traigamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no traigan"
+      }
+    ]
+  },
+  "notes": [
+    "**Traer** is irregular",
+    "Present: irregular \"yo\" form (traigo), otherwise regular -ER endings"
+  ],
+  "sourceFile": "Verbs/t/Traer.md"
+}

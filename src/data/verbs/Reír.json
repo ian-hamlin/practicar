@@ -1,0 +1,305 @@
+{
+  "id": "56021675-4844-5861-ac47-507337b381ba",
+  "infinitive": "Reír",
+  "englishMeaning": "to laugh",
+  "desc": "to laugh",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_i"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "riendo",
+  "participio": "reído",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "río"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ríes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ríe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reímos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ríen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "reí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reíste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "rió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reímos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "reía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he reído"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has reído"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha reído"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos reído"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han reído"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había reído"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías reído"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había reído"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos reído"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían reído"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "reíré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reírás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reírá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reíremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reírán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "reíría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reírías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reíría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reíríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reírían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré reído"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás reído"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá reído"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos reído"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán reído"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ríe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ríes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ríe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ríen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "riera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "rieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "riera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "riéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "rieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera reído"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras reído"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera reído"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos reído"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran reído"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "ríe"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "ría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "riamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "rían"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no rías"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no ría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no riamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no rían"
+      }
+    ]
+  },
+  "notes": [
+    "**Reír** is a stem-changing verb: e→í with spelling changes",
+    "Present: stem change e→í (except nosotros where it's reímos with accent)",
+    "Preterite: accents on all forms (reí, reíste, rió, reímos, rieron)",
+    "Imperfect: regular -IR pattern with accent on \"í\" (reía, reías, etc.)",
+    "Often used reflexively: **reírse (de)** = to laugh (at)",
+    "Common usage: *Me río mucho* (I laugh a lot), *reírse de un chiste* (to laugh at a joke)",
+    "Related verb: **sonreír** (to smile) - conjugates the same way"
+  ],
+  "sourceFile": "Verbs/r/Reír.md"
+}

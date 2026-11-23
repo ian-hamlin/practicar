@@ -1,0 +1,91 @@
+{
+  "id": "2dc93897-6e3f-576d-9505-469391d25e18",
+  "letter": "q",
+  "count": 8,
+  "verbs": [
+    {
+      "id": "072081e9-93c2-54e1-a1de-82de057740ca",
+      "infinitive": "Quebrar",
+      "desc": "to break",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Quebrar.json"
+    },
+    {
+      "id": "6c912632-420c-5070-b451-33c92889b8c3",
+      "infinitive": "Quedar",
+      "desc": "to remain / to stay / to be left / to meet up",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Quedar.json"
+    },
+    {
+      "id": "e9bcaf8c-6e00-5578-814d-748707754ea6",
+      "infinitive": "Quedarse",
+      "desc": "to stay, to remain",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Quedarse.json"
+    },
+    {
+      "id": "58cbddf1-0120-5f24-882c-a5b06a517fcd",
+      "infinitive": "Quejar",
+      "desc": "\"to complain - typically reflexive: quejarse\"",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Quejar.json"
+    },
+    {
+      "id": "dac03a83-48f8-5495-be2f-13b606891d46",
+      "infinitive": "Quejarse",
+      "desc": "to complain",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Quejarse.json"
+    },
+    {
+      "id": "65586cf1-abc1-58c6-a01f-f9ff183bcebf",
+      "infinitive": "Quemar",
+      "desc": "to burn, to scorch",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Quemar.json"
+    },
+    {
+      "id": "27a5a988-ada8-5b24-825f-ff0dc83724a2",
+      "infinitive": "Querer",
+      "desc": "to want / to love",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Querer.json"
+    },
+    {
+      "id": "705b81ec-9266-54e2-a033-d738e2e928f4",
+      "infinitive": "Quitar",
+      "desc": "to remove, to take off, to take away",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Quitar.json"
+    }
+  ]
+}

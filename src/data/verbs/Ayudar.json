@@ -1,0 +1,304 @@
+{
+  "id": "94d35cb8-0e2a-561e-8b2f-2c29155afdb9",
+  "infinitive": "Ayudar",
+  "englishMeaning": "to help",
+  "desc": "to help",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "ayudando",
+  "participio": "ayudado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ayudo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ayudas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ayuda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ayudamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ayudan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "ayudé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ayudaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ayudó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ayudamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ayudaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "ayudaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ayudabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ayudaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ayudábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ayudaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he ayudado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has ayudado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha ayudado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos ayudado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han ayudado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había ayudado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías ayudado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había ayudado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos ayudado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían ayudado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "ayudaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ayudarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ayudará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ayudaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ayudarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "ayudaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ayudarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ayudaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ayudaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ayudarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré ayudado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás ayudado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá ayudado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos ayudado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán ayudado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ayude"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ayudes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ayude"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ayudemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ayuden"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "ayudara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ayudaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ayudara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ayudáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ayudaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera ayudado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras ayudado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera ayudado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos ayudado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran ayudado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "ayuda"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "ayude"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ayudemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "ayuden"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no ayudes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no ayude"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no ayudemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no ayuden"
+      }
+    ]
+  },
+  "notes": [
+    "**Ayudar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **ayudado** (regular)",
+    "Often used with \"a\" + person/infinitive: *ayudar a alguien* (to help someone), *ayudar a estudiar* (to help study)",
+    "Common usage: *¿Me puedes ayudar?* (Can you help me?), *ayudar con la tarea* (to help with homework)",
+    "Related noun: **la ayuda** (help, aid)",
+    "Expression: *ayudar a misa* (to serve mass - altar boy/girl)"
+  ],
+  "sourceFile": "Verbs/a/Ayudar.md"
+}

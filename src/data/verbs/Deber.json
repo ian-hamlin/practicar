@@ -1,0 +1,303 @@
+{
+  "id": "d11db376-3902-525c-9f2a-f19b5b04602b",
+  "infinitive": "Deber",
+  "englishMeaning": "to owe/should/must",
+  "desc": "to owe/should/must",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "debiendo",
+  "participio": "debido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "debo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "debes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "debe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "debemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "deben"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "debí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "debiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "debió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "debimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "debieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "debía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "debías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "debía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "debíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "debían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he debido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has debido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha debido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos debido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han debido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había debido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías debido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había debido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos debido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían debido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "deberé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "deberás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "deberá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "deberemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "deberán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "debería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "deberías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "debería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "deberíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "deberían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré debido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás debido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá debido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos debido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán debido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "deba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "debas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "deba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "debamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "deban"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "debiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "debieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "debiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "debiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "debieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera debido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras debido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera debido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos debido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran debido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "debe"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "deba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "debamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "deban"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no debas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no deba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no debamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no deban"
+      }
+    ]
+  },
+  "notes": [
+    "**Deber** is a regular -ER verb",
+    "No stem changes in any tense",
+    "Follows the same pattern as regular -ER verbs like comer, beber",
+    "Past participle: debido (owed/should have)",
+    "**Three main uses:**",
+    "**Condicional = \"should\"**: *Deberías estudiar más* (You should study more)"
+  ],
+  "sourceFile": "Verbs/d/Deber.md"
+}

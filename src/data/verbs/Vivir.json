@@ -1,0 +1,301 @@
+{
+  "id": "23905479-9be8-5bfa-becf-adf3b5dcaec4",
+  "infinitive": "Vivir",
+  "englishMeaning": "to live",
+  "desc": "to live",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "v",
+  "categoryId": "7848c6f0-8db9-54f6-91a9-a1f1ebd97c61",
+  "gerundio": "viviendo",
+  "participio": "vivido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "vivo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vives"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vive"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vivimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "viven"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "viví"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "viviste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vivió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vivimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vivieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "vivía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vivías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vivía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vivíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vivían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he vivido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has vivido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha vivido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos vivido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han vivido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había vivido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías vivido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había vivido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos vivido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían vivido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "viviré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vivirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "vivirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "viviremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vivirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "viviría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vivirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "viviría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "viviríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vivirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré vivido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás vivido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá vivido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos vivido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán vivido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "viva"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vivas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "viva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vivamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vivan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "viviera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "vivieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "viviera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "viviéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "vivieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera vivido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras vivido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera vivido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos vivido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran vivido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "vive"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "viva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vivamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "vivan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no vivas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no viva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no vivamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no vivan"
+      }
+    ]
+  },
+  "notes": [
+    "**Vivir** is a regular **-IR verb**",
+    "No spelling changes or stem changes",
+    "Common usage: *vivir en Madrid* (to live in Madrid), *vivir feliz* (to live happily)",
+    "Related adjective: **vivo/a** (alive, lively)"
+  ],
+  "sourceFile": "Verbs/v/Vivir.md"
+}

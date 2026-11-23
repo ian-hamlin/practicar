@@ -1,0 +1,311 @@
+{
+  "id": "b0536b7d-8cdb-52d4-b78b-51e24d1d99c0",
+  "infinitive": "Enfadarse",
+  "englishMeaning": "to get angry / to get mad",
+  "desc": "to get angry / to get mad",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "enfadando",
+  "participio": "enfadado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me enfado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enfadas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enfada"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enfadamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enfadan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me enfadé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enfadaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enfadó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enfadamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enfadaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me enfadaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enfadabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enfadaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enfadábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enfadaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he enfadado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has enfadado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha enfadado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos enfadado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han enfadado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había enfadado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías enfadado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había enfadado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos enfadado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían enfadado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me enfadaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enfadarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enfadará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enfadaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enfadarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me enfadaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enfadarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enfadaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enfadaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enfadarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré enfadado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás enfadado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá enfadado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos enfadado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán enfadado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me enfade"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enfades"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enfade"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enfademos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enfaden"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me enfadara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te enfadaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se enfadara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos enfadáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se enfadaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera enfadado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras enfadado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera enfadado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos enfadado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran enfadado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "enfádate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "enfádese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enfadémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "enfádense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te enfades"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se enfade"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos enfademos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se enfaden"
+      }
+    ]
+  },
+  "notes": [
+    "**Enfadarse** is the reflexive form of **enfadar** (to anger someone)",
+    "Regular **-AR verb** with reflexive pronouns",
+    "No spelling changes or stem changes",
+    "Past participle: **enfadado** (regular)",
+    "More common in Spain; in Latin America, **enojarse** is preferred",
+    "Used with \"con\": *enfadarse con alguien* (to get angry with someone)",
+    "Common usage:",
+    "*Me enfadé con él* (I got angry with him)",
+    "*No te enfades* (Don't get angry)",
+    "*Se enfadó mucho* (He/She got very angry)",
+    "Related adjective: **enfadado/a** (angry, mad) - *Estoy enfadado* (I'm angry)",
+    "Related noun: **el enfado** (anger, annoyance)",
+    "Synonym in Latin America: **enojarse**"
+  ],
+  "sourceFile": "Verbs/e/Enfadarse.md"
+}

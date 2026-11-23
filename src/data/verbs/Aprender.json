@@ -1,0 +1,301 @@
+{
+  "id": "62e27869-87fe-5882-b05c-96affbbc9f56",
+  "infinitive": "Aprender",
+  "englishMeaning": "to learn",
+  "desc": "to learn",
+  "tags": [],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "aprendiendo",
+  "participio": "aprendido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "aprendo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aprendes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aprende"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprendemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprenden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "aprendí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aprendiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aprendió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprendimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprendieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "aprendía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aprendías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aprendía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprendíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprendían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he aprendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has aprendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha aprendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos aprendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han aprendido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había aprendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías aprendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había aprendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos aprendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían aprendido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "aprenderé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aprenderás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aprenderá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprenderemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprenderán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "aprendería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aprenderías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aprendería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprenderíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprenderían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré aprendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás aprendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá aprendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos aprendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán aprendido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "aprenda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aprendas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aprenda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprendamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprendan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "aprendiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "aprendieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "aprendiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprendiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "aprendieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera aprendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras aprendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera aprendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos aprendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran aprendido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "aprende"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "aprenda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "aprendamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "aprendan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no aprendas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no aprenda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no aprendamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no aprendan"
+      }
+    ]
+  },
+  "notes": [
+    "**Aprender** is a regular **-ER verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **aprendido** (regular)",
+    "Often used with \"a\" + infinitive: *aprender a nadar* (to learn to swim)",
+    "Common usage: *aprender español* (to learn Spanish), *aprender de memoria* (to learn by heart/memorize)",
+    "Related noun: **el aprendizaje** (learning), **el/la aprendiz** (apprentice/learner)",
+    "Opposite: **enseñar** (to teach)"
+  ],
+  "sourceFile": "Verbs/a/Aprender.md"
+}

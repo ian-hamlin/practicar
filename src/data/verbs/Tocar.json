@@ -1,0 +1,303 @@
+{
+  "id": "92b09ddf-34c4-54bc-aee3-fd1c2a483deb",
+  "infinitive": "Tocar",
+  "englishMeaning": "to touch, to play (an instrument)",
+  "desc": "to touch, to play (an instrument)",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "t",
+  "categoryId": "a163d0db-76b7-5624-8633-200bb9177aae",
+  "gerundio": "tocando",
+  "participio": "tocado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "toco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tocas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "toca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tocamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tocan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "toqué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tocaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tocó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tocamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tocaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "tocaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tocabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tocaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tocábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tocaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he tocado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has tocado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha tocado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos tocado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han tocado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había tocado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías tocado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había tocado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos tocado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían tocado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "tocaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tocarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tocará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tocaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tocarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "tocaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tocarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tocaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tocaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tocarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré tocado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás tocado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá tocado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos tocado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán tocado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "toque"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "toques"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "toque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "toquemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "toquen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "tocara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "tocaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "tocara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "tocáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "tocaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera tocado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras tocado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera tocado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos tocado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran tocado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "toca"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "toque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "toquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "toquen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no toques"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no toque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no toquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no toquen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb with a spelling change: **c → qu before e**, to preserve the hard \"k\" sound",
+    "Only affects the yo form of the pretérito indefinido (toqué, not \"tocé\") and the entire subjuntivo presente/imperativo (toque, toques...)",
+    "No stem changes; regular past participle: **tocado**",
+    "Two common meanings: \"to touch\" (physically) and \"to play\" (a musical instrument): *tocar la guitarra* (to play the guitar)",
+    "Also used impersonally: *me toca a mí* (it's my turn), *toca trabajar* (time to work)",
+    "Common usage: *no tocar* (do not touch — common sign), *tocar el timbre* (to ring the doorbell)"
+  ],
+  "sourceFile": "Verbs/t/Tocar.md"
+}

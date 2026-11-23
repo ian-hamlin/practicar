@@ -1,0 +1,301 @@
+{
+  "id": "4b332afe-68af-5c31-8cfa-39f09826f76c",
+  "infinitive": "Presentar",
+  "englishMeaning": "to present, to introduce",
+  "desc": "to present, to introduce",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "presentando",
+  "participio": "presentado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "presento"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "presentas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "presenta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "presentamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "presentan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "presenté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "presentaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "presentó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "presentamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "presentaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "presentaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "presentabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "presentaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "presentábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "presentaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he presentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has presentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha presentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos presentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han presentado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había presentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías presentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había presentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos presentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían presentado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "presentaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "presentarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "presentará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "presentaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "presentarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "presentaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "presentarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "presentaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "presentaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "presentarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré presentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás presentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá presentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos presentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán presentado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "presente"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "presentes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "presente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "presentemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "presenten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "presentara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "presentaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "presentara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "presentáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "presentaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera presentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras presentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera presentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos presentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran presentado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "presenta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "presente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "presentemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "presenten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no presentes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no presente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no presentemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no presenten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard endings in every tense, no exceptions.",
+    "*La vida les va a presentar una oportunidad única.* (\"Life is going to present them with a unique opportunity.\")",
+    "*Te presento a mi hermana.* (\"Let me introduce you to my sister.\")",
+    "Related: *la presentación* (presentation/introduction, noun), *presentarse* (reflexive, \"to introduce oneself / to show up\"), *mostrar* (near-synonym, \"to show\")."
+  ],
+  "sourceFile": "Verbs/p/Presentar.md"
+}

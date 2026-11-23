@@ -1,0 +1,305 @@
+{
+  "id": "9c71e11e-d7ff-53f1-b0fe-8f6055ba24d4",
+  "infinitive": "Discutir",
+  "englishMeaning": "to discuss / to argue",
+  "desc": "to discuss / to argue",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "discutiendo",
+  "participio": "discutido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "discuto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "discutes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "discute"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "discutimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "discuten"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "discutí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "discutiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "discutió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "discutimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "discutieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "discutía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "discutías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "discutía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "discutíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "discutían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he discutido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has discutido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha discutido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos discutido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han discutido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había discutido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías discutido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había discutido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos discutido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían discutido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "discutiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "discutirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "discutirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "discutiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "discutirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "discutiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "discutirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "discutiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "discutiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "discutirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré discutido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás discutido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá discutido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos discutido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán discutido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "discuta"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "discutas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "discuta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "discutamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "discutan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "discutiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "discutieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "discutiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "discutiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "discutieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera discutido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras discutido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera discutido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos discutido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran discutido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "discute"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "discuta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "discutamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "discutan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no discutas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no discuta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no discutamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no discutan"
+      }
+    ]
+  },
+  "notes": [
+    "**Discutir** is a regular **-IR verb**",
+    "No spelling changes or stem changes",
+    "Multiple meanings depending on context:",
+    "To discuss (neutral): *Discutimos el problema* (We discussed the problem)",
+    "To argue (negative): *Siempre discuten* (They always argue)",
+    "In Latin America, often implies arguing/disagreeing",
+    "For neutral \"discuss,\" you can also use **hablar de** or **conversar sobre**",
+    "Common usage: *discutir un tema* (to discuss a topic), *discutir con alguien* (to argue with someone)"
+  ],
+  "sourceFile": "Verbs/d/Discutir.md"
+}

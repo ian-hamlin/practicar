@@ -1,0 +1,308 @@
+{
+  "id": "445e8b46-b308-5274-affc-cb4aa517773e",
+  "infinitive": "Preocupar",
+  "englishMeaning": "to worry / to concern",
+  "desc": "to worry / to concern",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "preocupando",
+  "participio": "preocupado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "preocupo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preocupas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "preocupa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preocupamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "preocupan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "preocupé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preocupaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "preocupó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preocupamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "preocuparon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "preocupaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preocupabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "preocupaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preocupábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "preocupaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he preocupado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has preocupado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha preocupado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos preocupado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han preocupado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había preocupado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías preocupado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había preocupado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos preocupado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían preocupado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "preocuparé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preocuparás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "preocupará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preocuparemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "preocuparán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "preocuparía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preocuparías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "preocuparía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preocuparíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "preocuparían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré preocupado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás preocupado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá preocupado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos preocupado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán preocupado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "preocupe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preocupes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "preocupe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preocupemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "preocupen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "preocupara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preocuparas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "preocupara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preocupáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "preocuparan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera preocupado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras preocupado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera preocupado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos preocupado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran preocupado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "preocupa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "preocupe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preocupemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "preocupen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no preocupes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no preocupe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no preocupemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no preocupen"
+      }
+    ]
+  },
+  "notes": [
+    "**Preocupar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **preocupado** (regular)",
+    "Often used reflexively: **preocuparse (por)** = to worry (about)",
+    "Can work like **gustar** with indirect object pronouns: *Me preocupa* (It worries me)",
+    "Common usage:",
+    "*Me preocupo por ti* (I worry about you)",
+    "*Eso me preocupa* (That worries me)",
+    "*No te preocupes* (Don't worry)",
+    "Related noun: **la preocupación** (worry, concern)",
+    "Related adjective: **preocupado/a** (worried)"
+  ],
+  "sourceFile": "Verbs/p/Preocupar.md"
+}

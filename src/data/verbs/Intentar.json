@@ -1,0 +1,302 @@
+{
+  "id": "54a7d7ea-df82-5d71-99dd-1dd8f947d165",
+  "infinitive": "Intentar",
+  "englishMeaning": "to try, to attempt",
+  "desc": "to try, to attempt",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "i",
+  "categoryId": "50ce3e0b-61b3-530c-8b6a-399ede02b6b5",
+  "gerundio": "intentando",
+  "participio": "intentado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "intento"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "intentas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "intenta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "intentamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "intentan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "intenté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "intentaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "intentó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "intentamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "intentaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "intentaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "intentabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "intentaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "intentábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "intentaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he intentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has intentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha intentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos intentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han intentado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había intentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías intentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había intentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos intentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían intentado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "intentaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "intentarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "intentará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "intentaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "intentarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "intentaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "intentarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "intentaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "intentaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "intentarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré intentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás intentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá intentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos intentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán intentado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "intente"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "intentes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "intente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "intentemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "intenten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "intentara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "intentaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "intentara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "intentáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "intentaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera intentado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras intentado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera intentado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos intentado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran intentado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "intenta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "intente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "intentemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "intenten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no intentes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no intente"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no intentemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no intenten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, no exceptions",
+    "Past participle: *intentado* (regular)",
+    "Always followed by an infinitive: *intentar + infinitive* — *intenté hablar con él* (I tried to speak to him)",
+    "Compare with *tratar de + infinitive* (same meaning) and *probar* (to try/taste something)",
+    "Related: *el intento* (the attempt), *intentona* (failed/rash attempt)"
+  ],
+  "sourceFile": "Verbs/i/Intentar.md"
+}

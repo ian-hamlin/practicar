@@ -1,0 +1,302 @@
+{
+  "id": "33715733-8a55-5656-bcc0-c61700e3eb61",
+  "infinitive": "Trabajar",
+  "englishMeaning": "to work",
+  "desc": "to work",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "t",
+  "categoryId": "a163d0db-76b7-5624-8633-200bb9177aae",
+  "gerundio": "trabajando",
+  "participio": "trabajado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "trabajo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "trabajas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "trabaja"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "trabajamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "trabajan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "trabajé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "trabajaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "trabajó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "trabajamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "trabajaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "trabajaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "trabajabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "trabajaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "trabajábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "trabajaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he trabajado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has trabajado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha trabajado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos trabajado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han trabajado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había trabajado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías trabajado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había trabajado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos trabajado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían trabajado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "trabajaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "trabajarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "trabajará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "trabajaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "trabajarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "trabajaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "trabajarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "trabajaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "trabajaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "trabajarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré trabajado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás trabajado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá trabajado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos trabajado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán trabajado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "trabaje"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "trabajes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "trabaje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "trabajemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "trabajen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "trabajara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "trabajaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "trabajara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "trabajáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "trabajaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera trabajado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras trabajado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera trabajado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos trabajado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran trabajado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "trabaja"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "trabaje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "trabajemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "trabajen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no trabajes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no trabaje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no trabajemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no trabajen"
+      }
+    ]
+  },
+  "notes": [
+    "**Trabajar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Common usage: *trabajar en una oficina* (to work in an office), *trabajar duro* (to work hard)",
+    "Related noun: **el trabajo** (work/job)",
+    "Common expressions: *trabajar por cuenta propia* (to be self-employed), *trabajar a tiempo completo* (to work full-time)"
+  ],
+  "sourceFile": "Verbs/t/Trabajar.md"
+}

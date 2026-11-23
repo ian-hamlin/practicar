@@ -1,0 +1,303 @@
+{
+  "id": "d7a5dff9-5866-55a5-994a-3d6cb6c585b3",
+  "infinitive": "Dudar",
+  "englishMeaning": "to doubt",
+  "desc": "to doubt",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "dudando",
+  "participio": "dudado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "dudo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dudas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "duda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dudamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dudan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "dudé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dudaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dudó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dudamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dudaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "dudaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dudabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dudaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dudábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dudaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he dudado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has dudado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha dudado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos dudado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han dudado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había dudado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías dudado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había dudado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos dudado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían dudado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "dudaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dudarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dudará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dudaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dudarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "dudaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dudarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dudaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dudaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dudarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré dudado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás dudado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá dudado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos dudado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán dudado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "dude"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dudes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dude"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dudemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "duden"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "dudara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dudaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dudara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dudáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dudaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera dudado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras dudado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera dudado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos dudado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran dudado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "duda"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "dude"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dudemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "duden"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no dudes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no dude"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no dudemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no duden"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; follows standard endings throughout",
+    "Past participle: dudado (regular)",
+    "Triggers the subjunctive: *dudar (de) que* + subjuntivo = to doubt that: *Dudo que sepa la respuesta* = I doubt he knows the answer",
+    "*Dudar de* + noun/pronoun = to doubt something/someone: *Dudo de su honestidad* = I doubt his honesty",
+    "*No dudar en* + infinitivo = to not hesitate to: *No dudes en llamarme* = Don't hesitate to call me",
+    "Related: la duda (doubt), dudoso (doubtful, dubious), sin duda (without doubt, undoubtedly)"
+  ],
+  "sourceFile": "Verbs/d/Dudar.md"
+}

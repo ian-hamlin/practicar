@@ -1,0 +1,309 @@
+{
+  "id": "5dc68ee7-0d89-571b-b775-11063f0fa2a6",
+  "infinitive": "Poder",
+  "englishMeaning": "to be able to / can",
+  "desc": "to be able to / can",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "pudiendo",
+  "participio": "podido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "puedo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "puedes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "puede"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "podemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pueden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "pude"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pudiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pudo"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pudimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pudieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "podía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "podías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "podía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "podíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "podían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he podido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has podido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha podido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos podido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han podido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había podido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías podido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había podido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos podido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían podido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "podré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "podrás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "podrá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "podremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "podrán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "podría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "podrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "podría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "podríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "podrían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré podido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás podido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá podido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos podido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán podido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pueda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "puedas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pueda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "podamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "puedan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "pudiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pudieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pudiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pudiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pudieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera podido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras podido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera podido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos podido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran podido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "puede"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "pueda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "podamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "puedan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no puedas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no pueda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no podamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no puedan"
+      }
+    ]
+  },
+  "notes": [
+    "**Poder** is completely irregular",
+    "Present: stem change o→ue (except nosotros)",
+    "Preterite: completely irregular stem \"pud-\"",
+    "Imperfect: regular -ER pattern based on infinitive stem \"pod-\"",
+    "Pretérito Perfecto: regular past participle **podido**",
+    "Future: irregular stem \"podr-\" (not \"poder-\")",
+    "Condicional: irregular stem \"podr-\" + conditional endings",
+    "Always followed by an infinitive: *puedo nadar* (I can swim)",
+    "Common usage: *¿Puedes ayudarme?* (Can you help me?), *No pude hacerlo* (I couldn't do it)",
+    "Related noun: **el poder** (power)",
+    "Expression: *puede ser* (maybe, it could be)"
+  ],
+  "sourceFile": "Verbs/p/Poder.md"
+}

@@ -1,0 +1,301 @@
+{
+  "id": "acde8b21-4697-571b-9422-5c2a1db973b6",
+  "infinitive": "Reformar",
+  "englishMeaning": "to renovate, to reform, to refurbish",
+  "desc": "to renovate, to reform, to refurbish",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "reformando",
+  "participio": "reformado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "reformo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reformas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reforma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reformamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reforman"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "reformé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reformaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reformó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reformamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reformaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "reformaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reformabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reformaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reformábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reformaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he reformado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has reformado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha reformado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos reformado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han reformado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había reformado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías reformado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había reformado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos reformado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían reformado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "reformaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reformarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reformará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reformaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reformarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "reformaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reformarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reformaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reformaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reformarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré reformado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás reformado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá reformado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos reformado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán reformado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "reforme"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reformes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reforme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reformemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reformen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "reformara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "reformaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reformara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reformáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reformaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera reformado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras reformado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera reformado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos reformado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran reformado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "reforma"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "reforme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "reformemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "reformen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no reformes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no reforme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no reformemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no reformen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb. All conjugations follow standard -AR endings.",
+    "*Reformaron el baño del hotel.* (They renovated the hotel bathroom.)",
+    "*Queremos reformar la cocina este verano.* (We want to refurbish the kitchen this summer.)",
+    "Related: *la reforma* (renovation, reform), *reformado/a* (renovated)"
+  ],
+  "sourceFile": "Verbs/r/Reformar.md"
+}

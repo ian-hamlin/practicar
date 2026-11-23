@@ -1,0 +1,304 @@
+{
+  "id": "2e52ccff-64fd-511a-ae97-167047a13c00",
+  "infinitive": "Pagar",
+  "englishMeaning": "to pay",
+  "desc": "to pay",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "pagando",
+  "participio": "pagado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pago"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pagas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "paga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pagamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pagan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "pagué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pagaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pagó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pagamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pagaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "pagaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pagabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pagaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pagábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pagaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he pagado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has pagado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha pagado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos pagado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han pagado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había pagado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías pagado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había pagado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos pagado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían pagado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "pagaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pagarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pagará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pagaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pagarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "pagaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pagarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pagaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pagaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pagarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré pagado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás pagado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá pagado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos pagado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán pagado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pague"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pagues"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pague"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paguemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "paguen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "pagara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pagaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pagara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pagáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pagaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera pagado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras pagado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera pagado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos pagado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran pagado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "paga"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "pague"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "paguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "paguen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no pagues"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no pague"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no paguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no paguen"
+      }
+    ]
+  },
+  "notes": [
+    "Spelling-change -AR verb: g→gu before e to preserve the hard /g/ sound",
+    "Affects yo pretérito indefinido (*pagué*) and all forms of subjuntivo presente (*pague, pagues, pague, paguemos, paguen*)",
+    "Past participle: pagado (regular)",
+    "*Pagar en efectivo* = to pay in cash; *pagar con tarjeta* = to pay by card",
+    "*Pagar a plazos* = to pay in instalments",
+    "*Me las pagarás* = You'll pay for this (idiomatic threat)",
+    "Related: el pago (payment), el pagador/a (payer), pagado/a (paid)"
+  ],
+  "sourceFile": "Verbs/p/Pagar.md"
+}

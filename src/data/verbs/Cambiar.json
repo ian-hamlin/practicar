@@ -1,0 +1,301 @@
+{
+  "id": "41881edd-a5d3-5194-b671-e876beb745fb",
+  "infinitive": "Cambiar",
+  "englishMeaning": "to change",
+  "desc": "to change",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "cambiando",
+  "participio": "cambiado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cambio"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cambias"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cambia"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cambiamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cambian"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "cambié"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cambiaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cambió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cambiamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cambiaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "cambiaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cambiabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cambiaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cambiábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cambiaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he cambiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has cambiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha cambiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos cambiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han cambiado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había cambiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías cambiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había cambiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos cambiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían cambiado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "cambiaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cambiarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cambiará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cambiaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cambiarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "cambiaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cambiarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cambiaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cambiaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cambiarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré cambiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás cambiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá cambiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos cambiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán cambiado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cambie"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cambies"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cambie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cambiemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cambien"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "cambiara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cambiaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cambiara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cambiáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cambiaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera cambiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras cambiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera cambiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos cambiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran cambiado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "cambia"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "cambie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cambiemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "cambien"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no cambies"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no cambie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no cambiemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no cambien"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb. All conjugations follow standard -AR endings.",
+    "*Cambié de trabajo el año pasado.* (I changed jobs last year.)",
+    "*Todo cambia con el tiempo.* (Everything changes with time.)",
+    "Related: *el cambio* (change, exchange), *cambiarse* (to change clothes/oneself)"
+  ],
+  "sourceFile": "Verbs/c/Cambiar.md"
+}

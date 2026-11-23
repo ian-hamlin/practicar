@@ -1,0 +1,300 @@
+{
+  "id": "553ad082-6d09-5deb-92ef-e04ce4376431",
+  "infinitive": "Girar",
+  "englishMeaning": "to turn, to rotate",
+  "desc": "to turn, to rotate",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "g",
+  "categoryId": "ec8a91da-65cb-5d21-9c3a-4523865a71c5",
+  "gerundio": "girando",
+  "participio": "girado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "giro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "giras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "gira"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "giramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "giran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "giré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "giraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "giró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "giramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "giraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "giraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "girabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "giraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "girábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "giraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he girado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has girado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha girado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos girado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han girado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había girado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías girado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había girado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos girado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían girado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "giraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "girarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "girará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "giraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "girarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "giraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "girarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "giraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "giraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "girarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré girado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás girado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá girado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos girado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán girado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "gire"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "gires"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "gire"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "giremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "giren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "girara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "giraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "girara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "giráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "giraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera girado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras girado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera girado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos girado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran girado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "gira"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "gire"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "giremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "giren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no gires"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no gire"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no giremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no giren"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, no spelling changes or stem changes",
+    "Common usage: *girar a la derecha/izquierda* (to turn right/left — directions), *girar la cabeza* (to turn one's head), *el mundo gira* (the world turns/rotates)",
+    "Related noun: **el giro** (the turn, also \"money order\" in banking contexts: *un giro postal*)"
+  ],
+  "sourceFile": "Verbs/g/Girar.md"
+}

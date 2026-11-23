@@ -1,0 +1,302 @@
+{
+  "id": "53ae72e9-a1c6-526a-878b-7ff7a6f5cec0",
+  "infinitive": "Embarcar",
+  "englishMeaning": "to board, to embark",
+  "desc": "to board, to embark",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "embarcando",
+  "participio": "embarcado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "embarco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "embarcas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "embarca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "embarcamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "embarcan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "embarqué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "embarcaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "embarcó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "embarcamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "embarcaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "embarcaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "embarcabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "embarcaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "embarcábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "embarcaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he embarcado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has embarcado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha embarcado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos embarcado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han embarcado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había embarcado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías embarcado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había embarcado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos embarcado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían embarcado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "embarcaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "embarcarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "embarcará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "embarcaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "embarcarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "embarcaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "embarcarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "embarcaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "embarcaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "embarcarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré embarcado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás embarcado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá embarcado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos embarcado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán embarcado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "embarque"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "embarques"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "embarque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "embarquemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "embarquen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "embarcara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "embarcaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "embarcara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "embarcáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "embarcaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera embarcado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras embarcado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera embarcado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos embarcado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran embarcado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "embarca"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "embarque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "embarquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "embarquen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no embarques"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no embarque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no embarquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no embarquen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with spelling change c→qu in yo pretérito indefinido (*embarqué*) to preserve the /k/ sound before -é.",
+    "All other tenses follow regular -AR endings.",
+    "*Embarcamos a las ocho de la mañana.* (We boarded at eight in the morning.)",
+    "*¿Ya embarcaste? La puerta cierra pronto.* (Have you boarded yet? The gate closes soon.)",
+    "Related: *el embarque* (boarding, embarkation), *la tarjeta de embarque* (boarding pass), *desembarcar* (to disembark)"
+  ],
+  "sourceFile": "Verbs/e/Embarcar.md"
+}

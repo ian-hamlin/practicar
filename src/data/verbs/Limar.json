@@ -1,0 +1,302 @@
+{
+  "id": "ae93167c-9d21-5fff-a421-5553cb19cb35",
+  "infinitive": "Limar",
+  "englishMeaning": "to file, to smooth, to polish",
+  "desc": "to file, to smooth, to polish",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "l",
+  "categoryId": "fa5b6027-a511-5f12-980d-687e3e083fde",
+  "gerundio": "limando",
+  "participio": "limado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "limo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "limas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lima"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "limamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "liman"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "limé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "limaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "limó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "limamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "limaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "limaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "limabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "limaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "limábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "limaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he limado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has limado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha limado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos limado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han limado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había limado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías limado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había limado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos limado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían limado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "limaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "limarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "limará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "limaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "limarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "limaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "limarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "limaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "limaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "limarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré limado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás limado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá limado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos limado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán limado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "lime"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "limes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lime"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "limemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "limen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "limara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "limaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "limara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "limáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "limaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera limado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras limado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera limado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos limado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran limado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "lima"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "lime"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "limemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "limen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no limes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no lime"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no limemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no limen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *limado* (regular)",
+    "Means \"to file\" (nails, metal) or \"to smooth/polish\" — *limarse las uñas* (to file one's nails, with reflexive *limarse*), *limar el metal* (to file down the metal)",
+    "Also used figuratively to mean \"to smooth over\" (differences, conflicts): *limar las asperezas* (to smooth things over, to iron out differences)",
+    "Related: *lima* (file, the tool — also \"lime,\" the fruit, a different word with the same spelling), *limadura* (filings)"
+  ],
+  "sourceFile": "Verbs/l/Limar.md"
+}

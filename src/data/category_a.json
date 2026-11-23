@@ -1,0 +1,612 @@
+{
+  "id": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "letter": "a",
+  "count": 59,
+  "verbs": [
+    {
+      "id": "a3170e24-a6cd-5322-931c-e640a30b5976",
+      "infinitive": "Abducir",
+      "desc": "to abduct / to kidnap / to take away",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Abducir.json"
+    },
+    {
+      "id": "cf256387-5031-5188-8873-020fc04beccd",
+      "infinitive": "Abrazar",
+      "desc": "to hug, to embrace",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Abrazar.json"
+    },
+    {
+      "id": "e0d194d5-7fdd-5747-a4f7-5c1650c83064",
+      "infinitive": "Abrigarse",
+      "desc": "to wrap up / to dress warmly / to bundle up",
+      "tags": [
+        "verb",
+        "reflexive",
+        "irregular"
+      ],
+      "file": "verbs/Abrigarse.json"
+    },
+    {
+      "id": "ff5f4e09-40c2-539b-bf93-2b8a84a892a9",
+      "infinitive": "Abrir",
+      "desc": "to open",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Abrir.json"
+    },
+    {
+      "id": "63776da8-f088-5ab0-846a-6d4d0b3d3698",
+      "infinitive": "Abrochar",
+      "desc": "to fasten / to buckle / to button up",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Abrochar.json"
+    },
+    {
+      "id": "01f364d7-42b1-5e06-b35a-1e9a55859c86",
+      "infinitive": "Acabar",
+      "desc": "to finish, to end",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Acabar.json"
+    },
+    {
+      "id": "e44ec100-91ad-5bf0-9f22-3f2f566cc964",
+      "infinitive": "Aceptar",
+      "desc": "to accept",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Aceptar.json"
+    },
+    {
+      "id": "d50badef-c9b7-5d02-b57f-c8bd28c542e1",
+      "infinitive": "Acercarse",
+      "desc": "to approach, to come closer, to draw near",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive"
+      ],
+      "file": "verbs/Acercarse.json"
+    },
+    {
+      "id": "4fc32fd1-fc25-5e72-bf68-12def393e946",
+      "infinitive": "Acertar",
+      "desc": "to guess right, to get it right",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Acertar.json"
+    },
+    {
+      "id": "a1508e05-70e5-5f7a-8b57-01ea101dd6d8",
+      "infinitive": "Acoger",
+      "desc": "to welcome / to receive / to host",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Acoger.json"
+    },
+    {
+      "id": "ff439e2c-1a95-5861-b57a-0d5f50c028a4",
+      "infinitive": "Acordar",
+      "desc": "to agree (on), to decide (together)",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Acordar.json"
+    },
+    {
+      "id": "a6501d42-79e7-5cd0-8c32-34c45b8a5558",
+      "infinitive": "Acordarse",
+      "desc": "to remember",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Acordarse.json"
+    },
+    {
+      "id": "fa92372e-5875-5bb9-ade6-c3fcd4dc752e",
+      "infinitive": "Acostarse",
+      "desc": "to go to bed, to lie down",
+      "tags": [
+        "verb",
+        "irregular",
+        "reflexive",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Acostarse.json"
+    },
+    {
+      "id": "30224613-d9ad-5758-a5d5-db0e2ab1a147",
+      "infinitive": "Acostumbrar",
+      "desc": "to get used to / to be accustomed to",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Acostumbrar.json"
+    },
+    {
+      "id": "5a8c80d0-2caf-5ff7-9937-63933db57347",
+      "infinitive": "Acostumbrarse",
+      "desc": "to get used to / to become accustomed to",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Acostumbrarse.json"
+    },
+    {
+      "id": "9e0790cb-dc43-51d5-a024-3b039feecb90",
+      "infinitive": "Adelgazar",
+      "desc": "to lose weight, to slim down",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Adelgazar.json"
+    },
+    {
+      "id": "7058ab78-7a4f-5fb9-885d-930b57bfb97b",
+      "infinitive": "Adivinar",
+      "desc": "to guess / to divine / to predict",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Adivinar.json"
+    },
+    {
+      "id": "a64da6a7-60eb-5f79-bbf1-12156b8cfb7b",
+      "infinitive": "Adorar",
+      "desc": "to adore, to love",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Adorar.json"
+    },
+    {
+      "id": "35385680-2f5d-5919-a8e4-67a5fec0721f",
+      "infinitive": "Afeitarse",
+      "desc": "to shave",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Afeitarse.json"
+    },
+    {
+      "id": "6cba037a-329b-5701-b329-65756d23c2c4",
+      "infinitive": "Aficionarse",
+      "desc": "to become keen on / to take up / to become a fan of",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Aficionarse.json"
+    },
+    {
+      "id": "3e2b66ee-3d9a-5c17-9e5e-ce6885fc17e1",
+      "infinitive": "Agarrarse",
+      "desc": "to grab, to hold on to, to cling to",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Agarrarse.json"
+    },
+    {
+      "id": "9200e324-6d07-51e9-ba65-00fa2f356790",
+      "infinitive": "Agotar",
+      "desc": "to exhaust, to use up, to run out of",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Agotar.json"
+    },
+    {
+      "id": "901c31d3-1cd9-5b20-a966-cb10bfd37110",
+      "infinitive": "Ahogar",
+      "desc": "to drown / to choke / to suffocate",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Ahogar.json"
+    },
+    {
+      "id": "77949a8c-cc6e-5394-a87e-190ed9ead792",
+      "infinitive": "Ahorrar",
+      "desc": "to save (money or time)",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Ahorrar.json"
+    },
+    {
+      "id": "f86f6cdc-5f5f-5160-b154-d879c85b963e",
+      "infinitive": "Alegrar",
+      "desc": "to make happy / to cheer up / to brighten",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Alegrar.json"
+    },
+    {
+      "id": "e0917aa4-5f4b-5005-9c0d-dcd7bbfb2572",
+      "infinitive": "Alejar",
+      "desc": "to move away, to distance",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Alejar.json"
+    },
+    {
+      "id": "2f60ee2a-ab6c-559f-872b-b1017a11ab2e",
+      "infinitive": "Almorzar",
+      "desc": "to have lunch",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Almorzar.json"
+    },
+    {
+      "id": "f4834e61-0fba-53dc-9412-07e0428af615",
+      "infinitive": "Alojar",
+      "desc": "to lodge, to accommodate, to house",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Alojar.json"
+    },
+    {
+      "id": "458a8df9-2855-5946-9906-b951bec9907a",
+      "infinitive": "Alquilar",
+      "desc": "to rent / to hire",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Alquilar.json"
+    },
+    {
+      "id": "f8e19a24-ca8e-5a9d-b1e3-82f75506da55",
+      "infinitive": "Amasar",
+      "desc": "to knead, to mix (dough)",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Amasar.json"
+    },
+    {
+      "id": "ea134e36-fa04-5d88-a30b-325d8c2c4041",
+      "infinitive": "Anunciar",
+      "desc": "to announce",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Anunciar.json"
+    },
+    {
+      "id": "8cfb6f3d-d925-51fe-8d28-b00b355c0f26",
+      "infinitive": "Añadir",
+      "desc": "to add / to add on / to include",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Añadir.json"
+    },
+    {
+      "id": "c97a3b33-c067-505e-8443-a38b627cc604",
+      "infinitive": "Apagar",
+      "desc": "to turn off, to switch off",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Apagar.json"
+    },
+    {
+      "id": "7655a198-088b-5346-b052-b6103891c4bc",
+      "infinitive": "Aparecer",
+      "desc": "to appear, to show up",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Aparecer.json"
+    },
+    {
+      "id": "6d7f8e9e-099a-58a6-8b64-e3faf73e9e48",
+      "infinitive": "Aplaudir",
+      "desc": "to applaud / to clap",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Aplaudir.json"
+    },
+    {
+      "id": "62e27869-87fe-5882-b05c-96affbbc9f56",
+      "infinitive": "Aprender",
+      "desc": "to learn",
+      "tags": [],
+      "file": "verbs/Aprender.json"
+    },
+    {
+      "id": "a0365683-c2b5-5215-b512-4e4faa4eae46",
+      "infinitive": "Aprobar",
+      "desc": "to pass (an exam) / to approve / to pass (a law)",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_o_ue"
+      ],
+      "file": "verbs/Aprobar.json"
+    },
+    {
+      "id": "9a1296d8-7c75-547e-8910-5737b23349a7",
+      "infinitive": "Aprovechar",
+      "desc": "to make the most of, to take advantage of",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Aprovechar.json"
+    },
+    {
+      "id": "86b53d40-746a-5832-829d-cb6db09c26d1",
+      "infinitive": "Armar",
+      "desc": "to assemble, to put together, to arm",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Armar.json"
+    },
+    {
+      "id": "3a361c8e-4565-5409-b9c4-3254961398c9",
+      "infinitive": "Arrancar",
+      "desc": "to start (an engine), to pull out, to tear off",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Arrancar.json"
+    },
+    {
+      "id": "1017bf94-1ab6-552e-b561-1d93902e5e64",
+      "infinitive": "Arrastrar",
+      "desc": "to drag, to pull along",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Arrastrar.json"
+    },
+    {
+      "id": "4e0e28ca-aeec-59a8-a1f1-8be9f0307077",
+      "infinitive": "Arreglar",
+      "desc": "to fix / to repair / to arrange",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Arreglar.json"
+    },
+    {
+      "id": "f1c44e00-fd19-5537-a461-7b39e1d27fc1",
+      "infinitive": "Arremeter",
+      "desc": "to attack / to charge / to lunge",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Arremeter.json"
+    },
+    {
+      "id": "a5a348ca-2616-5a15-be38-54e75828f437",
+      "infinitive": "Arruinar",
+      "desc": "to ruin",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Arruinar.json"
+    },
+    {
+      "id": "f18ab38c-8885-5d88-9c38-2a11c89d22c6",
+      "infinitive": "Ascender",
+      "desc": "to ascend, to climb, to promote",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Ascender.json"
+    },
+    {
+      "id": "83fceb06-6b6e-5ff4-baa1-497a0d040dc1",
+      "infinitive": "Asesinar",
+      "desc": "to assassinate/to murder",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Asesinar.json"
+    },
+    {
+      "id": "b32df0aa-5e40-5f4a-9280-62019d0f0672",
+      "infinitive": "Asistir",
+      "desc": "to attend, to assist",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Asistir.json"
+    },
+    {
+      "id": "d5f16c18-8d18-5d35-a0bd-c7f6dd42251f",
+      "infinitive": "Asumir",
+      "desc": "to accept, to take on, to assume",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Asumir.json"
+    },
+    {
+      "id": "9a94ca1f-ff91-5238-abe2-354b01def5d5",
+      "infinitive": "Asustar",
+      "desc": "to scare / to frighten / to startle",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Asustar.json"
+    },
+    {
+      "id": "29c996e4-3f86-5130-91ad-31cb73f06709",
+      "infinitive": "Asustarse",
+      "desc": "to get scared, to be frightened",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Asustarse.json"
+    },
+    {
+      "id": "ac13d483-fec1-5bfa-8fbe-b67e074f7001",
+      "infinitive": "Atacar",
+      "desc": "to attack",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Atacar.json"
+    },
+    {
+      "id": "d474c020-415c-58cb-bc19-40e8735b4457",
+      "infinitive": "Atender",
+      "desc": "to attend to, to serve, to look after",
+      "tags": [
+        "verb",
+        "irregular",
+        "stem_e_ie"
+      ],
+      "file": "verbs/Atender.json"
+    },
+    {
+      "id": "a6c6affe-9233-533a-bb46-dcaeb93cfe00",
+      "infinitive": "Aterrizar",
+      "desc": "to land",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Aterrizar.json"
+    },
+    {
+      "id": "ad3a0e6c-f6a7-5472-9a2c-e09ae8d100ea",
+      "infinitive": "Atrapar",
+      "desc": "to catch, to trap",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Atrapar.json"
+    },
+    {
+      "id": "cd35e314-108b-5099-86af-e813e9de48ac",
+      "infinitive": "Atreverse",
+      "desc": "to dare / to have the nerve to",
+      "tags": [
+        "verb",
+        "regular",
+        "reflexive"
+      ],
+      "file": "verbs/Atreverse.json"
+    },
+    {
+      "id": "f07d0d7b-c99e-5a88-b177-a2beb01b9dc1",
+      "infinitive": "Atropellar",
+      "desc": "to run over, to knock down",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Atropellar.json"
+    },
+    {
+      "id": "6aad6717-cd2a-50b1-b591-14c9e57402fc",
+      "infinitive": "Avanzar",
+      "desc": "to advance, to make progress",
+      "tags": [
+        "verb",
+        "irregular"
+      ],
+      "file": "verbs/Avanzar.json"
+    },
+    {
+      "id": "93cd0154-d907-51cd-b675-84a9ec05edd1",
+      "infinitive": "Avisar",
+      "desc": "to warn, to notify, to let know",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Avisar.json"
+    },
+    {
+      "id": "94d35cb8-0e2a-561e-8b2f-2c29155afdb9",
+      "infinitive": "Ayudar",
+      "desc": "to help",
+      "tags": [
+        "verb",
+        "regular"
+      ],
+      "file": "verbs/Ayudar.json"
+    }
+  ]
+}

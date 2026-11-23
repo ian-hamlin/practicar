@@ -1,0 +1,301 @@
+{
+  "id": "b1a08cb7-de9c-5817-ba71-0268aa1d7f94",
+  "infinitive": "Matar",
+  "englishMeaning": "to kill",
+  "desc": "to kill",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "m",
+  "categoryId": "c342e4a9-b5da-540a-927d-ccca901fb9ff",
+  "gerundio": "matando",
+  "participio": "matado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "mato"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "matas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mata"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "matamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "matan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "maté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mataste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mató"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "matamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mataron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "mataba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "matabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mataba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "matábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mataban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he matado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has matado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha matado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos matado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han matado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había matado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías matado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había matado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos matado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían matado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "mataré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "matarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "matará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mataremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "matarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "mataría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "matarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mataría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mataríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "matarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré matado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás matado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá matado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos matado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán matado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "mate"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mates"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mate"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "matemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "maten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "matara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mataras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "matara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "matáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mataran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera matado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras matado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera matado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos matado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran matado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "mata"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "mate"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "matemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "maten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no mates"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no mate"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no matemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no maten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, no spelling changes or stem changes",
+    "Often used reflexively: **matarse** (to kill oneself, or figuratively \"to work oneself to death\")",
+    "Related noun: **el asesinato** (murder, more formal), **la matanza** (slaughter/massacre)",
+    "Common usage: *matar el tiempo* (to kill time), *matar dos pájaros de un tiro* (to kill two birds with one stone)"
+  ],
+  "sourceFile": "Verbs/m/Matar.md"
+}

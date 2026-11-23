@@ -1,0 +1,301 @@
+{
+  "id": "673ad702-e326-53f5-a65b-bd9b4dc32b66",
+  "infinitive": "Perfeccionar",
+  "englishMeaning": "to perfect, to improve",
+  "desc": "to perfect, to improve",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "perfeccionando",
+  "participio": "perfeccionado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "perfecciono"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "perfeccionas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "perfecciona"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "perfeccionamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "perfeccionan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "perfeccioné"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "perfeccionaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "perfeccionó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "perfeccionamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "perfeccionaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "perfeccionaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "perfeccionabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "perfeccionaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "perfeccionábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "perfeccionaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he perfeccionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has perfeccionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha perfeccionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos perfeccionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han perfeccionado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había perfeccionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías perfeccionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había perfeccionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos perfeccionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían perfeccionado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "perfeccionaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "perfeccionarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "perfeccionará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "perfeccionaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "perfeccionarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "perfeccionaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "perfeccionarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "perfeccionaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "perfeccionaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "perfeccionarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré perfeccionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás perfeccionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá perfeccionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos perfeccionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán perfeccionado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "perfeccione"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "perfecciones"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "perfeccione"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "perfeccionemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "perfeccionen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "perfeccionara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "perfeccionaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "perfeccionara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "perfeccionáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "perfeccionaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera perfeccionado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras perfeccionado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera perfeccionado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos perfeccionado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran perfeccionado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "perfecciona"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "perfeccione"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "perfeccionemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "perfeccionen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no perfecciones"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no perfeccione"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no perfeccionemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no perfeccionen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *perfeccionado* (regular)",
+    "Means \"to perfect\" or \"to improve/refine\" — *perfeccionar una técnica* (to perfect a technique), *quiero perfeccionar mi español* (I want to improve my Spanish)",
+    "Related: *perfección* (perfection), *perfeccionista* (perfectionist), *perfecto/a* (perfect)"
+  ],
+  "sourceFile": "Verbs/p/Perfeccionar.md"
+}

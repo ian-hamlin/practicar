@@ -1,0 +1,302 @@
+{
+  "id": "8d75da09-c418-5be1-917e-ec3d62eaebef",
+  "infinitive": "Bajar",
+  "englishMeaning": "to lower / to go down / to download",
+  "desc": "to lower / to go down / to download",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "b",
+  "categoryId": "0c6cef76-6cf7-5b31-b026-9ab8996fbcd1",
+  "gerundio": "bajando",
+  "participio": "bajado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "bajo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bajas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "baja"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bajamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bajan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "bajé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bajaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bajó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bajamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bajaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "bajaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bajabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bajaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bajábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bajaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he bajado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has bajado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha bajado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos bajado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han bajado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había bajado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías bajado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había bajado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos bajado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían bajado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "bajaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bajarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bajará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bajaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bajarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "bajaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bajarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bajaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bajaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bajarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré bajado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás bajado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá bajado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos bajado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán bajado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "baje"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bajes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "baje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bajemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bajen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "bajara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "bajaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "bajara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bajáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "bajaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera bajado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras bajado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera bajado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos bajado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran bajado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "baja"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "baje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "bajemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "bajen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no bajes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no baje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no bajemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no bajen"
+      }
+    ]
+  },
+  "notes": [
+    "**Bajar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Multiple meanings: to lower, to go down/descend, to download (technology), to get off (transportation)",
+    "Opposite of **subir** (to go up/raise)",
+    "Common usage: *bajar las escaleras* (to go down the stairs), *bajar del bus* (to get off the bus), *bajar música* (to download music)"
+  ],
+  "sourceFile": "Verbs/b/Bajar.md"
+}

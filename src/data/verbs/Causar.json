@@ -1,0 +1,301 @@
+{
+  "id": "9ec7d1c5-555b-5902-a0ae-c441d2597e04",
+  "infinitive": "Causar",
+  "englishMeaning": "to cause",
+  "desc": "to cause",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "causando",
+  "participio": "causado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "causo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "causas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "causa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "causamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "causan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "causé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "causaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "causó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "causamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "causaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "causaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "causabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "causaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "causábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "causaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he causado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has causado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha causado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos causado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han causado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había causado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías causado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había causado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos causado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían causado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "causaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "causarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "causará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "causaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "causarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "causaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "causarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "causaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "causaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "causarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré causado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás causado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá causado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos causado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán causado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cause"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "causes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cause"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "causemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "causen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "causara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "causaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "causara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "causáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "causaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera causado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras causado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera causado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos causado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran causado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "causa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "cause"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "causemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "causen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no causes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no cause"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no causemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no causen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard endings in every tense, no exceptions.",
+    "*La desigualdad causa estrés y depresión.* (\"Inequality causes stress and depression.\")",
+    "*Ese comentario le causó mucha gracia.* (\"That comment amused him/her a lot.\")",
+    "Related: *la causa* (cause, noun), *provocar* (near-synonym, \"to provoke/trigger\"), *ocasionar* (synonym, \"to bring about\")."
+  ],
+  "sourceFile": "Verbs/c/Causar.md"
+}

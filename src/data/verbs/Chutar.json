@@ -1,0 +1,302 @@
+{
+  "id": "cb1ae5f3-73a6-5362-a8ee-c1af5176c7f5",
+  "infinitive": "Chutar",
+  "englishMeaning": "to shoot, to kick (a ball)",
+  "desc": "to shoot, to kick (a ball)",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "chutando",
+  "participio": "chutado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "chuto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "chutas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "chuta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "chutamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "chutan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "chuté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "chutaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "chutó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "chutamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "chutaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "chutaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "chutabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "chutaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "chutábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "chutaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he chutado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has chutado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha chutado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos chutado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han chutado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había chutado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías chutado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había chutado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos chutado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían chutado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "chutaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "chutarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "chutará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "chutaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "chutarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "chutaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "chutarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "chutaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "chutaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "chutarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré chutado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás chutado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá chutado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos chutado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán chutado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "chute"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "chutes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "chute"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "chutemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "chuten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "chutara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "chutaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "chutara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "chutáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "chutaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera chutado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras chutado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera chutado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos chutado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran chutado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "chuta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "chute"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "chutemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "chuten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no chutes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no chute"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no chutemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no chuten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *chutado* (regular)",
+    "Informal sports term borrowed from English \"to shoot,\" most common in football/soccer contexts — *chutó el balón a la portería* (he shot the ball at the goal)",
+    "Common colloquial expression: *¡y chuta!* = \"and that's that!\" / \"and there you go!\" (used dismissively, like throwing something and being done with it)",
+    "Related: *chut* (shot, kick — noun, from English \"shoot\"), *chutazo* (a powerful shot)"
+  ],
+  "sourceFile": "Verbs/c/Chutar.md"
+}

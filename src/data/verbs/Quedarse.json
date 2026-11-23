@@ -1,0 +1,303 @@
+{
+  "id": "e9bcaf8c-6e00-5578-814d-748707754ea6",
+  "infinitive": "Quedarse",
+  "englishMeaning": "to stay, to remain",
+  "desc": "to stay, to remain",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "q",
+  "categoryId": "2dc93897-6e3f-576d-9505-469391d25e18",
+  "gerundio": "quedando",
+  "participio": "quedado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me quedo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te quedas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se queda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos quedamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se quedan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me quedé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te quedaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se quedó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos quedamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se quedaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me quedaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te quedabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se quedaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos quedábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se quedaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he quedado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has quedado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha quedado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos quedado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han quedado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había quedado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías quedado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había quedado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos quedado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían quedado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me quedaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te quedarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se quedará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos quedaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se quedarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me quedaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te quedarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se quedaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos quedaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se quedarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré quedado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás quedado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá quedado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos quedado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán quedado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me quede"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te quedes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se quede"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos quedemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se queden"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me quedara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te quedaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se quedara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos quedáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se quedaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera quedado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras quedado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera quedado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos quedado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran quedado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "quédate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "quédese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "quedémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "quédense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te quedes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se quede"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos quedemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se queden"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular reflexive -AR verb; follows standard endings throughout",
+    "Past participle: quedado (regular)",
+    "*Quedarse en casa* = to stay at home; *¿Te quedas a cenar?* = Are you staying for dinner?",
+    "Also used with adjectives: *quedarse tranquilo* = to stay calm, *quedarse dormido* = to fall asleep, *quedarse parado* = to freeze/stop",
+    "Non-reflexive *quedar* = to be left/remain (e.g. *quedan dos días* = there are two days left), or to arrange to meet (*quedamos el martes* = we're meeting Tuesday)"
+  ],
+  "sourceFile": "Verbs/q/Quedarse.md"
+}

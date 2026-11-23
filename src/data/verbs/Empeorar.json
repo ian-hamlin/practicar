@@ -1,0 +1,301 @@
+{
+  "id": "ad7e77d6-2b01-5bfa-ac3a-009ee9b9e4de",
+  "infinitive": "Empeorar",
+  "englishMeaning": "to worsen / to get worse",
+  "desc": "to worsen / to get worse",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "empeorando",
+  "participio": "empeorado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "empeoro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empeoras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empeora"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empeoramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empeoran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "empeoré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empeoraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empeoró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empeoramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empeoraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "empeoraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empeorabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empeoraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empeorábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empeoraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he empeorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has empeorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha empeorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos empeorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han empeorado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había empeorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías empeorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había empeorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos empeorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían empeorado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "empeoraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empeorarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empeorará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empeoraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empeorarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "empeoraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empeorarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empeoraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empeoraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empeorarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré empeorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás empeorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá empeorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos empeorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán empeorado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "empeore"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empeores"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empeore"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empeoremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empeoren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "empeorara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "empeoraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "empeorara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empeoráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "empeoraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera empeorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras empeorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera empeorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos empeorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran empeorado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "empeora"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "empeore"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "empeoremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "empeoren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no empeores"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no empeore"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no empeoremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no empeoren"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; no spelling changes or stem changes",
+    "Past participle: *empeorado*",
+    "Antonym: *mejorar* (to improve / to get better)",
+    "Can be intransitive (*la situación empeora* — the situation is getting worse) or transitive (*esto empeora el problema* — this worsens the problem)"
+  ],
+  "sourceFile": "Verbs/e/Empeorar.md"
+}

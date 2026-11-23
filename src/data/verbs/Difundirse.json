@@ -1,0 +1,303 @@
+{
+  "id": "f5430d24-0627-542d-83d4-dc4b980c535a",
+  "infinitive": "Difundirse",
+  "englishMeaning": "to spread, to be broadcast",
+  "desc": "to spread, to be broadcast",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "difundiendo",
+  "participio": "difundido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me difundo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te difundes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se difunde"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos difundimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se difunden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me difundí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te difundiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se difundió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos difundimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se difundieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me difundía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te difundías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se difundía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos difundíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se difundían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he difundido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has difundido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha difundido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos difundido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han difundido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había difundido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías difundido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había difundido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos difundido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían difundido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me difundiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te difundirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se difundirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos difundiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se difundirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me difundiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te difundirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se difundiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos difundiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se difundirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré difundido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás difundido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá difundido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos difundido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán difundido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me difunda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te difundas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se difunda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos difundamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se difundan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me difundiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te difundieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se difundiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos difundiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se difundieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera difundido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras difundido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera difundido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos difundido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran difundido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "difúndete"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "difúndase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "difundámonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "difúndanse"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te difundas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se difunda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos difundamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se difundan"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -IR verb; fully regular",
+    "The non-reflexive \"difundir\" means to broadcast/to spread (something) — transitive",
+    "\"Difundirse\" is the intransitive/passive form: the news spread, the rumour spread",
+    "Past participle: difundido",
+    "Common context: noticias que se difunden = news that spreads; rumores que se difunden = rumours that spread"
+  ],
+  "sourceFile": "Verbs/d/Difundirse.md"
+}

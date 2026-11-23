@@ -1,0 +1,305 @@
+{
+  "id": "5bd85e19-50a8-5e58-96c6-8df9bb1301bd",
+  "infinitive": "Conformarse",
+  "englishMeaning": "to make do with / to settle for / to be satisfied with",
+  "desc": "to make do with / to settle for / to be satisfied with",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "conformando",
+  "participio": "conformado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me conformo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te conformas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se conforma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos conformamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se conforman"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me conformé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te conformaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se conformó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos conformamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se conformaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me conformaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te conformabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se conformaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos conformábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se conformaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he conformado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has conformado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha conformado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos conformado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han conformado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había conformado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías conformado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había conformado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos conformado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían conformado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me conformaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te conformarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se conformará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos conformaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se conformarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me conformaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te conformarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se conformaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos conformaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se conformarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré conformado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás conformado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá conformado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos conformado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán conformado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me conforme"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te conformes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se conforme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos conformemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se conformen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me conformara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te conformaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se conformara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos conformáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se conformaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera conformado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras conformado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera conformado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos conformado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran conformado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "confórmate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "confórmese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "conformémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "confórmense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te conformes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se conforme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos conformemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se conformen"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -AR verb; fully regular",
+    "Always followed by **con**: *conformarse con algo* = to make do with / to settle for something",
+    "Past participle: *conformado*",
+    "*No me conformo con menos* — I won't settle for less",
+    "*¿Te conformas con eso?* — Are you happy with that? / Will you make do with that?",
+    "Non-reflexive *conformar* = to form, to constitute, to shape (*Los países que conforman la UE* — The countries that make up the EU)",
+    "*conforme* (adjective) = satisfied, in agreement (*Estoy conforme* — I'm happy with that / I agree)"
+  ],
+  "sourceFile": "Verbs/c/Conformarse.md"
+}

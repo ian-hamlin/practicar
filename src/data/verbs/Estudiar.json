@@ -1,0 +1,301 @@
+{
+  "id": "a9e290cf-4952-5f78-9bf7-947dafc647ca",
+  "infinitive": "Estudiar",
+  "englishMeaning": "to study",
+  "desc": "to study",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "estudiando",
+  "participio": "estudiado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "estudio"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estudias"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "estudia"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estudiamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "estudian"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "estudié"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estudiaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "estudió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estudiamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "estudiaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "estudiaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estudiabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "estudiaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estudiábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "estudiaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he estudiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has estudiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha estudiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos estudiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han estudiado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había estudiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías estudiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había estudiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos estudiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían estudiado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "estudiaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estudiarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "estudiará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estudiaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "estudiarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "estudiaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estudiarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "estudiaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estudiaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "estudiarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré estudiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás estudiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá estudiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos estudiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán estudiado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "estudie"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estudies"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "estudie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estudiemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "estudien"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "estudiara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "estudiaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "estudiara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estudiáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "estudiaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera estudiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras estudiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera estudiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos estudiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran estudiado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "estudia"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "estudie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estudiemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "estudien"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no estudies"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no estudie"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no estudiemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no estudien"
+      }
+    ]
+  },
+  "notes": [
+    "**Estudiar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Common usage: *estudiar español* (to study Spanish), *estudiar para el examen* (to study for the exam)",
+    "Related noun: **el/la estudiante** (student)"
+  ],
+  "sourceFile": "Verbs/e/Estudiar.md"
+}

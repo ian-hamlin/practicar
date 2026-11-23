@@ -1,0 +1,301 @@
+{
+  "id": "36a75ee3-d6fa-5c6d-85a0-34c13d868618",
+  "infinitive": "Recibir",
+  "englishMeaning": "to receive, to get",
+  "desc": "to receive, to get",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "recibiendo",
+  "participio": "recibido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "recibo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recibes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recibe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recibimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reciben"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "recibí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recibiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recibió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recibimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recibieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "recibía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recibías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recibía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recibíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recibían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he recibido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has recibido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha recibido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos recibido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han recibido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había recibido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías recibido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había recibido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos recibido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían recibido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "recibiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recibirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recibirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recibiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recibirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "recibiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recibirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recibiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recibiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recibirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré recibido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás recibido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá recibido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos recibido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán recibido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "reciba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recibas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "reciba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recibamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "reciban"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "recibiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "recibieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "recibiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recibiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "recibieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera recibido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras recibido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera recibido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos recibido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran recibido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "recibe"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "reciba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "recibamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "reciban"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no recibas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no reciba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no recibamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no reciban"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -IR verb. All conjugations follow standard -IR endings.",
+    "*Recibí una carta ayer.* (I received a letter yesterday.)",
+    "*¿Has recibido mi mensaje?* (Have you received my message?)",
+    "Related: *el recibo* (receipt), *la recepción* (reception), *el/la recepcionista* (receptionist)"
+  ],
+  "sourceFile": "Verbs/r/Recibir.md"
+}

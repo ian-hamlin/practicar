@@ -1,0 +1,301 @@
+{
+  "id": "6ec10831-d35b-5ce8-b309-86d26b5f6c12",
+  "infinitive": "Mandar",
+  "englishMeaning": "to send, to order/command",
+  "desc": "to send, to order/command",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "m",
+  "categoryId": "c342e4a9-b5da-540a-927d-ccca901fb9ff",
+  "gerundio": "mandando",
+  "participio": "mandado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "mando"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mandas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "manda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mandamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mandan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "mandé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mandaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mandó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mandamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mandaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "mandaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mandabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mandaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mandábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mandaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he mandado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has mandado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha mandado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos mandado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han mandado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había mandado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías mandado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había mandado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos mandado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían mandado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "mandaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mandarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mandará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mandaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mandarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "mandaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mandarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mandaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mandaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mandarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré mandado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás mandado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá mandado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos mandado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán mandado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "mande"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mandes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mande"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mandemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "manden"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "mandara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mandaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mandara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mandáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mandaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera mandado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras mandado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera mandado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos mandado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran mandado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "manda"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "mande"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mandemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "manden"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no mandes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no mande"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no mandemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no manden"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, no spelling changes or stem changes",
+    "Two related meanings: \"to send\" (*mandar un mensaje/paquete*) and \"to order/command\" (*mandar que + subjuntivo*, e.g. *te mando que te calles*)",
+    "Common usage: *mandar un correo* (to send an email), *mandar saludos* (to send regards), *¿mande?* (Mexican Spanish, polite \"what did you say?\"/\"pardon?\")",
+    "Related noun: **el mandato** (command/mandate), **el mandón/la mandona** (bossy person)"
+  ],
+  "sourceFile": "Verbs/m/Mandar.md"
+}

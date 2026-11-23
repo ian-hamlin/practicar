@@ -1,0 +1,303 @@
+{
+  "id": "14e24c97-5693-5763-8071-458b017e7bc9",
+  "infinitive": "Enfriar",
+  "englishMeaning": "to cool, to chill, to cool down",
+  "desc": "to cool, to chill, to cool down",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "enfriando",
+  "participio": "enfriado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "enfrío"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enfrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enfría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enfriamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enfrían"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "enfrié"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enfriaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enfrió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enfriamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enfriaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "enfriaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enfriabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enfriaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enfriábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enfriaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he enfriado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has enfriado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha enfriado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos enfriado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han enfriado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había enfriado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías enfriado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había enfriado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos enfriado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían enfriado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "enfriaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enfriarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enfriará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enfriaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enfriarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "enfriaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enfriarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enfriaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enfriaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enfriarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré enfriado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás enfriado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá enfriado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos enfriado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán enfriado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "enfríe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enfríes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enfríe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enfríemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enfríen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "enfriara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enfriaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enfriara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enfriáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enfriaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera enfriado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras enfriado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera enfriado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos enfriado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran enfriado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "enfría"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "enfríe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enfriemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "enfríen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no enfríes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no enfríe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no enfriemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no enfríen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with an **accent change in the presente**: the weak **i** takes an accent mark (í) in all singular forms and ellos/ellas/ustedes to break the diphthong",
+    "Nosotros/nosotras is the exception: *enfriamos* (no accent)",
+    "All other tenses follow regular -AR patterns",
+    "Past participle: *enfriado* (regular)",
+    "Often used reflexively: *enfriarse* — *la relación se ha enfriado* (the relationship has cooled), *se me ha enfriado el café* (my coffee has gone cold)",
+    "Related: *frío/a* (cold), *el frío* (the cold)"
+  ],
+  "sourceFile": "Verbs/e/Enfriar.md"
+}

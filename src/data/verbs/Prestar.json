@@ -1,0 +1,304 @@
+{
+  "id": "a54f23e1-9c4e-5218-b5e2-534e09071145",
+  "infinitive": "Prestar",
+  "englishMeaning": "to lend / to loan",
+  "desc": "to lend / to loan",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "prestando",
+  "participio": "prestado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "presto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prestas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "presta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prestamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prestan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "presté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prestaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "prestó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prestamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prestaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "prestaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prestabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "prestaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prestábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prestaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he prestado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has prestado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha prestado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos prestado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han prestado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había prestado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías prestado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había prestado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos prestado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían prestado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "prestaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prestarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "prestará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prestaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prestarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "prestaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prestarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "prestaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prestaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prestarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré prestado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás prestado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá prestado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos prestado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán prestado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "preste"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prestes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "preste"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prestemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "presten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "prestara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "prestaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "prestara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prestáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "prestaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera prestado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras prestado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera prestado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos prestado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran prestado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "presta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "preste"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "prestemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "presten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no prestes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no preste"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no prestemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no presten"
+      }
+    ]
+  },
+  "notes": [
+    "**Prestar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **prestado** (regular)",
+    "Common usage: *prestar atención* (to pay attention), *prestar dinero* (to lend money)",
+    "Opposite of **pedir prestado** (to borrow)",
+    "Related noun: **el préstamo** (loan)",
+    "Common phrases: *prestar servicio* (to provide service), *prestar ayuda* (to lend help)"
+  ],
+  "sourceFile": "Verbs/p/Prestar.md"
+}

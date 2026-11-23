@@ -1,0 +1,302 @@
+{
+  "id": "cca83050-1500-5d26-87ce-7ef714640047",
+  "infinitive": "Llorar",
+  "englishMeaning": "to cry / to weep",
+  "desc": "to cry / to weep",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "l",
+  "categoryId": "fa5b6027-a511-5f12-980d-687e3e083fde",
+  "gerundio": "llorando",
+  "participio": "llorado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "lloro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lloras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llora"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lloramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lloran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "lloré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lloraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lloró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lloramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lloraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "lloraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "llorabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lloraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "llorábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lloraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he llorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has llorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha llorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos llorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han llorado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había llorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías llorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había llorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos llorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían llorado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "lloraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "llorarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llorará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lloraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "llorarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "lloraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "llorarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lloraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lloraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "llorarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré llorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás llorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá llorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos llorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán llorado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "llore"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "llores"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llore"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lloremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lloren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "llorara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lloraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llorara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lloráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lloraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera llorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras llorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera llorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos llorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran llorado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "llora"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "llore"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "lloremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "lloren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no llores"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no llore"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no lloremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no lloren"
+      }
+    ]
+  },
+  "notes": [
+    "**Llorar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Common usage: *llorar de tristeza* (to cry from sadness), *llorar de alegría* (to cry from joy)",
+    "Related noun: **el llanto** (crying, weeping)",
+    "Expression: *llorar a lágrima viva* (to cry one's eyes out)"
+  ],
+  "sourceFile": "Verbs/l/Llorar.md"
+}

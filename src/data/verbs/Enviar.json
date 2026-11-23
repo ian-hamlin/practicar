@@ -1,0 +1,303 @@
+{
+  "id": "4218e0df-6319-59e4-8637-d56546f69fbb",
+  "infinitive": "Enviar",
+  "englishMeaning": "to send",
+  "desc": "to send",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "enviando",
+  "participio": "enviado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "envío"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "envías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "envía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enviamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "envían"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "envié"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enviaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "envió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enviamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enviaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "enviaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enviabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enviaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enviábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enviaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he enviado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has enviado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha enviado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos enviado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han enviado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había enviado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías enviado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había enviado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos enviado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían enviado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "enviaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enviarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enviará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enviaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enviarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "enviaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enviarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enviaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enviaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enviarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré enviado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás enviado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá enviado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos enviado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán enviado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "envíe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "envíes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "envíe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "envíemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "envíen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "enviara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "enviaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "enviara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enviáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "enviaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera enviado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras enviado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera enviado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos enviado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran enviado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "envía"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "envíe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "enviemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "envíen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no envíes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no envíe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no enviemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no envíen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with accent change in presente: í is stressed in all forms except *nosotros* (*envío, envías, envía, envían*).",
+    "The accent on í prevents the *i* from merging into a diphthong with the following vowel.",
+    "Nosotros present (*enviamos*) and all other tenses follow regular -AR endings with no accent change.",
+    "*Envié un correo electrónico esta mañana.* (I sent an email this morning.)",
+    "*¿Me envías la dirección?* (Can you send me the address?)",
+    "Related: *el envío* (sending, shipment), *el/la enviado/a* (envoy, correspondent)"
+  ],
+  "sourceFile": "Verbs/e/Enviar.md"
+}

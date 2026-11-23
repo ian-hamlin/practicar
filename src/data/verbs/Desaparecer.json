@@ -1,0 +1,305 @@
+{
+  "id": "9502faed-8128-5a7a-aa35-cd5fee5a5900",
+  "infinitive": "Desaparecer",
+  "englishMeaning": "to disappear",
+  "desc": "to disappear",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "desapareciendo",
+  "participio": "desaparecido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "desaparezco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desapareces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desaparece"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desaparecemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desaparecen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "desaparecí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desapareciste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desapareció"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desaparecimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desaparecieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "desaparecía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desaparecías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desaparecía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desaparecíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desaparecían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he desaparecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has desaparecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha desaparecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos desaparecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han desaparecido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había desaparecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías desaparecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había desaparecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos desaparecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían desaparecido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "desapareceré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desaparecerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desaparecerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desapareceremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desaparecerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "desaparecería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desaparecerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desaparecería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desapareceríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desaparecerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré desaparecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás desaparecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá desaparecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos desaparecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán desaparecido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "desaparezca"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desaparezcas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desaparezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desaparezcamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desaparezcan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "desapareciera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "desaparecieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "desapareciera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desapareciéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "desaparecieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera desaparecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras desaparecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera desaparecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos desaparecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran desaparecido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "desaparece"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "desaparezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "desaparezcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "desaparezcan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no desaparezcas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no desaparezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no desaparezcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no desaparezcan"
+      }
+    ]
+  },
+  "notes": [
+    "**Desaparecer** is an -ER verb with irregular \"yo\" form in present",
+    "Present: irregular \"yo\" form (desaparezco) with spelling change c→zc before o",
+    "Preterite: regular -ER endings",
+    "Imperfect: regular -ER pattern",
+    "Future: regular future endings attached to infinitive",
+    "Same conjugation pattern as **parecer**, **crecer**, and **conocer**",
+    "Common usage: *desaparecer sin dejar rastro* (to disappear without a trace), *hacer desaparecer* (to make disappear)",
+    "Opposite: **aparecer** (to appear)"
+  ],
+  "sourceFile": "Verbs/d/Desaparecer.md"
+}

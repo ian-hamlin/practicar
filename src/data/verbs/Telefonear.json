@@ -1,0 +1,301 @@
+{
+  "id": "985a6430-e74f-525f-8fc0-e08e19ee9b2a",
+  "infinitive": "Telefonear",
+  "englishMeaning": "to telephone / to call",
+  "desc": "to telephone / to call",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "t",
+  "categoryId": "a163d0db-76b7-5624-8633-200bb9177aae",
+  "gerundio": "telefoneando",
+  "participio": "telefoneado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "telefoneo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "telefoneas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "telefonea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "telefoneamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "telefonean"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "telefoneé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "telefoneaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "telefoneó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "telefoneamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "telefonearon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "telefoneaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "telefoneabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "telefoneaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "telefoneábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "telefoneaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he telefoneado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has telefoneado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha telefoneado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos telefoneado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han telefoneado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había telefoneado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías telefoneado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había telefoneado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos telefoneado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían telefoneado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "telefonearé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "telefonearás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "telefoneará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "telefonearemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "telefonearán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "telefonearía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "telefonearías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "telefonearía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "telefonearíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "telefonearían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré telefoneado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás telefoneado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá telefoneado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos telefoneado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán telefoneado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "telefonee"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "telefonees"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "telefonee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "telefoneemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "telefoneen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "telefoneara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "telefonearas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "telefoneara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "telefoneáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "telefonearan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera telefoneado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras telefoneado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera telefoneado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos telefoneado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran telefoneado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "telefonea"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "telefonee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "telefoneemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "telefoneen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no telefonees"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no telefonee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no telefoneemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no telefoneen"
+      }
+    ]
+  },
+  "notes": [
+    "**Telefonear** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "More formal/less common in everyday speech",
+    "More commonly used: **llamar** (to call) or **llamar por teléfono** (to call on the phone)"
+  ],
+  "sourceFile": "Verbs/t/Telefonear.md"
+}

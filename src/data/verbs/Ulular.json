@@ -1,0 +1,304 @@
+{
+  "id": "51af51f0-1f47-5537-9927-fa6f0385c841",
+  "infinitive": "Ulular",
+  "englishMeaning": "to hoot / to howl",
+  "desc": "to hoot / to howl",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "u",
+  "categoryId": "770b5668-3401-5a60-ab5b-964aac2ea95b",
+  "gerundio": "ululando",
+  "participio": "ululado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ululo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ululas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ulula"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ululamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ululan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "ululé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ululaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ululó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ululamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ulularon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "ululaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ululabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ululaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ululábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ululaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he ululado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has ululado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha ululado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos ululado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han ululado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había ululado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías ululado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había ululado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos ululado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían ululado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "ulularé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ulularás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ululará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ulularemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ulularán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "ulularía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ulularías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ulularía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ulularíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ulularían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré ululado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás ululado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá ululado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos ululado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán ululado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ulule"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ulules"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ulule"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ululemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ululen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "ululara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ulularas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ululara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ululáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ulularan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera ululado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras ululado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera ululado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos ululado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran ululado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "ulula"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "ulule"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ululemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "ululen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no ulules"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no ulule"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no ululemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no ululen"
+      }
+    ]
+  },
+  "notes": [
+    "**Ulular** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Primarily used for owl sounds (hooting)",
+    "Can also be used for howling wind or wolves",
+    "Common usage: *El búho ululaba en la noche* (The owl was hooting in the night)",
+    "Related noun: **el ulular** (the hooting/howling)",
+    "Often used in 3rd person for animal/nature sounds"
+  ],
+  "sourceFile": "Verbs/u/Ulular.md"
+}

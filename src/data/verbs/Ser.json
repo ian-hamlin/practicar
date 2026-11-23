@@ -1,0 +1,305 @@
+{
+  "id": "eecc796c-ad19-5ed3-98e9-16b483e9cfa3",
+  "infinitive": "Ser",
+  "englishMeaning": "to be",
+  "desc": "to be",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "siendo",
+  "participio": "sido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "soy"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "eres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "es"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "somos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "son"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "fui"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "fuiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "fue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fuimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "fueron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "era"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "eras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "era"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "éramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "eran"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he sido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has sido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha sido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos sido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han sido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había sido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías sido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había sido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos sido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían sido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "seré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "serás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "será"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "seremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "serán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "sería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "serías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "seríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "serían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré sido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás sido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá sido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos sido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán sido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sea"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "seas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "seamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sean"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "fuera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "fueras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "fuera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "fuéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "fueran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera sido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras sido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera sido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos sido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran sido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "sé"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "sea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "seamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "sean"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no seas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no sea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no seamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no sean"
+      }
+    ]
+  },
+  "notes": [
+    "**Ser** is completely irregular in all tenses",
+    "Preterite forms are identical to **ir** (fui, fuiste, fue, fuimos, fueron)",
+    "Context determines meaning: *Fui estudiante* (I was) vs *Fui al parque* (I went)",
+    "Past participle: **sido** (been)",
+    "Used for permanent/essential characteristics, professions, time, origin, possession",
+    "Contrasts with **estar** (temporary conditions, locations)",
+    "Common usage: *Soy de Argentina* (I'm from Argentina), *Es médico* (He's a doctor), *Son las tres* (It's three o'clock)",
+    "Expression: *Es que...* (It's just that... / The thing is...)"
+  ],
+  "sourceFile": "Verbs/s/Ser.md"
+}

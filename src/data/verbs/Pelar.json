@@ -1,0 +1,301 @@
+{
+  "id": "86a71add-bad0-5ea6-a7ef-0664b74be021",
+  "infinitive": "Pelar",
+  "englishMeaning": "to peel, to skin",
+  "desc": "to peel, to skin",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "pelando",
+  "participio": "pelado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pelo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pelas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pela"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pelamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pelan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "pelé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pelaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "peló"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pelamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pelaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "pelaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pelabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pelaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pelábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pelaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he pelado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has pelado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha pelado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos pelado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han pelado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había pelado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías pelado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había pelado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos pelado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían pelado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "pelaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pelarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pelará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pelaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pelarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "pelaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pelarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pelaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pelaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pelarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré pelado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás pelado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá pelado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos pelado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán pelado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pele"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "peles"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pele"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pelemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pelen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "pelara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pelaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pelara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "peláramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pelaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera pelado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras pelado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera pelado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos pelado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran pelado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "pela"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "pele"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pelemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "pelen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no peles"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no pele"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no pelemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no pelen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb",
+    "Used for peeling fruit/vegetables or shaving/cutting hair (pelar la cabeza = to shave the head)",
+    "Past participle: pelado",
+    "Colloquial: \"hace un frío que pela\" = it's freezing cold"
+  ],
+  "sourceFile": "Verbs/p/Pelar.md"
+}

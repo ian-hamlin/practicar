@@ -1,0 +1,303 @@
+{
+  "id": "b012475a-7e30-5c3b-b537-86c44e923758",
+  "infinitive": "Confundir",
+  "englishMeaning": "to confuse, to mix up",
+  "desc": "to confuse, to mix up",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "confundiendo",
+  "participio": "confundido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "confundo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "confundes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "confunde"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "confundimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "confunden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "confundí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "confundiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "confundió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "confundimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "confundieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "confundía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "confundías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "confundía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "confundíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "confundían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he confundido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has confundido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha confundido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos confundido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han confundido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había confundido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías confundido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había confundido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos confundido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían confundido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "confundiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "confundirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "confundirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "confundiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "confundirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "confundiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "confundirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "confundiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "confundiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "confundirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré confundido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás confundido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá confundido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos confundido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán confundido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "confunda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "confundas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "confunda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "confundamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "confundan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "confundiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "confundieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "confundiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "confundiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "confundieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera confundido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras confundido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera confundido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos confundido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran confundido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "confunde"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "confunda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "confundamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "confundan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no confundas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no confunda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no confundamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no confundan"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -IR verb; follows standard endings throughout",
+    "Past participle: confundido (regular)",
+    "*Siempre confundo por y para* = I always mix up por and para",
+    "Reflexive *confundirse* = to get confused, to make a mistake: *Me confundí de calle* = I got the wrong street",
+    "*Confundir a alguien con alguien* = to mistake someone for someone else: *Te confundí con tu hermano* = I mistook you for your brother",
+    "Related: la confusión (confusion), confuso/a (confused/confusing), el malentendido (misunderstanding)"
+  ],
+  "sourceFile": "Verbs/c/Confundir.md"
+}

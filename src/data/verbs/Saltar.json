@@ -1,0 +1,300 @@
+{
+  "id": "fd4e8d9b-9d52-53ba-8a83-7a5dfeedb665",
+  "infinitive": "Saltar",
+  "englishMeaning": "to jump",
+  "desc": "to jump",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "saltando",
+  "participio": "saltado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "salto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "saltas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "salta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "saltamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "saltan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "salté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "saltaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "saltó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "saltamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "saltaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "saltaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "saltabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "saltaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "saltábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "saltaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he saltado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has saltado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha saltado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos saltado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han saltado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había saltado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías saltado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había saltado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos saltado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían saltado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "saltaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "saltarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "saltará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "saltaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "saltarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "saltaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "saltarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "saltaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "saltaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "saltarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré saltado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás saltado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá saltado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos saltado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán saltado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "salte"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "saltes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "salte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "saltemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "salten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "saltara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "saltaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "saltara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "saltáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "saltaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera saltado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras saltado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera saltado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos saltado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran saltado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "salta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "salte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "saltemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "salten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no saltes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no salte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no saltemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no salten"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, no spelling changes or stem changes",
+    "Related noun: **el salto** (the jump); **saltar a la cuerda** (to jump rope)",
+    "Common usage: *saltar de alegría* (to jump for joy), *saltarse una comida* (to skip a meal — reflexive use), *saltar la valla* (to jump the fence)"
+  ],
+  "sourceFile": "Verbs/s/Saltar.md"
+}

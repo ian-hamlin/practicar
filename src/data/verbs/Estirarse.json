@@ -1,0 +1,309 @@
+{
+  "id": "5069c7b6-4b93-5d64-8b21-79f9736eb477",
+  "infinitive": "Estirarse",
+  "englishMeaning": "to stretch / to stretch out",
+  "desc": "to stretch, to stretch out",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "estirando",
+  "participio": "estirado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me estiro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te estiras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se estira"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos estiramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se estiran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me estiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te estiraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se estiró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos estiramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se estiraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me estiraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te estirabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se estiraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos estirábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se estiraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he estirado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has estirado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha estirado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos estirado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han estirado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había estirado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías estirado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había estirado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos estirado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían estirado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me estiraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te estirarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se estirará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos estiraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se estirarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me estiraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te estirarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se estiraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos estiraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se estirarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré estirado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás estirado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá estirado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos estirado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán estirado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me estire"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te estires"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se estire"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos estiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se estiren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me estirara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te estiraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se estirara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos estiráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se estiraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera estirado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras estirado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera estirado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos estirado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran estirado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "estírate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "estírese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "estirémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "estírense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te estires"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se estire"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos estiremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se estiren"
+      }
+    ]
+  },
+  "notes": [
+    "**Estirarse** is the reflexive form of **estirar** (to stretch something)",
+    "Regular **-AR verb** with reflexive pronouns",
+    "No spelling changes or stem changes",
+    "Past participle: **estirado** (regular)",
+    "Non-reflexive **estirar**: to stretch (something else), to pull tight",
+    "Common usage:",
+    "*Me estiro antes de correr* (I stretch before running)",
+    "*Se estiró en la cama* (He/She stretched out on the bed)",
+    "*Necesito estirarme* (I need to stretch)",
+    "Related adjective: **estirado/a** (stretched, stuck-up/snobbish - figurative)",
+    "Common in exercise/fitness contexts"
+  ],
+  "sourceFile": "Verbs/e/Estirarse.md"
+}

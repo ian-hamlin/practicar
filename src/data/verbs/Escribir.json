@@ -1,0 +1,302 @@
+{
+  "id": "6aa76dd1-5ae3-5974-a830-a7617074e9b1",
+  "infinitive": "Escribir",
+  "englishMeaning": "to write",
+  "desc": "to write",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "escribiendo",
+  "participio": "escrito",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "escribo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escribes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escribe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escribimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escriben"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "escribí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escribiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escribió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escribimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escribieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "escribía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escribías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escribía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escribíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escribían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he escrito"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has escrito"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha escrito"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos escrito"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han escrito"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había escrito"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías escrito"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había escrito"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos escrito"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían escrito"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "escribiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escribirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escribirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escribiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escribirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "escribiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escribirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escribiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escribiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escribirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré escrito"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás escrito"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá escrito"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos escrito"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán escrito"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "escriba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escribas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escriba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escribamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escriban"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "escribiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "escribieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "escribiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escribiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "escribieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera escrito"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras escrito"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera escrito"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos escrito"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran escrito"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "escribe"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "escriba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "escribamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "escriban"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no escribas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no escriba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no escribamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no escriban"
+      }
+    ]
+  },
+  "notes": [
+    "**Escribir** is a regular **-IR verb**",
+    "No spelling changes or stem changes",
+    "Irregular past participle: **escrito** (written) - used in perfect tenses: *he escrito* (I have written)",
+    "Common usage: *escribir una carta* (to write a letter), *escribir a mano* (to write by hand)",
+    "Related noun: **la escritura** (writing), **el/la escritor/escritora** (writer)"
+  ],
+  "sourceFile": "Verbs/e/Escribir.md"
+}

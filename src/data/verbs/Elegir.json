@@ -1,0 +1,309 @@
+{
+  "id": "3766c93f-0c40-51fc-9c51-6ab0e198671b",
+  "infinitive": "Elegir",
+  "englishMeaning": "to choose / to elect",
+  "desc": "to choose / to elect",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_i"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "eligiendo",
+  "participio": "elegido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "elijo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "eliges"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "elige"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "elegimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "eligen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "elegí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "elegiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "eligió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "elegimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "eligieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "elegía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "elegías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "elegía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "elegíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "elegían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he elegido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has elegido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha elegido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos elegido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han elegido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había elegido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías elegido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había elegido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos elegido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían elegido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "elegiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "elegirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "elegirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "elegiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "elegirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "elegiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "elegirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "elegiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "elegiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "elegirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré elegido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás elegido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá elegido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos elegido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán elegido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "elija"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "elijas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "elija"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "elijamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "elijan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "eligiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "eligieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "eligiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "eligiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "eligieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera elegido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras elegido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera elegido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos elegido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran elegido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "elige"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "elija"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "elijamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "elijan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no elijas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no elija"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no elijamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no elijan"
+      }
+    ]
+  },
+  "notes": [
+    "**Elegir** is a stem-changing verb: e→i, with spelling changes",
+    "Present: stem change e→i (except nosotros) plus spelling change g→j before o (elijo)",
+    "Preterite: stem change e→i in 3rd person forms (eligió, eligieron)",
+    "Imperfect: regular -IR pattern, NO stem change",
+    "Pretérito Perfecto: regular past participle **elegido**",
+    "Future: regular future endings attached to infinitive",
+    "Condicional: regular conditional endings attached to infinitive",
+    "Same pattern as **corregir** (to correct)",
+    "Common usage: *elegir una opción* (to choose an option), *elegir presidente* (to elect president)",
+    "Related noun: **la elección** (choice, election)",
+    "Related adjective: **elegido/a** (chosen, elected)"
+  ],
+  "sourceFile": "Verbs/e/Elegir.md"
+}

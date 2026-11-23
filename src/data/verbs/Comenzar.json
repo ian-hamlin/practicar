@@ -1,0 +1,309 @@
+{
+  "id": "fbea5788-2efa-5813-a297-9d963274e9ce",
+  "infinitive": "Comenzar",
+  "englishMeaning": "to begin / to start",
+  "desc": "to begin / to start",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "comenzando",
+  "participio": "comenzado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "comienzo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "comienzas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "comienza"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "comenzamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "comienzan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "comencé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "comenzaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "comenzó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "comenzamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "comenzaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "comenzaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "comenzabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "comenzaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "comenzábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "comenzaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he comenzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has comenzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha comenzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos comenzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han comenzado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había comenzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías comenzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había comenzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos comenzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían comenzado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "comenzaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "comenzarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "comenzará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "comenzaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "comenzarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "comenzaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "comenzarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "comenzaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "comenzaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "comenzarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré comenzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás comenzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá comenzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos comenzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán comenzado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "comience"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "comiences"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "comience"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "comencemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "comiencen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "comenzara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "comenzaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "comenzara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "comenzáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "comenzaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera comenzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras comenzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera comenzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos comenzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran comenzado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "comienza"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "comience"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "comencemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "comiencen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no comiences"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no comience"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no comencemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no comiencen"
+      }
+    ]
+  },
+  "notes": [
+    "**Comenzar** is a stem-changing verb: e→ie, with spelling change",
+    "Present: stem change e→ie (except nosotros)",
+    "Preterite: spelling change z→c before é (comencé), NO stem change",
+    "Imperfect: regular -AR pattern, NO stem change",
+    "Pretérito Perfecto: regular past participle **comenzado**",
+    "Future: regular future endings attached to infinitive",
+    "Condicional: regular conditional endings attached to infinitive",
+    "Often used with \"a\" + infinitive: *comenzar a trabajar* (to start working)",
+    "Synonym: **empezar** (same conjugation pattern)",
+    "Common usage: *comenzar la clase* (to begin class), *comenzar de nuevo* (to start over)",
+    "Related noun: **el comienzo** (beginning, start)"
+  ],
+  "sourceFile": "Verbs/c/Comenzar.md"
+}

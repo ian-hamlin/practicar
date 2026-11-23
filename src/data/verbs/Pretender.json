@@ -1,0 +1,302 @@
+{
+  "id": "4d31ea5c-494d-5702-a96b-05a46e199db1",
+  "infinitive": "Pretender",
+  "englishMeaning": "to intend, to try, to claim",
+  "desc": "to intend, to try, to claim",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "pretendiendo",
+  "participio": "pretendido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pretendo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pretendes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pretende"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pretendemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pretenden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "pretendí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pretendiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pretendió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pretendimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pretendieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "pretendía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pretendías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pretendía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pretendíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pretendían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he pretendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has pretendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha pretendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos pretendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han pretendido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había pretendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías pretendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había pretendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos pretendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían pretendido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "pretenderé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pretenderás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pretenderá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pretenderemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pretenderán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "pretendería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pretenderías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pretendería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pretenderíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pretenderían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré pretendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás pretendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá pretendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos pretendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán pretendido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pretenda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pretendas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pretenda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pretendamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pretendan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "pretendiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pretendieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pretendiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pretendiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pretendieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera pretendido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras pretendido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera pretendido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos pretendido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran pretendido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "pretende"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "pretenda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pretendamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "pretendan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no pretendas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no pretenda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no pretendamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no pretendan"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -ER verb — follows standard endings in every tense, no exceptions.",
+    "False friend warning: *pretender* does NOT usually mean \"to pretend\" (that's *fingir*) — it means to intend, attempt, or claim something.",
+    "*Roberto pretende impresionar a la mujer.* (\"Roberto intends to impress the woman.\")",
+    "*No pretendo ofenderte con esto.* (\"I don't intend to offend you with this.\")",
+    "Related: *la pretensión* (intention/claim, noun), *fingir* (false-friend \"to pretend\"), *aspirar a* (synonym, \"to aspire to\")."
+  ],
+  "sourceFile": "Verbs/p/Pretender.md"
+}

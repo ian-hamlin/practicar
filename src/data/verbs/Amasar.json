@@ -1,0 +1,302 @@
+{
+  "id": "f8e19a24-ca8e-5a9d-b1e3-82f75506da55",
+  "infinitive": "Amasar",
+  "englishMeaning": "to knead, to mix",
+  "desc": "to knead, to mix (dough)",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "amasando",
+  "participio": "amasado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "amaso"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "amasas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "amasa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "amasamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "amasan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "amasé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "amasaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "amasó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "amasamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "amasaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "amasaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "amasabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "amasaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "amasábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "amasaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he amasado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has amasado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha amasado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos amasado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han amasado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había amasado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías amasado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había amasado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos amasado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían amasado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "amasaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "amasarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "amasará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "amasaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "amasarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "amasaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "amasarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "amasaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "amasaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "amasarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré amasado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás amasado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá amasado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos amasado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán amasado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "amase"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "amases"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "amase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "amasemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "amasen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "amasara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "amasaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "amasara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "amasáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "amasaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera amasado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras amasado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera amasado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos amasado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran amasado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "amasa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "amase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "amasemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "amasen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no amases"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no amase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no amasemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no amasen"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; follows standard endings throughout",
+    "Past participle: amasado (regular)",
+    "*Amasar la masa* = to knead the dough; *amasar pan* = to knead bread",
+    "Also used figuratively: *amasar una fortuna* = to amass a fortune",
+    "Related: la masa (dough, mass), la amasadora (kneading machine)"
+  ],
+  "sourceFile": "Verbs/a/Amasar.md"
+}

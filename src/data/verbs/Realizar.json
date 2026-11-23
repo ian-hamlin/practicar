@@ -1,0 +1,301 @@
+{
+  "id": "eccdfb0e-5a91-5f7c-83a6-d29eae70cd63",
+  "infinitive": "Realizar",
+  "englishMeaning": "to carry out / to achieve / to realise",
+  "desc": "to carry out / to achieve / to realise",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "realizando",
+  "participio": "realizado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "realizo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "realizas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "realiza"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "realizamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "realizan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "realicé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "realizaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "realizó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "realizamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "realizaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "realizaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "realizabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "realizaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "realizábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "realizaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he realizado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has realizado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha realizado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos realizado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han realizado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había realizado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías realizado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había realizado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos realizado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían realizado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "realizaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "realizarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "realizará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "realizaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "realizarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "realizaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "realizarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "realizaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "realizaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "realizarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré realizado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás realizado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá realizado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos realizado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán realizado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "realice"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "realices"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "realice"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "realicemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "realicen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "realizara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "realizaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "realizara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "realizáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "realizaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera realizado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras realizado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera realizado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos realizado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran realizado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "realiza"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "realice"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "realicemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "realicen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no realices"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no realice"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no realicemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no realicen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb with an orthographic spelling change: z→c before *e* (realicé, realice, realicemos, realicen)",
+    "Past participle: *realizado*",
+    "*Realizar* can mean \"to carry out\" (a task/plan), \"to achieve\" (a goal), or \"to realise\" in the sense of fulfilling potential",
+    "*realizarse* (reflexive): to fulfil oneself, to come true (*Su sueño se realizó* — His dream came true)"
+  ],
+  "sourceFile": "Verbs/r/Realizar.md"
+}

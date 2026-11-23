@@ -1,0 +1,302 @@
+{
+  "id": "81cf0d48-1014-5070-be0c-ad733476406f",
+  "infinitive": "Preguntar",
+  "englishMeaning": "to ask / to question",
+  "desc": "to ask / to question",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "preguntando",
+  "participio": "preguntado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pregunto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preguntas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pregunta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preguntamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "preguntan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "pregunté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preguntaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "preguntó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preguntamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "preguntaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "preguntaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preguntabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "preguntaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preguntábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "preguntaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he preguntado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has preguntado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha preguntado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos preguntado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han preguntado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había preguntado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías preguntado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había preguntado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos preguntado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían preguntado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "preguntaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preguntarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "preguntará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preguntaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "preguntarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "preguntaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preguntarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "preguntaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preguntaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "preguntarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré preguntado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás preguntado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá preguntado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos preguntado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán preguntado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pregunte"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preguntes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pregunte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preguntemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pregunten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "preguntara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "preguntaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "preguntara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preguntáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "preguntaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera preguntado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras preguntado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera preguntado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos preguntado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran preguntado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "pregunta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "pregunte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "preguntemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "pregunten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no preguntes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no pregunte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no preguntemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no pregunten"
+      }
+    ]
+  },
+  "notes": [
+    "**Preguntar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Used for asking questions (seeking information)",
+    "Common usage: *preguntar por* (to ask about someone), *hacer una pregunta* (to ask a question)",
+    "Don't confuse with **pedir** (to ask for/request something)"
+  ],
+  "sourceFile": "Verbs/p/Preguntar.md"
+}

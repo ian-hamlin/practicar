@@ -1,0 +1,308 @@
+{
+  "id": "9be787dc-5600-5e3e-85f7-f5af46187140",
+  "infinitive": "Ofrecer",
+  "englishMeaning": "to offer / to provide",
+  "desc": "to offer / to provide",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "o",
+  "categoryId": "17ab56ce-480a-5e1b-b55d-16eaabe765bf",
+  "gerundio": "ofreciendo",
+  "participio": "ofrecido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ofrezco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ofreces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ofrece"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ofrecemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ofrecen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "ofrecí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ofreciste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ofreció"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ofrecimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ofrecieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "ofrecía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ofrecías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ofrecía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ofrecíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ofrecían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he ofrecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has ofrecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha ofrecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos ofrecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han ofrecido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había ofrecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías ofrecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había ofrecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos ofrecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían ofrecido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "ofreceré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ofrecerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ofrecerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ofreceremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ofrecerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "ofrecería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ofrecerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ofrecería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ofreceríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ofrecerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré ofrecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás ofrecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá ofrecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos ofrecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán ofrecido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ofrezca"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ofrezcas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ofrezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ofrezcamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ofrezcan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "ofreciera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ofrecieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ofreciera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ofreciéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ofrecieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera ofrecido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras ofrecido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera ofrecido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos ofrecido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran ofrecido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "ofrece"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "ofrezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ofrezcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "ofrezcan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no ofrezcas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no ofrezca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no ofrezcamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no ofrezcan"
+      }
+    ]
+  },
+  "notes": [
+    "**Ofrecer** is an -ER verb with irregular \"yo\" form in present",
+    "Present: irregular \"yo\" form (ofrezco) with spelling change c→zc before o",
+    "Preterite: regular -ER endings",
+    "Imperfect: regular -ER pattern",
+    "Pretérito Perfecto: regular past participle **ofrecido**",
+    "Future: regular future endings attached to infinitive",
+    "Condicional: regular conditional endings attached to infinitive",
+    "Same conjugation pattern as **parecer**, **crecer**, **conocer**, and **desaparecer**",
+    "Common usage: *ofrecer ayuda* (to offer help), *ofrecer un servicio* (to provide a service), *ofrecer disculpas* (to offer apologies)",
+    "Often used reflexively: **ofrecerse** (to volunteer, to offer oneself)",
+    "Related noun: **la oferta** (offer, sale)"
+  ],
+  "sourceFile": "Verbs/o/Ofrecer.md"
+}

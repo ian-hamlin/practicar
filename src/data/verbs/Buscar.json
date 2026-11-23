@@ -1,0 +1,303 @@
+{
+  "id": "48d76037-8431-551a-be80-aa9af6fa9f75",
+  "infinitive": "Buscar",
+  "englishMeaning": "to search/to look for",
+  "desc": "to search/to look for",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "b",
+  "categoryId": "0c6cef76-6cf7-5b31-b026-9ab8996fbcd1",
+  "gerundio": "buscando",
+  "participio": "buscado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "busco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "buscas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "busca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "buscamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "buscan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "busqué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "buscaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "buscó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "buscamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "buscaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "buscaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "buscabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "buscaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "buscábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "buscaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he buscado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has buscado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha buscado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos buscado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han buscado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había buscado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías buscado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había buscado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos buscado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían buscado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "buscaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "buscarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "buscará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "buscaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "buscarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "buscaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "buscarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "buscaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "buscaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "buscarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré buscado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás buscado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá buscado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos buscado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán buscado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "busque"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "busques"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "busque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "busquemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "busquen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "buscara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "buscaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "buscara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "buscáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "buscaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera buscado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras buscado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera buscado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos buscado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran buscado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "busca"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "busque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "busquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "busquen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no busques"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no busque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no busquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no busquen"
+      }
+    ]
+  },
+  "notes": [
+    "**Buscar** is a regular -AR verb with spelling change",
+    "**Spelling change**: c→qu before é (yo form in pretérito indefinido: busqué)",
+    "Same pattern as sacar, tocar, falsificar",
+    "Past participle: buscado (searched/looked for)",
+    "Common usage: *buscar trabajo* (to look for work), *buscar las llaves* (to look for the keys), *buscar a alguien* (to look for someone)",
+    "**Important**: Use \"a\" when searching for a person: *Busco a mi hermano* (I'm looking for my brother)"
+  ],
+  "sourceFile": "Verbs/b/Buscar.md"
+}

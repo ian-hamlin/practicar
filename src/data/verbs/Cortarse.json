@@ -1,0 +1,304 @@
+{
+  "id": "e09095aa-03a2-5828-ae59-9c354ca4e824",
+  "infinitive": "Cortarse",
+  "englishMeaning": "to cut oneself, to go off, to cut out",
+  "desc": "to cut oneself, to go off, to cut out",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "cortando",
+  "participio": "cortado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me corto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te cortas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se corta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos cortamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se cortan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me corté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te cortaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se cortó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos cortamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se cortaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me cortaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te cortabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se cortaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos cortábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se cortaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he cortado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has cortado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha cortado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos cortado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han cortado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había cortado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías cortado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había cortado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos cortado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían cortado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me cortaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te cortarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se cortará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos cortaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se cortarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me cortaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te cortarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se cortaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos cortaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se cortarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré cortado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás cortado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá cortado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos cortado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán cortado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me corte"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te cortes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se corte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos cortemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se corten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me cortara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te cortaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se cortara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos cortáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se cortaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera cortado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras cortado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera cortado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos cortado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran cortado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "córtate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "córtese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cortémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "córtense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te cortes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se corte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos cortemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se corten"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular reflexive -AR verb; follows standard endings throughout",
+    "Past participle: cortado (regular)",
+    "*Cortarse* = to cut oneself: *Me corté el dedo* = I cut my finger",
+    "Impersonal use (no reflexive pronoun): *Se cortó la luz* = The power went out; *Se cortó el internet* = The internet cut out",
+    "Non-reflexive *cortar* = to cut (something): *Corta el pan* = Cut the bread",
+    "Related: el corte (cut/power cut), la tijera (scissors), cortado/a (cut/embarrassed)"
+  ],
+  "sourceFile": "Verbs/c/Cortarse.md"
+}

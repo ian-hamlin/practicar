@@ -1,0 +1,303 @@
+{
+  "id": "9e123c86-0789-52da-bed2-199a968b87ac",
+  "infinitive": "Envolver",
+  "englishMeaning": "to wrap",
+  "desc": "to wrap",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "envolviendo",
+  "participio": "envuelto",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "envuelvo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "envuelves"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "envuelve"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "envolvemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "envuelven"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "envolví"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "envolviste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "envolvió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "envolvimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "envolvieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "envolvía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "envolvías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "envolvía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "envolvíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "envolvían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he envuelto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has envuelto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha envuelto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos envuelto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han envuelto"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había envuelto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías envuelto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había envuelto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos envuelto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían envuelto"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "envolveré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "envolverás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "envolverá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "envolveremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "envolverán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "envolvería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "envolverías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "envolvería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "envolveríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "envolverían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré envuelto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás envuelto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá envuelto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos envuelto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán envuelto"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "envuelva"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "envuelvas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "envuelva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "envolvamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "envuelvan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "envolviera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "envolvieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "envolviera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "envolviéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "envolvieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera envuelto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras envuelto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera envuelto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos envuelto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran envuelto"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "envuelve"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "envuelva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "envolvamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "envuelvan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no envuelvas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no envuelva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no envolvamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no envuelvan"
+      }
+    ]
+  },
+  "notes": [
+    "-ER verb with an o→ue stem change in the stressed syllables: presente (all but nosotros/nosotras), subjuntivo presente (all but nosotros/nosotras), and imperativo afirmativo tú/usted/ustedes forms. Nosotros/nosotras always reverts to the unstressed stem (envolvemos, envolvamos), as expected for -ER/-AR stem-changers.",
+    "Irregular past participle: **envuelto** (not *envolvido*) — used throughout the compound tenses (Pretérito Perfecto, Pluscuamperfecto, Futuro Compuesto).",
+    "*Voy a envolver el regalo antes de la fiesta.* (\"I'm going to wrap the gift before the party.\")",
+    "*Ella envolvió al bebé en una manta.* (\"She wrapped the baby in a blanket.\")",
+    "Related: *el envoltorio* (wrapper/wrapping), *desenvolver* (to unwrap — same stem-change and irregular participle: desenvuelto), *envolverse* (reflexive, \"to get wrapped up in / involved in\")."
+  ],
+  "sourceFile": "Verbs/e/Envolver.md"
+}

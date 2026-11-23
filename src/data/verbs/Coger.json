@@ -1,0 +1,304 @@
+{
+  "id": "d620ee2a-d9d8-5a91-a4a7-39416a632ae6",
+  "infinitive": "Coger",
+  "englishMeaning": "to grab, to take, to catch",
+  "desc": "to grab, to take, to catch",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "cogiendo",
+  "participio": "cogido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "cojo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "coges"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "coge"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cogemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cogen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "cogí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cogiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cogió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cogimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cogieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "cogía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cogías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cogía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cogíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cogían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he cogido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has cogido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha cogido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos cogido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han cogido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había cogido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías cogido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había cogido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos cogido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían cogido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "cogeré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cogerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cogerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cogeremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cogerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "cogería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cogerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cogería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cogeríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cogerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré cogido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás cogido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá cogido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos cogido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán cogido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "coja"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cojas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "coja"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cojamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cojan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "cogiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cogieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cogiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cogiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cogieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera cogido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras cogido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera cogido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos cogido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran cogido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "coge"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "coja"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cojamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "cojan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no cojas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no coja"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no cojamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no cojan"
+      }
+    ]
+  },
+  "notes": [
+    "-ER verb with spelling change: g→j before a/o (to preserve the soft /x/ sound)",
+    "Only the **yo Presente** is affected in indicative tenses: **cojo**",
+    "All other indicative forms keep the g (coges, coge, cogemos, cogen, cogí, etc.)",
+    "The g→j change applies throughout the present subjunctive (coja, cojas, etc.)",
+    "Past participle: cogido",
+    "Very common in Spain for \"to take\" transport: coger el autobús/metro/tren",
+    "Note: \"coger\" has vulgar connotations in Latin America — use \"agarrar\" or \"tomar\" there"
+  ],
+  "sourceFile": "Verbs/c/Coger.md"
+}

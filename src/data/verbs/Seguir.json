@@ -1,0 +1,305 @@
+{
+  "id": "bc002427-6d2c-5440-821a-72a748870283",
+  "infinitive": "Seguir",
+  "englishMeaning": "to follow, to continue, to keep on",
+  "desc": "to follow, to continue, to keep on",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_i"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "siguiendo",
+  "participio": "seguido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sigo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sigues"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sigue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "seguimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "siguen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "seguí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "seguiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "siguió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "seguimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "siguieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "seguía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "seguías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "seguía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "seguíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "seguían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he seguido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has seguido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha seguido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos seguido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han seguido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había seguido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías seguido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había seguido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos seguido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían seguido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "seguiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "seguirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "seguirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "seguiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "seguirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "seguiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "seguirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "seguiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "seguiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "seguirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré seguido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás seguido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá seguido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos seguido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán seguido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "siga"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sigas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "siga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sigamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sigan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "siguiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "siguieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "siguiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "siguiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "siguieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera seguido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras seguido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera seguido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos seguido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran seguido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "sigue"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "siga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sigamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "sigan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no sigas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no siga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no sigamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no sigan"
+      }
+    ]
+  },
+  "notes": [
+    "-IR verb with e→i stem change. The stem vowel e changes to i in: all present tense forms except nosotros (sigo, sigues, sigue, siguen), and 3rd person preterite (siguió, siguieron).",
+    "Additional spelling change: gu→g before o in yo presente (*sigo*, not *siguio*) to preserve the /g/ sound.",
+    "Regular past participle: *seguido*",
+    "Used with infinitive to mean \"to keep doing\": *sigo estudiando* (I keep studying).",
+    "*Sigue todo recto y gira a la derecha.* (Continue straight ahead and turn right.)",
+    "*¿Me sigues en Instagram?* (Do you follow me on Instagram?)",
+    "Related: *la siguiente* (the following), *en seguida* (immediately), *según* (according to)"
+  ],
+  "sourceFile": "Verbs/s/Seguir.md"
+}

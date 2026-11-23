@@ -1,0 +1,301 @@
+{
+  "id": "d7f38c56-5e61-5186-b49f-e12e7f6f0194",
+  "infinitive": "Compactar",
+  "englishMeaning": "to compact / to compress / to pack down",
+  "desc": "to compact / to compress / to pack down",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "compactando",
+  "participio": "compactado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "compacto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "compactas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "compacta"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "compactamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "compactan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "compacté"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "compactaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "compactó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "compactamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "compactaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "compactaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "compactabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "compactaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "compactábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "compactaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he compactado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has compactado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha compactado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos compactado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han compactado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había compactado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías compactado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había compactado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos compactado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían compactado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "compactaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "compactarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "compactará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "compactaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "compactarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "compactaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "compactarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "compactaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "compactaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "compactarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré compactado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás compactado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá compactado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos compactado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán compactado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "compacte"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "compactes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "compacte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "compactemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "compacten"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "compactara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "compactaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "compactara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "compactáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "compactaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera compactado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras compactado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera compactado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos compactado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran compactado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "compacta"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "compacte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "compactemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "compacten"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no compactes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no compacte"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no compactemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no compacten"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; no spelling changes or stem changes",
+    "Past participle: *compactado*",
+    "Used in construction/engineering: *compactar la tierra* (to compact the soil/earth)",
+    "Also used in technology: *compactar archivos* (to compress/compact files)"
+  ],
+  "sourceFile": "Verbs/c/Compactar.md"
+}

@@ -1,0 +1,301 @@
+{
+  "id": "8a1dc36e-cb62-5314-9ba1-bf47251899fa",
+  "infinitive": "Regatear",
+  "englishMeaning": "to bargain, to haggle",
+  "desc": "to bargain, to haggle",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "r",
+  "categoryId": "3cebe5cc-6fab-58fc-9dcf-1e4826884fab",
+  "gerundio": "regateando",
+  "participio": "regateado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "regateo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regateas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regatea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regateamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regatean"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "regateé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regateaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regateó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regateamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regatearon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "regateaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regateabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regateaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regateábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regateaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he regateado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has regateado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha regateado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos regateado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han regateado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había regateado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías regateado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había regateado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos regateado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían regateado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "regatearé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regatearás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regateará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regatearemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regatearán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "regatearía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regatearías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regatearía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regatearíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regatearían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré regateado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás regateado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá regateado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos regateado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán regateado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "regatee"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regatees"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regatee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regateemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regateen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "regateara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "regatearas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "regateara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regateáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "regatearan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera regateado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras regateado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera regateado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos regateado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran regateado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "regatea"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "regatee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "regateemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "regateen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no regatees"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no regatee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no regateemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no regateen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, no exceptions",
+    "Past participle: *regateado* (regular)",
+    "Common usage: *regatear en el mercado* (to haggle at the market), *regatear el precio* (to negotiate the price)",
+    "Related: *el regateo* (bargaining/haggling), *el regateo* is common and accepted in markets throughout Latin America and Spain"
+  ],
+  "sourceFile": "Verbs/r/Regatear.md"
+}

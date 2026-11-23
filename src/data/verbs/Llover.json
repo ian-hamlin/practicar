@@ -1,0 +1,305 @@
+{
+  "id": "c830bbcf-7a60-5c6d-97ff-fdc808ad39ef",
+  "infinitive": "Llover",
+  "englishMeaning": "to rain",
+  "desc": "to rain",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "l",
+  "categoryId": "fa5b6027-a511-5f12-980d-687e3e083fde",
+  "gerundio": "lloviendo",
+  "participio": "llovido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "—"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "—"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llueve"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "—"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "—"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "—"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llovió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "—"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "—"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "—"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llovía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "—"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "—"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "—"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha llovido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "—"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "—"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "—"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había llovido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "—"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "—"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "—"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lloverá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "—"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "—"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "—"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llovería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "—"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "—"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "—"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá llovido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "—"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "—"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "—"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "llueva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "—"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "—"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "—"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lloviera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "—"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "—"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "—"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera llovido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "—"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "llueve"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "llueva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "—"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "—"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no llueva"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "—"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "—"
+      }
+    ]
+  },
+  "notes": [
+    "Impersonal verb — used only in 3rd person singular; all other forms are marked —",
+    "o→ue stem change in present and subjuntivo: *llueve*, *llueva*",
+    "No stem change in preterite, imperfect, future, or conditional",
+    "Past participle: *llovido*",
+    "*llueve* = it's raining; *llovió* = it rained; *llovía* = it was raining; *lloverá* = it will rain",
+    "*llover a cántaros* = to rain cats and dogs (*Está lloviendo a cántaros* — It's pouring)",
+    "Related: *la lluvia* = rain; *lluvioso/a* = rainy; *la llovizna* = drizzle; *lloviznar* = to drizzle"
+  ],
+  "sourceFile": "Verbs/l/Llover.md"
+}

@@ -1,0 +1,303 @@
+{
+  "id": "5b417a00-60cc-5580-a73e-791a24451058",
+  "infinitive": "Dar",
+  "englishMeaning": "to give",
+  "desc": "to give (as a gift) / to gift",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "dando",
+  "participio": "dado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "doy"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "das"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "da"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "damos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "di"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "diste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dio"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "daba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "daba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "daban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he dado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has dado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha dado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos dado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han dado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había dado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías dado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había dado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos dado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían dado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "daré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "darás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "daremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "darán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "daría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "darías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "daría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "daríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "darían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré dado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás dado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá dado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos dado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán dado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "dé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "des"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dé"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "demos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "den"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "diera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "diera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "diéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera dado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras dado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera dado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos dado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran dado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "da"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "dé"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "demos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "den"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no des"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no dé"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no demos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no den"
+      }
+    ]
+  },
+  "notes": [
+    "**Dar** is completely irregular",
+    "Present: irregular \"yo\" form (doy), otherwise regular -AR-style endings",
+    "Preterite: irregular with no accents (di, dio) - unusual for -AR verbs",
+    "Imperfect: regular -AR pattern based on stem \"da-\"",
+    "Very common verb with many idiomatic uses",
+    "Common usage: *dar un regalo* (to give a gift), *dar las gracias* (to give thanks), *darse cuenta* (to realize - reflexive)"
+  ],
+  "sourceFile": "Verbs/d/Dar.md"
+}

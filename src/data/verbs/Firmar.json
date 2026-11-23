@@ -1,0 +1,302 @@
+{
+  "id": "e81cd76b-db0d-5692-b76e-1640f0b15256",
+  "infinitive": "Firmar",
+  "englishMeaning": "to sign",
+  "desc": "to sign",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "f",
+  "categoryId": "6a4f18c0-f5d2-5016-9134-e92fb8c852a7",
+  "gerundio": "firmando",
+  "participio": "firmado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "firmo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "firmas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "firma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "firmamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "firman"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "firmé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "firmaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "firmó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "firmamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "firmaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "firmaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "firmabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "firmaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "firmábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "firmaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he firmado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has firmado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha firmado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos firmado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han firmado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había firmado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías firmado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había firmado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos firmado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían firmado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "firmaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "firmarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "firmará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "firmaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "firmarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "firmaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "firmarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "firmaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "firmaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "firmarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré firmado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás firmado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá firmado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos firmado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán firmado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "firme"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "firmes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "firme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "firmemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "firmen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "firmara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "firmaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "firmara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "firmáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "firmaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera firmado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras firmado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera firmado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos firmado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran firmado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "firma"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "firme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "firmemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "firmen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no firmes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no firme"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no firmemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no firmen"
+      }
+    ]
+  },
+  "notes": [
+    "**Firmar** is a regular -AR verb",
+    "No stem changes in any tense",
+    "Follows the same pattern as regular -AR verbs like hablar, trabajar",
+    "Past participle: firmado (signed)",
+    "Common usage: *firmar un contrato* (to sign a contract), *firmar un acuerdo* (to sign an agreement)"
+  ],
+  "sourceFile": "Verbs/f/Firmar.md"
+}

@@ -1,0 +1,304 @@
+{
+  "id": "a6ad984f-b2b3-546b-88ae-96fec27024fd",
+  "infinitive": "Entrar",
+  "englishMeaning": "to enter / to go in / to come in",
+  "desc": "to enter / to go in / to come in",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "entrando",
+  "participio": "entrado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "entro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "entras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "entra"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "entramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "entran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "entré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "entraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "entró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "entramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "entraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "entraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "entrabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "entraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "entrábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "entraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he entrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has entrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha entrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos entrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han entrado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había entrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías entrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había entrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos entrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían entrado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "entraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "entrarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "entrará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "entraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "entrarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "entraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "entrarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "entraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "entraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "entrarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré entrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás entrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá entrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos entrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán entrado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "entre"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "entres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "entre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "entremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "entren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "entrara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "entraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "entrara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "entráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "entraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera entrado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras entrado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera entrado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos entrado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran entrado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "entra"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "entre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "entremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "entren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no entres"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no entre"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no entremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no entren"
+      }
+    ]
+  },
+  "notes": [
+    "**Entrar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Past participle: **entrado** (regular)",
+    "Used with **\"en\"** (Spain) or **\"a\"** (Latin America): *entrar en/a la casa*",
+    "Opposite of **salir** (to leave/go out)",
+    "Common usage: *entrar en la habitación* (to enter the room), *entrar por la puerta* (to enter through the door)",
+    "Can also mean \"to fit\": *No entra en la caja* (It doesn't fit in the box)"
+  ],
+  "sourceFile": "Verbs/e/Entrar.md"
+}

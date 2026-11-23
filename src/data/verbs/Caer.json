@@ -1,0 +1,307 @@
+{
+  "id": "90fe4f9c-d235-59a0-b51b-1cc837991122",
+  "infinitive": "Caer",
+  "englishMeaning": "to fall",
+  "desc": "to fall",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "cayendo",
+  "participio": "caído",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "caigo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "caes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cae"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "caemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "caen"
+      },
+      {
+        "subject": "",
+        "conjugation": ""
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "caí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "caíste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cayó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "caímos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cayeron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "caía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "caías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "caía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "caíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "caían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he caído"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has caído"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha caído"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos caído"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han caído"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había caído"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías caído"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había caído"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos caído"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían caído"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "caeré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "caerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "caerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "caeremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "caerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "caería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "caerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "caería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "caeríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "caerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré caido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás caido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá caido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos caido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán caido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "caiga"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "caigas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "caiga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "caigamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "caigan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "cayera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "cayeras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "cayera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "cayéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "cayeran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera caído"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras caído"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera caído"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos caído"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran caído"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "cae"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "caiga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "caigamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "caigan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no caigas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no caiga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no caigamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no caigan"
+      }
+    ]
+  },
+  "notes": [
+    "**Caer** is irregular",
+    "Present: irregular \"yo\" form (caigo), otherwise regular -ER endings",
+    "Preterite: spelling change i→y in 3rd person (cayó, cayeron), accent on other forms (caí, caíste, caímos)",
+    "Imperfect: regular -ER pattern with accent on \"í\" (caía, caías, etc.)",
+    "Often used reflexively: *caerse* (to fall down)",
+    "Irregular past participle: **caído** (fallen)"
+  ],
+  "sourceFile": "Verbs/c/Caer.md"
+}

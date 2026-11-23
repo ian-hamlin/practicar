@@ -1,0 +1,303 @@
+{
+  "id": "6bedaaf0-c991-5123-ae5d-533e7909b465",
+  "infinitive": "Esforzar",
+  "englishMeaning": "to strain, to exert",
+  "desc": "to strain, to exert",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_o_ue"
+  ],
+  "letter": "e",
+  "categoryId": "1bed87a0-9c69-58c6-9d21-ecb3c5429071",
+  "gerundio": "esforzando",
+  "participio": "esforzado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "esfuerzo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esfuerzas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esfuerza"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esforzamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esfuerzan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "esforcé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esforzaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esforzó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esforzamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esforzaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "esforzaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esforzabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esforzaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esforzábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esforzaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he esforzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has esforzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha esforzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos esforzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han esforzado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había esforzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías esforzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había esforzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos esforzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían esforzado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "esforzaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esforzarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esforzará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esforzaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esforzarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "esforzaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esforzarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esforzaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esforzaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esforzarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré esforzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás esforzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá esforzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos esforzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán esforzado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "esfuerce"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esfuerces"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esfuerce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esforcemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esfuercen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "esforzara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "esforzaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "esforzara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esforzáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "esforzaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera esforzado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras esforzado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera esforzado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos esforzado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran esforzado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "esfuerza"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "esfuerce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "esforcemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "esfuercen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no esfuerces"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no esfuerce"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no esforcemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no esfuercen"
+      }
+    ]
+  },
+  "notes": [
+    "Irregular -AR verb combining an *o→ue* stem change (same pattern as *almorzar*, *recordar*) with a spelling change: *z→c* before *e*, to preserve the soft sound — affects the yo form of Pretérito Indefinido (*esforcé*, not *esforzé*) and all of Subjuntivo Presente (*esfuerce, esfuerces...*, with nosotros reverting to the unchanged stem: *esforcemos*)",
+    "Past participle: *esforzado* (regular)",
+    "Means \"to strain\" or \"to exert\" (a body part/faculty) — *esforzar la vista* (to strain one's eyes), *esforzar la voz* (to strain one's voice)",
+    "The reflexive form *esforzarse* (\"to make an effort,\" \"to try hard\") is far more common in everyday Spanish than this base transitive verb: *me esfuerzo mucho en el trabajo* (I try very hard at work) — worth adding separately if needed",
+    "Related: *esfuerzo* (effort, noun), *esforzado/a* (strenuous, valiant)"
+  ],
+  "sourceFile": "Verbs/e/Esforzar.md"
+}

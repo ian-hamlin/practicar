@@ -1,0 +1,302 @@
+{
+  "id": "93e444c7-197b-594e-969f-b39fb3920bc0",
+  "infinitive": "Liberar",
+  "englishMeaning": "to free/to release",
+  "desc": "to free/to release",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "l",
+  "categoryId": "fa5b6027-a511-5f12-980d-687e3e083fde",
+  "gerundio": "liberando",
+  "participio": "liberado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "libero"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "liberas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "libera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "liberamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "liberan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "liberé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "liberaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "liberó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "liberamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "liberaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "liberaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "liberabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "liberaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "liberábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "liberaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he liberado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has liberado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha liberado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos liberado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han liberado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había liberado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías liberado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había liberado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos liberado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían liberado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "liberaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "liberarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "liberará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "liberaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "liberarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "liberaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "liberarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "liberaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "liberaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "liberarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré liberado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás liberado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá liberado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos liberado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán liberado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "libere"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "liberes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "libere"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "liberemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "liberen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "liberara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "liberaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "liberara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "liberáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "liberaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera liberado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras liberado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera liberado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos liberado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran liberado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "libera"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "libere"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "liberemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "liberen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no liberes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no libere"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no liberemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no liberen"
+      }
+    ]
+  },
+  "notes": [
+    "**Liberar** is a regular -AR verb",
+    "No stem changes in any tense",
+    "Follows the same pattern as regular -AR verbs like hablar, trabajar",
+    "Past participle: liberado (freed/released)",
+    "Common usage: *liberar a los prisioneros* (to free the prisoners), *liberar rehenes* (to release hostages)"
+  ],
+  "sourceFile": "Verbs/l/Liberar.md"
+}

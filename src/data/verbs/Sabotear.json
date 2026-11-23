@@ -1,0 +1,301 @@
+{
+  "id": "c4f5e506-1a02-5918-8db6-d273455a18fc",
+  "infinitive": "Sabotear",
+  "englishMeaning": "to sabotage",
+  "desc": "to sabotage",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "saboteando",
+  "participio": "saboteado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "saboteo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "saboteas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sabotea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "saboteamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sabotean"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "saboteé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "saboteaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "saboteó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "saboteamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sabotearon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "saboteaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "saboteabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "saboteaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "saboteábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "saboteaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he saboteado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has saboteado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha saboteado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos saboteado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han saboteado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había saboteado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías saboteado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había saboteado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos saboteado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían saboteado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "sabotearé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sabotearás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "saboteará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sabotearemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sabotearán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "sabotearía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sabotearías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sabotearía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sabotearíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sabotearían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré saboteado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás saboteado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá saboteado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos saboteado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán saboteado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sabotee"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sabotees"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sabotee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "saboteemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "saboteen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "saboteara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sabotearas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "saboteara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "saboteáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sabotearan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera saboteado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras saboteado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera saboteado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos saboteado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran saboteado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "sabotea"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "sabotee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "saboteemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "saboteen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no sabotees"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no sabotee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no saboteemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no saboteen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb, no exceptions",
+    "Past participle: *saboteado* (regular)",
+    "Common usage: *sabotear un plan* (to sabotage a plan), *sabotear una reunión* (to sabotage a meeting)",
+    "Related: *el sabotaje* (sabotage — noun), *el/la saboteador/a* (saboteur)"
+  ],
+  "sourceFile": "Verbs/s/Sabotear.md"
+}

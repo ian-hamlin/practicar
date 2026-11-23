@@ -1,0 +1,307 @@
+{
+  "id": "866a51d1-27f3-5208-9574-c7fda5d1e5a3",
+  "infinitive": "Mantener",
+  "englishMeaning": "to maintain / to keep / to support / to sustain",
+  "desc": "to maintain / to keep / to support / to sustain",
+  "tags": [
+    "verb",
+    "irregular",
+    "stem_e_ie"
+  ],
+  "letter": "m",
+  "categoryId": "c342e4a9-b5da-540a-927d-ccca901fb9ff",
+  "gerundio": "manteniendo",
+  "participio": "mantenido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "mantengo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mantienes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mantiene"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mantenemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mantienen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "mantuve"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mantuviste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mantuvo"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mantuvimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mantuvieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "mantenía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mantenías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mantenía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "manteníamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mantenían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he mantenido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has mantenido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha mantenido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos mantenido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han mantenido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había mantenido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías mantenido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había mantenido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos mantenido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían mantenido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "mantendré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mantendrás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mantendrá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mantendremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mantendrán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "mantendría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mantendrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mantendría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mantendríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mantendrían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré mantenido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás mantenido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá mantenido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos mantenido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán mantenido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "mantenga"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mantengas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mantenga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mantengamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mantengan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "mantuviera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mantuvieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mantuviera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mantuviéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mantuvieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera mantenido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras mantenido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera mantenido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos mantenido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran mantenido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "mantén"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "mantenga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mantengamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "mantengan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no mantengas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no mantenga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no mantengamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no mantengan"
+      }
+    ]
+  },
+  "notes": [
+    "Compound of *tener* — follows the same irregular patterns throughout",
+    "Irregular yo present: *mantengo* (go-verb)",
+    "e→ie stem change in present: tú/él/ellos forms (mantienes, mantiene, mantienen); nosotros keeps *mantene-*",
+    "Irregular preterite stem: *mantuv-* (mantuve, mantuviste, mantuvo, mantuvimos, mantuvieron)",
+    "Irregular future/conditional stem: *mantendr-* (mantendré, mantendría)",
+    "Subjuntivo from yo stem: *manteng-* (mantenga, mantengas…)",
+    "Past participle: *mantenido*",
+    "*mantener + noun* = to maintain/keep (*mantener la calma* — to keep calm; *mantener el peso* — to maintain weight)",
+    "*mantenerse* (reflexive) = to keep oneself, to stay (*mantenerse en forma* — to keep fit)"
+  ],
+  "sourceFile": "Verbs/m/Mantener.md"
+}

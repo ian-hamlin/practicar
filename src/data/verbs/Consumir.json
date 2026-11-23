@@ -1,0 +1,302 @@
+{
+  "id": "fc45cb39-a0d4-5722-aa08-aaee31fdd18c",
+  "infinitive": "Consumir",
+  "englishMeaning": "to consume / to use up / to eat / to take in",
+  "desc": "to consume / to use up / to eat / to take in",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "consumiendo",
+  "participio": "consumido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "consumo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "consumes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "consume"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "consumimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "consumen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "consumí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "consumiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "consumió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "consumimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "consumieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "consumía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "consumías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "consumía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "consumíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "consumían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he consumido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has consumido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha consumido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos consumido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han consumido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había consumido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías consumido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había consumido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos consumido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían consumido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "consumiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "consumirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "consumirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "consumiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "consumirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "consumiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "consumirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "consumiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "consumiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "consumirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré consumido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás consumido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá consumido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos consumido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán consumido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "consuma"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "consumas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "consuma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "consumamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "consuman"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "consumiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "consumieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "consumiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "consumiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "consumieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera consumido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras consumido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera consumido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos consumido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran consumido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "consume"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "consuma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "consumamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "consuman"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no consumas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no consuma"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no consumamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no consuman"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -IR verb; no spelling changes or stem changes",
+    "Past participle: *consumido*",
+    "*consumir algo* = to consume/use up something (*consumir mucha energía* — to use a lot of energy; *consumir alcohol* — to drink alcohol)",
+    "*consumirse* (reflexive) = to be consumed, to burn out, to waste away (*La vela se consumió* — The candle burnt down)",
+    "Related: *el consumo* = consumption; *el/la consumidor/a* = consumer; *el consumismo* = consumerism"
+  ],
+  "sourceFile": "Verbs/c/Consumir.md"
+}

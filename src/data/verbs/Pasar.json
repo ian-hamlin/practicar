@@ -1,0 +1,301 @@
+{
+  "id": "c8a8ad6c-d1ff-5e95-9064-4eccec1e2086",
+  "infinitive": "Pasar",
+  "englishMeaning": "to pass / to spend time / to happen",
+  "desc": "to pass / to spend time / to happen",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "pasando",
+  "participio": "pasado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "paso"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pasas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pasa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pasamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pasan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "pasé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pasaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pasó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pasamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pasaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "pasaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pasabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pasaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pasábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pasaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he pasado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has pasado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha pasado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos pasado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han pasado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había pasado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías pasado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había pasado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos pasado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían pasado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "pasaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pasarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pasará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pasaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pasarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "pasaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pasarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pasaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pasaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pasarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré pasado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás pasado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá pasado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos pasado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán pasado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pase"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pases"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pasemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pasen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "pasara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "pasaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pasara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pasáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pasaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera pasado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras pasado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera pasado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos pasado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran pasado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "pasa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "pase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "pasemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "pasen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no pases"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no pase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no pasemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no pasen"
+      }
+    ]
+  },
+  "notes": [
+    "**Pasar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Multiple meanings: to pass (by), to spend (time), to happen (¿Qué pasa?)",
+    "Common expressions: *pasar tiempo* (to spend time), *pasar por* (to pass by/through)"
+  ],
+  "sourceFile": "Verbs/p/Pasar.md"
+}

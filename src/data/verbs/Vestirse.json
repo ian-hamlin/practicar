@@ -1,0 +1,307 @@
+{
+  "id": "528b0d6b-9157-5481-ab93-52be099a1ce6",
+  "infinitive": "Vestirse",
+  "englishMeaning": "to get dressed",
+  "desc": "to get dressed",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive",
+    "stem_e_i"
+  ],
+  "letter": "v",
+  "categoryId": "7848c6f0-8db9-54f6-91a9-a1f1ebd97c61",
+  "gerundio": "vistiendo",
+  "participio": "vestido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me visto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te vistes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se viste"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos vestimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se visten"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me vestí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te vestiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se vistió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos vestimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se vistieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me vestía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te vestías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se vestía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos vestíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se vestían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he vestido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has vestido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha vestido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos vestido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han vestido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había vestido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías vestido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había vestido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos vestido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían vestido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me vestiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te vestirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se vestirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos vestiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se vestirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me vestiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te vestirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se vestiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos vestiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se vestirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré vestido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás vestido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá vestido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos vestido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán vestido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me vista"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te vistas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se vista"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos vistamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se vistan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me vistiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te vistieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se vistiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos vistiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se vistieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera vestido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras vestido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera vestido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos vestido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran vestido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "vístete"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "vístase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "vistámonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "vístanse"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te vistas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se vista"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos vistamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se vistan"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -IR verb with e→i stem change",
+    "Stem change applies in presente (all forms except nosotros/nosotras): *visto, vistes, viste, visten*",
+    "In pretérito indefinido, e→i appears in 3rd person only: *se vistió, se vistieron*",
+    "All other tenses are regular (-IR endings, no stem change)",
+    "Past participle: vestido (regular)",
+    "*Me visto rápido por las mañanas* = I get dressed quickly in the mornings",
+    "Non-reflexive form: *vestir* = to dress (someone else); *La madre viste al niño* = The mother dresses the child",
+    "Related: la ropa (clothing), el vestido (dress), desvestirse (to get undressed)"
+  ],
+  "sourceFile": "Verbs/v/Vestirse.md"
+}

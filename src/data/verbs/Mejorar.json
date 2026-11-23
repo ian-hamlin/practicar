@@ -1,0 +1,305 @@
+{
+  "id": "f16180b9-c325-5139-bc37-7ce4b38a329e",
+  "infinitive": "Mejorar",
+  "englishMeaning": "to improve / to get better",
+  "desc": "to improve / to get better",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "m",
+  "categoryId": "c342e4a9-b5da-540a-927d-ccca901fb9ff",
+  "gerundio": "mejorando",
+  "participio": "mejorado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "mejoro"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mejoras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mejora"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mejoramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mejoran"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "mejoré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mejoraste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mejoró"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mejoramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mejoraron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "mejoraba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mejorabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mejoraba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mejorábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mejoraban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he mejorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has mejorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha mejorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos mejorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han mejorado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había mejorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías mejorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había mejorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos mejorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían mejorado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "mejoraré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mejorarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mejorará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mejoraremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mejorarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "mejoraría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mejorarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mejoraría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mejoraríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mejorarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré mejorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás mejorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá mejorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos mejorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán mejorado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "mejore"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mejores"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mejore"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mejoremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mejoren"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "mejorara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "mejoraras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "mejorara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mejoráramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "mejoraran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera mejorado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras mejorado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera mejorado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos mejorado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran mejorado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "mejora"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "mejore"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "mejoremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "mejoren"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no mejores"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no mejore"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no mejoremos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no mejoren"
+      }
+    ]
+  },
+  "notes": [
+    "**Mejorar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Can be transitive (to improve something) or intransitive (to get better)",
+    "Often used reflexively: **mejorarse** (to get better - health)",
+    "Common usage: *mejorar la situación* (to improve the situation), *mejorarse de una enfermedad* (to recover from an illness)",
+    "Related adjective: **mejor** (better), **el/la mejor** (the best)",
+    "Opposite: **empeorar** (to worsen, to get worse)",
+    "Common expression: *¡Que te mejores!* (Get well soon!)"
+  ],
+  "sourceFile": "Verbs/m/Mejorar.md"
+}

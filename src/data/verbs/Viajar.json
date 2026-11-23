@@ -1,0 +1,298 @@
+{
+  "id": "2e5bc58a-82ef-5f22-b493-1125c97e2ef6",
+  "infinitive": "Viajar",
+  "englishMeaning": "to travel",
+  "desc": "to travel",
+  "tags": [],
+  "letter": "v",
+  "categoryId": "7848c6f0-8db9-54f6-91a9-a1f1ebd97c61",
+  "gerundio": "viajando",
+  "participio": "viajado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "viajo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "viajas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "viaja"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "viajamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "viajan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "viajé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "viajaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "viajó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "viajamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "viajaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "viajaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "viajabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "viajaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "viajábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "viajaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he viajado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has viajado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha viajado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos viajado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han viajado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había viajado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías viajado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había viajado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos viajado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían viajado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "viajaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "viajarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "viajará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "viajaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "viajarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "viajaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "viajarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "viajaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "viajaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "viajarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré viajado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás viajado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá viajado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos viajado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán viajado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "viaje"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "viajes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "viaje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "viajemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "viajen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "viajara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "viajaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "viajara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "viajáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "viajaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera viajado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras viajado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera viajado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos viajado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran viajado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "viaja"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "viaje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "viajemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "viajen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no viajes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no viaje"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no viajemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no viajen"
+      }
+    ]
+  },
+  "notes": [
+    "**Viajar** is a regular **-AR verb**",
+    "No spelling changes or stem changes",
+    "Common usage: *viajar por el mundo* (to travel around the world), *viajar en avión* (to travel by plane)",
+    "Related noun: **el viaje** (trip/journey)"
+  ],
+  "sourceFile": "Verbs/v/Viajar.md"
+}

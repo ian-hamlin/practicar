@@ -1,0 +1,303 @@
+{
+  "id": "4c15f1c2-cc23-5b5f-967c-1769ef40bb35",
+  "infinitive": "Opinar",
+  "englishMeaning": "to think / to have an opinion / to give one's opinion",
+  "desc": "to think / to have an opinion / to give one's opinion",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "o",
+  "categoryId": "17ab56ce-480a-5e1b-b55d-16eaabe765bf",
+  "gerundio": "opinando",
+  "participio": "opinado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "opino"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "opinas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "opina"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "opinamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "opinan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "opiné"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "opinaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "opinó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "opinamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "opinaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "opinaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "opinabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "opinaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "opinábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "opinaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he opinado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has opinado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha opinado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos opinado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han opinado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había opinado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías opinado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había opinado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos opinado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían opinado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "opinaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "opinarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "opinará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "opinaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "opinarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "opinaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "opinarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "opinaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "opinaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "opinarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré opinado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás opinado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá opinado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos opinado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán opinado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "opine"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "opines"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "opine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "opinemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "opinen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "opinara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "opinaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "opinara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "opináramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "opinaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera opinado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras opinado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera opinado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos opinado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran opinado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "opina"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "opine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "opinemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "opinen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no opines"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no opine"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no opinemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no opinen"
+      }
+    ]
+  },
+  "notes": [
+    "Fully regular -AR verb; no spelling changes or stem changes",
+    "Past participle: *opinado*",
+    "*opinar sobre/de algo* = to have an opinion about something (*¿Qué opinas de esto?* — What do you think about this?)",
+    "*opinar que* + indicative = to think that (*Opino que tiene razón* — I think he's right)",
+    "Related: *la opinión* = opinion; *en mi opinión* = in my opinion",
+    "Similar to *pensar* (to think) but *opinar* specifically means to give/hold an opinion"
+  ],
+  "sourceFile": "Verbs/o/Opinar.md"
+}

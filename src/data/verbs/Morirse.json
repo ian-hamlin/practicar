@@ -1,0 +1,304 @@
+{
+  "id": "05696d2c-ccbe-57b8-b192-afa7e147d2d7",
+  "infinitive": "Morirse",
+  "englishMeaning": "to die (emphasizes the process/experience)",
+  "desc": "to die (emphasizes the process/experience)",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive",
+    "stem_o_ue"
+  ],
+  "letter": "m",
+  "categoryId": "c342e4a9-b5da-540a-927d-ccca901fb9ff",
+  "gerundio": "muriendo",
+  "participio": "muerto",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me muero"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te mueres"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se muere"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos morimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se mueren"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me morí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te moriste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se murió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos morimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se murieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me moría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te morías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se moría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos moríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se morían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he muerto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has muerto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha muerto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos muerto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han muerto"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había muerto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías muerto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había muerto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos muerto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían muerto"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me moriré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te morirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se morirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos moriremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se morirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me moriría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te morirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se moriría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos moriríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se morirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré muerto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás muerto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá muerto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos muerto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán muerto"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me muera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te mueras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se muera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos muramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se mueran"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me muriera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te murieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se muriera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos muriéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se murieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera muerto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras muerto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera muerto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos muerto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran muerto"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "muérete"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "muérase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "murámonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "muéranse"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te mueras"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se muera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos muramos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se mueran"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive counterpart of **morir**; same stem changes: o→ue in presente/subjuntivo (except nosotros), o→u in the 3rd-person pretérito (se murió, se murieron)",
+    "Imperfecto and future/conditional are regular, with no stem change",
+    "Irregular past participle: **muerto** (used in the compound tenses: se ha muerto)",
+    "**Morirse** emphasizes the personal experience/process of dying, or is used figuratively, more than plain **morir**",
+    "Common usage: *morirse de hambre* (to be starving), *morirse de risa* (to die laughing), *morirse de ganas de algo* (to be dying to do something)"
+  ],
+  "sourceFile": "Verbs/m/Morirse.md"
+}

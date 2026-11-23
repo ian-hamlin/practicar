@@ -1,0 +1,302 @@
+{
+  "id": "fe42f7b4-b0cf-5841-bc81-6fe6f6ddcb1a",
+  "infinitive": "Generar",
+  "englishMeaning": "to generate, to produce",
+  "desc": "to generate, to produce",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "g",
+  "categoryId": "ec8a91da-65cb-5d21-9c3a-4523865a71c5",
+  "gerundio": "generando",
+  "participio": "generado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "genero"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "generas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "genera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "generamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "generan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "generé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "generaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "generó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "generamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "generaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "generaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "generabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "generaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "generábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "generaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he generado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has generado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha generado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos generado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han generado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había generado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías generado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había generado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos generado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían generado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "generaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "generarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "generará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "generaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "generarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "generaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "generarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "generaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "generaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "generarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré generado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás generado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá generado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos generado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán generado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "genere"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "generes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "genere"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "generemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "generen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "generara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "generaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "generara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "generáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "generaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera generado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras generado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera generado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos generado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran generado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "genera"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "genere"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "generemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "generen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no generes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no genere"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no generemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no generen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *generado* (regular)",
+    "Means \"to generate\" or \"to produce\" — *generar electricidad* (to generate electricity), *generar dudas* (to generate/raise doubts), *generar empleo* (to create jobs)",
+    "Common in technical, economic, and business contexts",
+    "Related: *generación* (generation), *generador* (generator)"
+  ],
+  "sourceFile": "Verbs/g/Generar.md"
+}

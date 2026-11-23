@@ -1,0 +1,308 @@
+{
+  "id": "099935c7-62b7-5d94-99fa-8912d0d2408d",
+  "infinitive": "Disponer",
+  "englishMeaning": "to have available, to arrange",
+  "desc": "to have available, to arrange",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "disponiendo",
+  "participio": "dispuesto",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "dispongo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dispones"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dispone"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "disponemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "disponen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "dispuse"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dispusiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dispuso"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dispusimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dispusieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "disponía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "disponías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "disponía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "disponíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "disponían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he dispuesto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has dispuesto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha dispuesto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos dispuesto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han dispuesto"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había dispuesto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías dispuesto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había dispuesto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos dispuesto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían dispuesto"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "dispondré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dispondrás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dispondrá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dispondremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dispondrán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "dispondría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dispondrías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dispondría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dispondríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dispondrían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré dispuesto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás dispuesto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá dispuesto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos dispuesto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán dispuesto"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "disponga"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dispongas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "disponga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dispongamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dispongan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "dispusiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "dispusieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "dispusiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dispusiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "dispusieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera dispuesto"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras dispuesto"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera dispuesto"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos dispuesto"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran dispuesto"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "dispón"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "disponga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dispongamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "dispongan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no dispongas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no disponga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no dispongamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no dispongan"
+      }
+    ]
+  },
+  "notes": [
+    "Compound of *poner* — follows the same irregular patterns throughout.",
+    "Irregular yo present: *dispongo* (go-verb), same pattern as *poner→pongo*.",
+    "Irregular preterite stem: *dispus-* (dispuse, dispusiste, dispuso...).",
+    "Irregular future/conditional stem: *dispondr-* (dispondré, dispondría).",
+    "Subjuntivo built from the yo stem: *dispong-* (disponga, dispongas...).",
+    "Irregular past participle, inherited from *poner→puesto*: **dispuesto**.",
+    "Imperativo tú affirmative is irregular, following *poner→pon*: **dispón**.",
+    "Often used with \"de\": *disponer de algo* (\"to have something available/at one's disposal\").",
+    "*Dispone de una historia real conmovedora.* (\"He has a moving true story at his disposal.\")",
+    "*No disponemos de mucho tiempo.* (\"We don't have much time available.\")",
+    "Related: *la disposición* (arrangement/disposal, noun), *disponible* (available, adjective), *disponerse a* (reflexive, \"to get ready to\")."
+  ],
+  "sourceFile": "Verbs/d/Disponer.md"
+}

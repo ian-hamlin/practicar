@@ -1,0 +1,303 @@
+{
+  "id": "63e9c863-edf0-5b73-8b1d-995e679df66c",
+  "infinitive": "Suceder",
+  "englishMeaning": "to happen, to occur",
+  "desc": "to happen, to occur",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "s",
+  "categoryId": "06769efb-6096-5f1d-9440-1c1ba0545995",
+  "gerundio": "sucediendo",
+  "participio": "sucedido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "sucedo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sucedes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sucede"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sucedemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "suceden"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "sucedí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sucediste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sucedió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sucedimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sucedieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "sucedía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sucedías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sucedía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sucedíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sucedían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he sucedido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has sucedido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha sucedido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos sucedido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han sucedido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había sucedido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías sucedido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había sucedido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos sucedido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían sucedido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "sucederé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sucederás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sucederá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sucederemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sucederán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "sucedería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sucederías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sucedería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sucederíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sucederían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré sucedido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás sucedido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá sucedido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos sucedido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán sucedido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "suceda"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sucedas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "suceda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sucedamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sucedan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "sucediera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "sucedieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "sucediera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sucediéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "sucedieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera sucedido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras sucedido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera sucedido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos sucedido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran sucedido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "sucede"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "suceda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "sucedamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "sucedan"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no sucedas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no suceda"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no sucedamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no sucedan"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -ER verb — follows standard endings in every tense, no exceptions.",
+    "Mostly used in the 3rd person (like English \"it happens\"), since its subject is usually an event, not a person: *¿Qué sucede?* (\"What's happening?\").",
+    "Also means \"to succeed/follow\" in a lineage/sequence sense (*suceder al trono*, \"to succeed to the throne\"), though the \"to happen\" sense is far more common day-to-day.",
+    "*Como sucede en las desérticas rutas patagónicas...* (\"As happens on the desert roads of Patagonia...\")",
+    "*Nadie sabe qué sucedió esa noche.* (\"Nobody knows what happened that night.\")",
+    "Related: *el suceso* (event/happening, noun), *pasar* (near-synonym, \"to happen\"), *ocurrir* (synonym, \"to occur\")."
+  ],
+  "sourceFile": "Verbs/s/Suceder.md"
+}

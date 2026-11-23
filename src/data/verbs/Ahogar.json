@@ -1,0 +1,302 @@
+{
+  "id": "901c31d3-1cd9-5b20-a966-cb10bfd37110",
+  "infinitive": "Ahogar",
+  "englishMeaning": "to drown / to choke / to suffocate",
+  "desc": "to drown / to choke / to suffocate",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "ahogando",
+  "participio": "ahogado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ahogo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ahogas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ahoga"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ahogamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ahogan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "ahogué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ahogaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ahogó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ahogamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ahogaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "ahogaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ahogabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ahogaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ahogábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ahogaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he ahogado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has ahogado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha ahogado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos ahogado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han ahogado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había ahogado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías ahogado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había ahogado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos ahogado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían ahogado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "ahogaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ahogarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ahogará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ahogaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ahogarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "ahogaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ahogarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ahogaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ahogaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ahogarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré ahogado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás ahogado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá ahogado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos ahogado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán ahogado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "ahogue"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ahogues"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ahogue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ahoguemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ahoguen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "ahogara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "ahogaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ahogara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ahogáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "ahogaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera ahogado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras ahogado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera ahogado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos ahogado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran ahogado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "ahoga"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "ahogue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "ahoguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "ahoguen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no ahogues"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no ahogue"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no ahoguemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no ahoguen"
+      }
+    ]
+  },
+  "notes": [
+    "**Ahogar** is a regular **-AR verb** with a spelling change",
+    "Spelling change: g→gu before é (ahogué, not \"ahogé\") - same pattern as apagar, llegar, naufragar",
+    "This spelling change only affects the \"yo\" form in preterite",
+    "Often used reflexively: *ahogarse* (to drown)",
+    "Can mean to drown, to choke, or to suffocate depending on context"
+  ],
+  "sourceFile": "Verbs/a/Ahogar.md"
+}

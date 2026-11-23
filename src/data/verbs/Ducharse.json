@@ -1,0 +1,306 @@
+{
+  "id": "fc5128b5-81a7-51b8-954f-26059705fbc2",
+  "infinitive": "Ducharse",
+  "englishMeaning": "to shower / to take a shower",
+  "desc": "to shower / to take a shower",
+  "tags": [
+    "verb",
+    "regular",
+    "reflexive"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "duchando",
+  "participio": "duchado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me ducho"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te duchas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ducha"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos duchamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se duchan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me duché"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te duchaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se duchó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos duchamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se ducharon"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me duchaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te duchabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se duchaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos duchábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se duchaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he duchado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has duchado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha duchado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos duchado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han duchado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había duchado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías duchado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había duchado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos duchado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían duchado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me ducharé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te ducharás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se duchará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos ducharemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se ducharán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me ducharía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te ducharías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ducharía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos ducharíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se ducharían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré duchado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás duchado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá duchado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos duchado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán duchado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me duche"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te duches"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se duche"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos duchemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se duchen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me duchara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te ducharas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se duchara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos ducháramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se ducharan"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera duchado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras duchado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera duchado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos duchado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran duchado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "dúchate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "dúchese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "duchémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "dúchense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te duches"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se duche"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos duchemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se duchen"
+      }
+    ]
+  },
+  "notes": [
+    "**Ducharse** is the reflexive form of **duchar** (to shower someone else)",
+    "Regular **-AR verb** with reflexive pronouns",
+    "No spelling changes or stem changes",
+    "Past participle: **duchado** (regular)",
+    "Almost always used reflexively in everyday speech",
+    "Common usage: *Me ducho por la mañana* (I shower in the morning), *Voy a ducharme* (I'm going to shower)",
+    "Related noun: **la ducha** (shower)",
+    "Contrast with **bañarse** (to bathe / to take a bath - using **la bañera**, the bathtub)"
+  ],
+  "sourceFile": "Verbs/d/Ducharse.md"
+}

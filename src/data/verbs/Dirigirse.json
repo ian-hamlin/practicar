@@ -1,0 +1,304 @@
+{
+  "id": "a9fe65df-23f2-56ca-a673-4260c35b9ecc",
+  "infinitive": "Dirigirse",
+  "englishMeaning": "to head towards, to address",
+  "desc": "to head towards, to address",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive"
+  ],
+  "letter": "d",
+  "categoryId": "aeb4d982-0fea-5d2f-a489-fcba1f2e51c7",
+  "gerundio": "dirigiendo",
+  "participio": "dirigido",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me dirijo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te diriges"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se dirige"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos dirigimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se dirigen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me dirigí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te dirigiste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se dirigió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos dirigimos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se dirigieron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me dirigía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te dirigías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se dirigía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos dirigíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se dirigían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he dirigido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has dirigido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha dirigido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos dirigido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han dirigido"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había dirigido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías dirigido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había dirigido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos dirigido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían dirigido"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me dirigiré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te dirigirás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se dirigirá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos dirigiremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se dirigirán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me dirigiría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te dirigirías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se dirigiría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos dirigiríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se dirigirían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré dirigido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás dirigido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá dirigido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos dirigido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán dirigido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me dirija"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te dirijas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se dirija"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos dirijamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se dirijan"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me dirigiera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te dirigieras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se dirigiera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos dirigiéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se dirigieran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera dirigido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras dirigido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera dirigido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos dirigido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran dirigido"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "dirígete"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "diríjase"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "dirijámonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "diríjanse"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te dirijas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se dirija"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos dirijamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se dirijan"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -IR verb; the non-reflexive form \"dirigir\" means to direct/manage",
+    "Irregular yo form in Presente: **me dirijo** (g→j spelling change before o)",
+    "The g→j change also applies in any present subjunctive forms (me dirija, etc.)",
+    "All other tenses are regular for an -IR verb",
+    "Common meanings: dirigirse a = to head towards/to address someone; dirigirse hacia = to make one's way to",
+    "Past participle: dirigido"
+  ],
+  "sourceFile": "Verbs/d/Dirigirse.md"
+}

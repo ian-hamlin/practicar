@@ -1,0 +1,304 @@
+{
+  "id": "fd7a90c8-56bc-5fd8-9a70-adf5a4431b8d",
+  "infinitive": "Practicar",
+  "englishMeaning": "to practise, to practise a sport",
+  "desc": "to practise, to practise a sport",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "practicando",
+  "participio": "practicado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "practico"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "practicas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "practica"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "practicamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "practican"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "practiqué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "practicaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "practicó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "practicamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "practicaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "practicaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "practicabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "practicaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "practicábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "practicaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he practicado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has practicado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha practicado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos practicado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han practicado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había practicado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías practicado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había practicado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos practicado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían practicado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "practicaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "practicarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "practicará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "practicaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "practicarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "practicaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "practicarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "practicaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "practicaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "practicarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré practicado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás practicado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá practicado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos practicado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán practicado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "practique"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "practiques"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "practique"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "practiquemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "practiquen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "practicara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "practicaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "practicara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "practicáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "practicaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera practicado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras practicado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera practicado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos practicado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran practicado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "practica"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "practique"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "practiquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "practiquen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no practiques"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no practique"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no practiquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no practiquen"
+      }
+    ]
+  },
+  "notes": [
+    "Spelling-change -AR verb: c→qu before e to preserve the hard /k/ sound (same pattern as Buscar, Tocar, Sacar)",
+    "Affects yo pretérito indefinido (*practiqué*) and all subjuntivo presente forms (*practique, practiques, practique, practiquemos, practiquen*)",
+    "All other tenses are fully regular",
+    "Past participle: practicado (regular)",
+    "*Practicar un deporte* = to play / do a sport: *Practica el tenis tres veces a la semana* = She plays tennis three times a week",
+    "*Practicar un idioma* = to practise a language",
+    "Related: la práctica (practice), práctico/a (practical), practicante (practising; practitioner)"
+  ],
+  "sourceFile": "Verbs/p/Practicar.md"
+}

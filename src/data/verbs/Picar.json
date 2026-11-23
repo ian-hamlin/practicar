@@ -1,0 +1,301 @@
+{
+  "id": "884d8b7c-b775-57fc-840b-3604b8b86ba2",
+  "infinitive": "Picar",
+  "englishMeaning": "to sting / to bite / to snack / to chop / to itch",
+  "desc": "to sting / to bite / to snack / to chop / to itch",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "p",
+  "categoryId": "ab9d2ec0-f01c-5441-ae08-2e2c853324d6",
+  "gerundio": "picando",
+  "participio": "picado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pico"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "picas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pica"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "picamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "pican"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "piqué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "picaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "picó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "picamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "picaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "picaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "picabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "picaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "picábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "picaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he picado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has picado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha picado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos picado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han picado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había picado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías picado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había picado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos picado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían picado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "picaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "picarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "picará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "picaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "picarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "picaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "picarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "picaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "picaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "picarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré picado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás picado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá picado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos picado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán picado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "pique"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "piques"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "pique"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "piquemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "piquen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "picara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "picaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "picara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "picáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "picaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera picado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras picado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera picado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos picado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran picado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "pica"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "pique"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "piquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "piquen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no piques"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no pique"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no piquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no piquen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with orthographic spelling change: c→qu before *e* (piqué, pique, piquemos, piquen)",
+    "Past participle: *picado*",
+    "Multiple meanings: (1) to sting/bite (*Me picó una abeja* — A bee stung me); (2) to snack (*picar entre horas* — to snack between meals); (3) to chop (*picar cebolla* — to chop onion); (4) to itch (*Me pica la espalda* — My back itches); (5) of food: to be spicy (*Este plato pica mucho* — This dish is very spicy)",
+    "*picante* (adjective) = spicy; *el picoteo* = nibbles/snacks"
+  ],
+  "sourceFile": "Verbs/p/Picar.md"
+}

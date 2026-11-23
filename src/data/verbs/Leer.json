@@ -1,0 +1,307 @@
+{
+  "id": "6e8bf87c-208a-5585-b1c9-22336ad49df4",
+  "infinitive": "Leer",
+  "englishMeaning": "to read",
+  "desc": "to read",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "l",
+  "categoryId": "fa5b6027-a511-5f12-980d-687e3e083fde",
+  "gerundio": "leyendo",
+  "participio": "leído",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "leo"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "lees"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lee"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "leemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "leen"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "leí"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "leíste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "leyó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "leímos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "leyeron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "leía"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "leías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "leía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "leíamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "leían"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he leído"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has leído"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha leído"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos leído"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han leído"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había leído"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías leído"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había leído"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos leído"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían leído"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "leeré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "leerás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "leerá"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "leeremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "leerán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "leería"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "leerías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "leería"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "leeríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "leerían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré leido"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás leido"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá leido"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos leido"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán leido"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "lea"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "leas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "lea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "leamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "lean"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "leyera"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "leyeras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "leyera"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "leyéramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "leyeran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera leído"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras leído"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera leído"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos leído"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran leído"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "lee"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "lea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "leamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "lean"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no leas"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no lea"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no leamos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no lean"
+      }
+    ]
+  },
+  "notes": [
+    "**Leer** is an -ER verb with spelling changes",
+    "Present: regular -ER conjugation",
+    "Preterite: spelling change i→y in 3rd person (leyó, leyeron), accent on other forms (leí, leíste, leímos)",
+    "Imperfect: regular -ER pattern with accent on \"í\" (leía, leías, etc.)",
+    "Pretérito Perfecto: past participle **leído** with accent",
+    "Future: regular future endings attached to infinitive",
+    "Condicional: regular conditional endings attached to infinitive",
+    "Similar pattern to **caer** (to fall) and **creer** (to believe)",
+    "Common usage: *leer un libro* (to read a book), *leer en voz alta* (to read aloud)",
+    "Related noun: **la lectura** (reading), **el/la lector/lectora** (reader)"
+  ],
+  "sourceFile": "Verbs/l/Leer.md"
+}

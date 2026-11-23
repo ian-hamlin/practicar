@@ -1,0 +1,304 @@
+{
+  "id": "399827be-acdc-5553-9dd6-29eca3b2cd86",
+  "infinitive": "Confiar",
+  "englishMeaning": "to trust / to confide in / to have confidence in",
+  "desc": "to trust / to confide in / to have confidence in",
+  "tags": [
+    "verb",
+    "irregular"
+  ],
+  "letter": "c",
+  "categoryId": "09f6c60f-7a45-5a55-9460-8926494475ed",
+  "gerundio": "confiando",
+  "participio": "confiado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "confío"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "confías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "confía"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "confiamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "confían"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "confié"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "confiaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "confió"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "confiamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "confiaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "confiaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "confiabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "confiaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "confiábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "confiaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he confiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has confiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha confiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos confiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han confiado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había confiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías confiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había confiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos confiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían confiado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "confiaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "confiarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "confiará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "confiaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "confiarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "confiaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "confiarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "confiaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "confiaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "confiarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré confiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás confiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá confiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos confiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán confiado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "confíe"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "confíes"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "confíe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "confiemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "confíen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "confiara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "confiaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "confiara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "confiáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "confiaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera confiado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras confiado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera confiado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos confiado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran confiado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "confía"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "confíe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "confiemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "confíen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no confíes"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no confíe"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no confiemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no confíen"
+      }
+    ]
+  },
+  "notes": [
+    "-AR verb with accent shift: the *i* carries a written accent in all stressed forms (yo/tú/él/ellos in presente and subjuntivo presente), but not in nosotros/nosotras where stress falls on the ending",
+    "Same pattern as *enviar* → *envío*, *guiar* → *guío*",
+    "Past participle: *confiado*",
+    "*confiar en alguien/algo* = to trust someone/something (*Confío en ti* — I trust you)",
+    "*confiar en + infinitive* = to be confident that (*Confío en ganar* — I'm confident of winning)",
+    "*confiarle algo a alguien* = to entrust something to someone (*Le confié el secreto* — I confided the secret to him)",
+    "*confiado/a* (adjective) = trusting, confident, overconfident"
+  ],
+  "sourceFile": "Verbs/c/Confiar.md"
+}

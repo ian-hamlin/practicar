@@ -1,0 +1,305 @@
+{
+  "id": "d50badef-c9b7-5d02-b57f-c8bd28c542e1",
+  "infinitive": "Acercarse",
+  "englishMeaning": "to approach, to come closer, to draw near",
+  "desc": "to approach, to come closer, to draw near",
+  "tags": [
+    "verb",
+    "irregular",
+    "reflexive"
+  ],
+  "letter": "a",
+  "categoryId": "f5017999-1fd6-5d9f-bc9c-56efc49a987e",
+  "gerundio": "acercando",
+  "participio": "acercado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me acerco"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acercas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acerca"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acercamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acercan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "me acerqué"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acercaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acercó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acercamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acercaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me acercaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acercabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acercaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acercábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acercaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me he acercado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te has acercado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se ha acercado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hemos acercado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se han acercado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "me había acercado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habías acercado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se había acercado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habíamos acercado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habían acercado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "me acercaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acercarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acercará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acercaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acercarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "me acercaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acercarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acercaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acercaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acercarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "me habré acercado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te habrás acercado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se habrá acercado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos habremos acercado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se habrán acercado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "me acerque"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acerques"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acerque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acerquemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acerquen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me acercara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te acercaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se acercara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos acercáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se acercaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "me hubiera acercado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "te hubieras acercado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "se hubiera acercado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "nos hubiéramos acercado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "se hubieran acercado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "acércate"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "acérquese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "acerquémonos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "acérquense"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no te acerques"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no se acerque"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no nos acerquemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no se acerquen"
+      }
+    ]
+  },
+  "notes": [
+    "Reflexive -AR verb. Uses reflexive pronouns (me/te/se/nos/se) in all tenses.",
+    "Spelling change in yo pretérito indefinido: c→qu to preserve the /k/ sound before -é: *me acerqué* (not *acercé*). All other forms are regular.",
+    "Regular past participle: *acercado*",
+    "Base verb: *acercar* (to bring/move something closer — non-reflexive). *Acercarse* = to move oneself closer, to approach.",
+    "*Me acerqué a la ventana para ver mejor.* (I approached the window to see better.)",
+    "*El tren se acerca a la estación.* (The train is approaching the station.)",
+    "Opposite: *alejarse* (to move away)"
+  ],
+  "sourceFile": "Verbs/a/Acercarse.md"
+}

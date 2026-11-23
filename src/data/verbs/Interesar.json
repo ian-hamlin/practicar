@@ -1,0 +1,303 @@
+{
+  "id": "b94ee5b8-f7a7-53eb-82ef-31a4dfe650c7",
+  "infinitive": "Interesar",
+  "englishMeaning": "to interest, to be interesting to",
+  "desc": "to interest, to be interesting to",
+  "tags": [
+    "verb",
+    "regular"
+  ],
+  "letter": "i",
+  "categoryId": "50ce3e0b-61b3-530c-8b6a-399ede02b6b5",
+  "gerundio": "interesando",
+  "participio": "interesado",
+  "tenses": {
+    "Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "intereso"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "interesas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "interesa"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "interesamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "interesan"
+      }
+    ],
+    "Pretérito Indefinido": [
+      {
+        "subject": "yo",
+        "conjugation": "interesé"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "interesaste"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "interesó"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "interesamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "interesaron"
+      }
+    ],
+    "Pretérito Imperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "interesaba"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "interesabas"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "interesaba"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "interesábamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "interesaban"
+      }
+    ],
+    "Pretérito Perfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "he interesado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "has interesado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "ha interesado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hemos interesado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "han interesado"
+      }
+    ],
+    "Pluscuamperfecto": [
+      {
+        "subject": "yo",
+        "conjugation": "había interesado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habías interesado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "había interesado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habíamos interesado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habían interesado"
+      }
+    ],
+    "Futuro Simple": [
+      {
+        "subject": "yo",
+        "conjugation": "interesaré"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "interesarás"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "interesará"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "interesaremos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "interesarán"
+      }
+    ],
+    "Condicional": [
+      {
+        "subject": "yo",
+        "conjugation": "interesaría"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "interesarías"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "interesaría"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "interesaríamos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "interesarían"
+      }
+    ],
+    "Futuro Compuesto": [
+      {
+        "subject": "yo",
+        "conjugation": "habré interesado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "habrás interesado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "habrá interesado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "habremos interesado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "habrán interesado"
+      }
+    ],
+    "Subjuntivo Presente": [
+      {
+        "subject": "yo",
+        "conjugation": "interese"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "intereses"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "interese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "interesemos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "interesen"
+      }
+    ],
+    "Imperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "interesara"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "interesaras"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "interesara"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "interesáramos"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "interesaran"
+      }
+    ],
+    "Pluscuamperfecto de Subjuntivo": [
+      {
+        "subject": "yo",
+        "conjugation": "hubiera interesado"
+      },
+      {
+        "subject": "tú",
+        "conjugation": "hubieras interesado"
+      },
+      {
+        "subject": "él/ella/usted",
+        "conjugation": "hubiera interesado"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "hubiéramos interesado"
+      },
+      {
+        "subject": "ellos/ellas/ustedes",
+        "conjugation": "hubieran interesado"
+      }
+    ],
+    "Imperativo Afirmativo": [
+      {
+        "subject": "tú",
+        "conjugation": "interesa"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "interese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "interesemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "interesen"
+      }
+    ],
+    "Imperativo Negativo": [
+      {
+        "subject": "tú",
+        "conjugation": "no intereses"
+      },
+      {
+        "subject": "usted",
+        "conjugation": "no interese"
+      },
+      {
+        "subject": "nosotros/nosotras",
+        "conjugation": "no interesemos"
+      },
+      {
+        "subject": "ustedes",
+        "conjugation": "no interesen"
+      }
+    ]
+  },
+  "notes": [
+    "Regular -AR verb — follows standard -AR endings with no exceptions",
+    "Past participle: *interesado* (regular; also used as an adjective meaning \"interested\" or, negatively, \"self-interested\")",
+    "**Special usage**: like *gustar*, *interesar* is most often used with an indirect object pronoun + 3rd-person verb form, where the Spanish subject is the thing that \"interests,\" not the person: *me interesa la historia* (I'm interested in history — literally \"history interests me\"), *me interesan las ciencias* (I'm interested in the sciences)",
+    "Indirect object pronouns: me, te, le, nos, les",
+    "Related verbs with the same construction: *gustar* (to like), *encantar* (to love), *molestar* (to bother)",
+    "Related words: *interés* (interest, noun), *interesante* (interesting), *interesado/a* (interested; or self-interested/scheming, depending on context)"
+  ],
+  "sourceFile": "Verbs/i/Interesar.md"
+}
